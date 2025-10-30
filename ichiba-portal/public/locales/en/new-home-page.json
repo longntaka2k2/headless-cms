@@ -1,0 +1,139 @@
+{
+  "banner": {
+    "title": [
+      "The Leading ",
+      "Cross-Border E-commerce Platform Solutions ",
+      "For Brand Commerces"
+    ],
+    "content": "We are committed to removing barriers of cross-border e-commerce by providing a comprehensive solution for global e-commerce.",
+    "tag": ["E-commerce", "Logistics", "Boost revenue"],
+    "getFree": "Get Free Trial",
+    "contactSale": "Contact Sales"
+  },
+  "mach": {
+    "title": "MACH Architecture",
+    "subtitle": "(Microservice-based, API-first, Cloud-native and Headless)",
+    "content": [
+      "MACH technologies accomplish digital transformation, supporting",
+      "composable businesses to remain agile, nimble, customer-centric, and future-proof."
+    ],
+    "microservice": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/microservice_1_3c7a6aadac.svg",
+      "title": "Microservice-based",
+      "content": "Connect loosely coupled, independently deployable small components or “services” to compose a single, more complex application. Using microservices, these applications deliver faster responses, are more reliable, and can be deployed more frequently."
+    },
+    "items": [
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/response_2_4aec0d5a36.svg",
+        "title": "API-first",
+        "content": "All functionality is exposed through an API, making it possible to tie together two or more applications or services, and retrieve the exact data they want from any source. High API extensibility allows businesses to add functionality and tailor how an API behaves to exact needs."
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/response_3_4897a4fe63.svg",
+        "title": "Cloud-native SaaS",
+        "content": "Software-as-a-Service leverages full capability of cloud to achieve faster development, better scalability and flexibility with cloud-native applications. Free from maintaining servers and on-premise software lock-in. "
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/response_1_92d21ee28f.svg",
+        "title": "Headless",
+        "content": "Separate backend processes from front-end UX to build the seamless, cutting-edge shopping experiences. Update either the content presentation layer or business functional (commerce) layer without impacting the other and waiting weeks to activate a feature or respond to change."
+      }
+    ]
+  },
+  "forTeam": {
+    "forTeam": {
+      "label": "For Teams",
+      "content": "IChiba OnePlatform is designed to fit each team. Let’s explore how departments in a company can take advantage of our software!",
+      "business": "Business Owners",
+      "marketing": "Marketing Teams",
+      "technical": "Technical Teams",
+      "operation": "Operation Teams"
+    },
+    "useCases": {
+      "label": "Use cases",
+      "content": "Solve every problem, demand, need, and use case that may happen with e-commerce businesses.",
+      "global": "Global selling in multi-market, multi-channel",
+      "omnichannel": "Omnichannel selling",
+      "allInOne": "All-in-one shipping management",
+      "proxy": "Proxy shopping/ International shipping",
+      "multichannel": "Multichannel fulfillment",
+      "orderFulfillment": "Order fulfillment by EFEX",
+      "boostRevenue": "Boost revenue & customer insights",
+      "performance": "Performance marketing and growth solutions"
+    },
+    "industries": {
+      "label": "Industries",
+      "content": "Our platform suits every single industry as businesses can tailor and set the configuration to fit their specific requirements.",
+      "retail": "Retail",
+      "fashion": "Fashion & beauty",
+      "mother": "Mother & baby",
+      "electronics": "Electronics",
+      "logistic": "Logistics companies",
+      "drop": "Dropshipping"
+    }
+  },
+  "ichibaProduct": {
+    "title": "IChibaOne SaaS Products ecosystem",
+    "subtitle": "IChibaOne offers an ecosystem of SaaS products where businesses can streamline order management, fulfillment, logistics, marketing, and more.",
+    "viewMore": "View more",
+    "forSeller": "For Seller",
+    "forOperator": "For Operator",
+    "capabilites": "Capabilites",
+    "commerceLayer": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+      "title": "Commerce Layer",
+      "content": "Commerce Layer",
+      "link": "/products/commerce-layer/overview",
+      "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171276232_12b289f6da.png"
+    },
+    "ship4p": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/Logo_4_28d065a5e8.svg",
+      "title": "Ship4P",
+      "content": "Multi-carrier integration",
+      "link": "/products/ship4p/overview",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_2_e679df3916.png"
+    },
+    "automation": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/oms_0e2d417fb6.svg",
+      "title": "Automation engagement",
+      "content": "Automation engagement",
+      "link": "#",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_1_351e3ec46a.png"
+    },
+    "storeFront": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/Shape_Quare_15837be92d.svg",
+      "title": "StoreFront Layer",
+      "content": "StoreFront Layer",
+      "link": "/products/storefront-layer/overview",
+      "img": "https://cms-strapi.ichiba.net/uploads/Group_1171275933_ec3579f9f4.svg"
+    },
+    "wms": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/WMS_67ccfb67fb.svg",
+      "title": "WMS",
+      "content": "Warehouse management system",
+      "link": "/products/wms",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_529f32d776.svg"
+    },
+    "smartcb": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/Logo_5_b62e0a8c44.svg",
+      "title": "Cross-Border Forwarding",
+      "content": "Customs and import-export management system",
+      "link": "/products/cross-border-forwarding/overview",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_3_3985e41519.png"
+    },
+    "invoiceBilling": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/Logo_ce9fbf17de.svg",
+      "title": "Pricing, Invoice & Billings",
+      "content": "Pricing, Invoice & Billings",
+      "link": "/products/invoice-and-billing",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_cfa75fe310.svg"
+    },
+    "integrations": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+      "title": "Integrations",
+      "content": "Integrations",
+      "link": "/products/integrations",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup1_77bbb9c889.svg"
+    }
+  }
+}

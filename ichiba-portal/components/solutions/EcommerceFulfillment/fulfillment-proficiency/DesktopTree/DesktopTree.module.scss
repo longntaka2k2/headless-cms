@@ -1,0 +1,11 @@
+.icon {
+  @apply tw-flex tw-items-center tw-justify-center tw-w-16 tw-h-16;
+  border-radius: 50px;
+  background: linear-gradient(0deg, #e45504 -0.66%, #fb5 99.49%);
+  /* Dropdown 4 */
+  box-shadow: 0px 0px 13.18239px 0px #fbdcb4;
+}
+
+.item {
+  @apply tw-max-w-full tw-border tw-border-white tw-rounded-[100px] tw-bg-ic-white-1 tw-flex tw-items-center tw-p-6 tw-gap-5;
+}

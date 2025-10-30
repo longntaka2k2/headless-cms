@@ -1,0 +1,196 @@
+{
+  "menu": {
+    "overview": "Overview",
+    "sites": "Commerce sites",
+    "landing": "Landing page",
+    "themes": "Themes library"
+  },
+  "cta": {
+    "getStarted": "Get started",
+    "requestADemo": "Request a demo",
+    "viewAllInteg": "View all integrations",
+    "ready": "Yes, I’m ready!"
+  },
+  "banner": {
+    "heading": "StoreFront Layer / Landing Page",
+    "heading2": "Build Fast with Flexibility",
+    "subHeading": "Create your eCommerce trading website with the most flexible and comprehensive tools.",
+    "subHeading2": "Compatible with all business models and types, regardless of scale!"
+  },
+  "architecture": {
+    "heading": "MACH architecture",
+    "heading2": "(Microservice-based, API-first, Cloud-native and Headless)",
+    "subHeading": "MACH technologies accomplish digital transformation, supporting composable businesses to remain agile, nimble, customer-centric, and future-proof.",
+    "contents": [
+      {
+        "title": "Microservice-base",
+        "des": "Connect loosely coupled, independently deployable small components or \"services\" to compose a single, more complex application. Using microservices, these applications deliver faster responses, are more reliable, and can be deployed more frequently."
+      },
+      {
+        "title": "API-first",
+        "des": "All functionality is exposed through an API, making it possible to tie together two or more applications or services, and retrieve the exact data they want from any source. High API extensibility allows businesses to add functionality and tailor how an API behaves to exact needs."
+      },
+      {
+        "title": "Cloud-native SaaS",
+        "des": "Software-as-a-Service leverages full capability of cloud to achieve faster development, better scalability and flexibility with cloud-native applications. Free from maintaining servers and on-premise software lock-in."
+      },
+      {
+        "title": "Headless",
+        "des": "Separate backend processes from front-end UX to build the seamless, cutting-edge shopping experiences. Update either the content presentation layer or business functional (commerce) layer without impacting the other and waiting weeks to activate a feature or respond to change."
+      }
+    ]
+  },
+  "integration": "Integration",
+  "possibleWith": {
+    "heading": "What is possible with IChiba StoreFront Layer Tools",
+    "headless": "Headless Commerce",
+    "composable": "Composable Commerce"
+  },
+  "canDoWith": {
+    "heading": "What you can do with IChiba Landing page Platform",
+    "subHeading": "A comprehensive cloud-native platform to power everything regarding e-commerce.",
+    "contents": [
+      {
+        "title": "Build a new eCommerce website from scratch",
+        "des": "Customized eCommerce websites are constructed from scratch with the latest technology stack to manage large traffic volumes, as well as a unique and user-friendly interface, to match the specific requirements of a company."
+      },
+      {
+        "title": "Merchandise products",
+        "des": "Gain the freedom to trade and harness the power of your product information. Quickly create new products, edit existing information as images, prices, categories, variations, inventory when there are changes or updates. "
+      },
+      {
+        "title": "Integrate POS devices and sell in physical stores",
+        "des": "Omnichannel commerce is all about providing seamless experiences whether the customer is shopping online or in store. This can be only achieved through a headless approach, such as the one provided by IChiba OnePlatform - StoreFront Layer Tool."
+      },
+      {
+        "title": "Create promotion",
+        "des": "Flexibly create promotions on websites for targeted audiences based on SKU, quantity, order value, and buy/get criteria and manage the performance. Enable customer coupons at checkout and automatically apply the best available promotional price."
+      },
+      {
+        "title": "Manage inventory and orders",
+        "des": "Get notifications about new orders. Automatically synchronize orders and inventory quantities across multiple sales channels. Monitor revenue and expenditure, sales, and sales performance in real-time."
+      }
+    ]
+  },
+  "build": {
+    "heading": "Building your dream website has never been so easy!",
+    "contents": [
+      {
+        "heading": "Smart selling sites at your fingertips",
+        "title": "With our all-inclusive tools to build eCommerce websites",
+        "des": "IChiba OnePlatform will fit in your current stack - whatever it is - building a brand-new online website and orchestrating all your selling operations."
+      },
+      {
+        "heading": "Say “NO” to complex product management ",
+        "title": "By logically storing and accessing data",
+        "des": "The integrated Product Information Management (PIM) enables you to access all product data, handle complex catalogs with just a few clicks, and promptly update deals in real-time."
+      },
+      {
+        "heading": "Fit every customer to reap profit",
+        "title": "By customizing interface with multiple  payment methods",
+        "des": "Maximize conversions by creating the best adaptable, personalized interface & various payment methods."
+      },
+      {
+        "heading": "Sell anything, anywhere",
+        "title": "With our ecosystem of integrated software",
+        "des": "Build your website without barriers thanks to the compatible & comprehensive integrated software ecosystem: Quickbooks, OMS system, ERP, etc."
+      },
+      {
+        "heading": "Free from hassles and troubles",
+        "title": "By fully controlling sales and imported goods",
+        "des": "Connect with OMS platform for omni-channel sales on e-commerce platforms. Have a joined-up view of orders, which means reduced errors, faster-updated inventory, quicker order turnaround and better customer interaction."
+      },
+      {
+        "heading": "Stock control at its finest",
+        "title": "By getting real time inventory visibility",
+        "des": "Getting accurate stock details & adapting to changing customer demand through inventory management techniques: ABC analysis, batch tracking, bulk shipment, demand forecasting, and many more."
+      },
+      {
+        "heading": "Move on freely and safely",
+        "title": "With nationwide shipping networks",
+        "des": "We cooperate with leading shipping companies to deliver packages throughout the country, improving the ability to choose according to customer needs."
+      }
+    ]
+  },
+  "suitability": {
+    "heading": "Discover why thousands of entrepreneurs chose IChiba OnePlatform to build their business",
+    "contents": [
+      {
+        "label": "B2B/Wholesale",
+        "content": [
+          {
+            "title": "More features to help grow your sales",
+            "des": "Enable a better B2B/Wholesale ecommerce experience by utilizing automated customer and pricing segmentation, punch out, purchase orders and net payment terms, user roles, and integrations with major ERP, OMS and CRM systems."
+          },
+          {
+            "title": "Exceed modern shopper experience expectations",
+            "des": "Traditional B2B buying experiences don’t come close to what modern B2B buyers expect. IChiba OnePlatform empowers your team to build sleek site designs for large catalogs, with customer and pricing segmentation down to the SKU level."
+          },
+          {
+            "title": "Multi-storefront and multi-catalog",
+            "des": "Help complex B2B operation with specialized item attributes, custom inputs, an interface with your existing ERP, and custom shipping and handling abilities for your customers. "
+          }
+        ]
+      },
+      {
+        "label": "Direct to Customers",
+        "content": [
+          {
+            "title": "Convert more sales",
+            "des": "Leverage our Page Builder tool to get your store up and running faster and make quick changes to your site, no coding required.  Streamline checkout with optimized one page checkout and win back customers with shopping cart recovery."
+          },
+          {
+            "title": "Simplify ecommerce management",
+            "des": "Craft personalized shopping experiences with customer groups. Several options of shipping and payment providers to find your best fit solutions, without penalties."
+          }
+        ]
+      }
+    ]
+  },
+  "whyIchiba": {
+    "heading": "Why IChiba StoreFront Layer Tool",
+    "subHeading": "We’ve helped thousands of entrepreneurs turn their dreams into reality!",
+    "subHeading2": "Unlock endless commerce potential and scale up your business with our comprehensive tools to build a website.",
+    "contents": [
+      {
+        "title": "Modern technology",
+        "des": "Modular, API-first, Cloud native, and Headless architecture help you achieve flexibility, scalability, and speed of commerce."
+      },
+      {
+        "title": "Merchant & developer friendly",
+        "des": "Easy to learn, easy to configure, and easy to operate for non-technical users – all through one powerful UI for merchants."
+      },
+      {
+        "title": "Fast & flexible",
+        "des": "Our modular consumption model offers the flexibility to grow your infrastructure piece by piece and provides faster time to value."
+      }
+    ]
+  },
+  "ourCustomer": {
+    "heading": "Find out how these online businesses  start their success story with IChiba OnePlatform",
+    "item": "items",
+    "milItems": "million items",
+    "user": "users",
+    "over": "Over",
+    "contents": [
+      {
+        "title": "CROCHET CLOTHES",
+        "des": "Crochet clothes",
+        "content": "From the initial consultation to the final delivery of the website, Crochet Clothes has experienced a seamless and efficient process. Ichiba demonstrated a deep understanding of our business requirements and created a visually appealing and user-friendly website. The design and layout perfectly captured our brand identity and effectively showcased our products to our target audience.",
+        "author": "Mr. Nam Tran",
+        "bio": "Founder at Crochet Clothes"
+      },
+      {
+        "title": "SHOPFORME",
+        "des": "Selling Japanese and American products",
+        "content": "IChiba OnePlatform seamlessly integrated essential features such as product catalogs, shopping carts, secure payment gateways, and a robust inventory management system. Additionally, they ensured that the website was responsive, optimizing it for various devices and ensuring a consistent and enjoyable user experience across platforms.. They not only incorporated my branding elements but also offered valuable suggestions to enhance the website's functionality and user engagement. Their expertise in search engine optimization (SEO) techniques ensured that Shopforme gained visibility and attracted organic traffic.",
+        "author": "Ms.Lea",
+        "bio": "Marketing Manager Shopforme"
+      }
+    ]
+  },
+  "support": {
+    "heading": "Are you ready to build your own merchandise website?",
+    "cta": "Yes, I’m ready!"
+  }
+}

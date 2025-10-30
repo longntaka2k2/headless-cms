@@ -1,0 +1,333 @@
+{
+  "header": {
+    "overview": "Overview",
+    "features": "Features"
+  },
+  "banner": {
+    "heading": ["One-stop shipping", "label solutions"],
+    "subHeading": "A shipping software that integrates multiple reputable carriers, helping sellers purchase official shipping labels at optimal costs.",
+    "listContents": [
+      "Manage domestic and international shipping",
+      "Buy official shipping labels at good prices",
+      "Create bulk shipment at once"
+    ],
+    "textBtn": "Contact Us",
+    "number": {
+      "orders": "orders shipped on time",
+      "accuracy": "Accuracy rate in delivery",
+      "shipments": "Shipments annually",
+      "carriers": "Carriers connected"
+    }
+  },
+  "manageEntire": {
+    "heading": ["Manage the entire shipping process ", "in one single place"]
+  },
+  "multiCarrier": {
+    "heading": [
+      "Multi-carrier shipping management:",
+      "Buy official labels and ",
+      "save up to 20%"
+    ],
+    "createPersonalized": {
+      "title": "Create personalized pricing for each customer group",
+      "contents": [
+        "Customize packaging fees and shipping fees based on customer groups.",
+        "Offer exclusive deals for agents and loyal partners - retain long-term customers and increase revenue."
+      ]
+    },
+    "myCarrier": {
+      "title": "My Carrier – Create your own shipping carrier",
+      "contents": [
+        "Build your own “My Carrier” under your brand name and earn commission from shipping rate differences.",
+        "An ideal solution for international sellers or dropship/B2B merchants who want full control over shipping."
+      ]
+    },
+    "autoBuyLabel": {
+      "title": "Auto Buy Label – Automatically purchase official shipping labels",
+      "contents": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/lets_icons_file_dock_duotone_dee7b26055.svg",
+          "value": "Automatically buy the most suitable label as soon as an order is placed."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/6176fd192c9aa66ba04117c9_test_1_34c898dc35.svg",
+          "value": "Compare shipping rates and delivery times across multiple carriers before choosing."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/60e8a1599394e82d62d6d4e5_Conversion_1_c55d4de5ab.svg",
+          "value": "100% official labels, up to 20% more affordable than market prices. No worries about lost packages, returns, or account suspension."
+        }
+      ]
+    },
+    "manageMultiple": {
+      "label": "Manage multiple carriers",
+      "contents": [
+        {
+          "title": "Multi-carrier integrations",
+          "subTitle": [
+            "Connect to unlimited domestic and international shipping companies so businesses have several choices that suit specific needs. ",
+            "We support taking goods from multiple warehouses to help businesses shorten transportation costs."
+          ]
+        },
+        {
+          "title": "Manage in a single dashboard",
+          "subTitle": [
+            "Too tired of logging into several accounts of different carriers? Ship4P helps save time and effort on shipment management by integrating your carrier accounts into one system."
+          ]
+        }
+      ]
+    },
+    "trackAndTrace": {
+      "title": "Track & Trace – Centralized tracking",
+      "contents": [
+        "Manage order statuses from multiple carriers on a single dashboard.",
+        "Automatically update all delivery status changes in real time: in transit, failed, delivered, etc.",
+        "No need to visit each carrier's website to track shipments."
+      ]
+    },
+    "flexible": {
+      "title": "Flexible shipping integration",
+      "contents": [
+        "Use Ship4P’s built-in system to connect with any carrier—no need to sign separate contracts with each one.",
+        "Easily connect to carriers you’ve previously worked with.",
+        "Create your own “My Carrier” and take full control of the delivery process."
+      ]
+    },
+    "realTime": {
+      "title": "Real-time reporting",
+      "contents": [
+        "Export detailed reports on shipping costs, order processing speed, and more.",
+        "Measure delivery performance and optimize your operations."
+      ]
+    }
+  },
+  "sayGoodbye": {
+    "heading": "Say goodbye to shipping chaos",
+    "subHeading": "Ship4P eliminates the complexity of shipping management – everything is simple, centralized, and automated.",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_22ef52d8d0.svg",
+        "title": "Save on shipping costs",
+        "subTitle": "Ship4P aggregates orders from multiple sellers, enabling better shipping rate negotiations – the more orders, the lower the price."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group1_aea9a89a7e.svg",
+        "title": "Compare & choose the best rates",
+        "subTitle": "Access discounted prices from dozens of carriers and maximize your delivery cost savings."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_dc38cd2174.svg",
+        "title": "Quick label generation",
+        "subTitle": "Create and print official shipping labels in bulk with just a few clicks."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_a56e166590.svg",
+        "title": "White label software",
+        "subTitle": "Build your own multi-channel shipping software with our white label service."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_22ef52d8d0.svg",
+        "title": "Centralized order management",
+        "subTitle": "Track all orders from various carriers on a single screen."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_0679aed69c.svg",
+        "title": "Shipping API",
+        "subTitle": "Get real-time updates on rates and shipment status."
+      }
+    ]
+  },
+  "connecting": {
+    "heading": "Connect multiple carriers on a single platform",
+    "subHeading": "A multi-carrier integration software that delivers several shipping options for merchants.",
+    "viewAll": " View all integrations",
+    "hide": "Hide"
+  },
+  "multiChannel": {
+    "heading": "Multi-channel shipping process",
+    "contents": [
+      {
+        "title": "Login",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171276729_533ceecda2.svg",
+        "step": "Step 1",
+        "subTitle": "Log in to your IChiba account, create a workspace, and activate the Ship4P app.",
+        "items": []
+      },
+      {
+        "title": "Set up carrier connections",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171276731_80109752c4.svg",
+        "step": "Step 2",
+        "subTitle": "There are two options for connecting with shipping carriers:",
+        "items": [
+          {
+            "title": "Via the seller’s account:",
+            "subTitle": "Sellers connect the carriers they’re using."
+          },
+          {
+            "title": "Via Ship4P:",
+            "subTitle": "Ship4P has pre-integrated dozens of domestic and international carriers. Sellers only need to click 'Connect' to activate their preferred carriers."
+          }
+        ]
+      },
+      {
+        "title": "Create shipping labels",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame2_aa008fc445.svg",
+        "step": "Step 3",
+        "subTitle": "Click on 'Create Shipment', fill in the necessary details, and select the most suitable carrier recommended by Ship4P.",
+        "items": []
+      },
+      {
+        "title": "Track shipments",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame1_d99d1a45a4.svg",
+        "step": "Step 4",
+        "subTitle": "Easily look up and track shipments from multiple carriers on a single dashboard.",
+        "items": []
+      }
+    ]
+  },
+  "faqs": {
+    "label": "Frequently Asked Questions",
+    "title": "Optimize multi-carrier shipping with Ship4P’s One-Stop Shipping Label Solution",
+    "subtitle": "FREE lifetime software usage!",
+    "contents": [
+      {
+        "title": "Is Ship4P suitable for small shops?",
+        "content": "Yes. Even if you only have a few orders per day, Ship4P helps you save time and choose the best carrier."
+      },
+      {
+        "title": "Can I use my own delivery provider?",
+        "content": "Yes. You have 3 options: use Ship4P’s built-in system, connect to a carrier you’ve previously worked with, or create your own carrier (My Carrier)."
+      },
+      {
+        "title": "I sell internationally. Does Ship4P support that?",
+        "content": "Yes. Ship4P integrates with international carriers like DHL, UPS, and FedEx, making it easy for sellers to ship globally—whether it’s bulky items, small parcels, or large volumes."
+      }
+    ]
+  },
+
+  "software": {
+    "title": "Software tour guide",
+    "subTitle": "Manage domestic and international shipments on a screen. Connect with shipping companies within 2 seconds. Let’s see how!"
+  },
+  "weBuild": {
+    "heading": "We build bridges between carriers businesses",
+    "before": {
+      "title": "Before Ship4P",
+      "contents": [
+        "Must work on many delivery websites separately.",
+        "Possibly purchase fake shipping labels, which can result in returned shipments and being blacklisted by the carrier.",
+        "Cannot compare shipping rates.",
+        "Have to visit each carrier’s website to check order journeys.",
+        "Complicated manual reconciliation."
+      ]
+    },
+    "after": {
+      "title": "After Ship4P",
+      "contents": [
+        "Access Ship4P only once for multi-carrier management.",
+        "Official, affordable shipping labels.",
+        "Smart AI integration helps select the most suitable shipping carrier.",
+        "Update order status automatically, ALL-IN-ONE tracking number system.",
+        "Check and pay quickly and accurately."
+      ]
+    }
+  },
+  "deliveries": {
+    "heading": {
+      "first": "Multi-carrier, multi-channel shipping solution for",
+      "items": [" fast ", " affordable "],
+      "last": "deliveries"
+    },
+    "carriers": {
+      "label": "Manage multiple carriers",
+      "items": [
+        {
+          "title": "Multi-carrier integrations",
+          "content": [
+            "Connect to unlimited domestic and international shipping companies so businesses have several choices that suit specific needs. ",
+            "We support taking goods from multiple warehouses to help businesses shorten transportation costs."
+          ]
+        },
+        {
+          "title": "Manage in a single dashboard",
+          "content": [
+            "Too tired of logging into several accounts of different carriers? Ship4P helps save time and effort on shipment management by integrating your carrier accounts into one system.",
+            ""
+          ]
+        },
+        {
+          "title": "Purchase official shipping labels",
+          "content": [
+            "Buy domestic and international shipping labels from top-notch carriers. Easily compare prices and delivery times.",
+            "100% official labels at the best prices. No worries about lost packages, returns, or account suspensions."
+          ]
+        },
+        {
+          "title": "Easy to get started, no hassle",
+          "content": [
+            "Ship4P has connected with 50+ last-mile and international carriers worldwide, so sellers just use the software without signing contracts with each delivery company.",
+            ""
+          ]
+        },
+        {
+          "title": "Shared shipping",
+          "content": [
+            "Consolidate orders per months from different sellers to get a bigger number of orders. Through this consolidation, Ship4P can negotiate with shipping companies to offer a more favorable price, reducing shipping costs for each order.",
+            ""
+          ]
+        }
+      ]
+    },
+    "simplify": {
+      "label": "Simplify shipping process",
+      "contents": [
+        {
+          "title": "Choose your shipping option flexibly",
+          "subTitle": "Effortlessly compare shipping rates across multiple carriers. Sellers can pick the right carrier based on estimated time and cost."
+        },
+        {
+          "title": "Track shipments in real-time",
+          "subTitle": "Actively monitor shipments through the API system and send real-time notifications, optimizing shipping efficiency and user satisfaction."
+        }
+      ],
+      "items": [
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Group_d3122c1b9d.svg",
+          "title": "Sort out reconciliation quickly and accurately",
+          "subTitle": "Easily reconcile shipping costs when creating shipments to ensure accuracy. Collect and settle COD payments monthly."
+        },
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Layer_1_dc42ee1724.svg",
+          "title": "Advanced reports",
+          "subTitle": "Make it easy to analyze shipment performance and generate customized shipping reports with various options such as by date, shipment type, status, and more."
+        }
+      ]
+    }
+  },
+
+  "builtForOnline": {
+    "heading": "For every omnichannel, multi-market sellers",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_117127652r7_7d7f51a9e3.svg",
+        "title": "Fit every seller’s industry",
+        "content": "Diverse functionalities that suit multiple purposes and scales of businesses."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_4435fa6c53.svg",
+        "title": "Manage both international and last-mile delivery",
+        "content": "Easily purchase international and last-mile shipping labels, and track shipments in real time anytime."
+      }
+    ]
+  },
+  "customerStory": {
+    "label": "Customer Success Story",
+    "heading": "We build bridges between carriers and businesses",
+    "textBtn": "Read more"
+  },
+  "getStarted": {
+    "heading": "Free up your time monitoring all couriers at once",
+    "subHeading": "Connect with Ship4P - the multi-carrier parcel management solution now!",
+    "textBtn": "Get Started Free"
+  }
+}

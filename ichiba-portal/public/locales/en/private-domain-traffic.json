@@ -1,0 +1,115 @@
+{
+  "buildYourCustomer": {
+    "heading": "Build your own customer base & boost conversions with Private Domain Traffic",
+    "subHeading": "Create your own customer ecosystem - from data collection to automated customer care, without relying on e-commerce platforms.",
+    "textBtn": "Contact Sales"
+  },
+  "youAreLoosing": {
+    "heading": "You are loosing customers to e-commerce platforms?",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_bbb0fc76e6.svg",
+        "title": "Ecommerce platforms only share order information, not customer data"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1_6181d9104d.svg",
+        "title": "Unable to re-engage with customers who have buying history"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_2_b36ac73e13.svg",
+        "title": "Have diifficult in building your own brand"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_3_0cf7e28e83.svg",
+        "title": "Low conversion rates and high customer retention costs"
+      }
+    ]
+  },
+  "doNot": [
+    "Don't let buyers just pass by",
+    "Turn them into your own customers with Private Traffic"
+  ],
+  "whatMakes": {
+    "heading": "What makes Private Domain Traffic an indispensable strategy?",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_4_b0e0fe6a76.svg",
+        "title": "Selling website / app",
+        "subTitle": "Buld selling website/App of your own brand"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_5_3e6f79d06b.svg",
+        "title": "Gather customer data",
+        "subTitle": "Send vouchers along with the package to collect customer data"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_6_c4ef480735.svg",
+        "title": "Store and foster automatically",
+        "subTitle": "Nurture customers through SMS, group chat, email"
+      }
+    ],
+    "results": [
+      "Increase retention rate",
+      "Reduce ads cost with a dedicated customer base",
+      "Increase customer lifetime value (CLTV)",
+      "Build sustainable brand name",
+      "Add proactive sales channels without dependency"
+    ]
+  },
+  "privateDomain": {
+    "heading": [
+      "Private Domain Traffic",
+      "Proactively own and nurture your customers"
+    ],
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_4_b0e0fe6a76.svg",
+        "title": "Build selling website/app",
+        "subTitle": "A place where customers return to buy directly from you!",
+        "contents": [
+          "Created your own branded Website/App.",
+          "Support selling in multi-language, multi-currency, and international payments.",
+          "Optimized User-experience interface."
+        ],
+        "image": "https://cms-strapi.ichiba.net/uploads/image_902_7dbfb94aed.svg",
+        "textBtn": "View more",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_5_3e6f79d06b.svg",
+        "title": "Create motivation to get data (Activate customers)",
+        "subTitle": "Turn walk-in buyers on e-commerce platforms into your own customer base.",
+        "contents": [
+          "Offer vouchers or discount codes: Customers leave their phone number/email to receive exclusive codes.",
+          "Mini-games, surveys, lucky spins: Enter information to participate or win prizes.",
+          "Member-only offers: Customers receive benefits when they create an account or install the app."
+        ],
+        "image": "https://cms-strapi.ichiba.net/uploads/image_4_ff77364168.svg",
+        "textBtn": "",
+        "link": "#"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_6_c4ef480735.svg",
+        "title": "Automation engagement - Automated nurture and care",
+        "subTitle": "Build long-term relationships with customers without consuming excessive resources and costs",
+        "contents": [
+          "Automatically send SMS, Zalo, email, etc., based on predefined scenarios.",
+          "Set up nurturing funnels such as onboarding, remarketing, upselling, etc.",
+          "Flexibly segment customers based on engagement level, purchase frequency, repeat visits, etc., to personalize content."
+        ],
+        "image": "https://cms-strapi.ichiba.net/uploads/image_5_b210b9e87e.svg",
+        "textBtn": "View more",
+        "link": "#"
+      }
+    ]
+  },
+  "helpsSellers": {
+    "heading": "Cách IChiba giúp nhà bán tiết kiệm chi phí retention rate từ việc chăm sóc tệp khách hàng có sẵn",
+    "textBtn": "Read more"
+  },
+  "contactSales": {
+    "heading": "Build your own loyal customer base with the Private Domain Traffic solution",
+    "subHeading": "Contact us now for expert advice from IChiba on the solution and to create a tailored roadmap for your sales channel!",
+    "textBtn": "Contact sales"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "heading": ["Giải pháp SaaS dành cho", " ngành hàng đồ điện tử", ""],
+  "subHeading": "Nâng cao tiềm năng cửa hàng điện tử của bạn với bộ giải pháp phần mềm SaaS hỗ trợ thương mại điện tử, tích hợp liền mạch và quản lý thông minh.",
+  "contactSales": "Liên hệ ngay",
+  "youAreRunning": {
+    "heading": "Bạn đang điều hành một cửa hàng điện máy và gặp những vấn đề sau...",
+    "youNeed": "You need...",
+    "listContent": [
+      {
+        "item": {
+          "title": "Sản phẩm nhanh bị lỗi thời:  ",
+          "subTitle": "Ngành hàng điện tử có đặc thù là các mẫu mã và công nghệ mới thường xuyên thay thế mẫu cũ."
+        }
+      },
+      {
+        "item": {
+          "title": "Quản lý hàng tồn kho phức tạp: ",
+          "subTitle": "Có rất nhiều loại sản phẩm với các thông số kỹ thuật khác nhau."
+        }
+      },
+      {
+        "item": {
+          "title": "Biến động giá: ",
+          "subTitle": "Giá hàng điện tử có thể biến động do nhiều yếu tố khác nhau."
+        }
+      },
+      {
+        "item": {
+          "title": "Bạn cần liên tục cập nhật tồn kho và quản lý vòng đời của sản phẩm.",
+          "subTitle": ""
+        }
+      },
+      {
+        "item": {
+          "title": "Bạn cần một giải pháp có thể giải quyết vấn đề quản lý và theo dõi hàng tồn kho phức tạp.",
+          "subTitle": ""
+        }
+      },
+      {
+        "item": {
+          "title": "Bạn cần một phần mềm giúp bạn lưu lại tất cả giá cả và các thông tin liên quan.",
+          "subTitle": ""
+        }
+      }
+    ]
+  },
+  "withIChiba": {
+    "heading": "Với IChiba OnePlatform, các doanh nghiệp hàng điện tử có thể…",
+    "listItem": [
+      "Giảm thiểu các công việc thủ công & sai sót trong quản lý hàng hóa",
+      "Tiết kiệm thời gian và chi phí",
+      "Chủ động nắm bắt hiệu quả kinh doanh",
+      "Cải thiện trải nghiệm của khách hàng"
+    ]
+  },
+  "addressesYourIssues": {
+    "heading": "Vậy chúng tôi làm điều đó như thế nào?",
+    "item": {
+      "title": [
+        "Xử lý đơn hàng tự động",
+        "Đồng bộ tồn kho theo thời gian thực",
+        "Quản trị quan hệ khách hàng",
+        "Theo dõi mã serial",
+        "Trao đổi dữ liệu điện tử (EDI)",
+        "Quản lý thông tin sản phẩm (PIM)"
+      ],
+      "subTitle": [
+        "Tự động cập nhật đơn đặt hàng từ nhiều kênh (online và offline giúp giảm thiểu lỗi và nhập thủ công.",
+        "Luôn cập nhật mức tồn kho trên nhiều kênh bán hàng để tránh bán quá mức và hết hàng.",
+        "Lưu hồ sơ khách và lịch sử đặt hàng, nâng cao chất lượng dịch vụ.",
+        "Hỗ trợ EDI để quá trình buôn bán với nhà cung cấp và khách hàng B2B được thuận lợi.",
+        "Hỗ trợ EDI để quá trình buôn bán với nhà cung cấp và khách hàng B2B được thuận lợi.",
+        "Quản lý thông tin chi tiết về sản phẩm, bao gồm thông số kỹ thuật, hình ảnh và các tài liệu khác chỉ tại một nơi."
+      ]
+    }
+  },
+  "storiesOfElectronics": {
+    "heading": "Lắng nghe câu chuyện thành công của các doanh nghiệp đồ điện tử đã sử dụng IChiba",
+    "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets.",
+    "career": "Omnichannel Retailer"
+  },
+  "contact": {
+    "heading": "Bạn đang tìm giải pháp SaaS phù hợp hoàn hảo cho doanh nghiệp đồ điện tử của mình?"
+  }
+}

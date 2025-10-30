@@ -1,0 +1,336 @@
+{
+  "header": {
+    "overview": "Tổng quan",
+    "features": "Tính năng"
+  },
+  "banner": {
+    "heading": ["One-stop shipping", "label solutions"],
+    "subHeading": "Phần mềm vận chuyển tích hợp nhiều hãng vận chuyển uy tín, giúp nhà bán mua label chính hãng với chi phí tối ưu.",
+    "listContents": [
+      "Quản lý vận chuyển trong nước và quốc tế",
+      "Mua label vận chuyển chính hãng, giá tốt",
+      "Tạo đơn vận chuyển (shipment) hàng loạt"
+    ],
+    "textBtn": "Liên hệ ngay",
+    "number": {
+      "orders": "Đơn hàng được giao đúng hẹn",
+      "accuracy": "Tỷ lệ chính xác trong giao hàng",
+      "shipments": "Shipment được giao hàng năm",
+      "carriers": "Đơn vị vận chuyển được kết nối"
+    }
+  },
+  "manageEntire": {
+    "heading": [
+      "Quản lý toàn bộ quy trình vận chuyển chỉ tại ",
+      "một nơi duy nhất"
+    ]
+  },
+  "multiCarrier": {
+    "heading": [
+      "Quản lý vận chuyển đa hãng:",
+      "Mua label chính hãng, ",
+      "tiết kiệm đến 20%."
+    ],
+    "createPersonalized": {
+      "title": "Tạo bảng giá cá nhân hóa cho từng nhóm khách hàng",
+      "contents": [
+        "Cấu hình riêng phí đóng gói (package fee) và phí vận chuyển (shipment fee) theo nhóm khách hàng.",
+        "Tạo ưu đãi riêng cho đại lý, đối tác thân thiết - giữ chân khách hàng lâu dài, tăng doanh thu."
+      ]
+    },
+    "myCarrier": {
+      "title": "My Carrier - Tạo hãng vận chuyển của riêng bạn",
+      "contents": [
+        "Xây dựng “My carrier” dưới tên thương hiệu riêng của nhà bán và thu hoa hồng vận chuyển chênh lệch.",
+        "Giải pháp lý tưởng cho seller quốc tế hoặc nhà bán dropship/B2B muốn chủ động kiểm soát vận chuyển."
+      ]
+    },
+
+    "autoBuyLabel": {
+      "title": "Auto Buy Label - Tự động mua label chính hãng",
+      "contents": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/lets_icons_file_dock_duotone_dee7b26055.svg",
+          "value": "Tự động mua label phù hợp ngay sau khi có đơn hàng."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/6176fd192c9aa66ba04117c9_test_1_34c898dc35.svg",
+          "value": "So sánh giá cước và thời gian giao hàng của nhiều hãng vận chuyển trước khi chọn."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/60e8a1599394e82d62d6d4e5_Conversion_1_c55d4de5ab.svg",
+          "value": "100% label chính hãng, giá tốt hơn thị trường đến 20%. Không lo về rủi ro bị mất hàng, trả hàng hoặc khóa tài khoản."
+        }
+      ]
+    },
+    "manageMultiple": {
+      "label": "Quản lý đa hãng vận chuyển",
+      "contents": [
+        {
+          "title": "Tích hợp đa hãng vận chuyển",
+          "subTitle": [
+            "Kết nối không giới hạn với các hãng vận chuyển trong và ngoài nước, mang lại nhiều lựa chọn cho doanh nghiệp. Chúng tôi hỗ trợ lấy hàng đa kho, giảm chi phí vận chuyển."
+          ]
+        },
+        {
+          "title": "Quản lý trên 1 màn hình duy nhất",
+          "subTitle": [
+            "Bạn quá mệt mỏi vì phải đăng nhập nhiều tài khoản của các hãng vận chuyển khác nhau? Ship4P tích hợp các đơn vị vận chuyển trong 1 hệ thống, giúp tiết kiệm thời gian và công sức trong việc quản lý lô hàng."
+          ]
+        }
+      ]
+    },
+    "trackAndTrace": {
+      "title": "Track & Trace - Theo dõi tập trung",
+      "contents": [
+        "Quản lý trạng thái đơn hàng từ nhiều hãng vận chuyển khác nhau, hiển thị trên một màn hình duy nhất.",
+        "Cập nhật tự động mọi thay đổi về trạng thái giao hàng theo thời gian thực: đang giao, thất bại, đã giao...",
+        "Không cần vào từng website của nhà vận chuyển để theo dõi vận đơn."
+      ]
+    },
+    "flexible": {
+      "title": "Kết nối vận chuyển linh hoạt",
+      "contents": [
+        "Dùng hệ thống tích hợp sẵn của Ship4P để kết nối với bất kỳ nhà vận chuyển nào, không cần ký hợp đồng với từng hãng.",
+        "Tự kết nối với các hãng vận chuyển mà nhà bán đã làm việc trước đó.",
+        "Tạo “My Carrier” và kiểm soát toàn bộ khâu giao hàng."
+      ]
+    },
+    "realTime": {
+      "title": "Báo cáo theo thời gian thực",
+      "contents": [
+        "Xuất file báo cáo chi tiết về chi phí vận chuyển, tốc độ xử lý đơn...",
+        "Giúp bạn đo lường hiệu suất giao hàng và tối ưu quy trình vận hành."
+      ]
+    }
+  },
+  "sayGoodbye": {
+    "heading": "Giải quyết dứt điểm sự phức tạp trong khâu vận chuyển",
+    "subHeading": "Ship4P giúp bạn loại bỏ sự phức tạp trong quản lý vận chuyển – mọi thao tác đều đơn giản, tập trung và tự động hóa.",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_22ef52d8d0.svg",
+        "title": "Tiết kiệm phí vận chuyển",
+        "subTitle": "Ship4P tổng hợp đơn hàng từ nhiều nhà bán, giúp đàm phán giá ship tốt hơn - đơn càng nhiều, giá càng rẻ."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group1_aea9a89a7e.svg",
+        "title": "So sánh & chọn mức giá tốt nhất",
+        "subTitle": "Tận dụng mức giá ưu đãi từ hàng chục đơn vị vận chuyển, tiết kiệm tối đa chi phí giao hàng."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_dc38cd2174.svg",
+        "title": "Tạo label nhanh chóng",
+        "subTitle": "Tạo và in label vận chuyển chính hãng, hàng loạt chỉ với vài thao tác."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_a56e166590.svg",
+        "title": "White label software",
+        "subTitle": "Tự xây dựng phần mềm vận chuyển đa kênh với dịch vụ white label của chúng tôi."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_22ef52d8d0.svg",
+        "title": "Quản lý tập trung đơn hàng",
+        "subTitle": "Theo dõi tất cả đơn hàng từ nhiều hãng vận chuyển chỉ trên một màn hình."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_0679aed69c.svg",
+        "title": "API vận chuyển",
+        "subTitle": "Cập nhật giá và trạng thái vận chuyển theo thời gian thực."
+      }
+    ]
+  },
+  "connecting": {
+    "heading": "Điểm kết nối doanh nghiệp với các hãng vận chuyển",
+    "subHeading": "Nền tảng tích hợp đa hãng vận chuyển giúp kết nối giao vận, giao hàng đa kênh dễ dàng.",
+    "viewAll": "Xem tất cả",
+    "hide": "Ẩn bớt"
+  },
+  "multiChannel": {
+    "heading": "Quy trình giao hàng đa kênh",
+    "contents": [
+      {
+        "title": "Đăng nhập",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171276729_533ceecda2.svg",
+        "step": "Step 1",
+        "subTitle": "Đăng nhập tài khoản IChiba, tạo workspace và kích hoạt ứng dụng Ship4P",
+        "items": []
+      },
+      {
+        "title": "Thiết lập kết nối với các đối tác vận chuyển",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171276731_80109752c4.svg",
+        "step": "Step 2",
+        "subTitle": "Có 2 lựa chọn kết nối vận chuyển",
+        "items": [
+          {
+            "title": "Thông qua tài khoản của người bán:",
+            "subTitle": "Nhà bán tự kết nối các đơn vị vận chuyển đang dùng."
+          },
+          {
+            "title": "Thông qua Ship4P:",
+            "subTitle": "Ship4P đã tích hợp sẵn hàng chục đơn vị vận chuyển trong nước và quốc tế. Nhà bán chỉ cần nhấn “kết nối” để kích hoạt các đơn vị muốn dùng."
+          }
+        ]
+      },
+      {
+        "title": "Tạo vận đơn",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame2_aa008fc445.svg",
+        "step": "Step 3",
+        "subTitle": "Nhấn vào 'Tạo lô hàng', điền các thông tin cần thiết và chọn đơn vị vận chuyển phù hợp nhất được gợi ý bởi Ship4P.",
+        "items": []
+      },
+      {
+        "title": "Theo dõi vận đơn",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame1_d99d1a45a4.svg",
+        "step": "Step 4",
+        "subTitle": "Tra cứu, theo dõi vận đơn từ nhiều đơn vị vận chuyển trên một màn hình duy nhất.",
+        "items": []
+      }
+    ]
+  },
+  "faqs": {
+    "label": "Câu hỏi thường gặp",
+    "title": "Tối ưu vận chuyển đa hãng với One-Stop Shipping Label Solution Ship4P",
+    "subtitle": "Miễn phí sử dụng phần mềm trọn đời",
+    "contents": [
+      {
+        "title": "Ship4P có phù hợp cho shop nhỏ không?",
+        "content": "Có. Dù bạn chỉ có vài đơn/ngày, Ship4P vẫn giúp bạn tiết kiệm thời gian và chọn được hãng vận chuyển tốt nhất."
+      },
+      {
+        "title": "Tôi có thể dùng hãng giao hàng riêng không?",
+        "content": "Có 3 lựa chọn: dùng hệ thống Ship4P, tự kết nối hãng vận chuyển đã làm việc trước đó, hoặc tự tạo hãng vận chuyển riêng (My Carrier)."
+      },
+      {
+        "title": "Tôi bán hàng quốc tế, Ship4P có hỗ trợ không?",
+        "content": "Có. Ship4P tích hợp với các hãng quốc tế như DHL, UPS, FedEx... giúp nhà bán dễ dàng vận chuyển đi quốc tế, phù hợp với mọi loại hình hàng hóa, từ cồng kềnh, hàng nhỏ hoặc số lượng lớn."
+      }
+    ]
+  },
+
+  "software": {
+    "title": "Hướng dẫn sử dụng",
+    "subTitle": "Quản lý vận đơn nội địa và quốc tế tập trung tại một nơi. Kết nối với đa hãng vận chuyển chỉ mất 2 giây. Xem hướng dẫn ngay!"
+  },
+  "weBuild": {
+    "heading": "Ship 4P - Cầu nối tin cậy giữa doanh nghiệp và các hãng vận chuyển",
+    "before": {
+      "title": "Trước khi sử dụng Ship4P",
+      "contents": [
+        "Quản lý hàng rời rạc, không có sự kết nối giữa các hãng vận chuyển.",
+        "Dễ mua phải label shipping giả, hàng bị trả về và bị ghi vào danh sách đen của hãng vận chuyển.",
+        "Không thể so sánh trực quan cước vận chuyển.",
+        "Phải vào website của từng nhà vận chuyển đã tra cứu mã vận.",
+        "Đối soát thủ công, phức tạp."
+      ]
+    },
+    "after": {
+      "title": "Sau khi sử dụng Ship4P",
+      "contents": [
+        "Chỉ truy cập Ship4P, quản lý đa hãng vận chuyển.",
+        "Đảm bảo label shipping chính hãng, giá tốt.",
+        "Tích hợp AI thông minh hỗ trợ lựa chọn đơn vị vận chuyển phù hợp nhất.",
+        "Cập nhật trạng thái tự động, hệ thống tra cứu mã vận đơn ALL-IN-ONE.",
+        "Đối soát và thanh toán nhanh chóng, chuẩn xác."
+      ]
+    }
+  },
+  "deliveries": {
+    "heading": {
+      "first": "Giải pháp vận chuyển đa kênh, đa kết nối đầu tiên tại Việt Nam",
+      "items": ["", ""],
+      "last": ""
+    },
+    "carriers": {
+      "label": "Quản lý đa hãng vận chuyển",
+      "items": [
+        {
+          "title": "Tích hợp đa hãng vận chuyển",
+          "content": [
+            "Kết nối không giới hạn với các hãng vận chuyển trong và ngoài nước, mang lại nhiều lựa chọn cho doanh nghiệp. Chúng tôi hỗ trợ lấy hàng đa kho, giảm chi phí vận chuyển.",
+            ""
+          ]
+        },
+        {
+          "title": "Quản lý trên 1 màn hình duy nhất",
+          "content": [
+            "Bạn quá mệt mỏi vì phải đăng nhập nhiều tài khoản của các hãng vận chuyển khác nhau? Ship4P tích hợp các đơn vị vận chuyển trong 1 hệ thống, giúp tiết kiệm thời gian và công sức trong việc quản lý lô hàng.",
+            ""
+          ]
+        },
+        {
+          "title": "Mua label vận chuyển chính hãng",
+          "content": [
+            "Mua label vận chuyển nội địa và quốc tế từ các hãng vận chuyển hàng đầu. Dễ dàng so sánh giá và thời gian vận chuyển.",
+            "100% label chính hãng, giá tốt. Không lo về rủi ro bị mất hàng, trả hàng hoặc khóa tài khoản."
+          ]
+        },
+        {
+          "title": "Dễ dàng triển khai, không thủ tục rườm rà",
+          "content": [
+            "Ship4P đã kết nối sẵn với 50+ các đơn vị vận chuyển nội địa Việt Nam và quốc tế, nhà bán chỉ cần kết nối mà không cần phải ký hợp đồng với từng bên.",
+            ""
+          ]
+        },
+        {
+          "title": "Gom đơn vận chuyển (ship chung)",
+          "content": [
+            "Tổng hợp số đơn hàng trên tháng của các nhà bán khác nhau. Qua việc tập hợp này, Ship4P có thể đàm phán với các hãng vận chuyển để cung cấp một mức giá ưu đãi hơn, giúp giảm chi phí vận chuyển cho từng đơn hàng. Đơn càng nhiều, giá càng rẻ.",
+            ""
+          ]
+        }
+      ]
+    },
+    "simplify": {
+      "label": "Đơn giản hoá quy trình vận chuyển",
+      "contents": [
+        {
+          "title": "Tuỳ chọn vận chuyển",
+          "subTitle": "Dễ dàng so sánh cước vận chuyển giữa nhiều bên. Nhà bán có thể lựa chọn đơn vị vận chuyển phù hợp dựa trên thời gian và chi phí đã được ước tính."
+        },
+        {
+          "title": "Theo dõi vận đơn theo thời gian thực",
+          "subTitle": "Chủ động theo dõi lô hàng thông qua hệ thống API và gửi thông báo theo thời gian thực, tối ưu hóa hiệu suất vận chuyển và sự hài lòng của người dùng."
+        }
+      ],
+      "items": [
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Group_d3122c1b9d.svg",
+          "title": "Đối soát nhanh chóng, chính xác",
+          "subTitle": "Đối soát các chi phí vận chuyển một cách trực quan khi tạo shipment, đảm bảo tính chính xác. Tổng hợp và thanh toán tiền COD hàng tháng."
+        },
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Layer_1_dc42ee1724.svg",
+          "title": "Báo cáo nâng cao",
+          "subTitle": "Công cụ báo cáo giúp dễ dàng phân tích hiệu suất lô hàng, xuất báo cáo vận chuyển với nhiều tùy chọn tùy chỉnh như theo ngày, loại lô hàng, trạng thái, v.v."
+        }
+      ]
+    }
+  },
+
+  "builtForOnline": {
+    "heading": "Dành cho mọi nhà bán hàng đa kênh, đa thị trường",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_117127652r7_7d7f51a9e3.svg",
+        "title": "Phù hợp với mọi ngành hàng",
+        "content": "Đa dạng tính năng, phục vụ nhiều mục đích và quy mô doanh nghiệp"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_4435fa6c53.svg",
+        "title": "Quản lý vận chuyển quốc tế và last mile dễ dàng, tra cứu hành trình bất cứ lúc nào theo thời gian thực.",
+        "content": "Mua label vận chuyển quốc tế và last mile dễ dàng, tra cứu hành trình bất cứ lúc nào theo thời gian thực."
+      }
+    ]
+  },
+  "customerStory": {
+    "label": "Câu chuyện khách hàng",
+    "heading": "Ship4P - Cầu nối tin cậy giữa doanh nghiệp và các hãng vận chuyển",
+    "textBtn": "Xem thêm"
+  },
+  "getStarted": {
+    "heading": "Tích hợp mạnh mẽ, hợp lý hoá quy trình vận chuyển đa kênh",
+    "subHeading": "Đẩy đơn dễ dàng - Ship hàng nhanh chóng với giải pháp giao hàng đa kênh Ship4P",
+    "textBtn": "Bắt đầu miễn phí ngay"
+  }
+}

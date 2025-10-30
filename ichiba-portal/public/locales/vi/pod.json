@@ -1,0 +1,215 @@
+{
+  "banner": {
+    "label": "POD - PRINT ON DEMAND",
+    "heading": [
+      "Hành trình",
+      " Print-on-demand",
+      " xuyên suốt",
+      "từ kết nối nguồn hàng đến giao hàng!"
+    ],
+    "subHeading": "Quản lý đơn hàng từ nhiều kênh bán hàng - tất cả ở một nơi",
+    "items": [
+      {
+        "icon": "/uploads/Frame_11371276527_2929fd5e47.svg",
+        "title": "Quản lý đơn hàng từ nhiều kênh bán - tất cả trong một nền tảng"
+      },
+      {
+        "icon": "/uploads/Frame_1171276527_38e5cb5e8e.svg",
+        "title": "Kết nối đa dạng nguồn hàng với mức giá tốt nhất"
+      },
+      {
+        "icon": "/uploads/Frame_11712765527_8626152a74.svg",
+        "title": "Tự động hoá toàn bộ quy trình - từ tìm nguồn, xử lý đơn hàng đến giao hàng chặng cuối"
+      }
+    ],
+    "textBtn": "Liên hệ ngay"
+  },
+  "challenges": {
+    "label": "Những thách thức",
+    "heading": [
+      "Những thách thức",
+      " mà người bán Print-on-Demand phải đối mặt"
+    ],
+    "items": [
+      {
+        "icon": "/uploads/material_symbols_light_package_f2102e8a2d.svg",
+        "iconActive": "/uploads/material_symbols_light_package_b54ee6b3ff.svg",
+        "title": "Xử lý đơn hàng trên nhiều nền tảng khác nhau dễ dẫn đến sai sót, chậm trễ và lãng phí thời gian – thời gian mà bạn có thể dành để phát triển doanh nghiệp."
+      },
+      {
+        "icon": "/uploads/mingcute_user_x_fill_3018c0c790.svg",
+        "iconActive": "/uploads/mingcute_user_x_fill_9adde8c70b.svg",
+        "title": "Sự chậm trễ trong sản xuất, xử lý đơn hàng và vận chuyển không chỉ làm tăng chi phí mà còn khiến khách hàng không hài lòng, cản trở khả năng mở rộng kinh doanh."
+      },
+      {
+        "icon": "/uploads/_db3b0d2a5d.svg",
+        "iconActive": "/uploads/_bacdb8148a.svg",
+        "title": "Việc tìm kiếm nhà cung cấp đáng tin cậy, có giá cạnh tranh và đảm bảo chất lượng sản phẩm ổn định là một thách thức lớn."
+      },
+      {
+        "icon": "/uploads/_a23600c89f.svg",
+        "iconActive": "/uploads/_ee347d2208.svg",
+        "title": "Bán hàng trên nhiều nền tảng như Shopify, Etsy, Amazon,... đòi hỏi phải cập nhật liên tục, theo dõi tồn kho và đồng bộ đơn hàng, gây quá tải nếu không có hệ thống tự động."
+      },
+      {
+        "icon": "/uploads/_64fd0f4bef.svg",
+        "iconActive": "/uploads/_7d594021ff.svg",
+        "title": "Làm việc với nhiều nhà cung cấp, trung tâm xử lý đơn hàng và đối tác vận chuyển khiến quy trình trở nên kém hiệu quả, làm chậm tốc độ vận hành."
+      }
+    ]
+  },
+  "allInOne": {
+    "label": "Giải pháp của chúng tôi",
+    "heading": [
+      "Giải pháp trọn gói",
+      "để mở rộng quy mô kinh doanh Print-on-Demand của bạn"
+    ],
+    "benefit": "Lợi ích",
+    "items": [
+      {
+        "title": "Tìm nguồn hàng dễ dàng & Kết nối nhà cung cấp linh hoạt",
+        "contents": [
+          "Kết nối với các nhà cung cấp POD hàng đầu, cung cấp đa dạng sản phẩm chất lượng cao có thể tùy chỉnh.",
+          "Cập nhật tồn kho theo thời gian thực, giúp tránh tình trạng bán quá số lượng.",
+          "Nhập sản phẩm tự động – đăng bán sản phẩm mới chỉ với vài cú click."
+        ],
+        "benefit": "Tiết kiệm thời gian tìm nguồn hàng đáng tin cậy và tránh tình trạng hết hàng đột ngột.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image_6e001e2492.svg"
+      },
+      {
+        "title": "Dịch vụ tạo cửa hàng online/website bán hàng",
+        "contents": [
+          "Dễ dàng tạo cửa hàng online theo phong cách riêng mà không cần kỹ năng lập trình.",
+          "Mẫu website thương mại điện tử sẵn có, tối ưu hóa tỷ lệ chuyển đổi.",
+          "Tích hợp mượt mà với Shopify, WooCommerce, Etsy và nhiều nền tảng khác."
+        ],
+        "benefit": "Xây dựng cửa hàng chuyên nghiệp trong vài phút và bắt đầu bán ngay lập tức.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image1_45be15f606.svg"
+      },
+      {
+        "title": "Quản lý đơn hàng tập trung từ đa kênh bán",
+        "contents": [
+          "Tự động xử lý đơn hàng từ nhiều kênh bán khác nhau.",
+          "Theo dõi đơn hàng và đồng bộ tồn kho theo thời gian thực.",
+          "Bảng điều khiển tập trung giúp quản lý đơn hàng, sản phẩm và xử lý đơn dễ dàng."
+        ],
+        "benefit": "Giảm bớt thao tác thủ công, hạn chế sai sót và tối ưu quy trình vận hành.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image2_9a103bbf61.svg"
+      },
+      {
+        "title": "Dịch vụ fulfillment và vận chuyển quốc tế",
+        "contents": [
+          "Tích hợp trung tâm hoàn tất đơn hàng với nhiều tùy chọn vận chuyển quốc tế.",
+          "Công nghệ AI tối ưu hóa lộ trình đơn hàng để giao nhanh nhất.",
+          "Tính toán chi phí vận chuyển theo thời gian thực và cập nhật tình trạng đơn hàng."
+        ],
+        "benefit": "Giao hàng nhanh hơn với chi phí thấp hơn, giúp khách hàng hài lòng hơn.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image3_b13bd3dc08.svg"
+      },
+      {
+        "title": "Bán hàng đa kênh & Đồng bộ tự động",
+        "contents": [
+          "Kết nối và đồng bộ sản phẩm trên nhiều sàn thương mại điện tử (Etsy, Amazon, Shopify, eBay).",
+          "Cập nhật giá và tồn kho tự động trên tất cả nền tảng.",
+          "Quản lý mọi kênh bán hàng từ một bảng điều khiển duy nhất."
+        ],
+        "benefit": "Mở rộng thị trường và phát triển quy mô kinh doanh mà không tốn thêm công sức thủ công.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image_880e89bf9c.svg"
+      },
+      {
+        "title": "Công cụ AI hỗ trợ bán hàng & tiếp thị",
+        "contents": [
+          "Phân tích dữ liệu chuyên sâu giúp tối ưu giá bán và xác định sản phẩm bán chạy.",
+          "Tự động khôi phục giỏ hàng bị bỏ quên và tích hợp email marketing.",
+          "Gợi ý sản phẩm thông minh bằng AI để tăng doanh số."
+        ],
+        "benefit": "Gia tăng doanh thu và tối ưu chiến lược marketing nhờ phân tích dữ liệu thông minh.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image2_9f916e7357.svg"
+      }
+    ]
+  },
+  "howItWork": {
+    "label": "Quy trình vận hành",
+    "heading": ["Quản lý hoạt động bán hàng POD chỉ với", " 5 bước", ""],
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_46b8cc5195.svg",
+        "title": "Bước 1: Kết nối cửa hàng và lựa chọn sản phẩm",
+        "subTitle": "Đăng nhập vào IChiba. Truy cập Commerce Layer và kết nối cửa hàng của bạn tại mục Tích hợp."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group1_b46ddd17f7.svg",
+        "title": "Bước 2: Listing các sản phẩm mà bạn muốn bán",
+        "subTitle": "Truy cập mục POD, sau đó chọn các sản phẩm bạn muốn bán trên cửa hàng của mình."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_283e9e3d84.svg",
+        "title": "Bước 3",
+        "subTitle": "Bắt đầu bán hàng và quản lý đơn hàng từ tất cả các kênh bán hàng trên một nền tảng – IChiba Commerce Layer."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group2_58f1f52c4c.svg",
+        "title": "Bước 4",
+        "subTitle": "Theo dõi trạng thái xử lý gói hàng tại mục Fulfillment."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/hand_package_delivery_1b6e8dda4c.svg",
+        "title": "Bước 5",
+        "subTitle": "Quản lý việc vận chuyển gói hàng đến tận tay khách hàng"
+      }
+    ]
+  },
+  "chooseIchiba": {
+    "label": "ICHIBA",
+    "heading": [
+      "Chọn IChiba",
+      ", doanh nghiệp POD của bạn có thể duy trì khả năng cạnh tranh với các đối thủ khác vì…."
+    ],
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Icon_1_0a69ce88e3.svg",
+        "content": "Một đối tác duy nhất cho mọi giai đoạn quan trọng của POD: từ tìm nguồn hàng, quản lý đơn hàng, xử lý đơn đến giao hàng chặng cuối."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Icon_2_5307721ba7.svg",
+        "content": "Tích hợp liền mạch với các nền tảng lớn như Shopify, Etsy, Amazon, Wayfair, Walmart, v.v."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Icon_3_7849567951.svg",
+        "content": "Tự động hóa bằng AI giúp quản lý đơn hàng và tồn kho chính xác, giảm thiểu sai sót."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Icon_4_f4c3b31440.svg",
+        "content": "Hoàn tất đơn hàng xuyên biên giới dễ dàng, tối ưu chi phí vận chuyển quốc tế."
+      }
+    ]
+  },
+  "customerStories": {
+    "label": "Câu chuyện khách hàng",
+    "heading": "Lời chứng thực và câu chuyện thành công"
+  },
+  "porductsServices": {
+    "heading": "Phần mềm/Dịch vụ phù hợp với doanh nghiệp POD",
+    "learnMore": "Xem thêm",
+    "items": [
+      {
+        "icon": "svg-storefront",
+        "title": "StoreFront Layer",
+        "content": "Xây dựng website/ứng dụng order xuyên biên giới của riêng bạn với bộ công cụ phần mềm toàn diện của IChiba.",
+        "bgIcon": "linear-gradient(0deg, #FF7400 -0.66%, #FFAB52 99.49%)",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "icon": "svg-icon-storefront",
+        "title": "Commerce Layer",
+        "content": "Bán hàng ở mọi nơi, quản lý ở cùng một nơi. Tối đa hiệu quả với hệ thống dữ liệu thông minh. ",
+        "bgIcon": "linear-gradient(0deg, #FF7400 -0.66%, #FFAB52 99.49%)",
+        "link": "/products/commerce-layer/overview"
+      }
+    ]
+  },
+  "contactUs": {
+    "heading": "POD dễ dàng, bán hàng nhẹ nhàng!",
+    "textBtn": "Liên hệ ngay"
+  }
+}

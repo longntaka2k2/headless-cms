@@ -1,0 +1,212 @@
+{
+  "banner": {
+    "label": "POD - PRINT ON DEMAND",
+    "heading": [
+      "Seamlessly run your",
+      " Print-on-Demand",
+      " business",
+      "From sourcing to delivery!"
+    ],
+    "subHeading": "Manage orders from multiple sales channels – all in one place",
+    "items": [
+      {
+        "icon": "/uploads/Frame_11371276527_2929fd5e47.svg",
+        "title": "Manage orders from multiple sales channels – all in one place"
+      },
+      {
+        "icon": "/uploads/Frame_1171276527_38e5cb5e8e.svg",
+        "title": "Access diverse product sources at the best prices"
+      },
+      {
+        "icon": "/uploads/Frame_11712765527_8626152a74.svg",
+        "title": "Automate the entire process – sourcing, fulfillment & last-mile delivery"
+      }
+    ],
+    "textBtn": "Contact sales"
+  },
+  "challenges": {
+    "label": "Challenges",
+    "heading": ["Challenges", " faced by print-on-demand sellers"],
+    "items": [
+      {
+        "icon": "/uploads/material_symbols_light_package_f2102e8a2d.svg",
+        "iconActive": "/uploads/material_symbols_light_package_b54ee6b3ff.svg",
+        "title": "Managing orders manually across different platforms leads to errors, delays, and wasted time that could be spent on growing your business."
+      },
+      {
+        "icon": "/uploads/mingcute_user_x_fill_3018c0c790.svg",
+        "iconActive": "/uploads/mingcute_user_x_fill_9adde8c70b.svg",
+        "title": "Delays in production, fulfillment, and shipping increase costs and risk customer dissatisfaction, making it hard to scale."
+      },
+      {
+        "icon": "/uploads/_db3b0d2a5d.svg",
+        "iconActive": "/uploads/_bacdb8148a.svg",
+        "title": "It’s challenging to find high-quality, cost-effective suppliers who can deliver consistent products and meet your customers' expectations."
+      },
+      {
+        "icon": "/uploads/_a23600c89f.svg",
+        "iconActive": "/uploads/_ee347d2208.svg",
+        "title": "Selling on various platforms (Shopify, Etsy, Amazon, etc.) requires constant updates, inventory tracking, and order syncing, which can be overwhelming without automation."
+      },
+      {
+        "icon": "/uploads/_64fd0f4bef.svg",
+        "iconActive": "/uploads/_7d594021ff.svg",
+        "title": "Coordinating multiple suppliers, fulfillment centers, and shipping partners creates inefficiencies and slows down operations."
+      }
+    ]
+  },
+  "allInOne": {
+    "label": "Our solutions",
+    "heading": [
+      "All-in-one solution to",
+      "scale your Print-on-Demand business"
+    ],
+    "benefit": "Benefit",
+    "items": [
+      {
+        "title": "Seamless Product Sourcing & Supplier Integration",
+        "contents": [
+          "Connect with top POD suppliers offering a wide range of high-quality customizable products.",
+          "Real-time inventory updates to prevent overselling.",
+          "Automated product imports—list new products in just a few clicks."
+        ],
+        "benefit": "Avoid stockouts or excessive inventory. Our real-time inventory management solution helps you:",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image_6e001e2492.svg"
+      },
+      {
+        "title": "Powerful Online Store Builder",
+        "contents": [
+          "Easily create a custom online store without coding skills.",
+          "Pre-built eCommerce templates optimized for conversions.",
+          "Seamless integrations with Shopify, WooCommerce, Etsy, and more."
+        ],
+        "benefit": "Build a professional online store in minutes and start selling instantly.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image1_45be15f606.svg"
+      },
+      {
+        "title": "Smart Order & Inventory Management",
+        "contents": [
+          "Automate order processing from multiple sales channels.",
+          "Real-time order tracking and inventory synchronization.",
+          "Centralized dashboard to manage orders, products, and fulfillment in one place."
+        ],
+        "benefit": "Reduce manual work, eliminate errors, and streamline operations.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image2_9a103bbf61.svg"
+      },
+      {
+        "title": "Automated Fulfillment & Global Shipping",
+        "contents": [
+          "Integrated fulfillment centers with worldwide shipping options.",
+          "AI-powered order routing for the fastest delivery.",
+          "Real-time shipping cost calculations and tracking updates."
+        ],
+        "benefit": "Deliver products faster with lower shipping costs and happier customers.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image3_b13bd3dc08.svg"
+      },
+      {
+        "title": "Multi-Channel Selling & Syncing",
+        "contents": [
+          "Connect and sync products across multiple marketplaces (Etsy, Amazon, Shopify, eBay).",
+          "Automated pricing and stock updates across platforms.",
+          "Manage all sales channels from a single dashboard."
+        ],
+        "benefit": "Expand your reach and scale without extra manual effort.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image_880e89bf9c.svg"
+      },
+      {
+        "title": "AI-Powered Sales & Marketing Tools",
+        "contents": [
+          "Built-in analytics and insights to optimize pricing and best-selling products.",
+          "Automated abandoned cart recovery and email marketing integration.",
+          "AI-driven product recommendations to boost sales."
+        ],
+        "benefit": "Increase sales and optimize marketing efforts with data-driven insights.",
+        "image": "https://cms-strapi.ichiba.net/uploads/Image2_9f916e7357.svg"
+      }
+    ]
+  },
+  "howItWork": {
+    "label": "How it works?",
+    "heading": ["Launch & scale your POD business ", "in 5 simple ", "steps"],
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_46b8cc5195.svg",
+        "title": "Step 1: Connect your store and select products.",
+        "subTitle": "Login to IChiba. Access Commerce Layer and connect your your at Integration."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group1_b46ddd17f7.svg",
+        "title": "Step 2: Customize & List Your Products",
+        "subTitle": "Go to POD sections, and then select the products you want to sell on your stores."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_283e9e3d84.svg",
+        "title": "Step 3",
+        "subTitle": "Start selling and manage orders from all your selling channels in one place - IChiba Commerce Layer"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group2_58f1f52c4c.svg",
+        "title": "Step 4",
+        "subTitle": "Keep track of the fulfillment process in Fulfillment section."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/hand_package_delivery_1b6e8dda4c.svg",
+        "title": "step 5",
+        "subTitle": "Deliver packages to end users, wherever they are in the world."
+      }
+    ]
+  },
+  "chooseIchiba": {
+    "label": "CHOOSE ICHIBA",
+    "heading": [
+      "Choosing IChiba",
+      ", your POD business may stay competitive to other competitors as…."
+    ],
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Icon_1_0a69ce88e3.svg",
+        "content": "One partner for all necessary stage of POD, from goods sourcing, order management, fulfillment to last-mile delivery"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Icon_2_5307721ba7.svg",
+        "content": "Seamless integrations with major platforms: Shopify, Etsy, Amazon, Wayfair, Walmart, etc."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Icon_3_7849567951.svg",
+        "content": "AI-powered automation for order and inventory management"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Icon_4_f4c3b31440.svg",
+        "content": "Effortless cross-border fulfillment and forwarding with the best costs"
+      }
+    ]
+  },
+  "customerStories": {
+    "label": "Customer Stories",
+    "heading": "Testimonials & Success Stories"
+  },
+  "porductsServices": {
+    "heading": "Products/Services designed for POD businesses",
+    "learnMore": "Learn more",
+    "items": [
+      {
+        "icon": "svg-storefront",
+        "title": "StoreFront Layer",
+        "content": "Build your own selling website or marketing landing page with the support of IChiba comprehensive tool set.",
+        "bgIcon": "linear-gradient(0deg, #FF7400 -0.66%, #FFAB52 99.49%)",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "icon": "svg-icon-storefront",
+        "title": "Commerce Layer",
+        "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data and intelligence. ",
+        "bgIcon": "linear-gradient(0deg, #FF7400 -0.66%, #FFAB52 99.49%)",
+        "link": "/products/commerce-layer/overview"
+      }
+    ]
+  },
+  "contactUs": {
+    "heading": "POD with Ease, Sell with Breeze!",
+    "textBtn": "Contact us"
+  }
+}

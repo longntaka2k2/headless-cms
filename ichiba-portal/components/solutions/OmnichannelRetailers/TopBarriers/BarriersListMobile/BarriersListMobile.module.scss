@@ -1,0 +1,11 @@
+.swiper__slide {
+  width: 60%;
+}
+
+.swiper__slide:nth-child(2n) {
+  width: 40%;
+}
+
+.swiper__slide:nth-child(3n) {
+  width: 20%;
+}

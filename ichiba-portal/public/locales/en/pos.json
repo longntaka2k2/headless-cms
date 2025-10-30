@@ -1,0 +1,310 @@
+{
+  "header": {
+    "overview": "Overview",
+    "features": "Features",
+    "pricing": "Pricing"
+  },
+  "banner": {
+    "title": "Point of sale (POS) system for every retailer",
+    "subtitle": "Standardize your operations and deliver a seamless shopping experience for your customers.",
+    "requestDemo": "Request a Demo",
+    "items": [
+      {
+        "title": "80%",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_1_6fdbe4c721.png",
+        "subtitle": ["", "Accuracy improved"]
+      },
+      {
+        "title": "100%",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_1_6fdbe4c721.png",
+        "subtitle": ["", "Security ensured"]
+      },
+      {
+        "title": "50%",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_1_6fdbe4c721.png",
+        "subtitle": ["", "Time saved"]
+      },
+      {
+        "title": "Unlimited",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_1_6fdbe4c721.png",
+        "subtitle": ["", "Items management"]
+      }
+    ]
+  },
+  "posSoftware": {
+    "title": "IChiba’s POS software: Retailers' perfect companion",
+    "subtitle": "Our point-of-sale software is built for flexibility, which means retailing businesses can configure to meet their requirements."
+  },
+  "posIntegration": {
+    "title": "POS Integration",
+    "subtitle": "POS integration is a tech-driven solution to connect your eCommerce platform with POS system",
+    "shipping": "Shipping",
+    "orderFulfillment": "Order fulfillment",
+    "employee": "Employee scheduling",
+    "eCommerce": "eCommerce",
+    "account": "Accounting",
+    "marketing": "Marketing tools",
+    "payment": "Payment processing",
+    "wareHouse": "Warehouse management system"
+  },
+  "posforemploy": {
+    "label": "POS FOR EMPLOYEES",
+    "title": "Save time and effort for daily tasks",
+    "searchProducts": {
+      "title": "Search & add products",
+      "content": "Flawlessly execute all the tasks pertaining to product management, including searching, adding, monitoring single and variable products, and so on."
+    },
+    "searchCustomers": {
+      "title": "Search & add customers",
+      "content": "Our POS records everything regarded customers, what they buy, the total value of transactions, and contact information to drive buying experience and increase customer retention."
+    },
+    "multiple": {
+      "title": "Integrated multiple payment methods",
+      "content": "IChiba POS integrates multiple payment methods so order amounts are automatically pushed to your card reader without manually entering card details."
+    },
+    "inventory": {
+      "title": "Integrated inventory management",
+      "content": "View inventory levels in real-time across online and offline, as well as synchronize data to avoid out-of-stock and overstock."
+    }
+  },
+  "posforshop": {
+    "label": "POS FOR SHOP OWNERS",
+    "title": "Better management on staff and sales performance",
+    "items": [
+      {
+        "title": "Employee management",
+        "content": "Monitor everything regarding staff: working shifts, total revenue, etc. Export employee reports monthly."
+      },
+      {
+        "title": "Daily sales reports",
+        "content": "Automatically send sales reports at the end of the day. You can also select the date ranges to have an overview of sales performance."
+      }
+    ]
+  },
+  "posforbuyer": {
+    "label": "POS FOR BUYERS",
+    "title": "Enhanced shopping experiences",
+    "items": [
+      {
+        "title": "E-invoice & offline receipts",
+        "content": "Provide customers with both physical and electronic bills. This flexibility allows the returns and exchanges to process quicker."
+      },
+      {
+        "title": "Multi-language support",
+        "content": "Easily broaden your services or products to international markets without buying one more local POS system."
+      },
+      {
+        "title": "Return management",
+        "content": "Support return with or without receipts. Offer predefined categories for the cashier to select based on the reason for the return."
+      },
+      {
+        "title": "Flexible fulfillment options",
+        "content": "Allow customers to choose the order fulfillment method they would like (in-store pickup and ship-to-customer), thereby pushing sales."
+      }
+    ]
+  },
+  "compatible": {
+    "title": "Compatible with all devices and systems",
+    "subtitle": "Easy to use on all your available devices without any installations and specific hardware"
+  },
+  "howDoes": {
+    "title": "How does a POS works?",
+    "subtitle": "Let’s explore how a POS system works and revolutionizes the way you manage sales",
+    "step": "step",
+    "items": [
+      {
+        "title": "Customer choose products",
+        "content": "Customer decide to purchase items from your physical or online store."
+      },
+      {
+        "title": "Calculating prices",
+        "content": "POS systems calculate the total price of the selected items by scanning barcodes or manually entering item codes."
+      },
+      {
+        "title": "Payment process",
+        "content": "Your customer pays the bill through several methods: cash, credit card, debit card, internet banking,..."
+      },
+      {
+        "title": "Complete the transaction",
+        "content": "Ship or hand your customer the item they bought. Provide the receipts and loyalty points for them"
+      }
+    ]
+  },
+  "theUltimate": [
+    "The ultimate omnichannel POS for ",
+    "sports and outdoors",
+    " retail businesses"
+  ],
+  "getStarted": {
+    "title": "Get started with IChiba POS!",
+    "subtitle": "Start your journey with IChiba POS today and experience the high-tech way to manage your business transactions.",
+    "contact": "Contact Sales"
+  },
+  "whyChooseUs": {
+    "title": "Why choose us?",
+    "items": [
+      {
+        "title": "Well-protected",
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc0c90700522_Multi_step_flows_1_41c9b07311.svg",
+        "content": "Safeguard sensitive data for both business and customer"
+      },
+      {
+        "title": "Cost-saving",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Shield_Protected_e4baf6de77.svg",
+        "content": "Allow business select hardware that fit your budget"
+      },
+      {
+        "title": "User-friendly interface",
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db534192d180a_Automate_1_1_6871b70939.svg",
+        "content": "Clear and organized menus, buttons and icons"
+      },
+      {
+        "title": "Sell in offline mode",
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db534192d180a_Automate_1_1_6871b70939.svg",
+        "content": "Allow cashers to create and process the orders even when the internet connection is lost."
+      }
+    ]
+  },
+  "fromOnline": {
+    "title": "From online to offline selling, IChiba has the solution for you!",
+    "learnMore": "Learn more",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "content": "Manage orders from online stores. Commerce Layer integrates with multiple sales channels such as e-commerce stores, websites, and social networks to centrally manage orders in one place.",
+        "link": "/products/commerce-layer/overview"
+      }
+    ]
+  },
+  "explore": {
+    "title": "Explore the Point of Sales learning hub",
+    "subtitle": "Explore useful tips to discover how to personalize your point of sale and improve all aspects of your business.",
+    "readMore": "Read more",
+    "items": [
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Get_started_with_Wix_e_Commerce_1_10fecc01b9.svg",
+        "tag": "News",
+        "title": "Search information easily on your Website with Our Search Engine features.",
+        "description": "Open Labs said that 2021 was an incredible year for the business world regardless of the challenges. The COVID-19 pandemic that occurred is definitely a factor",
+        "createdAt": "22/12/2023"
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Get_started_with_Wix_e_Commerce_1_10fecc01b9.svg",
+        "tag": "News",
+        "title": "Search information easily on your Website with Our Search Engine features.",
+        "description": "Open Labs said that 2021 was an incredible year for the business world regardless of the challenges. The COVID-19 pandemic that occurred is definitely a factor",
+        "createdAt": "22/12/2023"
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Get_started_with_Wix_e_Commerce_1_10fecc01b9.svg",
+        "tag": "News",
+        "title": "Search information easily on your Website with Our Search Engine features.",
+        "description": "Open Labs said that 2021 was an incredible year for the business world regardless of the challenges. The COVID-19 pandemic that occurred is definitely a factor",
+        "createdAt": "22/12/2023"
+      }
+    ]
+  },
+  "feature": {
+    "bannerFeature": {
+      "label": "POS Features",
+      "heading": [
+        "All-in-one POS software:",
+        "Fast checkout, smooth payment, less work"
+      ],
+      "subHeading": "A fully integrated POS system that helps selling in physical stores be more productive.",
+      "seeFeatures": "SEE OUR FEATURES"
+    },
+    "supported": {
+      "title": "Supported diverse payment channels",
+      "subTitle": "Allow customers to make payments using multiple options: cash, credit cards, debit cards, mobile wallet. Easily switch payment methods during the check-out process."
+    },
+    "effortless": {
+      "title": "Effortless search & add products",
+      "subTitle": "Allow staff to quickly add or find desired products by name, category or barcode, reducing manual data entry time."
+    },
+    "customerManagement": {
+      "title": "Customer management",
+      "contentItems": [
+        "Create and maintain customer profiles within system, storing important information such as contact details, purchase history, shipping address,...",
+        "Offer personalized services and tailored recommendations based on the customer's purchase history and preferences."
+      ]
+    },
+    "offlineSelling": {
+      "title": "Offline selling mode",
+      "subTitle": [
+        "You lose the internet connection?",
+        "No worries! Our POS software can still work as normal, take the orders and process them. The data will be automatically synced after the system is back online."
+      ]
+    },
+    "inventory": {
+      "title": "Inventory management",
+      "items": [
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/PART_Handling_v2_1_bea024faff.svg",
+          "content": "Provide up-to-date and accurate information about stock levels, allow businesses monitor inventory in real-time"
+        },
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171275989_cc52783329.svg",
+          "content": "Support barcode scanning and SKU (Stock Keeping Unit) tracking, enabling quick product identifications and inventory updates"
+        }
+      ]
+    },
+    "physical": {
+      "title": "Physical and e-invoice bills",
+      "subTitle": "Provide electronic invoice or physical receipt options to enhance flexibility, simplify tax administrative procedures, prevent illegal actions. Customized printed receipts: logo, contact information, promotional messages, return policy,... "
+    },
+    "returnManagement": {
+      "title": "Return management",
+      "contentCard": [
+        "Return with or without receipts, promotes flexibility and customer-friendly policies",
+        "Maintain customer history for returns,  allow to track and analyze return patterns",
+        "Provide predefined categories for cashiers to choose from, ensuring consistent and precise tracking of returns based on the reason."
+      ]
+    },
+    "employeeManagement": {
+      "title": "Employee management",
+      "items": [
+        {
+          "icon": "svg-icon-check",
+          "content": "Create check in/out time, track the staff’s revenue. Send monthly reports of employee’s sales performance."
+        },
+        {
+          "icon": "svg-icon-check",
+          "content": "Set restrict areas in which information fields are visible to employees."
+        }
+      ]
+    },
+    "dailySales": {
+      "title": "Daily sales reports",
+      "subTitle": "Receive real-time reports everyday on sales performance. Flexibly select the necessary categories as time, average order value, net sales, best-selling products, and so on. "
+    },
+    "sellBetter": {
+      "title": "Sell better with IChiba POS",
+      "subTitle": "Automate your sales operation with a comprehensive toolset to manage products, employees, payments, and more.",
+      "textBtn": [
+        "Start Free Trial",
+        "Contact Sales"
+      ]
+    },
+    "faqs": {
+      "label": "FAQs",
+      "title": "Frequently asked questions",
+      "subtitle": "Explore our frequently asked questions to learn more about IChiba OnePlatform and more.",
+      "contents": [
+        {
+          "title": "What hardwares are required for POS software?",
+          "content": "The hardware requirements for POS depend on your business needs. Commonly used hardware includes a computer or tablet for running the software, a barcode scanner for scanning products and a receipt printer.  Some businesses may also use additional peripherals like card readers, scales, or customer-facing displays."
+        },
+        {
+          "title": "Can POS integrate with other systems?",
+          "content": "Yes, our POS offer integration capabilities with other systems such as accounting software, e-commerce platforms, customer relationship management (CRM) tools, and inventory management systems. This integration helps businesses streamline operations and maintain consistent data across different platforms."
+        },
+        {
+          "title": "Can I access POS software remotely or in the cloud?",
+          "content": "Yes, cloud-based POS software allows you to access and manage your business data from anywhere with an internet connection. It offers the advantage of real-time syncing, remote accessibility, automatic software updates, and data backups."
+        }
+      ]
+    }
+  }
+}

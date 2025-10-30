@@ -1,0 +1,6 @@
+.root {
+  @apply tw-flex tw-gap-3 tw-w-full tw-overflow-auto;
+  &::-webkit-scrollbar {
+    @apply tw-hidden;
+  }
+}

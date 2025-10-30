@@ -1,0 +1,101 @@
+{
+  "brandCommerce": "Brand Commerce",
+  "getStarted": "Dùng thử miễn phí",
+  "getStartedNow": "Kết nối ngay",
+  "contactSales": "Liên hệ tư vấn",
+  "banner": {
+    "title": "Phá vỡ mọi rào cản trong kỷ nguyên bứt phá của thương mại điện tử",
+    "subtitle": "Bộ công cụ thúc đẩy thương hiệu mạnh mẽ, mang đến trải nghiệm mua sắm mượt mà trên tất cả các điểm chạm, đại lý bán hàng, các kênh bán online, offline.",
+    "learn": "Tìm hiểu thêm",
+    "contact": "Liên hệ đội ngũ"
+  },
+  "take": {
+    "title": "Kiểm soát hoàn toàn hành trình khách hàng",
+    "subtitle": "Cho phép người tiêu dùng trải nghiệm thương hiệu theo cách bạn mong muốn. Tối ưu hóa chuyển đổi mọi lúc mọi nơi, đồng thời nuôi dưỡng lòng trung thành của khách hàng."
+  },
+  "globalBrand": {
+    "title": "Giải pháp thông minh thúc đẩy thương hiệu toàn diện",
+    "subtitle": "Bảo đảm khách hàng của bạn trải nghiệm thương hiệu theo các bạn muốn và hiển thị đầy đủ mọi giai đoạn từ khám phá đến quyết định mua hàng.",
+    "steamline": {
+      "title": "#1. Hợp lý hóa quản lý bán hàng đa kênh",
+      "content": {
+        "take": "Kiểm soát hoàn toàn và tối ưu hóa hành trình khách hàng thông qua việc nắm bắt hành vi mua sắm của người tiêu dùng, với khả năng hiển thị thông tin chi tiết về toàn bộ giỏ hàng và khách hàng.",
+        "make": "Tận dụng triệt để tất cả các kênh để bán hàng và quản lý tập trung chúng trên một nền tảng duy nhất. Giám sát kho tổng hợp và thống nhất quản lý đơn hàng với khả năng hiển thị và kiểm soát toàn cầu.",
+        "quick": "Quản lý nhanh chóng, chính xác danh mục sản phẩm trên các kênh: Cập nhật danh mục sản phẩm, quảng cáo chiến dịch và nội dung từ một nguồn duy nhất và nâng cao trải nghiệm mua hàng cho khách hàng."
+      }
+    },
+    "brand": {
+      "title": "#2. Giải pháp giám sát thương hiệu",
+      "content": {
+        "monitor": "Giám sát thương hiệu, hiển thị thông tin đầy đủ về sản phẩm, vị trí, giá cả và khuyến mãi trên tất cả các kênh mà thương hiệu của bạn được bán.",
+        "keep": "Theo dõi tất cả thông tin trên các trang sản phẩm và tối ưu hóa số tiền khuyến mại và chia sẻ tìm kiếm của bạn.",
+        "track": "Theo dõi và phân tích các loại dữ liệu khác nhau để có các quyết định  tăng cường tối ưu hóa hiệu quả kinh doanh phù hợp."
+      }
+    },
+    "orderFulfill": {
+      "title": "#3. Quản lý thực hiện đơn hàng ngay trên một bảng điều khiển duy nhất",
+      "subtitle": "#3. Quản lý thực hiện đơn hàng ngay trên một bảng điều khiển duy nhất",
+      "content": {
+        "detailedly": "Giám sát chi tiết và chặt chẽ quy trình thực hiện đơn hàng Thương mại điện tử từ chọn hàng, đóng gói và vận chuyển trên nền tảng hiển thị 360°.",
+        "get": "Nhận dữ liệu kênh bán hàng/thị trường đa dạng của người bán được đồng bộ hóa trực tiếp với quy trình kho hàng.",
+        "align": "Tính năng phân phối đơn hàng giúp các trung tâm fulfillment cải thiện đáng kể khả năng xử lý hàng hoá."
+      }
+    },
+    "seamless": {
+      "title": "#4. Tích hợp liền mạch với các ứng dụng của bên thứ 3",
+      "content": {
+        "connect": "Kết nối hoạt động bán hàng đa kênh với các hệ thống doanh nghiệp bên thứ ba như công cụ kế toán & hệ thống SAP cho D2C.",
+        "integrate": "Tích hợp các kênh bán hàng trực tuyến của bạn chỉ với vài cú click chuột và bắt đầu quản lý tập trung mọi thứ ở một nơi thật dễ dàng."
+      }
+    },
+    "build": {
+      "title": "#5. Kinh doanh thông minh với báo cáo tổng hợp theo thời gian thực hàng ngày",
+      "content": {
+        "track": "Theo dõi và đo lường hiệu quả kinh doanh bằng các báo cáo tùy chỉnh đối với hàng tồn kho, đơn đặt hàng, khuyến mãi, bán hàng, v.v.",
+        "access": "Truy cập thông tin chi tiết theo thời gian thực để hiểu hiệu suất kinh doanh, nắm bắt các cơ hội yêu cầu về thời gian và đưa ra quyết định tức thì về việc có nên điều chỉnh hay nhân mạnh chiến lược hay không."
+      }
+    },
+    "customized": {
+      "title": "#6. Cá nhân hóa hành trình & trải nghiệm khách hàng theo thị trường",
+      "content": {
+        "custom": "Tùy chỉnh miền cụ thể theo vùng đơn giản bằng cách tự động tạo các thư mục con.",
+        "gather": "Thu thập thông tin từ đa kênh để khám phá những gì khách hàng làm trong suốt hành trình của họ, từ đó sử dụng các công cụ của chúng tôi để tối ưu hóa hành trình đó và thúc đẩy lòng trung thành với thương hiệu."
+      }
+    }
+  },
+  "offer": {
+    "title": "Mang đến trải nghiệm mua hàng liền mạch trên tất cả các kênh bán",
+    "subtitle": "Truy cập hơn 100 tính năng thông minh để quản lý các hoạt động Thương mại điện tử. Luân chuyển hàng tồn kho nhanh hơn, xử lý đơn đặt hàng ngay khi có đơn hàng, triển khai khuyến mại và mang đến cho khách hàng một trải nghiệm khó quên sau khi mua hàng.",
+    "case": {
+      "tag": "case study",
+      "title": "Deliver a holistic buying experience to your shoppers across channels..."
+    }
+  },
+  "explore": {
+    "title": "Khám phá thêm để thúc đẩy doanh nghiệp lên một tầm cao mới",
+    "subtitle": "Tối ưu hóa mọi điểm chạm bán hàng và mang lại trải nghiệm mua sắm đa kênh mượt mà cho khách hàng thông qua bộ công cụ mạnh mẽ tích hợp tất cả.",
+    "oms": {
+      "title": "Phần mềm quản lý bán hàng (OMS)",
+      "content": "Quản lý bán hàng đa kênh tại một nơi. Tối đa hóa hiệu quả với khả năng tự động hóa, thu thập dữ liệu thông minh."
+    },
+    "ship": {
+      "title": "Phần mềm tích hợp vận chuyển (Ship4P)",
+      "content": "Nền tảng quản lý tập trung các hãng vận chuyển, giúp giảm chi phí và đơn giản hóa việc quản lý lô hàng."
+    },
+    "wms": {
+      "title": "Phần mềm quản lý nhà kho (WMS)",
+      "content": "Thúc đẩy hiệu quả, giảm chi phí và tạo ra một doanh nghiệp siêu kết nối nhân viên, dữ liệu và quy trình trong kho."
+    },
+    "digital": {
+      "title": "StoreFront Layer",
+      "content": "Xây dựng website bán hàng của riêng bạn với sự hỗ trợ của bộ công cụ phần mềm toàn diện của IChiba."
+    },
+    "viewMore": "Xem thêm"
+  },
+  "theSecret": {
+    "tag": "THÚC ĐẨY THƯƠNG HIỆU",
+    "title": "Bí quyết để tăng chuyển đổi và duy trì độ phủ thương hiệu là một trải nghiệm khách hàng trôi chảy",
+    "subtitle": "Hãy liên hệ với các chuyên gia của chúng tôi để nhận được lời khuyên hữu ích về cách tối ưu hóa toàn bộ hệ sinh thái Thương mại điện tử và thúc đẩy lòng trung thành của khách hàng.",
+    "contact": "Liên hệ ngay"
+  }
+}

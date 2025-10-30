@@ -1,0 +1,316 @@
+.our-product-new {
+  display: flex;
+  padding: 40px 0px;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+
+  p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .sub-heading {
+    margin-bottom: 24px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin: 0 140px;
+  }
+
+  .link {
+    font-family: "Inter";
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 20px;
+
+    a {
+      color: var(--brand-brandb, #1135a8);
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 24px;
+      text-decoration: none;
+      cursor: pointer;
+    }
+
+    i {
+      padding-left: 4px;
+      color: var(--brand-brandb, #1135a8) !important;
+    }
+  }
+
+  .body {
+    padding-top: 80px;
+
+    .navigation-app {
+      display: flex;
+      padding: 16px 40px 16px 40px;
+      justify-content: center;
+      align-items: flex-end;
+      gap: 24px;
+      position: absolute;
+      border-radius: 16px;
+      left: 50%;
+      transform: translate(-50%, -50%);
+
+      .product .icon {
+        filter: grayscale(0.65) hue-rotate(180deg);
+      }
+
+      .active {
+        border: 2px solid #FF7400;
+
+        .title-product {
+          color: #FF7400;
+        }
+      }
+
+      .product.active .icon {
+        filter: none;
+      }
+    }
+
+    .content-app {
+      display: flex;
+      padding: 80px 40px 32px 40px;
+      justify-content: space-between;
+      align-items: flex-start;
+      align-self: stretch;
+      border-radius: 40px;
+      border: 2px solid var(--primary-primary-3-s, #adc6ff);
+      background: var(--white-white-6, #fff);
+
+      @keyframes rollout {
+        0% {
+          opacity: 0;
+        }
+
+        100% {
+          opacity: 1;
+          transition: opacity ease-in-out;
+        }
+      }
+
+      .d-flex {
+        animation: 1s rollout;
+      }
+
+      .feature {
+        flex: 1;
+        @include make-col(6);
+        padding-right: 1rem;
+
+        .title {
+          color: var(--black-ink-6-s, #333);
+          font-feature-settings: "clig" off, "liga" off;
+          /* 24B */
+          font-family: "Inter";
+          font-size: 24px;
+          font-style: normal;
+          font-weight: 700;
+          line-height: 32px;
+          /* 133.333% */
+        }
+      }
+
+      .media {
+        flex: 1;
+        @include make-col(6);
+
+        img {
+          object-fit: contain;
+        }
+      }
+
+      .sub-title {
+        color: var(--black-ink-5-s, #666);
+      }
+
+      img {
+        margin-right: 16px;
+      }
+
+      .feature-items {
+        display: flex;
+        flex-direction: column;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        gap: 16px;
+
+        .feature-item {
+          display: flex;
+          gap: 16px;
+        }
+      }
+
+      a {
+        color: var(--brand-brandb, #1135a8);
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 24px;
+        text-decoration: none;
+      }
+    }
+  }
+
+  @include respond(md) {
+    padding: 24px 16px;
+    text-align: start !important;
+
+    .h1-section {
+      text-align: start !important;
+      font-size: 24px !important;
+      line-height: 32px;
+      margin-bottom: 12px !important;
+    }
+
+    .sub-heading {
+      text-align: left;
+      align-items: start;
+      margin: 0 0;
+      font-size: 14px;
+      color: var(--black-ink-6-s, #333);
+      font-feature-settings: "clig" off, "liga" off;
+      line-height: 20px;
+    }
+
+    .body {
+      display: flex;
+      padding-top: 0px;
+      margin-top: 20px;
+
+      .navigation-app {
+        flex-direction: column;
+        align-items: start;
+        border-radius: 0;
+        background: none;
+        left: 0;
+        position: static;
+        transform: none;
+        padding: 0 0;
+        gap: 0;
+        box-shadow: none;
+
+        .product {
+          @include make-row();
+          margin-right: 0;
+          margin-left: 0;
+          padding-bottom: 1rem;
+          display: flex;
+          position: relative;
+
+          .product-wrapper {
+            .detail .title .content-app .title {
+              margin-top: 0px;
+            }
+          }
+
+          &:not(:last-child) .product-wrapper::after {
+            content: "";
+            position: absolute;
+            height: 100%;
+            left: 22px;
+            z-index: 1;
+            min-width: 2px;
+            background: linear-gradient(225deg, #5dbfde 0%, #3b4dab 100%);
+          }
+
+          .icon {
+            align-self: flex-start;
+            margin-right: 1rem;
+            width: 44px;
+            height: 44px;
+            z-index: 2;
+          }
+
+          &.active {
+
+
+            // animation: fadeInDown;
+            // animation-duration: 0.5s;
+            .icon::before {
+
+              background: linear-gradient(#ff7400, #ffab52);
+              filter: blur(34px);
+            }
+          }
+
+          .detail {
+            .title {
+              font-size: 18px;
+              line-height: 24px;
+              font-weight: 700;
+              margin-top: 8px;
+            }
+
+            .sub-title {
+              font-size: 14px;
+              margin-bottom: 8px;
+
+              p {
+                margin-bottom: 0px;
+              }
+            }
+
+            .feature-items {
+              display: flex;
+              flex-direction: column;
+              gap: 12px;
+
+              .feature-item {
+                font-size: 14px;
+                margin-bottom: 0px;
+
+                img {
+                  width: 22px !important;
+                  height: 22px !important;
+                }
+              }
+            }
+          }
+        }
+
+        .active {
+          border: none;
+        }
+
+      }
+
+      .content-app {
+        border: none;
+        padding: 0 0;
+        display: flex;
+        flex-direction: column;
+
+        .feature {
+          @include make-col(12);
+          padding-right: 0rem;
+        }
+
+        .media {
+          @include make-col(12);
+        }
+
+        @keyframes expand {
+          0% {
+            opacity: 0;
+          }
+
+          100% {
+            opacity: 1;
+            transition: opacity ease-in-out;
+          }
+        }
+
+        .d-flex {
+          animation: 1s expand;
+        }
+      }
+    }
+  }
+}

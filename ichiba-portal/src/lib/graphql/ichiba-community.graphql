@@ -1,0 +1,29 @@
+fragment itemsIchibaCommunity on IchibaCommunityItems{
+  title
+  content
+  img{
+    url
+  }
+  slug
+}
+
+query ichibaCommunityEntry($locale: String = ""){
+  ichibaCommunityCollection(locale:$locale,limit:1){
+    items{
+      title
+      content
+      img{
+        url
+      }
+      background{
+        url
+      }
+      button
+      itemsContentCollection(limit:3){
+        items{
+          ...itemsIchibaCommunity
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "banner": {
+    "title": [
+      "Số hóa toàn diện quy trình logistics với giải pháp",
+      " logistics một chạm ",
+      "(one-stop logistics)"
+    ],
+    "content": "Khai thác triệt để tiềm năng mạng lưới logistics với nền tảng SaaS IChiba - tích hợp liền mạch, theo dõi theo thời gian và tối ưu hoá hiệu suất.",
+    "contact": "Liên hệ ngay",
+    "items": [
+      { "title": "50%", "content": ["Tăng", "hiệu suất giao hàng"] },
+      { "title": "20%", "content": ["Đẩy nhanh", "thời gian xử lý hàng"] },
+      {
+        "title": "15%",
+        "content": ["Tăng", "hiệu quả các kênh phân phối"]
+      },
+      { "title": "15%", "content": ["Giảm", "tỷ lệ giao hàng chậm"] }
+    ]
+  },
+  "whyChoose": {
+    "title": "Tại sao chọn IChiba",
+    "instant": "Triển khai nhanh chóng",
+    "route": "Tối ưu hoá vận chuyển",
+    "actionable": "Báo cáo theo thời gian thực"
+  },
+  "suitability": {
+    "label": "Suitability",
+    "title": "Chuyển đổi số hoạt động logistics với giải pháp SaaS IChiba",
+    "multi": {
+      "title": "Quản lý đa hãng vận chuyển",
+      "content": "Quản lý tập trung đa hãng vận chuyển trên một màn hình. Đánh giá hiệu quả thông qua các báo cáo chi tiết."
+    },
+    "realTime": {
+      "title": "Theo dõi GPS theo thời gian thực",
+      "content": "Theo dõi sát sao hoạt động vận tải với tính năng theo dõi GPS theo thời gian thực, từ đó vạch ra lộ trình giao hàng nâng cao, giảm tiêu thụ nhiên liệu và giao hàng đúng giờ."
+    },
+    "analysis": {
+      "title": "Phân tích và đề xuất",
+      "content": "Phần tích và đề xuất những đơn vị vận chuyển dựa trên một số yếu tố: tuyến đường, giá cả, hiệu suất, tỷ lệ giao hàng thành công,..."
+    },
+    "inventory": {
+      "title": "Quản lý tồn kho",
+      "content": "Duy trì mức tồn kho tối ưu với tính năng dự đoán nhu cầu mua sắm, ngặn chặn tình trạng hết hàng, giảm tồn kho dư thừa, đảm bảo chuỗi cung ứng tinh gọn và đáp ứng đủ nhu cầu khách hàng."
+    },
+    "seamless": {
+      "title": "Khả năng tích hợp liền mạch",
+      "content": "Dễ dàng tích hợp với các hệ thống ERP, CRM và kế toán, từ đó tạo ra một hệ sinh thái thống nhất giúp giảm bớt khối lượng công việc."
+    },
+    "scalable": {
+      "title": "Công nghệ điện toán đám mây",
+      "content": "Nền tảng SaaS IChiba được xây dựng dựa trên công nghệ điện toán đám mây, đáp ứng nhu cầu về cơ sở hạ tầng công nghệ thông tin và mở rộng kinh doanh của doanh nghiệp."
+    }
+  },
+  "product": {
+    "title": "Sản phẩm phần mềm SaaS và dịch vụ phù hợp với lĩnh vực logistics",
+    "learnMore": "Xem thêm",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_61153e6c16.png",
+        "title": "Phần mềm quản lý kho vận",
+        "content": "Giải pháp quản lý đa kho giúp tăng hiệu suất xử lý hàng, giảm chi phí vận hành và đồng bộ hoạt động của nhiều kho hàng khác nhau.",
+        "link": "/products/wms"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_1_5ba028ab4d.png",
+        "title": "Ship4P",
+        "content": "Tập hợp các hãng vận chuyển trên cùng một bảng điều khiển duy nhất dễ dàng quản lý, theo dõi hành trình đơn hàng tiện lợi và nhanh chóng.",
+        "link": "/products/ship4p/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_2_b448f6d568.png",
+        "title": "Cross-Border Forwarding",
+        "content": "Quản lý xuất nhập khẩu dễ dàng hơn bao giờ hết, rút ngắn đến 40% thời gian thông quan, đảm bảo 100 SLA và sự hài lòng của khách hàng.",
+        "link": "/products/ship4p/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/EFEX_1da738d1fa.png",
+        "title": "Fulfillment by EFEX",
+        "content": "IChiba hợp tác với EFEX - nhà cung cấp dịch vụ fulfillment, mang đến cho các doanh nghiệp quy trình hoàn tất đơn hàng đa kênh, đa thị trường tốt nhất.",
+        "link": "/products/ship4p/overview"
+      }
+    ]
+  },
+  "enhance": {
+    "title": "Tối ưu chuỗi cung ứng - Chọn giải pháp logisitics một chạm (one-stop logistics) ngay hôm nay!",
+    "contact": "Liên hệ ngay"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "heading": [
+        "Customer ",
+        "stories"
+    ],
+    "subHeading": "Explore inspiring customer stories and witness their remarkable journeys and achievements by using IChiba SaaS e-commerce enablement platform.",
+    "contentSider": "Trusted by 1,000 + professional companies in 220 + countries",
+    "caseStudies": "Case Studies",
+    "products": "Products",
+    "tag": "Tag",
+    "readStory": "Read story",
+    "contact": {
+        "title": "Unlock endless potential of your stores with end-to-end SaaS e-commerce enablement platform!",
+        "btnText": "Contact sales"
+    },
+    "discover": {
+        "heading": "Discover more",
+        "list": [
+            { "title": "Discover our possibilities for", "textLink": "Business owners"}, 
+            { "title": "Discover our possibilities for", "textLink": "Marketing teams"}, 
+            { "title": "Discover our possibilities for", "textLink": "Technical teams"}, 
+            { "title": "Discover our possibilities for", "textLink": "Operation teams"} 
+        ]
+    },
+    "relatedStories": "Related stories"
+}

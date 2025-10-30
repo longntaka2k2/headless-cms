@@ -1,0 +1,1678 @@
+{
+  "heading": "Giải pháp giá tối ưu cho doanh nghiệp của bạn",
+  "subHeading": "Các gói dịch vụ của IChiba Commerce Layer không chỉ tiết kiệm và linh hoạt mà còn được tuỳ chỉnh hoàn hảo để đáp ứng mọi nhu cầu đặc biệt của doanh nghiệp.",
+  "contact": "Liên hệ ngay",
+  "contactSales": "Liên hệ ngay",
+  "listTablePrice": [
+    {
+      "title": "Commerce Layer",
+      "subHeader": [
+        {
+          "title": "Free",
+          "itemContent": {
+            "title": "Free",
+            "priceMonth": {
+              "value": "$0",
+              "image": ""
+            },
+            "priceYear": {
+              "value": "$0",
+              "image": ""
+            },
+            "userManagement": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "markets": {
+              "value": "1 thị trường",
+              "image": ""
+            },
+            "inventoryLocation": {
+              "value": "3",
+              "image": ""
+            },
+            "inventoryAllocation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "network": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inventoryForecasting": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "suppliers": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundProcessing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cost": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "purchasing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximum": {
+              "value": "3000",
+              "image": ""
+            },
+            "return": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "single": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "catalog": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "documentation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "standard": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "advanced": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "integration": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximumStores": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "munberOfIntegrated": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "product": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "storefront": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "broadcast": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "campaign": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "integrationCDP": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "pointWallet": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "discount": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "voucher": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "cashback": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "customerData": {
+              "value": "500$/ tháng + Pay as you go theo số lượng data request",
+              "image": ""
+            },
+            "support": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "recommendation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            }
+          }
+        },
+        {
+          "title": "Grow",
+          "itemContent": {
+            "title": "Grow",
+            "priceMonth": {
+              "value": "$199",
+              "image": ""
+            },
+            "priceYear": {
+              "value": "$1.791",
+              "image": ""
+            },
+            "userManagement": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "markets": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "inventoryLocation": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "inventoryAllocation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "network": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inventoryForecasting": {
+              "value": "$500/tháng",
+              "image": ""
+            },
+            "suppliers": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundProcessing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cost": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "purchasing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximum": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "return": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "single": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "catalog": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "documentation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "standard": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "advanced": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integration": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximumStores": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "munberOfIntegrated": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "product": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "storefront": {
+              "value": "(1% GMV)",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "broadcast": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "campaign": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integrationCDP": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "pointWallet": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "discount": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "voucher": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cashback": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "customerData": {
+              "value": "",
+              "image": ""
+            },
+            "support": {
+              "value": "24/7",
+              "image": ""
+            },
+            "recommendation": {
+              "value": "$500/tháng",
+              "image": ""
+            }
+          }
+        },
+        {
+          "title": "Enterprise",
+          "itemContent": {
+            "title": "Enterprise",
+            "priceMonth": {
+              "value": "Liên hệ ngay",
+              "image": ""
+            },
+            "priceYear": {
+              "value": "Liên hệ ngay",
+              "image": ""
+            },
+            "userManagement": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "markets": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "inventoryLocation": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "inventoryAllocation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "network": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inventoryForecasting": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "suppliers": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundProcessing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cost": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "purchasing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximum": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "return": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "single": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "catalog": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "documentation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "standard": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "advanced": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integration": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximumStores": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "munberOfIntegrated": {
+              "value": "Không giới hạn",
+              "image": ""
+            },
+            "product": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "storefront": {
+              "value": "(1% GMV)",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "broadcast": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "campaign": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integrationCDP": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "pointWallet": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "discount": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "voucher": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cashback": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "customerData": {
+              "value": "",
+              "image": ""
+            },
+            "support": {
+              "value": "24/7",
+              "image": ""
+            },
+            "recommendation": {
+              "value": "$500/tháng",
+              "image": ""
+            }
+          }
+        }
+      ],
+      "titleLeft": {
+        "heading": "Chức năng chính",
+        "userManagement": "Quản lý người dùng",
+        "iChiba": "IChiba Multi-market",
+        "inventory": "Quản lý tồn kho",
+        "purchaseOrder": "Quản lý nhập hàng PO",
+        "saleOrder": "Quản lý đơn bán hàng SO",
+        "product": "Quản lý sản phẩm",
+        "reportAnalytics": "Báo cáo, thống kê",
+        "systemIntegration": "Kết nối với các hệ thống khác",
+        "salesChannelIntegration": "Kết nối kênh bán hàng",
+        "marketingAutomation": "Marketing Automation",
+        "loyaltyProgram": "Loyalty program",
+        "cdp": "CDP",
+        "support": "24/7 Support"
+      },
+      "functions": {
+        "heading": "Functions",
+        "priceMonth": {
+          "title": "Phí định kỳ/tháng"
+        },
+        "priceYear": {
+          "title": "Phí định kỳ/ Năm (chiết khấu 25% khi thanh toán trước 1 năm)"
+        },
+        "userManagement": {
+          "title": "Quản lý, phân quyền nguời dùng"
+        },
+        "markets": {
+          "title": "Quản lý market"
+        },
+        "inventoryLocation": {
+          "title": "Inventory Location"
+        },
+        "inventoryAllocation": {
+          "title": "Chiến lược phân bổ tồn kho"
+        },
+        "network": {
+          "title": "Network"
+        },
+        "inventoryForecasting": {
+          "title": "Dự báo tồn kho"
+        },
+        "suppliers": {
+          "title": "Quản lý nhà cung cấp"
+        },
+        "inboundProcessing": {
+          "title": "Quản lý và xử lý đơn hàng nhập"
+        },
+        "cost": {
+          "title": "Quản lý Cost center"
+        },
+        "purchasing": {
+          "title": "Phân quyền mua hàng"
+        },
+        "inboundReports": {
+          "title": "Báo cáo nhập hàng"
+        },
+        "maximum": {
+          "title": "Số đơn bán hàng tối đa/tháng"
+        },
+        "return": {
+          "title": "Quản lý hàng hoàn & khiếu nại"
+        },
+        "catalog": {
+          "title": "Quản lý catalog, attribute"
+        },
+        "single": {
+          "title": "Quản lý nhóm sản phẩm đơn lẻ, sản phẩm combo"
+        },
+        "documentation": {
+          "title": "Quản lý chứng từ, tài liệu sản phẩm"
+        },
+        "standard": {
+          "title": "Standard analytic report"
+        },
+        "advanced": {
+          "title": "Advanced analytic report"
+        },
+        "integration": {
+          "title": "Integration"
+        },
+        "maximumStores": {
+          "title": "Số gian hàng tối đa được kết nối trên mỗi kênh bán (...)"
+        },
+        "munberOfIntegrated": {
+          "title": "Số fanpage Facebook & Instagram được phép kết nối"
+        },
+        "product": {
+          "title": "Đăng bán sản phẩm trên Google Shopping"
+        },
+        "storefront": {
+          "title": "Tích hợp website bán hàng (storefront)"
+        },
+        "broadcast": {
+          "title": "Broadcast"
+        },
+        "campaign": {
+          "title": "Campaign & Journey Builders"
+        },
+        "integrationCDP": {
+          "title": "Tích hợp CDP"
+        },
+        "pointWallet": {
+          "title": "Quản lý ví point"
+        },
+        "discount": {
+          "title": "Quản lý discount"
+        },
+        "voucher": {
+          "title": "Quản lý voucher"
+        },
+        "cashback": {
+          "title": "Quản lý hoàn tiền (Cashback)"
+        },
+        "customerData": {
+          "title": "Hệ thống quản lý và phân tích dữ liệu khách hàng"
+        },
+        "support": {
+          "title": "Hỗ trợ"
+        },
+        "recommendation": {
+          "title": [
+            "AI recommendation:",
+            " Gợi ý sản phẩm phù hợp cho từng khách dựa trên dữ liệu lịch sử tìm kiếm, xem, report của khách"
+          ]
+        }
+      }
+    },
+    {
+      "title": "WMS",
+      "unit": "1 lần duy nhất",
+      "uom": ["UOM/tháng", "VND/UOM"],
+      "subHeader": [
+        {
+          "title": "Đơn vị tính",
+          "itemContent": {
+            "title": "Đơn vị tính",
+            "solution": {
+              "value": "",
+              "image": ""
+            },
+            "trainning": {
+              "value": "",
+              "image": ""
+            },
+            "system": {
+              "value": "",
+              "image": ""
+            },
+            "warehouse": {
+              "value": "",
+              "image": ""
+            },
+            "user": {
+              "value": "",
+              "image": ""
+            },
+            "inboundRequest": {
+              "value": "",
+              "image": ""
+            },
+            "inboundReceiving": {
+              "value": "",
+              "image": ""
+            },
+            "autoSuggestion": {
+              "value": "",
+              "image": ""
+            },
+            "outbound": {
+              "value": [
+                "0-50,000",
+                "50,001 - 90,000",
+                "90,001 - 180,000",
+                ">= 180,001"
+              ],
+              "image": ""
+            },
+            "multiplePicking": {
+              "value": "",
+              "image": ""
+            },
+            "multipleOutbound": {
+              "value": "",
+              "image": ""
+            },
+            "flexible": {
+              "value": "",
+              "image": ""
+            },
+            "automated": {
+              "value": "",
+              "image": ""
+            },
+            "multiCarrier": {
+              "value": "",
+              "image": ""
+            },
+            "product": {
+              "value": "",
+              "image": ""
+            },
+            "location": {
+              "value": "",
+              "image": ""
+            },
+            "stocktaking": {
+              "value": "",
+              "image": ""
+            },
+            "warehouseFacilities": {
+              "value": "",
+              "image": ""
+            },
+            "operational": {
+              "value": "",
+              "image": ""
+            },
+            "integrationSales": {
+              "value": "",
+              "image": ""
+            },
+            "integrationLogistics": {
+              "value": "",
+              "image": ""
+            },
+            "inventoryReports": {
+              "value": "",
+              "image": ""
+            },
+            "operationalPerformance": {
+              "value": "",
+              "image": ""
+            },
+            "shipping": {
+              "value": "",
+              "image": ""
+            },
+            "onSite": {
+              "value": "Ngày công",
+              "image": ""
+            },
+            "outOfScope": {
+              "value": "",
+              "image": ""
+            }
+          }
+        },
+        {
+          "title": "Mức phí (VND)",
+          "itemContent": {
+            "title": "Mức phí (VND)",
+            "solution": {
+              "value": "30.000.000 đ",
+              "image": ""
+            },
+            "trainning": {
+              "value": "30.000.000 đ",
+              "image": ""
+            },
+            "system": {
+              "value": "30.000.000 đ",
+              "image": ""
+            },
+            "warehouse": {
+              "value": "5.000.000đ/Kho/Tháng",
+              "image": ""
+            },
+            "user": {
+              "value": "Unlimited users",
+              "image": ""
+            },
+            "inboundRequest": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "inboundReceiving": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "autoSuggestion": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "outbound": {
+              "value": ["450 đ", "400 đ", "350 đ", "300 đ"],
+              "image": ""
+            },
+            "multiplePicking": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "multipleOutbound": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "flexible": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "automated": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "multiCarrier": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "product": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "location": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "stocktaking": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "warehouseFacilities": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "operational": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integrationSales": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integrationLogistics": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inventoryReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "operationalPerformance": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipping": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "onSite": {
+              "value": "2.500.000 đ",
+              "image": ""
+            },
+            "outOfScope": {
+              "value": "Thoả thuận riêng",
+              "image": ""
+            }
+          }
+        }
+      ],
+      "titleLeft": {
+        "heading": "Chức năng chính",
+        "deploymentCosts": "Chi phí triển khai",
+        "warehouseLocation": "Quản lý Warehouse location",
+        "userManagement": "Quản lý User",
+        "inboundManagement": "Quản lý nhập kho",
+        "outboundManagement": "Quản lý xuất kho",
+        "inventory": "Quản lý tồn kho",
+        "report": "Báo cáo",
+        "additionalServices": "Dịch vụ cộng thêm"
+      },
+      "functions": {
+        "heading": "Chức năng",
+        "solution": {
+          "title": "Chi phí tư vấn giải pháp (Mô hình giải pháp kết nối, cá nhân hóa khách hàng)"
+        },
+        "trainning": {
+          "title": "Chi phí đào tạo (Kèm bộ tài liệu đào tạo)"
+        },
+        "system": {
+          "title": "Chi phí cài đặt thiết lập hệ thống"
+        },
+        "warehouse": {
+          "title": "Quản lý warehouse location (tạo, vận hành,...) tại VN"
+        },
+        "user": {
+          "title": "Quản lý số lượng user được phép sử dụng WMS"
+        },
+        "inboundRequest": {
+          "title": "Quản lý yêu cầu nhập kho"
+        },
+        "inboundReceiving": {
+          "title": "Tiếp nhận và khai thác chuyên sâu"
+        },
+        "autoSuggestion": {
+          "title": "Tự động gán vị trí lưu kho với thuật toán tối ưu"
+        },
+        "outbound": {
+          "title": "Quản lý đơn hàng xuất kho (outbound request)"
+        },
+        "multiplePicking": {
+          "title": "Đa dạng chiến lược nhặt hàng (single, batch, zone, wave picking)"
+        },
+        "multipleOutbound": {
+          "title": "Đa dạng phương pháp xuất kho (vd: FIFO, FEFO, LIFO,...)"
+        },
+        "flexible": {
+          "title": "Đóng gói linh hoạt"
+        },
+        "automated": {
+          "title": "Lưu video đóng gói tự động theo đơn hàng"
+        },
+        "multiCarrier": {
+          "title": "Quản lý giao hàng với đa hãng vận chuyển"
+        },
+        "product": {
+          "title": "Quản lý sản phẩm, chứng từ sản phẩm"
+        },
+        "location": {
+          "title": "Quản lý tồn kho chi tiết theo vị trí"
+        },
+        "stocktaking": {
+          "title": "Kiểm kho"
+        },
+        "warehouseFacilities": {
+          "title": "Cấu hình Warehouse facilities (thiết bị, vị trí, nguyên vật liệu,...)"
+        },
+        "operational": {
+          "title": "Quản lý hiệu suất vận hành"
+        },
+        "integrationSales": {
+          "title": "Tích hợp với các hệ thống bán hàng"
+        },
+        "integrationLogistics": {
+          "title": "Tích hợp với các đơn vị vận chuyển"
+        },
+        "inventoryReports": {
+          "title": "Báo cáo tồn kho"
+        },
+        "operationalPerformance": {
+          "title": "Báo cáo hiệu suất vận hành"
+        },
+        "shipping": {
+          "title": "Báo cáo vận chuyển"
+        },
+        "onSite": {
+          "title": "Chi phí cho việc thuê chuyên gia triển khai onsite"
+        },
+        "outOfScope": {
+          "title": "Chi phí phát sinh ngoài phạm vi dự án được đánh giá và thỏa thuận giữa ICHIBA và khách hàng"
+        }
+      }
+    },
+    {
+      "title": "Ship4P",
+      "subHeader": [
+        {
+          "title": "Free",
+          "itemContent": {
+            "title": "Free",
+            "recurringMonth": {
+              "value": "$0",
+              "image": ""
+            },
+            "recurringYear": {
+              "value": "$0",
+              "image": ""
+            },
+            "packageManagement": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageMannula": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageConsolidation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipmentDomestic": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipmentInternational": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "carrier": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "generate": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipment": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "create": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "storefront": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "packageBased": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "multiRoute": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "custom": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "connectMerchant": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "connectShip4p": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "tax": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "document": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "shippingReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            }
+          }
+        },
+        {
+          "title": "Grow",
+          "itemContent": {
+            "title": "Grow",
+            "recurringMonth": {
+              "value": "$49",
+              "image": ""
+            },
+            "recurringYear": {
+              "value": "$441",
+              "image": ""
+            },
+            "packageManagement": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageMannula": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageConsolidation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipmentDomestic": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipmentInternational": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "carrier": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "generate": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipment": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "create": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "storefront": {
+              "value": "(1% GMV)",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageBased": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "multiRoute": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "custom": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "connectMerchant": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "connectShip4p": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "tax": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "document": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shippingReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            }
+          }
+        }
+      ],
+      "titleLeft": {
+        "heading": "Chức năng chính",
+        "packageManagement": "Quản lý Package (gói hàng)",
+        "shipmentManagement": "Quản lý Shipment",
+        "createPersonalCarrier": "Tạo Carrier riêng",
+        "storefrontIntegration": "Kết nối storefront",
+        "fareManagement": "Quản lý giá cước",
+        "carrierConnection": "Quản lý kết nối Carrier",
+        "taxDocument": "Quản lý Tax & Document",
+        "reports": "Báo cáo"
+      },
+      "functions": {
+        "heading": "Chức năng",
+        "recurringMonth": {
+          "title": "Phí định kỳ/tháng"
+        },
+        "recurringYear": {
+          "title": "Phí định kỳ/ Năm (chiết khấu 25% khi thanh toán trước 1 năm)"
+        },
+        "packageManagement": {
+          "title": "Quản lý package (kiện hàng trong kho)"
+        },
+        "packageMannula": {
+          "title": "Vận hành, khai thác thủ công package"
+        },
+        "packageConsolidation": {
+          "title": "Tách/Gộp package (chức năng nâng cao)"
+        },
+        "shipmentDomestic": {
+          "title": "Quản lý shipment (đơn vận nội địa)"
+        },
+        "shipmentInternational": {
+          "title": "Quản lý shipment ( đơn quốc tế"
+        },
+        "carrier": {
+          "title": "Tích hợp với các hãng vận chuyển"
+        },
+        "generate": {
+          "title": "Tạo vận đơn phát hàng chặng cuối qua các hãng vận chuyển"
+        },
+        "shipment": {
+          "title": "Cập nhật hành trình vận chuyển của shipment"
+        },
+        "create": {
+          "title": "Khởi tạo hãng vận chuyển riêng My Carrier"
+        },
+        "storefront": {
+          "title": "Kết nối storefront , tạo web / app vận chuyển"
+        },
+        "packageBased": {
+          "title": "Quản lý cước dịch vụ package"
+        },
+        "multiRoute": {
+          "title": "Quản lý cước dịch vụ vận chuyển đa tuyến"
+        },
+        "custom": {
+          "title": "Quản lý bảng cước cá nhân hóa"
+        },
+        "connectMerchant": {
+          "title": "Kết nối đơn vị vận chuyển bằng tài khoản của Merchant"
+        },
+        "connectShip4p": {
+          "title": "Kết nối đơn vị vận chuyển bằng tài khoản của Ship4p"
+        },
+        "tax": {
+          "title": "Quản lý thuế XNK"
+        },
+        "document": {
+          "title": "Quản lý chứng từ XNK"
+        },
+        "shippingReports": {
+          "title": "Báo cáo vận chuyển"
+        }
+      }
+    },
+    {
+      "title": "Storefront Layer",
+      "items": [
+        {
+          "title": "1. Website:",
+          "subHeader": [
+            {
+              "title": "Đơn vị",
+              "itemContent": {
+                "usingFree": {
+                  "value": "Chủ đề",
+                  "image": ""
+                },
+                "usingPro": {
+                  "value": "Chủ đề",
+                  "image": ""
+                },
+                "landingPage": {
+                  "value": "Tháng/Landing page",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "Năm",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "Trading",
+                  "image": ""
+                },
+                "managing": {
+                  "value": ["Proxyshopping service", "Dropship", "POD"],
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Lần",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+                },
+                "additional": {
+                  "value": "Lần tải",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Mức phí(USD)",
+              "itemContent": {
+                "usingFree": {
+                  "value": "Miễn phí",
+                  "image": ""
+                },
+                "usingPro": {
+                  "value": "$400",
+                  "image": ""
+                },
+                "landingPage": {
+                  "value": "$8",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "$400/năm",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "",
+                  "image": ""
+                },
+                "managing": {
+                  "value": "1%* GMV",
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Báo giá theo thiết kế",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": ""
+                },
+                "additional": {
+                  "value": "$80 - $120",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Mức phí(VND)",
+              "itemContent": {
+                "usingFree": {
+                  "value": "Miễn phí",
+                  "image": ""
+                },
+                "usingPro": {
+                  "value": "10.000.000",
+                  "image": ""
+                },
+                "landingPage": {
+                  "value": "200.000",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "10.000.000",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "",
+                  "image": ""
+                },
+                "managing": {
+                  "value": "1% GMV",
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Báo giá theo thiết kế",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": ""
+                },
+                "additional": {
+                  "value": "2.000.000 - 3.000.000",
+                  "image": ""
+                }
+              }
+            }
+          ],
+          "titleLeft": {
+            "heading": "Dịch vụ",
+            "buildingWebsite": "Xây dựng website",
+            "landingPage": "Phí Landing Page (bao gồm hosting, không bao gồm phí domain)",
+            "annual": "Phí duy trì website hàng năm",
+            "managing": "Quản lý đơn hàng bán thành công trên storefront",
+            "custom": "Thiết kế theo giao diện độc quyền: Theo từng đơn đặt hàng",
+            "product": "Tích hợp sản phẩm Crawler",
+            "additionalServices": "Phí tải các theme khác trong kho : Tùy theo giá của người bán theme"
+          },
+          "functions": {
+            "usingFree": {
+              "title": "Với theme Free có sẵn (Powered by IChiba)"
+            },
+            "usingPro": {
+              "title": "Theme Pro sẵn của IChiba"
+            }
+          }
+        },
+        {
+          "title": "2. Ứng dụng Mobile:",
+          "subHeader": [
+            {
+              "title": "Đơn vị",
+              "itemContent": {
+                "development": {
+                  "value": "Lần đầu",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "Trading",
+                  "image": ""
+                },
+                "managing": {
+                  "value": ["Proxyshopping service", "Dropship", "POD"],
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Lần",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+                },
+                "annual": {
+                  "value": "Năm",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Mức phí (USD)",
+              "itemContent": {
+                "development": {
+                  "value": "$2000",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "",
+                  "image": ""
+                },
+                "managing": {
+                  "value": "1%* GMV",
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Báo giá theo thiết kế",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "$2000",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Mức phí(VND)",
+              "itemContent": {
+                "development": {
+                  "value": "50.000.000",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "",
+                  "image": ""
+                },
+                "managing": {
+                  "value": "1%* GMV",
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Báo giá theo thiết kế",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "50.000.000",
+                  "image": ""
+                }
+              }
+            }
+          ],
+          "titleLeft": {
+            "heading": "Dịch vụ",
+            "development": "Xây dựng (coding) & triển khai (lên Apple Store, CH Play) theo giao diện mẫu của Ichiba",
+            "managing": "Quản lý đơn hàng bán thành công trên storefront",
+            "custom": "Xây dựng theo thiết kế độc quyền",
+            "product": "Tích hợp sản phẩm Crawler",
+            "annual": "Phí duy trì, bảo trì hàng năm (tính từ năm đầu tiên)"
+          }
+        },
+        {
+          "title": "3. Crawler service & Bidding:",
+          "subHeader": [
+            {
+              "title": "Mức phí chuẩn/tháng",
+              "valueCommon": "",
+              "itemContent": {
+                "mercari": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "yahoo": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "amazon": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "ponpareMall": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "ebay": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "macy": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "gmarket": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "taobao": {
+                  "value": "$29",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Số lượng request tiêu chuẩn",
+              "valueCommon": "17.000 request/ngày",
+              "itemContent": {
+                "mercari": {
+                  "value": "17.000 request/ngày",
+                  "image": ""
+                },
+                "yahoo": {
+                  "value": "17.000 request/ngày",
+                  "image": ""
+                },
+                "amazon": {
+                  "value": "17.000 request/ngày",
+                  "image": ""
+                },
+                "ponpareMall": {
+                  "value": "17.000 request/ngày",
+                  "image": ""
+                },
+                "ebay": {
+                  "value": "17.000 request/ngày",
+                  "image": ""
+                },
+                "macy": {
+                  "value": "17.000 request/ngày",
+                  "image": ""
+                },
+                "gmarket": {
+                  "value": "17.000 request/ngày",
+                  "image": ""
+                },
+                "taobao": {
+                  "value": "17.000 request/ngày",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Phí gia tăng",
+              "valueCommon": "$5/1.000 request tăng thêm - tính theo ngày",
+              "itemContent": {
+                "mercari": {
+                  "value": "$5/1.000 request tăng thêm - tính theo ngày",
+                  "image": ""
+                },
+                "yahoo": {
+                  "value": "$5/1.000 request tăng thêm - tính theo ngày",
+                  "image": ""
+                },
+                "amazon": {
+                  "value": "$5/1.000 request tăng thêm - tính theo ngày",
+                  "image": ""
+                },
+                "ponpareMall": {
+                  "value": "$5/1.000 request tăng thêm - tính theo ngày",
+                  "image": ""
+                },
+                "ebay": {
+                  "value": "$5/1.000 request tăng thêm - tính theo ngày",
+                  "image": ""
+                },
+                "macy": {
+                  "value": "$5/1.000 request tăng thêm - tính theo ngày",
+                  "image": ""
+                },
+                "gmarket": {
+                  "value": "$5/1.000 request tăng thêm - tính theo ngày",
+                  "image": ""
+                },
+                "taobao": {
+                  "value": "$5/1.000 request tăng thêm - tính theo ngày",
+                  "image": ""
+                }
+              }
+            }
+          ],
+          "titleLeft": {
+            "heading": "Quốc gia xuất hàng",
+            "japan": "Nhật",
+            "us": "Mỹ",
+            "korea": "Hàn Quốc",
+            "china": "Trung Quốc"
+          },
+          "functions": {
+            "heading": "Sàn (full site)",
+            "mercari": {
+              "title": "Mercari"
+            },
+            "yahoo": {
+              "title": "Yahoo Auction"
+            },
+            "amazon": {
+              "title": "Amazon JP, Rakuten, Yahoo, Paypay, rakuma"
+            },
+            "ponpareMall": {
+              "title": "PonpareMall, Reclo, surugaya, zozotown"
+            },
+            "ebay": {
+              "title": "Ebay"
+            },
+            "macy": {
+              "title": "Macy’s, Amazon US"
+            },
+            "gmarket": {
+              "title": "Gmarket, coupang, Tmon"
+            },
+            "taobao": {
+              "title": "Taobao, 1688, Tmall, Pindoudou, Global jd"
+            }
+          }
+        },
+        {
+          "title": "Note: Nếu cut half site thì không tính phí",
+          "subHeader": [
+            {
+              "title": "Mức phí chuẩn/tháng",
+              "itemContent": {
+                "monthly": {
+                  "value": "$200",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "$1.800",
+                  "image": ""
+                },
+                "auctionManagement": {
+                  "value": "",
+                  "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+                },
+                "auctionOrderManagement": {
+                  "value": "",
+                  "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+                }
+              }
+            },
+            {
+              "title": "Số lượt đấu giá tiêu chuẩn",
+              "itemContent": {
+                "monthly": {
+                  "value": "",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "",
+                  "image": ""
+                },
+                "auctionManagement": {
+                  "value": "600 lượt/ngày",
+                  "image": ""
+                },
+                "auctionOrderManagement": {
+                  "value": "",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Phí gia tăng",
+              "itemContent": {
+                "monthly": {
+                  "value": "",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "",
+                  "image": ""
+                },
+                "auctionManagement": {
+                  "value": "$3/100 lượt tăng thêm - tính phí theo ngày",
+                  "image": ""
+                },
+                "auctionOrderManagement": {
+                  "value": "",
+                  "image": ""
+                }
+              }
+            }
+          ],
+          "titleLeft": {
+            "heading": "Chức năng chính",
+            "monthly": "Phí định kỳ/tháng",
+            "annual": "Phí định kỳ/ Năm (chiết khấu 25% khi thanh toán trước 1 năm)",
+            "auctionManagement": "Quản lý đấu giá",
+            "auctionOrderManagement": "Quản lý đơn hàng đấu giá"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pricing, Invoice & Billing management",
+      "subHeader": [
+        {
+          "title": "Miễn phí",
+          "itemContent": {
+            "title": "Miễn phí",
+            "monthly": {
+              "value": "$0",
+              "image": ""
+            },
+            "annual": {
+              "value": "$0",
+              "image": ""
+            },
+            "invoice": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "transaction": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            }
+          }
+        }
+      ],
+      "titleLeft": {
+        "heading": "Chức năng chính",
+        "invoice": "Quản lý hoá đơn & thanh toán"
+      },
+      "functions": {
+        "heading": "Chức năng",
+        "monthly": {
+          "title": "Phí định kỳ/tháng"
+        },
+        "annual": {
+          "title": "Phí định kỳ/năm (chiết khấu 25% khi thnah toán trước 1 năm)"
+        },
+        "invoice": {
+          "title": "Quản lý invoice"
+        },
+        "transaction": {
+          "title": "Quản lý giao dịch"
+        }
+      }
+    }
+  ]
+}

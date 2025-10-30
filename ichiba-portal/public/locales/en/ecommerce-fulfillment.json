@@ -1,0 +1,180 @@
+{
+  "eCommerceFulfillment": "eCommerce Fulfillment",
+  "getStarted": "Get started for free",
+  "getStartedNow": "Get started now",
+  "contactSales": "Contact Sales",
+  "introduce": {
+    "title": "Effortless eCommerce fulfillment for your business",
+    "content": "From inventory management to order tracking, our comprehensive eCommerce fulfillment solution empowers you to stay in control of your business operations every step of the way without any effort."
+  },
+  "simplifyFulfillment": {
+    "title": "Simplify your fulfillment",
+    "subTitle": "Experience hassle-free fulfillment as we simplify & optimize the entire process in only 3 stages.",
+    "slices": [
+      {
+        "title": "Integrate your eCommerce platform",
+        "content": "Our fulfillment dashboard seamlessly integrates with well-known eCommerce sites including: Shopify, Ebay, Shopee, Lazada, Janbox,..."
+      },
+      {
+        "title": "Send your inventory our fulfillment centers",
+        "content": "Our team will discuss with you to choose the nearest fulfillment center. It will help to reduce the transit time and save cost for each package."
+      },
+      {
+        "title": "Shipping to your customer",
+        "content": "All orders from eCommerce platforms are automatically imported into fulfillment centers for processing. After that, it will be shipped  to your customer’s hand."
+      }
+    ],
+    "banner": {
+      "title": "Faster fulfillment to accelerate sales",
+      "content": "Connect your stores and get a custom-fitting eCommerce fulfillment plan to your specific needs."
+    }
+  },
+  "fulfillmentProficiency": {
+    "title": "Our fulfillment proficiency",
+    "subTitle": "Seamlessly process e-commerce orders with our exceptional capacity, extensive warehousing, robust fulfillment network & strategic partnerships.",
+    "items": [
+      {
+        "value": "> 50,000 m2",
+        "label": "Total warehouse area"
+      },
+      {
+        "value": "50+",
+        "label": "Global partner carriers"
+      },
+      {
+        "value": "20+",
+        "label": "Fulfillment centers around the world"
+      },
+      {
+        "value": "API",
+        "label": "Integration"
+      },
+      {
+        "value": "> 99%",
+        "label": "On time and accurately"
+      }
+    ]
+  },
+  "multiChannelFulfillment": {
+    "title": "Multi-channel fulfillment",
+    "content": "Fulfillment for multi-channels may be challenging, costly, time-consuming and unreliable. Let us handle these challenges for you and we ensure that your store always provides the highest level of service for your consumers.",
+    "items": [
+      {
+        "title": "Reap profit",
+        "content": "Multi-channel fulfillment enhances the number of touchpoints with your customers as well as the service quality, which gives better results in sales opportunities."
+      },
+      {
+        "title": "Develop seamless processes",
+        "content": "Operations become more efficient and streamlined through integrated and coordinated fulfillment procedures."
+      },
+      {
+        "title": "Boost customer satisfaction",
+        "content": "Brands get more conversions from a tailored customer journey, improved product availability & more selection, as well as the flexibility to shop at a convenient time & location."
+      }
+    ]
+  },
+  "fulfillmentProcess": {
+    "title": "eCommerce fulfillment process",
+    "content": "Discover the fascinating world of e-commerce fulfillment at each step. We will unveil the behind-the-scenes journey that brings your products to your customer’s hands.",
+    "items": [
+      {
+        "title": "Connect with eCommerce sites",
+        "content": "Connect with all your eCommerce platforms to synchronize the order-related data."
+      },
+      {
+        "title": "Order processing",
+        "content": "Receiving order details, verifying the customer’s information and checking inventory availability."
+      },
+      {
+        "title": "Inventory management",
+        "content": "Staff check the availability of the ordered items in the inventory. They update the inventory records to ensure accurate stock levels."
+      },
+      {
+        "title": "Picking & packing",
+        "content": "Automated systems pick the items from the warehouse shelves based on the order details. Then pack the item securely with appropriate packing materials."
+      },
+      {
+        "title": "Labeling & shipping",
+        "content": "Labeling the order with the shipping label that includes the customer’s address. The package is then handed over to the shipping carrier."
+      },
+      {
+        "title": "Update order status in real-time",
+        "content": "Once the package is in transit, the customer may receive an email or notification on various platforms with order status details. This allows them to monitor the shipment's progress and estimated delivery date."
+      }
+    ]
+  },
+  "focusYourSale": {
+    "title": "Focus on your sale, leave the fulfillment to us",
+    "content": "Unburden yourself from the complexities of fulfillment and fully concentrate on driving sales as we expertly manage every aspect of eCommerce fulfillment.",
+    "items": [
+      "We connect",
+      "We Integrate",
+      "We process",
+      "We ship",
+      "We support",
+      "You grow"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why choose us?",
+    "content": "Choosing the appropriate fulfillment partner is a critical decision for every eCommerce business!<br />Let’s discover how our team can assist you with scaling your business.",
+    "items": [
+      {
+        "title": "Exceptional order accuracy",
+        "contents": [
+          "Synchronize inventory levels across channels, ensuring accurate stock management and preventing overselling or underselling.",
+          "Maintain the order accuracy rate of 99.99% due to double-scan verification, powerful algorithms, and a dedicated warehousing workforce."
+        ]
+      },
+      {
+        "title": "Warehouse automation & packing service",
+        "contents": [
+          "Satisfy your specific logistical requirements with cutting-edge technology, automated fulfillment procedures, and robust WMS software.",
+          "Environmentally friendly and customized packaging options to minimize excess packaging and enhance customer experience."
+        ]
+      },
+      {
+        "title": "Distribution orders",
+        "contents": [
+          "Automatically determine the optimal fulfillment centers which are nearest to customers to reduce shipping costs and time.",
+          "Enhance customer experience as they can receive the orders quicker."
+        ]
+      },
+      {
+        "title": "Reserve inventory",
+        "contents": [
+          "Allocate a specified quantity of a product to a particular event to ensure the availability of inventory for them.",
+          "Assist merchants to control the selling operation without worrying about the goods' resources."
+        ]
+      },
+      {
+        "title": "Efficient return management",
+        "contents": [
+          "Efficiently processing returned items, swiftly inspecting, evaluating, and processing them to minimize delays and expedite refunds or replacements.",
+          "Integration with inventory management, ensures that returned items are properly accounted for, enabling better inventory control and minimizing discrepancies."
+        ]
+      },
+      {
+        "title": "Various shipping options",
+        "contents": [
+          "Choose from a range of shipping options that cater to your specific requirements, whether it's cost-effectiveness, speed, or flexibility.",
+          "Flexible delivery options, including home delivery, pick-up points, or even same-day delivery in select areas."
+        ]
+      },
+      {
+        "title": "24/7 customer support via multiple channels",
+        "contents": [
+          "Customer support is accessible 24/7, allowing customers to reach out at any time, day or night.",
+          "Support through various channels, including phone, email, chat, social media, self-service  portals."
+        ]
+      },
+      {
+        "title": "Transparent billing and competitive pricing",
+        "contents": [
+          "Our flat rate per order and thorough invoicing software ensure that all charges are transparent.",
+          "Competitive pricing enables businesses to offer prices that are on par or better than your competitors, making your products more appealing to customers."
+        ]
+      }
+    ]
+  }
+}

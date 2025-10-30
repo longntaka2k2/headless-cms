@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33" height="32" viewBox="0 0 33 32" fill="none">
+    <path
+        d="M12.5555 28H7.22221C5.74945 28 4.55554 26.8061 4.55554 25.3333V12.2673C4.55553 10.7901 5.36964 9.43313 6.673 8.73792L14.673 4.47069C15.8496 3.8431 17.2615 3.8431 18.4381 4.47069L26.4381 8.73792C27.7414 9.43313 28.5556 10.7901 28.5555 12.2673V13.3333"
+        stroke="#F57C00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M13.8889 11.9999H19.2222" stroke="#F57C00" stroke-width="2" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path d="M19.2222 17.3333H11.2222C10.4858 17.3333 9.88887 17.9302 9.88887 18.6666V27.9999" stroke="#F57C00"
+        stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M13.8889 22.6667H9.88887" stroke="#F57C00" stroke-width="2" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M20.8889 29.3333H18.2222C17.3017 29.3333 16.5555 28.5871 16.5555 27.6666V24.9999C16.5555 24.0794 17.3017 23.3333 18.2222 23.3333H20.8889C21.8094 23.3333 22.5555 24.0794 22.5555 24.9999V27.6666C22.5555 28.1086 22.3799 28.5325 22.0674 28.8451C21.7548 29.1577 21.3309 29.3333 20.8889 29.3333V29.3333Z"
+        stroke="#F57C00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M26.8889 29.3333H24.2222C23.3017 29.3333 22.5555 28.5871 22.5555 27.6666V24.9999C22.5555 24.0794 23.3017 23.3333 24.2222 23.3333H26.8889C27.8094 23.3333 28.5555 24.0794 28.5555 24.9999V27.6666C28.5555 28.5871 27.8094 29.3333 26.8889 29.3333Z"
+        stroke="#F57C00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M26.8889 23.3333H24.2222C23.3017 23.3333 22.5555 22.5871 22.5555 21.6666V18.9999C22.5555 18.0794 23.3017 17.3333 24.2222 17.3333H26.8889C27.8094 17.3333 28.5555 18.0794 28.5555 18.9999V21.6666C28.5555 22.5871 27.8094 23.3333 26.8889 23.3333Z"
+        stroke="#F57C00" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

@@ -1,0 +1,86 @@
+{
+  "everythingYouNeed": {
+    "heading": "Giải pháp SaaS hỗ trợ doanh nghiệp Thời trang & Làm đẹp",
+    "subHeading": "Giải pháp quản lý bán hàng trong ngành Thời trang & Làm đẹp với các tính năng quan trọng như quản lý sản phẩm, báo cáo bán hàng, phân tích, v.v",
+    "textBtn": "Liên hệ ngay"
+  },
+  "weHelpYou": {
+    "heading": "Giúp doanh nghiệp triển khai bán hàng đa kênh dễ dàng hơn",
+    "subHeading": "Có mặt ở mọi nơi mà khách hàng mua sắm",
+    "contentItemBox": [
+      "Bán trên website",
+      "Bán tại cửa hàng",
+      "Bán trên mạng xã hội (Facebook, Instagram, Tiktok,...)",
+      "Bán trên nền tảng thương mại điện tử (Shopee, Lazada, TiktokShop, v.v.)"
+    ]
+  },
+  "dominating": {
+    "heading": "Tăng doanh thu ngành Thời trang & Làm đẹp với sự hỗ trợ của IChiba OnePlatform",
+    "cardContent": [
+      {
+        "title": "Xây dựng website bán hàng",
+        "subTitle": "Tự thiết kế website bán hàng với kho hơn 1000+ giao diện miễn phí của IChiba OnePlatform."
+      },
+      {
+        "title": "Up sản phẩm lên đa kênh bán",
+        "subTitle": "Từ phần mềm IChiba OMS, bạn có thể tải và chỉnh sửa sản phẩm lên nhiều kênh bán như Shopee, Tiki, Lazada, Sendo, Tiktokshop,..."
+      },
+      {
+        "title": "Thanh toán tự động",
+        "subTitle": "Phần mềm POS cung cấp tính năng quét mã vạch sản phẩm và tự động tính hóa đơn, đảm bảo nhanh chóng, chính xác."
+      },
+      {
+        "title": "In hóa đơn chỉ trong 3 giây",
+        "subTitle": "In hóa đơn nhanh chóng, là căn cứ để đổi/trả hàng."
+      },
+      {
+        "title": "Quản lý tồn kho đa kênh",
+        "subTitle": "Quản lý chi tiết tồn kho của từng mặt hàng, chính xác theo từng loại, kích thước, chất liệu, xuất xứ."
+      },
+      {
+        "title": "Hỗ trợ nhiều phương thức thanh toán",
+        "subTitle": "IChiba tích hợp với nhiều cổng thanh toán thuận tiện: tiền mặt, mã QR, thẻ tín dụng, thẻ ngân hàng,..."
+      },
+      {
+        "title": "Dịch vụ marketing đa kênh",
+        "subTitle": "Chúng tôi cung cấp giải pháp marketing từ A-Z dành riêng cho ngành Làm đẹp & Thời trang: sản xuất content, quảng cáo mạng xã hội, SEO, email marketing,..."
+      }
+    ]
+  },
+  "monitor": {
+    "heading": "Quản lý tất cả hoạt động của doanh nghiệp chỉ tại một nơi",
+    "listManage": [
+      "Quản lý dữ liệu khách hàng",
+      "Quản lý thông tin sản phẩm",
+      "Quản lý tồn kho",
+      "Quả lý doanh thu, công nợ",
+      "Quản lý vận chuyển"
+    ]
+  },
+  "technology": {
+    "heading": "Tận dụng sức mạnh công nghệ để nâng cao hiệu suất bán hàng trong ngành Thời trang & Làm đẹp",
+    "learnMore": "Xem thêm",
+    "items": [
+      {
+        "icon": "svg-icon-storefront",
+        "title": "Commerce Layer",
+        "content": "Bán hàng ở mọi nơi, quản lý ở cùng một nơi. Tối đa hiệu quả với hệ thống dữ liệu thông minh.",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icon": "svg-storefront",
+        "title": "Trình tạo website nhanh (StoreFront)",
+        "content": "Xây dựng website/ứng dụng order xuyên biên giới của riêng bạn với bộ công cụ phần mềm toàn diện của IChibaOne.",
+        "link": "/products/storefront-layer/overview"
+      }
+    ]
+  },
+  "ourCustomers": {
+    "heading": ["Câu chuyện ", "khách hàng thành công ", ""]
+  },
+  "contactSales": {
+    "heading": "Chuyển đổi hoạt động kinh doanh sang quản lý số ngay hôm nay!",
+    "subHeading": "Nâng cao doanh số bán hàng trong ngành Thời trang & Làm đẹp với những giải pháp được thiết kế riêng cho bạn.",
+    "textBtn": "Liên hệ ngay"
+  }
+}

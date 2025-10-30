@@ -1,0 +1,124 @@
+{
+  "optimize": {
+    "label": "IChiba OnePlatform for operation teams",
+    "heading": [
+      "Optimize ",
+      "operations to adapt to the ever-evolving landscape of e-commerce"
+    ],
+    "content": "Juggling inventory, orders, and logistics is no longer overwhelming. Revolutionize your e-commerce operations with IChiba's SaaS enablement platform.",
+    "contactSales": "Contact Sales",
+    "seeSolution": "See our solution"
+  },
+  "conquer": {
+    "heading": "Conquer the challenges of managing commerce operation by harness the power of automation",
+    "multiple": {
+      "title": "Multichannel operation management",
+      "subTitle": "Integrate multiple sales channels like Shopee, Lazada, TikTok Shop, Facebook, etc. Centralize data, making it easier for teams to access and manage inventory levels, track orders, and handle shipments efficiently."
+    },
+    "orderfulfillment": {
+      "title": "Order fulfillment management",
+      "content": [
+        "Provide operational teams with real-time visibility into the pick, pack, and ship process.",
+        "Monitor key performance indicators (KPIs), such as order throughput, picking accuracy, and shipping times."
+      ]
+    },
+    "supplier": {
+      "title": "Supplier management",
+      "subTitle": "Centrally control the suppliers and purchase orders. Operational teams can save time checking every piece of information on separating sources, thereby reducing errors."
+    },
+    "integration": {
+      "title": "Integration Capabilities",
+      "subTitle": "Integrate with various tools and systems, like CRM software, accounting systems, or shipping carriers. This integration streamlines operations by reducing manual data entry and ensuring information consistency across different platforms."
+    },
+    "analytics": {
+      "title": "Analytics and reporting",
+      "subTitle": "Provide valuable analytics and reporting features, offering insights into sales trends, customer behavior, and inventory performance. This data helps operations teams make informed decisions to optimize processes and inventory levels."
+    }
+  },
+  "stillUnsure": {
+    "heading": "Still unsure? Hear it from our satisfied clients!",
+    "subHeading": "Explore how businesses like yours have transformed their operations with IChiba OnePlatform. Discover real-life success stories and testimonials that illustrate tangible improvements in efficiency and productivity.",
+    "items": [
+      {
+        "content": "“The IChiba implementation team made getting started extremely simple, and their support team is always available to answer any questions. We are very pleased about the accuracy and speed with which orders are processed. We wish we had worked with IChiba sooner”. ",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Avatar_93ed058a39.svg",
+        "name": "Mr.Jan Knap",
+        "career": "Business Manager at IZONIL"
+      },
+      {
+        "content": "“The IChiba implementation team made getting started extremely simple, and their support team is always available to answer any questions. We are very pleased about the accuracy and speed with which orders are processed. We wish we had worked with IChiba sooner”. ",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Avatar_93ed058a39.svg",
+        "name": "Mr.Jan Knap",
+        "career": "Business Manager at IZONIL"
+      },
+      {
+        "content": "“The IChiba implementation team made getting started extremely simple, and their support team is always available to answer any questions. We are very pleased about the accuracy and speed with which orders are processed. We wish we had worked with IChiba sooner”. ",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Avatar_93ed058a39.svg",
+        "name": "Mr.Jan Knap",
+        "career": "Business Manager at IZONIL"
+      },
+      {
+        "content": "“The IChiba implementation team made getting started extremely simple, and their support team is always available to answer any questions. We are very pleased about the accuracy and speed with which orders are processed. We wish we had worked with IChiba sooner”. ",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Avatar_93ed058a39.svg",
+        "name": "Mr.Jan Knap",
+        "career": "Business Manager at IZONIL"
+      }
+    ]
+  },
+  "suggested": {
+    "title": "Suggested products for opeartions teams",
+    "subTitle": "Take your business to the next level with IChiba portfolio of products and services.",
+    "learnMore": "Learn more",
+    "items": [
+      {
+        "icon": "svg-icon-ship4p",
+        "title": "Ship4P",
+        "link": "#",
+        "content": "Shipping management platform that centralizes multiple carriers to manage; reducing costs, and simplifying shipment management."
+      }
+    ]
+  },
+  "iChiba": {
+    "title": "IChiba OnePlatform for the whole team",
+    "items": [
+      {
+        "title": "For Marketing teams",
+        "content": "Empower business owners by providing an accessible, scalable, and efficient infrastructure to run and grow their online businesses while reducing complexities and operational overheads.",
+        "background": "linear-gradient(112deg,#E6F3FF_28.86%,rgba(235,_241,_254,_0.79)_64.16%)"
+      },
+      {
+        "title": "For Technical teams",
+        "content": "Empower marketing teams with the tools and data necessary to create, execute, and refine marketing strategies, ultimately driving traffic, improving conversions, and enhancing customer engagement in the e-commerce space.",
+        "background": "linear-gradient(276deg,_#F1F5FE_2.49%,_#D7D9FC_104.45%)"
+      },
+      {
+        "title": "For Operation teams",
+        "content": "Empower technical teams to focus on innovation, customization, and optimizing the e-commerce experience rather than being burdened with routine maintenance and infrastructure management tasks.",
+        "background": "linear-gradient(276deg,_#FEF8F1_2.49%,_#FAE7DD_104.45%)"
+      }
+    ]
+  },
+  "joinTheRanks": {
+    "title": "Join the ranks of successful businesses optimizing their workflows with our powerful SaaS platform.",
+    "subTitle": "Ready to experience the difference? Schedule a personalized demo today and witness firsthand how IChiba OnePlatform can revolutionize your e-commerce operations.",
+    "contactSales": "Contact Sales"
+  },
+  "faqs": {
+    "label": "GET ANSWERS FOR",
+    "title": "Frequently asked questions",
+    "contents": [
+      {
+        "title": "How does the platform handle inventory management?",
+        "content": "Our platform centralizes inventory management, providing real-time visibility into stock levels, tracking, and seamless management across multiple channels."
+      },
+      {
+        "title": " Does the platform offer automation for routine tasks?",
+        "content": "Absolutely. We offer automation for tasks like order processing, inventory updates, and customer support through AI-driven features, freeing up your team's time."
+      },
+      {
+        "title": "How will IChiba OnePlatform help in optimizing logistics and order fulfillment?",
+        "content": "Our platform provides tools to streamline logistics, optimize shipping processes, and efficiently handle order fulfillment, ensuring timely deliveries and customer satisfaction."
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "bannerDropshipping": {
+    "heading": [
+      "Cách Mạng Hóa",
+      " Ngành Dropshipping ",
+      "Với SaaS IChiba OnePlatform"
+    ],
+    "subHeading": "Giải quyết mọi nỗi lo về quản lý đơn hàng, fulfillment tự động và báo cáo phân tích với giải pháp SaaS toàn diện IChiba dành cho ngành dropship.",
+    "contactSales": "Liên hệ ngay"
+  },
+  "theOptimalChoice": {
+    "heading": "IChiba OnePlatform - lựa chọn tối ưu cho doanh nghiệp dropshipping",
+    "onlineStore": {
+      "title": "Xây dựng cửa hàng trực tuyến",
+      "subTitle": "Xây website, landing page hoặc ứng dụng bán hàng với các tính năng tối ưu. Bạn có thể chọn tự tải sản phẩm lên hoặc kết nối với các trang thương mại điện tử quốc tế (như Amazon, eBay, Yahoo Shopping, Taobao, Tmall,...) để lấy dữ liệu."
+    },
+    "marketingService": {
+      "title": "Dịch vụ marketing",
+      "subTitle": "IChiba OnePlatform cung cấp dịch vụ marketing với nhiều giải pháp dành cho các đơn vị dropshipping.",
+      "items": [
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Rectangle_52697_86f0831ba9.svg",
+          "title": "Marketing tự động",
+          "subTitle": "Chạy các chiến dịch email, gửi thông báo đẩy để gợi nhớ người mua về giỏ hàng, đồng thời nuôi dưỡng khách hàng trung thành trong mùa cao điểm."
+        },
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Rectangle_52697_1_c142044162.svg",
+          "title": "Tạo bộ sưu tập sản phẩm",
+          "subTitle": "Phần mềm IChiba PIM cho phép các nhà bán dropship chọn các mặt hàng nổi bật từ các sàn TMĐT quốc tế và hiển thị chúng thành một bộ sưu tập trên trang web hoặc ứng dụng bán hàng."
+        },
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Rectangle_52697_2_cd687f7ea9.svg",
+          "title": "Quảng cáo và SEO",
+          "subTitle": "Hãy giao lại nhiệm vụ chạy quảng cáo và mở rộng nhận diện thương hiệu cho IChiba. Chúng tôi sẽ giúp bạn quảng bá rộng rãi dịch vụ dropshipping của bạn trên Google và mạng xã hội."
+        }
+      ]
+    }
+  },
+  "notJustBuild": {
+    "title": [
+      "Không chỉ xây website, ",
+      "IChiba còn mang đến một giải pháp quản lý dropshipping toàn diện"
+    ],
+    "items": [
+      {
+        "label": "Quản lý đơn hàng",
+        "title": "Quản lý đơn hàng",
+        "content": "Tập trung đơn hàng từ đa kênh bán. Quản lý, chỉnh sửa và theo dõi các đơn hàng dropshipping chỉ tại một nơi.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_260929_65066e6f90.svg"
+      },
+      {
+        "label": "Fulfillment tự động",
+        "title": "Fulfillment tự động",
+        "content": "IChiba cung cấp dịch vụ fulfillment toàn diện, giúp các doanh nghiệp dropship xử lý quá trình hoàn tất đơn hàng, và giao đến tận tay người mua.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_260929_65066e6f90.svg"
+      },
+      {
+        "label": "Phân tích dữ liệu",
+        "title": "Phân tích dữ liệu",
+        "content": "Thấu hiểu khách hàng hơn với báo cáo và phân tích toàn diện của chúng tôi. Theo dõi xu hướng bán hàng, hành vi của người mua và nhiều hơn thế.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_260929_65066e6f90.svg"
+      },
+      {
+        "label": "Tích hợp liền mạch",
+        "title": "Tích hợp liền mạch",
+        "content": "Dễ dàng tích hợp với các nền tảng thương mại điện tử, cổng thanh toán và các công cụ khác.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_260929_65066e6f90.svg"
+      }
+    ]
+  },
+  "whatDropshipping": {
+    "title": "Các công ty dropshipping nhận được gì từ giải pháp SaaS IChiba",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Layer_1_58064efd15.svg",
+        "title": "Hỗ trợ 24/7"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Layer_1_1_68f3c8646f.svg",
+        "title": "Trải nghiệm khách hàng được nâng cao"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Layer_1_2_4c27364a5f.svg",
+        "title": "Bảng điều khiển tập trung"
+      }
+    ]
+  },
+  "yourDropshipping": {
+    "title": "Đơn giản hóa vận hành dropshipping chỉ trong 4 bước",
+    "items": [
+      {
+        "step": "Bước 1: ",
+        "title": "Đăng ký và cài đặt tài khoản.",
+        "content": "Sign up to experience StoreFront’s unlimited features on a 14 days free trial",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_819d3c5f55.svg"
+      },
+      {
+        "step": "Bước 2: ",
+        "title": "Tạo workspace và kích hoạt bất kỳ phần mềm nào bạn cần trong hệ sinh thái IChiba SaaS.",
+        "content": "Choose an available template that is most suitable with you from IChiba’s Themes library",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_1_403af051d2.svg"
+      },
+      {
+        "step": "Bước 3: ",
+        "title": "Tùy chỉnh danh sách sản phẩm. Đặt quy tắc giá để tự động điều chỉnh mức tăng giá và duy trì tỷ suất lợi nhuận.",
+        "content": "Drag & drop to customize images, text, size...anything you want to personalize your website to be more attractive",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_2_aa3ba6fb15.svg"
+      },
+      {
+        "step": "Bước 4: ",
+        "title": "Giám sát và tối ưu hóa với báo cáo và phân tích.",
+        "content": "Connect with your domain or register new domain",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_3_4a417e61b7.svg"
+      }
+    ]
+  },
+  "porductsServices": {
+    "heading": "Phần mềm/Dịch vụ phù hợp với doanh nghiệp dropship",
+    "learnMore": "Xem thêm",
+    "items": [
+      {
+        "icon": "svg-storefront",
+        "title": "StoreFront Layer",
+        "content": "Xây dựng website/ứng dụng order xuyên biên giới của riêng bạn với bộ công cụ phần mềm toàn diện của IChiba.",
+        "bgIcon": "linear-gradient(0deg, #FF7400 -0.66%, #FFAB52 99.49%)",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "icon": "svg-icon-storefront",
+        "title": "Commerce Layer",
+        "content": "Bán hàng ở mọi nơi, quản lý ở cùng một nơi. Tối đa hiệu quả với hệ thống dữ liệu thông minh. ",
+        "bgIcon": "linear-gradient(0deg, #FF7400 -0.66%, #FFAB52 99.49%)",
+        "link": "/products/commerce-layer/overview"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Nâng tầm kinh doanh dropshipping?",
+    "contactSales": "Liên hệ ngay"
+  }
+}

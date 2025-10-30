@@ -1,0 +1,102 @@
+.home-banner-vn {
+
+  font-family: "Inter";
+  .content-block {
+    padding-top: 25px;
+    .heading {
+      margin-bottom: 20px;
+    }
+    .subHeding {
+      margin-bottom: 16px;
+    }
+
+    p {
+      margin-bottom: 0px;
+    }
+
+    .tags {
+      margin-bottom: 48px;
+
+      p {
+        border-radius: 0.5rem;
+        background-color: #f0f5ff;
+        line-height: 1.5rem;
+        padding: 0.25rem 0.5rem;
+        font-size: 14px;
+      }
+    }
+
+    .ctas {
+      display: flex;
+      margin-bottom: 16px;
+
+      a {
+        border-radius: 0.5rem;
+        padding: 12px 14px;
+        border: 1.5px solid #f57c00;
+        text-decoration: none;
+        text-align: center;
+      }
+
+      & .cta-1 {
+        background-color: #f57c00;
+        color: #f0f5ff;
+        min-width: 200px;
+        margin-right: 24px;
+      }
+      & .cta-2 {
+        color: #f57c00;
+        background-color: white;
+        min-width: 200px;
+      }
+    }
+  }
+
+  .home-banner-img {
+    max-height: 520px;
+    z-index: -1;
+    position: relative;
+    img {
+      position: absolute;
+      top: -10%;
+    }
+  }
+
+  @include respond(md) {
+
+
+    .content-block {
+      padding-top: 0px;
+      .h0-section {
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 32px;
+      }
+
+      .tags {
+        display: none !important;
+      }
+      .ctas {
+        display: flex !important;
+        justify-content: space-between;
+        a {
+          min-width: 48% !important;
+          font-weight: 500;
+          font-size: 14px;
+          line-height: 20px;
+        }
+        .cta-1 {
+          margin-right: 0px !important;
+        }
+      }
+    }
+
+    .home-banner-img {
+      padding-left: 16px;
+      max-height: 320px;
+      img {
+        position: static;
+      }
+    }
+  }
+}

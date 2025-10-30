@@ -1,0 +1,36 @@
+fragment metaFeild on Metadata{
+  content
+  description
+  name
+  id
+  property
+  type
+  httpEquiv
+  title
+}
+query metaEntry($slug : String = "home" ,$locale :String = "") {
+	pageCollection(where:{slug: $slug},locale : $locale ,limit:1){
+    items{
+      metadataCollection{
+        items{
+        
+        ...metaFeild
+        }
+      }
+    }
+  }
+}
+
+
+
+query metaBlogDetailEntry($slug : String = "" ) {
+	blogDetailCollection(where:{slug: $slug},limit:1){
+    items{
+      metadataCollection{
+        items{
+        ...metaFeild
+        }
+      }
+    }
+  }
+}

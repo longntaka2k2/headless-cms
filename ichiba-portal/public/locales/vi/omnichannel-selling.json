@@ -1,0 +1,182 @@
+{
+  "banner": {
+    "title": [
+      "Bùng nổ doanh thu trên mọi kênh bán với giải pháp bán hàng đa kênh của",
+      " IChiba OnePlatform ",
+      ""
+    ],
+    "subtitle": "Khách ở đâu bán ở đó, tích hợp đồng bộ với các kênh bán hàng và quản lý tất cả trên cùng một nơi"
+  },
+  "according": "Theo một báo cáo của Harvard Business, 73% khách hàng sử dụng nhiều kênh khác nhau để mua sắm. Vì vậy bán hàng đa kênh luôn vẫn là cách hiệu quả hàng đầu để tăng doanh thu.",
+  "troubles": {
+    "title": "Bạn đau đầu vì điều gì khi bán hàng đa kênh?",
+    "subtitle": "Việc quản lý bán hàng đa kênh không hề đơn giản, người bán luôn phải đối mặt với nhiều rắc rối.",
+    "complex": "Phức tạp trong quản lý hàng hóa từ nhiều kênh bán ",
+    "limited": "Hạn chế trong việc kiểm soát tồn kho",
+    "difficulty": "Khó khăn trong việc lựa chọn đơn vị vận chuyển phù hợp",
+    "traditional": "Các phần mềm truyền thống không hỗ trợ được khi mở rộng kênh bán",
+    "cost": "Tốn nhiều thời gian và chi phí để xây dựng trang web bán hàng",
+    "limit": "Việc thiết lập đa kênh bán ở đa thị trường khó khả thi"
+  },
+  "howdo": {
+    "title": "IChiba OnePlatform giúp doanh nghiệp tăng trưởng doanh thu trên đa kênh như thế nào?",
+    "api": {
+      "title": "API kết nối các cửa hàng",
+      "content": "Kết nối liền mạch các cửa hàng, tập trung vào vận hành, quản lý tồn kho, theo dõi doanh số và cung cấp trải nghiệm mua sắm nhất quán trên nhiều kênh."
+    },
+    "streamline": {
+      "title": "Vận hành đồng bộ",
+      "content": "Quản lý tất cả các kênh bán trên một màn hình duy nhất, tự động hóa các tác vụ thường ngày để giảm thiểu lỗi và tiết kiệm thời gian cho các đầu việc khác."
+    },
+    "enhanced": {
+      "title": "Nâng cao trải nghiệm mua hàng",
+      "content": "Thu thập và xử lý dữ liệu khách hàng từ nhiều kênh để tạo ra trải nghiệm mua sắm được cá nhân hóa cho từng khách hàng."
+    },
+    "order": {
+      "title": "Phân bổ đơn hàng tự động",
+      "content": "Tự động phân phối đơn hàng từ nhiều kho dựa trên các yếu tố thực tế như khoảng cách, tồn kho,... để vận chuyển nhanh chóng và tiết kiệm chi phí."
+    },
+    "merge": {
+      "title": "Xóa nhòa ranh giới bán hàng online và offline",
+      "content": "Tự động chuyển đổi & đồng bộ doanh số, tồn kho và đơn đặt hàng giữa cửa hàng online và offline."
+    }
+  },
+  "omnichannel": {
+    "title": "Triển khai chiến lược bán hàng đa kênh",
+    "subtitle": "5 bước thực thi để bán hàng đa kênh thành công",
+    "items": [
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_4b65b09969.png",
+        "title": "Tích hợp đồng bộ với các kênh bán hàng",
+        "content": "Kết nối các kênh bán hàng khác nhau, bao gồm các cửa hàng truyền thống, trang web, ứng dụng di động và mạng xã hội để tạo trải nghiệm mua sắm liền mạch cho khách hàng.",
+        "bio": "Nâng cao khả năng tương tác với khách hàng, tạo ra hệ thống bán hàng đa dạng và linh hoạt.",
+        "img": "https://cms-strapi.ichiba.net/uploads/6493f6a0a7bebb1951bd858a_Asset_with_updated_logos_1_6e7e96eba5.svg"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_4_0f9b7092b4.png",
+        "title": "Phân tích dữ liệu & Xây dựng chân dung khách hàng",
+        "content": "Sử dụng CDXP để hiểu sâu hơn về hành vi mua sắm của khách hàng và xây dựng các chiến lược bán hàng được cá nhân hóa.",
+        "bio": "Gia tăng khả năng đáp ứng nhu cầu cụ thể của khách hàng, từ đó nâng cao hiệu quả chiến lược bán hàng.",
+        "img": "https://cms-strapi.ichiba.net/uploads/freepik_Device_inject_7_de646eb180.svg"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_3_5b7edb841e.png",
+        "title": "Đồng bộ trải nghiệm mua hàng online & offline",
+        "content": "Xóa nhòa khoảng cách giữa cửa hàng online & offline để tạo ra hành trình mua sắm nhất quán cho khách hàng.",
+        "bio": "Tạo ra trải nghiệm mua sắm tiện lợi, thoải mất và toàn diện nhất cho khách hàng.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Image_2_1_4f946f97a8.svg"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_2_62dfce63ac.png",
+        "title": "Hỗ trợ khách hàng liên tục",
+        "content": "Cung cấp sự hỗ trợ lập tức và liên tục cho khách hàng trên nhiều kênh khác nhau, từ tin nhắn tự động đến tương tác trực tiếp.",
+        "bio": "Thiết lập hệ thống hỗ trợ linh hoạt, giải quyết nhanh gọn và triệt để các vấn đề khách hàng gặp phải.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_91b41814c9.svg"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_1_973352d1a0.png",
+        "title": "Xây dựng chiến lược thu hút khách hàng",
+        "content": "Phát triển chiến lược marketing để thu hút khách hàng từ nhiều nguồn khác nhau, bao gồm quảng cáo trực tuyến và tổ chức sự kiện offline.",
+        "bio": "Phủ sóng thương hiệu, nâng cao độ nhận diện cho doanh nghiệp.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Image_3_1_5fa29a0852.svg"
+      }
+    ]
+  },
+  "intergration": {
+    "title": "Khả năng tích hợp",
+    "sale": "Kênh bán",
+    "carriers": "Hãng vận chuyển",
+    "party": "Hệ thống bên thứ 3"
+  },
+  "whatOur": {
+    "title": "Câu chuyện khách hàng thành công",
+    "items": [
+      {
+        "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets.",
+        "name": "Mrs.Hoai Thuong",
+        "bio": "Omnichannel Retailer"
+      }
+    ]
+  },
+  "goOmnichannel": {
+    "title": "IChiba OnePlatform - Đối tác tin cậy giúp bạn dễ dàng bán hàng đa kênh",
+    "content": "Chúng tôi hợp tác chặt chẽ với doanh nghiệp để phát triển một lộ trình, áp dụng các công cụ vào quản lý thực tế và đảm bảo hệ thống vận hành trơn tru.",
+    "items": [
+      {
+        "title": "Tư vấn",
+        "content": "Xác định rõ mục tiêu và nhu cầu của doanh nghiệp."
+      },
+      {
+        "title": "Xây dựng lộ trình",
+        "content": "Xác định các điểm chạm quan trọng để áp dụng các sản phẩm của chúng tôi một cách phù hợp nhất."
+      },
+      {
+        "title": "Triển khai",
+        "content": "Tiến hành triển khai giải pháp và liên tục cập nhật tiến triển và hiệu quả."
+      },
+      {
+        "title": "Xác nhận",
+        "content": "Xác nhận liệu rằng giải pháp của chúng tôi có phù hợp với doanh nghiệp của bạn không."
+      },
+      {
+        "title": "Duy trì",
+        "content": "Duy trì giải pháp bán lẻ đa kênh và hỗ trợ khi cần thiết."
+      }
+    ]
+  },
+  "product": {
+    "title": "Sản phẩm phù hợp với nhu cầu của bạn ",
+    "viewMore": "Xem thêm",
+    "items": [
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_2_811e33cd9a.svg",
+        "title": "Ship4P",
+        "content": "Tập hợp các hãng vận chuyển trên cùng một bảng điều khiển duy nhất để dễ dàng quản lý, theo dõi hàng trình đơn hàng tiện lợi và nhanh chóng.",
+        "link": "/products/ship4p/overview",
+        "viewMore": "Xem thêm"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "content": "Bán hàng đa kênh, đa thị trường, quản lý tập trung mọi đơn hàng. Dữ liệu cập nhật theo thời gian thực.",
+        "link": "/products/commerce-layer/overview",
+        "viewMore": "Xem thêm"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_f243249567.svg",
+        "title": "Automation Engagement (Coming soon)",
+        "content": "Mở khóa tiềm năng thương hiệu, tiếp cận nhiều khách hàng hơn với giải pháp marketing và automation engagement.",
+        "link": "#",
+        "viewMore": "Xem thêm"
+      }
+    ]
+  },
+  "insights": {
+    "title": "Đọc thêm",
+    "content": "Tìm hiểu về các xu hướng trên thị trường, insight khách hàng và tư duy lãnh đạo giúp các nhà bán lẻ đa kênh đạt được những thành tựu to lớn."
+  },
+  "grow": {
+    "title": "Tăng trưởng với giải pháp SaaS bán hàng đa kênh toàn diện nhất",
+    "subtitle": "Liên hệ với chúng tôi để được tư vấn miễn phí chiến lược quản lý bán hàng đa kênh.",
+    "contactSale": "Liên hệ"
+  },
+  "faqs": {
+    "label": "CÂU TRẢ LỜI CHO",
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Giải đáp những thắc mắc thường gặp về bán hàng đa kênh.",
+    "contents": [
+      {
+        "title": "Omnichannel khác gì multichannel?",
+        "content": "Omnichannel và multichannel dịch nghĩa thì tương tự nhau nhưng chúng không giống nhau. Omnichannel là cửa hàng vật lý và các kênh bán online cùng hoạt động song song và liên hệ mật thiết với nhau. Mặt khác, multichannel là một doanh nghiệp có cả cửa hàng online và offline nhưng mỗi kênh hoạt động riêng biệt chứ không được tích hợp."
+      },
+      {
+        "title": "Phần mềm bán hàng đa kênh (omnichannel) hoạt động như thế nào?",
+        "content": "Phần mềm bán hàng đa kênh điều phối tất cả các kênh bán để chúng hoạt động liền mạch với nhau, bao gồm trang web, ứng dụng di động và cửa hàng vật lý. Sử dụng phần mềm quản lý bán hàng đa kênh, người bán có thể truy cập và quản lý thông tin đơn hàng ở bất cứ kênh nào. "
+      },
+      {
+        "title": "Làm cách nào doanh nghiệp có thể đảm bảo nhận diện thương hiệu nhất quán trên các kênh?",
+        "content": "Đảm bảo trải nghiệm thương hiệu nhất quán bao gồm việc duy trì các yếu tố thương hiệu, thông điệp và tiêu chuẩn dịch vụ khách hàng thống nhất trên tất cả các kênh. Các doanh nghiệp nên đẩy mạnh Marketing, điều chỉnh thông tin sản phẩm và đào tạo nhân viên để mang lại trải nghiệm thống nhất ở bất kể kênh nào."
+      }
+    ]
+  }
+}

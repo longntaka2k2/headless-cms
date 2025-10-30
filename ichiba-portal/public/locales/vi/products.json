@@ -1,0 +1,119 @@
+{
+  "heading": "Hệ sinh thái SaaS IChiba",
+  "forSeller": "For Seller",
+  "forOperator": "For Operator",
+  "capabilities": "Capabilities",
+  "learnMore": "Xem thêm",
+  "commerceLayer": {
+    "heading": "Commerce Layer",
+    "title": "",
+    "subTitle": "Bán ở mọi nơi - Quản lý trên một nền tảng. Tối ưu bán hàng đa kênh, đa thị trường từ online tới offline.",
+    "list": [
+      "Tích hợp  liền mạch với các kênh bán hàng: Shopee, TikTok Shop, Lazada, website bán hàng,...",
+      "Quản lý tồn kho từ nhiều kho hàng, tại nhiều thị trường khác nhau.",
+      "Phân bổ đơn hàng tới kho phù hợp nhất để tối ưu thời gian và chi phí vận chuyển.",
+      "Quản lý thông tin sản phẩm trên đa kênh, cập nhật dữ liệu hàng loạt trên mọi kênh bán.",
+      "Quản lý cửa hàng, đồng bộ thông tin tồn kho với các kênh bán khác theo thời gian thực.",
+      "Kết nối với hàng trăm các sàn TMĐT quốc tế để lấy nguồn sản phẩm và liên kết với website bán hàng."
+    ]
+  },
+  "crawler": {
+    "heading": "Crawler",
+    "title": "",
+    "subTitle": "Thu thập dữ liệu sản phẩm từ các sàn thương mại điện tử quốc tế đến trang web hoặc ứng dụng bán hàng của bạn.",
+    "list": [
+      "Kết nối với nhiều trang thương mại điện tử quốc tế từ Nhật Bản, Hàn Quốc, Trung Quốc, Mỹ và Đông Nam Á: Amazon, eBay, Rakuten, Mercari, Taobao, Gmart, v.v.",
+      "Tạo bộ sưu tập sản phẩm dựa trên từ khóa, danh mục,... từ các trang nguồn.",
+      "Quản lý người bán, sản phẩm bị hạn chế và danh sách từ khóa để đảm bảo trải nghiệm mua sắm tốt nhất cho khách hàng."
+    ]
+  },
+  "pos": {
+    "heading": "POS",
+    "title": "Phần mềm quản lý điểm bán hàng (POS)",
+    "subTitle": "Phần mềm POS giúp các doanh nghiệp bán lẻ tối ưu nghiệp vụ bán hàng, thúc đẩy tăng trưởng doanh số.",
+    "list": [
+      "Tích hợp đa phương thức thanh toán",
+      "Quản lý thông tin khách hàng để mang đến trải nghiệm cá nhân hoá.",
+      "Tích hợp các thông tin thẻ quà tặng để khách hàng có thể sử dụng ở mọi nơi.",
+      "Linh hoạt tùy chọn hoàn tất đơn hàng giúp khách hàng có thể lựa chọn phương thức nhận hàng phù hợp."
+    ]
+  },
+  "storeFront": {
+    "heading": "StoreFront Layer",
+    "title": "",
+    "subTitle": "Mở rộng hoạt động kinh doanh bán lẻ sang các kênh trực tuyến nhanh chóng và dễ dàng với bộ phần mềm tạo website bán hàng của chúng tôi.",
+    "list": [
+      "Thiết kế website thương mại điện tử theo ý bạn.",
+      "Thêm không giới hạn các sản phẩm.",
+      "Tích hợp đầy đủ các phần mềm hỗ trợ bán hàng từ A-Z.",
+      "Quản lý website dễ dàng giúp tăng trưởng doanh số hiệu quả."
+    ]
+  },
+  "ship4P": {
+    "heading": "Ship4P",
+    "subHeading": "Tích hợp đa hãng vận chuyến",
+    "title": "",
+    "subTitle": "Phần mềm quản lý đa hãng vận chuyển, mua label shipping với giá tốt.",
+    "list": [
+      "Dễ dàng kết nối và quản lý với nhiều đơn vị vận chuyển mà không cần ký hợp đồng với từng bên một.",
+      "Mua label vận chuyển chính hãng, đảm bảo hàng hóa lưu thông mà không sợ rủi ro.",
+      "Tra cứu mã vận đơn từ nhiều hãng vận chuyển trên một nền tảng duy nhất, không cần truy cập từng website riêng lẻ."
+    ]
+  },
+  "smartCrossBorder": {
+    "heading": "Cross–Border Forwarding",
+    "subHeading": "",
+    "subTitle": "Phần mềm quản lý xuất nhập khẩu, tiết kiệm đến 40% thời gian nhờ tính năng tự động tạo chứng từ.",
+    "list": [
+      "Tự động tạo các chứng từ invoice, packing list, manifest.",
+      "Quản lý các chứng từ cho đến khi hàng hóa được thông quan thành công.",
+      "Quản lý trạng thái hàng hóa trong kho, từ nhập kho, lưu kho đến khi xuất hàng."
+    ]
+  },
+  "wms": {
+    "heading": "WMS",
+    "subHeading": "Phần mềm quản lý kho vận",
+    "title": "",
+    "subTitle": "Nâng cao hiệu suất hoạt động của kho, dễ dàng xử lý hàng từ đa kênh bán.",
+    "list": [
+      "Theo dõi mọi hoạt động của kho.",
+      "Quản lý đa kho hàng tại đa thị trường.",
+      "Cập nhật dữ liệu sản phẩm theo thời gian thực, đề xuất cách xử lý đơn hàng tốt nhất để tiết kiệm thời gian.",
+      "Lập kế hoạch tồn kho dựa trên cơ sở dữ liệu lịch sử và AI."
+    ]
+  },
+  "invoice": {
+    "heading": "Phần mềm quản lý hóa đơn & chứng từ",
+    "title": "",
+    "subTitle": "Quản lý dòng tiền cho doanh nghiệp kinh doanh thương mại điện tử.",
+    "list": [
+      "Quản lý hóa đơn và giao dịch từ nhiều kênh bán hàng và cổng thanh toán.",
+      "Cấu hình giá linh hoạt, phục vụ mọi mô hình giá mà người bán yêu cầu.",
+      "Theo dõi nguồn tiền ra, tiền vào và lập báo cáo."
+    ]
+  },
+  "integration": {
+    "heading": "Tích hợp",
+    "title": "",
+    "subTitle": "Dễ dàng tích hợp với phần mềm bên thứ ba và các kênh bán hàng, giúp nhà bán hàng xuyên biên giới vận hành doanh nghiệp suôn sẻ.",
+    "list": [
+      "Kết nối nhanh chóng với hơn 30 kênh bán hàng tại Mỹ, Nhật Bản và Việt Nam, cho phép quản lý đơn hàng tập trung.",
+      "Tích hợp với các giải pháp như kế toán, ERP và fulfillment 3PL để tối ưu hoá quy trình bán hàng.",
+      "Truy cập ngay hơn 100 đối tác vận chuyển, hỗ trợ cả người bán trong nước và quốc tế."
+    ]
+  },
+  "support": {
+    "title": ["Need support? ", "We are here to help!"],
+    "subTitle": [
+      "Read and meet the experts from different industries to learn their experience and advices",
+      ""
+    ],
+    "textBtn": "Contact Sales",
+    "orCheck": "Or check out one of these resources",
+    "contentResource": [
+      "Discover our documentation centre",
+      "Experience amazing tools to grow your business with a free account. "
+    ]
+  },
+  "bannerFooter": ["IChiba OnePlatform", "A power that glows your business"]
+}

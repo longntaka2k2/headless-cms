@@ -1,0 +1,175 @@
+{
+  "cta": {
+    "getStarted": "Bắt Đầu Miễn Phí",
+    "requestADemo": "Yêu Cầu Demo",
+    "viewAllInteg": "Xem Tất Cả Tích Hợp",
+    "ready": "Tôi đã sẵn sàng",
+    "viewMore": "Tìm hiểu thêm",
+    "bookADemo": "Đặt lịch tư vấn",
+    "startBuild": "Bắt đầu miễn phí"
+  },
+  "banner": {
+    "heading": "Tính năng IChiba OnePlatform",
+    "heading2": "StoreFront Layer",
+    "subHeading": "Xây dựng website bán hàng của riêng bạn với đầy đủ các công cụ linh hoạt nhất."
+  },
+  "powerful": {
+    "heading": "Dịch vụ thiết kế website bán hàng từ A-Z",
+    "subHeading": "Phần mềm dựa trên điện toán đám mây của IChiba OnePlatform giúp doanh nghiệp xây dựng website bán hàng với đầy đủ các tính năng quản trị.",
+    "items": [
+      {
+        "label": "Xây dựng một trang web thương mại điện tử mới",
+        "contents": [
+          {
+            "title": "Giao diện/ứng dụng dựng sẵn",
+            "des": "Giao diện được tối ưu nhằm nâng cao trải nghiệm người dùng khi mua hàng, giúp quá trình mua sắm xuyên biên giới thuận tiện hơn bao giờ hết."
+          },
+          {
+            "title": "Chủ động tùy chỉnh giao diện dễ dàng",
+            "des": "Doanh nghiệp có thể điều chỉnh giao diện dễ dàng mà không cần kiến thức về CNTT hay thiết kế. Chỉ cần vài thao tác đơn giản là bạn đã có ngay một website chuẩn SEO, tối ưu hóa trải nghiệm mua sắm."
+          },
+          {
+            "title": "Thân thiện với thiết bị di động",
+            "des": "Trang web của bạn sẽ được tối ưu hóa để phù hợp với các thiết bị di động và mang lại trải nghiệm tốt nhất cho khách hàng, tăng tỷ lệ chuyển đổi."
+          }
+        ]
+      },
+      {
+        "label": "Quản lý thông tin khách hàng",
+        "contents": [
+          {
+            "title": "Công cụ quản lý dữ liệu thông minh",
+            "des": "Công cụ AI đột phá hỗ trợ tạo các bộ lọc hữu ích dựa trên thông tin khách hàng để mang lại trải nghiệm mua sắm cá nhân hóa và gia tăng tỷ lệ chuyển đổi cao hơn."
+          },
+          {
+            "title": "Theo dõi hành trình khách hàng",
+            "des": "Phân loại và tách biệt từng nhóm đối tượng cụ thể, tạo các chương trình khuyến mãi, ưu đãi, gửi email marketing. giúp gia tăng chuyển đổi và phát triển bền vững."
+          }
+        ]
+      },
+      {
+        "label": "Quản lý đơn hàng",
+        "contents": [
+          {
+            "title": "Theo dõi đơn hàng trên 1 bảng điều khiển duy nhất",
+            "des": "Hoàn thành một hoặc nhiều đơn hàng chỉ bằng một cú nhấp chuột, giúp việc quản lý đơn hàng trở nên dễ dàng hơn bao giờ hết."
+          },
+          {
+            "title": "Cập nhật trạng thái đơn hàng theo thời gian thực",
+            "des": "Người mua có thể xem trạng thái đơn hàng được hiển thị theo thời gian thực trong mục “đơn mua”."
+          },
+          {
+            "title": "Quản lý biến thể, danh mục sản phẩm",
+            "des": "Tích hợp phần mềm quản lý thông tin sản phẩm tích hợp (PIM), giúp quản lý dữ liệu một cách hiệu quả."
+          }
+        ]
+      },
+      {
+        "label": "Hệ thống thông báo email tự động",
+        "contents": [
+          {
+            "title": "Theo dõi đơn hàng hiệu quả",
+            "des": "Chủ động thông báo lộ trình đơn hàng qua email tự động, tránh trường hợp chậm trễ, bỏ lỡ đơn hàng. "
+          },
+          {
+            "title": "Mẫu và nội dung email tùy chỉnh",
+            "des": "Bạn hoàn toàn có thể tùy chỉnh các mẫu thông báo email hữu ích, phù hợp với nhu cầu và cách thức hoạt động của doanh nghiệp một cách dễ dàng."
+          },
+          {
+            "title": "Xây dựng niềm tin của khách hàng",
+            "des": "Đạt được sự tin tưởng từ khách hàng thông qua xác nhận thanh toán chi tiết, cập nhật thông tin đơn hàng, cập nhật mật khẩu,v.v"
+          }
+        ]
+      },
+      {
+        "label": "Quản lý thanh toán",
+        "contents": [
+          {
+            "title": "Miễn phí tích hợp đa cổng thanh toán",
+            "des": "IChiba OnePlatform hỗ trợ tích hợp miễn phí đa cổng thanh toán giúp trải nghiệm mua sắm online hay offline của khách hàng thuận tiện hơn."
+          },
+          {
+            "title": "Hỗ trợ SSL miễn phí - Tăng cường bảo mật",
+            "des": "Trang web của bạn sẽ đi kèm với chứng chỉ SSL miễn phí, bảo mật thông tin tất cả các trang, thẻ tín dụng và thông tin giao dịch ở mức cao nhất."
+          }
+        ]
+      },
+      {
+        "label": "Báo cáo đa kênh chi tiết",
+        "contents": [
+          {
+            "title": "Báo cáo tình trạng sản phẩm",
+            "des": "Thu thập dữ liệu và cung cấp cho người bán báo cáo chi tiết về mức tồn kho, sản phẩm bán chạy nhất và xu hướng bán hàng theo thời gian, hỗ trợ doanh nghiệp có cái nhìn tổng quan để đưa ra các quyết định thúc đẩy hoạt động kinh doanh đúng đắn hơn."
+          },
+          {
+            "title": "Báo cáo thương mại điện tử nâng cao với Google Analytics",
+            "des": "Với tính năng Thương mại điện tử nâng cao trên Google Analytics, người bán dễ dàng theo dõi doanh số, lượt truy cập và lượt giới thiệu đến từ đâu, hiểu sâu và nắm bắt hiệu suất quảng cáo và thông tin khách hàng."
+          }
+        ]
+      },
+      {
+        "label": "Tích hợp đa hãng vận chuyển trên toàn quốc",
+        "contents": [
+          {
+            "title": "Đồng bộ với hàng trăm nhà vận chuyển",
+            "des": "Tích hợp các hãng vận chuyển phổ biến trong nước để quản lý và xử lý đơn hàng nhanh chóng, hiệu quả chỉ tại một nơi."
+          },
+          {
+            "title": "Tập trung & phân phối hàng ngàn đơn đặt hàng",
+            "des": "Bảng điều khiển quản lý vận chuyển có thể xử lý và giám sát từ vài trăm đến hàng nghìn đơn hàng một cách dễ dàng và tập trung trên 1 bảng điều khiển."
+          },
+          {
+            "title": "Báo cáo tình trạng đơn hàng",
+            "des": "Kiểm tra vận đơn, theo dõi quá trình giao hàng và cập nhật các ưu đãi từ nhà vận chuyển. Gửi báo cáo thời gian thực về trạng thái đơn hàng bất cứ lúc nào."
+          }
+        ]
+      },
+      {
+        "label": "Cá nhân hóa và đề xuất",
+        "contents": [
+          {
+            "title": "Vị trí linh hoạt của các đề xuất sản phẩm",
+            "des": "Thu thập dữ liệu dành riêng cho người dùng, chẳng hạn như danh mục, sản phẩm và lịch sử mua hàng được xem nhiều nhất của khách hàng để đưa ra các đề xuất phù hợp cho khách hàng thông qua các trang web hoặc chiến dịch tiếp thị."
+          },
+          {
+            "title": "Hệ thống tự động lọc nội dung",
+            "des": "Đề xuất các sản phẩm tương tự được nhóm lại với nhau dựa trên các thuộc tính nhất định để người mua sắm có nhiều lựa chọn hơn và nhanh chóng đưa ra quyết định mua hàng."
+          },
+          {
+            "title": "Tính năng lọc cộng tác",
+            "des": "Sử dụng các mô hình và báo cáo AI, dự đoán điều khách hàng quan tâm, dựa trên sở thích, hành vi của nhiều người dùng khác."
+          }
+        ]
+      }
+    ]
+  },
+  "support": {
+    "heading": "Bắt đầu xây dựng website bán hàng online với IChiba OnePlatform",
+    "cta": "Dùng thử miễn phí",
+    "listPricing": "Xem bảng giá"
+  },
+  "faq": {
+    "heading": "FAQs",
+    "contents": [
+      {
+        "title": "1. Chi phí cho IChiba OnePlatform StoreFront Layer là bao nhiêu?",
+        "des": [
+          "Không có con số cố định vì chúng tôi cung cấp giá phù hợp với nhu cầu của từng người bán ở bất kỳ giai đoạn phát triển nào.",
+          "Để biết thêm thông tin về giá cả, xin vui lòng liên hệ với đội ngũ hỗ trợ của chúng tôi."
+        ]
+      },
+      {
+        "title": "2. Tôi có thể sử dụng IChiba OnePlatform StoreFront Layer Tool nếu tôi không có đội ngũ CNTT không?",
+        "des": [
+          "Đúng. Bạn chắc chắn có thể sử dụng IChiba OnePlatform StoreFront Layer Tool mà không cần có kiến thức về CNTT. Chúng tôi có đội ngũ kỹ thuật tâm huyết, được đào tạo bài bản để hỗ trợ và phục vụ yêu cầu của bạn."
+        ]
+      },
+      {
+        "title": "3. Tôi phải làm gì nếu trang web lỗi?",
+        "des": [
+          "IChiba OnePlatform có đội ngũ hỗ trợ toàn cầu sẵn sàng hỗ trợ bạn bất cứ lúc nào. Đừng ngần ngại liên hệ với chúng tôi nếu bạn cần giúp đỡ."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,129 @@
+{
+  "ichiba": {
+    "title": "IChiba OnePlatform",
+    "item": [
+      { "title": "Discover IChiba", "link": "https://careers.ichiba.net/en" },
+      { "title": "Trust & Security", "link": "/trust-security" },
+      { "title": "Careers", "link": "https://careers.ichiba.net/en/our-life" }
+    ]
+  },
+  "product": {
+    "title": "Products",
+    "items": [
+      {
+        "label": "FOR SELLER",
+        "itemslv2": [
+          {
+            "title": "Commerce Layer",
+            "link": "/products/commerce-layer/overview"
+          },
+          {
+            "title": "Ship4P - Multi-Carrier Integration",
+            "link": "/products/ship4p/overview"
+          },
+          {
+            "title": "StoreFront Layer",
+            "link": "/products/storefront-layer/overview"
+          }
+        ]
+      },
+      {
+        "label": "FOR OPERATOR",
+        "itemslv2": [
+          {
+            "title": "Warehouse Management System (WMS)",
+            "link": "/products/wms"
+          },
+          {
+            "title": "Cross-Border Forwarding",
+            "link": "/products/cross-border-forwarding/overview"
+          }
+        ]
+      },
+      {
+        "label": "CAPABILITIES",
+        "itemslv2": [
+          {
+            "title": "Pricing, Invoices & Billings",
+            "link": "/products/invoice-and-billing"
+          },
+          {
+            "title": "Integrations",
+            "link": "/products/integrations"
+          }
+        ]
+      }
+    ]
+  },
+  "solution": {
+    "title": "Solutions for Teams",
+    "item": [
+      { "title": "Business owners", "link": "/solutions/business-owner" },
+      { "title": "Marketing teams", "link": "/solutions/marketing-teams" },
+      { "title": "Technical teams", "link": "/solutions/technical-teams" },
+      { "title": "Operation teams", "link": "/solutions/operation-teams" }
+    ]
+  },
+  "useCase": {
+    "title": "Use cases",
+    "item": [
+      {
+        "title": "Global selling in multi-market/ multi-channel",
+        "link": "/solutions/global-selling"
+      },
+      {
+        "title": "Omnichannel selling",
+        "link": "/solutions/omnichannel-selling"
+      },
+      {
+        "title": "All-in-one shipping management",
+        "link": "/solutions/all-in-one-shipping-management"
+      },
+      {
+        "title": "Multi-channel fulfillment",
+        "link": "/solutions/multichannel-fulfillment"
+      },
+      {
+        "title": "Boost revenue & customer insights",
+        "link": "/solutions/boost-revenue-and-customer-insights"
+      },
+      {
+        "title": "Performance marketing and growth solutions",
+        "link": "/solutions/performance-marketing-growth-solution"
+      },
+      {
+        "title": "Private domain traffic",
+        "link": "/solutions/private-domain-traffic"
+      }
+    ]
+  },
+  "industries": {
+    "title": "Industries",
+    "item": [
+      { "title": "Retail", "link": "/solutions/retails" },
+      { "title": "Electronics", "link": "/solutions/electronics" },
+      { "title": "Fashion & Beauty", "link": "/solutions/fashion-beauty" },
+      { "title": "Logistics", "link": "/solutions/logistics-company" },
+      { "title": "Mother & Baby", "link": "/solutions/mother-baby" },
+      { "title": "Dropshipping", "link": "/solutions/dropshipping" },
+      { "title": "Print-on-demand (POD)", "link": "/solutions/pod" }
+    ]
+  },
+  "resources": {
+    "title": "Resources",
+    "item": [
+      { "title": "Documentation", "link": "https://docs.ichiba.net/en/" },
+      { "title": "Blog", "link": "/blog" },
+      { "title": "Business documents", "link": "/resources" },
+      { "title": "Case Studies", "link": "/case-studies" },
+      {
+        "title": "Video Library​",
+        "link": "https://www.youtube.com/@IChibaoms"
+      },
+      {
+        "title": "User Guide​",
+        "link": "https://help.ichiba.net/en/"
+      }
+    ]
+  }
+}

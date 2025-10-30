@@ -1,0 +1,120 @@
+{
+  "heading": "IChibaOne SaaS Products ecosystem",
+  "forSeller": "For Seller",
+  "forOperator": "For Operator",
+  "capabilities": "Capabilities",
+  "learnMore": "Learn more",
+  "commerceLayer": {
+    "heading": "Commerce Layer",
+    "title": "",
+    "subTitle": "Multi-channel, multi-market order management, from online to offline.",
+    "list": [
+      "Seamless integration with selling channels as Amazon, Walmart, Wayfair, Shopee, selling website, etc.",
+      "Manage inventory from multiple warehouses in multiple markets.",
+      "Distribute order the the most appropriate locations to optimize deliver time and cost.",
+      "Manage product information on multiple sales channels, update and synchronize batch data.",
+      "Manage physical stores, sync inventory data with other stores in real-time.",
+      "Connect with hundreds of international ecommerces to crawl products and import it into your selling website."
+    ]
+  },
+  "crawler": {
+    "heading": "Crawler",
+    "title": "",
+    "subTitle": "Crawl product data from international ecommerce sites to your selling websites or applications.",
+    "list": [
+      "Connect with various international ecommerce sites from Japan, Korea, China, the US and Southeast Asia: Amazon, eBay, Rakuten, Mercari, Taobao, Gmart, etc.",
+      "Create product collections based on keywords, catalogs, and so on from source pages.",
+      "Monitor sellers, black-list product, and keyword list to ensure the best shopping experience for customers."
+    ]
+  },
+  "pos": {
+    "heading": "POS",
+    "title": "Point of Sale",
+    "subTitle": "Embrace our customized Point of Sale software to give your retail business unimaginable growth.",
+    "list": [
+      "Integrated payment processing & mobile check out.",
+      "Customer relationship management for personalizing communications & customer service.",
+      "Gift cards that work online and in-store so customers can redeem everywhere.",
+      "Flexible order fulfillment options allow customers to receive orders in a way that’s convenient for them."
+    ]
+  },
+  "storeFront": {
+    "heading": "StoreFront Layer",
+    "title": "StoreFront Layer",
+    "subTitle": "Extending your retail business to online sales was quick and easy with our fully customizable website builder.",
+    "list": [
+      "Build a new eCommerce website from scratch.",
+      "Add unlimited products to your online stores.",
+      "Seamlessly integrate Saas ecosystem for A-Z sales process.",
+      "Simple and easy website management."
+    ]
+  },
+  "ship4P": {
+    "heading": "Ship4P",
+    "subHeading": "Multi-carrier integration",
+    "title": "",
+    "subTitle": "Multi-carrier shipping management, purchase shipping labels with good rates.",
+    "list": [
+      "Easily connect and manage multiple shipping companies without having to sign contract with each of them.",
+      "Purchase official shipping labels, ensure smooth transportation with no risks.",
+      "Track shipment numbers from multiple carriers on one screen without visiting their websites."
+    ]
+  },
+  "smartCrossBorder": {
+    "heading": "Cross–Border Forwarding",
+    "subHeading": "",
+    "subTitle": "An import-export management software that saves up to 40% of time with automated document generation.",
+    "list": [
+      "Automatically generate invoices, packing lists, and manifests.",
+      "Manage documents until packages are successfully cleared through customs.",
+      "Track the status of orders in the warehouse, from inbound, storage, to outbound."
+    ]
+  },
+  "wms": {
+    "heading": "WMS",
+    "subHeading": "Warehouse management system",
+    "title": "",
+    "subTitle": "Boost your warehouse performance, tailored for multi-channel operations.",
+    "list": [
+      "Control the entire warehouse operation",
+      "Manage multiple warehouse on multiple markets.",
+      "Update product data in real-time. Suggest the best way to handle orders to save time.",
+      "Make inventory plan based on historical data and AI."
+    ]
+  },
+  "invoice": {
+    "heading": "Pricing, Invoice & Billings",
+    "contentLable": "Coming soon",
+    "title": "",
+    "subTitle": "Manage financial workflows of your ecommerce business to secure transparency.",
+    "list": [
+      "Manage invoices and transactions from multiple sales channels and payment gateways.",
+      "Identify pricing types to cater all pricing models required by merchants.",
+      "Keep an eye on income and outcome sources for accuracy reports."
+    ]
+  },
+  "integration": {
+    "heading": "Integration",
+    "title": "",
+    "subTitle": "Seamlessly integrate with 3rd-party software and sales channels to help cross-border sellers operate their businesses smoothly.",
+    "list": [
+      "Effortlessly connect with 30+ sales channels across the USA, Japan, and Vietnam, enabling centralized order management.",
+      "Integrate with third-party solutions like accounting, ERP, and 3PL fulfillment to optimize your sales operations.",
+      "Instantly access 100+ shipping partners to support both domestic and international sellers."
+    ]
+  },
+  "support": {
+    "title": ["Need support? ", "We are here to help!"],
+    "subTitle": [
+      "It’s About Working Together For The Same Goal.",
+      "Contact one of our highly-trained support experts to get detailed answers to your specific questions."
+    ],
+    "textBtn": "Contact Sales",
+    "orCheck": "Or check out one of these resources",
+    "contentResource": [
+      "Discover our documentation centre.",
+      "Experience amazing tools to grow your business with a free account."
+    ]
+  },
+  "bannerFooter": ["IChiba OnePlatform", "A power that glows your business"]
+}

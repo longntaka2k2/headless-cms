@@ -1,0 +1,197 @@
+{
+  "menu": {
+    "overview": "Tổng quan",
+    "sites": "Website",
+    "landing": "Landing page",
+    "themes": "Kho giao diện"
+  },
+  "cta": {
+    "getStarted": "Bắt đầu miễn phí",
+    "requestADemo": "Yêu cầu demo",
+    "viewAllInteg": "Xem tất cả tích hợp",
+    "ready": "Tôi đã sẵn sàng",
+    "startBuild": "Start building for free"
+  },
+  "banner": {
+    "heading": "StoreFront Layer",
+    "heading2": "Xây dựng nhanh chóng - Điều chỉnh dễ dàng",
+    "subHeading": "Xây dựng website bán hàng của riêng bạn với đầy đủ các công cụ linh hoạt nhất.",
+    "subHeading2": "Tương thích với mọi mô hình doanh nghiệp và loại hình kinh doanh!"
+  },
+  "architecture": {
+    "heading": "Kiến trúc MACH",
+    "heading2": "(Microservice-based, API-first, Cloud-native and Headless)",
+    "subHeading": "Công nghệ MACH thúc đẩy quá trình chuyển kỹ thuật số, hỗ trợ các doanh nghiệp duy trì sự linh hoạt, đặt khách hàng làm trung tâm và phát triển bền vững.",
+    "contents": [
+      {
+        "title": "Microservice-base",
+        "des": "Kết nối các ứng dụng hoặc dịch vụ riêng biệt và hợp nhất thành một ứng dụng lớn duy nhất. Khi kết nối vào với nhau, các ứng dụng này phản hồi nhanh và chính xác hơn."
+      },
+      {
+        "title": "API-first",
+        "des": "Tất cả chức năng được hiển thị thông qua một API, giúp có thể liên kết hai hoặc nhiều ứng dụng hoặc dịch vụ lại với nhau và truy xuất dữ liệu chính xác từ bất kỳ nguồn nào. Khả năng mở rộng API cao cho phép các doanh nghiệp thêm chức năng và điều chỉnh cách API hoạt động tùy theo nhu cầu."
+      },
+      {
+        "title": "Cloud-native SaaS",
+        "des": "Phần mềm dưới dạng dịch vụ (SaaS) tận dụng toàn bộ tiềm năng của công nghệ đám mây, giúp phát triển và mở rộng sản phẩm nhanh hơn, tăng tính linh hoạt với các ứng dụng cloud native. Xua tan nỗi lo về bảo trì server và khóa phần mềm lưu trữ dữ liệu tại chỗ (on-premise software lock-in)."
+      },
+      {
+        "title": "Headless",
+        "des": "Tách backend khỏi UX front-end để xây dựng trải nghiệm mua sắm tiên tiến, liền mạch. Giờ đây bạn có thể cập nhật các tính năng hoặc nội dung trên website mà không ảnh hưởng đến các yếu tố khác hay phải đợi hàng tuần để kích hoạt một tính năng hoặc thay đổi mới."
+      }
+    ]
+  },
+  "integration": "Tích hợp",
+  "possibleWith": {
+    "heading": "Thiết kế Website bán hàng tối ưu dành riêng cho bạn",
+    "headless": "Headless Commerce",
+    "composable": "Composable Commerce"
+  },
+  "canDoWith": {
+    "heading": "Dễ dàng sở hữu Website bán hàng chuyên nghiệp và đầy đủ tính năng",
+    "subHeading": "Nền tảng dựa trên cloud-native tối ưu vận hành website bán hàng và giúp tăng trưởng doanh thu vượt trội.",
+    "contents": [
+      {
+        "title": "Xây dựng một website bán hàng mới hoàn toàn",
+        "des": "Các website có thể tùy chỉnh được xây dựng phù hợp với ngành hàng cùng với công nghệ mới nhất để quản lý lưu lượng truy cập lớn, cũng như giao diện độc đáo và thân thiện với người dùng, phù hợp với các yêu cầu cụ thể của mỗi doanh nghiệp."
+      },
+      {
+        "title": "Bán mọi mặt hàng",
+        "des": "Tự do giao dịch và khai thác tối đa thông tin sản phẩm của bạn. Tạo nhanh sản phẩm mới, chỉnh sửa thông tin hiện có như hình ảnh, giá, chủng loại, mẫu mã, tồn kho khi có thay đổi, cập nhật."
+      },
+      {
+        "title": "Tích hợp thiết bị POS và bán tại các cửa hàng",
+        "des": "Thương mại đa kênh cung cấp trải nghiệm mua sắm tiện lợi cho dù khách hàng đang mua sắm online hay tại cửa hàng. Điều này chỉ có thể đạt được thông qua headless commerce tách biệt frontend và backend, liên kết với nhau bằng API giúp doanh nghiệp có thể dễ dàng tùy chỉnh và cập nhật chức năng."
+      },
+      {
+        "title": "Tạo khuyến mãi",
+        "des": "Linh hoạt tạo các chương trình khuyến mãi trên website cho đối tượng mục tiêu dựa trên SKU, số lượng, giá trị đơn hàng, tiêu chí mua/nhận và quản lý hiệu suất. Kích hoạt phiếu giảm giá của khách hàng khi thanh toán và tự động áp dụng giá khuyến mại tốt nhất hiện có."
+      },
+      {
+        "title": "Quản lý hàng tồn kho và đơn đặt hàng",
+        "des": "Nhận thông báo về đơn đặt hàng mới. Tự động đồng bộ hóa đơn hàng và số lượng tồn kho trên nhiều kênh bán hàng. Theo dõi thu chi, doanh thu, hiệu quả bán hàng theo thời gian thực."
+      }
+    ]
+  },
+  "build": {
+    "heading": "Xây dựng website bán hàng chuyên nghiệp chưa bao giờ dễ dàng đến thế!",
+    "contents": [
+      {
+        "heading": "Website bán hàng thông minh ngay trong tầm tay",
+        "title": "Xây dựng Website bán hàng online đa nhà cung cấp.",
+        "des": "Xây dựng Website bán hàng online hoàn toàn mới, IChiba OnePlatform mang lại giải pháp phù hợp với mọi mô hình bán hàng."
+      },
+      {
+        "heading": "Nói “KHÔNG” với quản lý sản phẩm phức tạp",
+        "title": "Lưu trữ và truy cập dữ liệu hiệu quả",
+        "des": "Quản lý thông tin sản phẩm (PIM) tích hợp cho phép bạn truy cập tất cả dữ liệu sản phẩm, xử lý các danh mục phức tạp chỉ bằng vài cú nhấp chuột và cập nhật kịp thời các khuyến mãi theo thời gian thực."
+      },
+      {
+        "heading": "Tăng tỷ lệ chuyển đổi đơn hàng với mọi ngành hàng",
+        "title": "Tùy chỉnh giao diện và phương thức thanh toán ",
+        "des": "Tối đa hóa chuyển đổi bằng cách cá nhân hóa giao diện và phương thức thanh toán phù hợp. Đặc biệt, có thể kết nối đa phương thức thanh toán phù hợp cho doanh nghiệp bán hàng đa kênh."
+      },
+      {
+        "heading": "Bán hàng online chưa bao giờ đơn giản đến thế",
+        "title": "Với hệ sinh thái phần mềm tích hợp đa dạng",
+        "des": "Xây dựng Website bán hàng online không có rào cản nhờ hệ sinh thái phần mềm tích hợp tương thích & toàn diện: Contentful, Quickbooks, hệ thống OMS, ERP, v.v."
+      },
+      {
+        "heading": "Tối ưu thời gian vận hành",
+        "title": "Kiểm soát hoàn toàn doanh số bán hàng và sản phẩm",
+        "des": "Kết nối với nền tảng OMS để bán hàng đa kênh trên các nền tảng TMĐT. Có chế độ xem liên kết các đơn đặt hàng, nhanh chóng cập nhật hàng tồn kho, quay vòng đơn hàng và tương tác với khách hàng tốt hơn."
+      },
+      {
+        "heading": "Kiểm soát hàng tồn kho hiệu quả",
+        "title": "Hiển thị hàng tồn kho theo thời gian thực",
+        "des": "Nhận thông tin chi tiết về số lượng tồn kho. Đáp ứng nhu cầu của khách hàng thông qua các kỹ thuật quản lý hàng tồn kho: phân tích ABC, theo dõi lô hàng, vận chuyển số lượng lớn, dự báo nhu cầu, v.v."
+      },
+      {
+        "heading": "Vận chuyển toàn quốc",
+        "des": "Chúng tôi hợp tác với các hãng vận chuyển hàng đầu để chuyển phát các gói hàng một cách nhanh nhất, nâng cao trải nghiệm và lòng trung thành của người mua.",
+        "title": "Nhanh chóng và an toàn với mọi ngành hàng"
+      }
+    ]
+  },
+  "suitability": {
+    "heading": "Phù Hợp Với Mọi Doanh Nghiệp",
+    "contents": [
+      {
+        "label": "B2B/Bán sỉ",
+        "content": [
+          {
+            "title": "Đa dạng tính năng giúp tăng doanh số bán hàng",
+            "des": "Kích hoạt các trải nghiệm TMĐT B2B/Bán buôn tốt hơn bằng cách sử dụng phân khúc giá và khách hàng tự động, xác định chi tiết, đơn đặt hàng và điều khoản thanh toán ròng, vai trò người dùng và tích hợp với các hệ thống ERP, OMS và CRM..."
+          },
+          {
+            "title": "Tăng trải nghiệm của người mua sắm",
+            "des": "Trải nghiệm mua hàng B2B truyền thống không giống với những gì người mua B2B TMĐT mong đợi. IChiba OnePlatform hỗ trợ các doanh nghiệp có thể dễ dàng xây dựng các thiết kế Website có các danh mục lớn, phù hợp với phân khúc khách hàng và giá cả đa dạng cấp độ SKU."
+          },
+          {
+            "title": "Đa cửa hàng và đa danh mục",
+            "des": "Trợ thủ đắc lực cho các hoạt động bán hàng B2B phức tạp với hàng loạt thuộc tính mặt hàng chuyên biệt, đầu vào tùy chỉnh, giao diện với ERP hiện tại của bạn cũng như khả năng vận chuyển và xử lý tùy chỉnh cho khách hàng của bạn."
+          }
+        ]
+      },
+      {
+        "label": "D2C",
+        "content": [
+          {
+            "title": "Chuyển đổi nhiều doanh số hơn",
+            "des": "Tận dụng công cụ Tạo Trang của chúng tôi để thiết lập và vận hành cửa hàng của bạn nhanh hơn cũng như thực hiện các thay đổi nhanh chóng cho Website mà không cần viết mã. Đơn giản hóa quy trình thanh toán với tính năng thanh toán tối ưu hóa và thuyết phục khách hàng bằng tính năng khôi phục giỏ hàng."
+          },
+          {
+            "title": "Đơn giản hóa quản lý thương mại điện tử",
+            "des": "Mang đến  trải nghiệm mua sắm cá nhân hóa với từng nhóm khách hàng. Cung cấp đa dạng tùy chọn vận chuyển và phương thức thanh toán để tìm giải pháp phù hợp nhất."
+          }
+        ]
+      }
+    ]
+  },
+  "whyIchiba": {
+    "heading": "Tại sao chọn StoreFront Layer của IChiba OnePlatform?",
+    "subHeading": "Chúng tôi đã chắp cánh cho hàng ngàn doanh nhân biến ước mơ thành hiện thực!",
+    "subHeading2": "Mở khóa tiềm năng phát triển TMĐT, mở rộng doanh nghiệp với công cụ xây dựng website toàn diện.",
+    "contents": [
+      {
+        "title": "Công nghệ hiện đại",
+        "des": "Kiến trúc mô-đun, API-first, Cloud native và Headless giúp bạn có được sự linh hoạt, tăng tốc thương mại và mở rộng quy mô nhanh hơn. "
+      },
+      {
+        "title": "Thân thiện với người bán và nhà phát triển",
+        "des": "Dễ học, dễ định cấu hình và dễ vận hành – Giao diện dashboard quản lý thân thiện với nhà bán hàng."
+      },
+      {
+        "title": "Nhanh chóng & linh hoạt",
+        "des": "Mô hình theo mô-đun mang lại sự linh hoạt để phát triển cơ sở hạ tầng và rút ngắn quá trình nghiệm thu website."
+      }
+    ]
+  },
+  "ourCustomer": {
+    "heading": "Khám phá cách mà các doanh nghiệp bán hàng online bắt đầu câu chuyện thành công của họ với sự hỗ trợ từ IChiba OnePlatform",
+    "item": "sản phẩm",
+    "milItems": "TRIỆU sản phẩm",
+    "user": "người dùng",
+    "over": "Hơn",
+    "contents": [
+      {
+        "title": "CROCHET CLOTHES",
+        "des": "Thời trang đan móc",
+        "author": "Ông Trần Nam",
+        "bio": "Nhà sáng lập Crochet Clothes",
+        "content": "Từ quá trình tư vấn ban đầu cho đến khi trình ra sản phẩm trang web cuối cùng, Crochet Clothes  đã trải qua một quy trình liền mạch và hiệu quả. IChiba đã thể hiện sự chuyên nghiệp, tìm hiểu kỹ càng về các yêu cầu kinh doanh của chúng tôi và thể hiện chúng thành một trang web thân thiện với người dùng, hấp dẫn, trực quan. Thiết kế và bố cục thể hiện một cách hoàn hảo bản sắc thương hiệu của chúng tôi, giúp giới thiệu hiệu quả các sản phẩm thủ công tới khách hàng mục tiêu."
+      },
+      {
+        "title": "SHOPFORME",
+        "des": "Chuyên hàng Nhật, Mỹ",
+        "author": "Bà Lea",
+        "bio": "Trưởng phòng marketing Shopforme",
+        "content": "IChiba OnePlatform đã giúp chúng tôi tạo ra một trang web bán hàng tích hợp với tất cả các tính năng thiết yếu như danh mục sản phẩm, giỏ hàng, cổng thanh toán và hệ thống quản lý tồn kho. Ngoài ra, trang web có tốc độ load trang nhanh, được tối ưu cho nhiều thiết bị khác nhau, đảm bảo trải nghiệm mua sắm nhất quán của người tiêu dùng. Website Shopforme cũng được tối ưu hóa SEO, vì vậy lượng truy cập tự nhiên khá cao. "
+      }
+    ]
+  },
+  "support": {
+    "heading": "Bạn đã sẵn sàng xây dựng trang web bán hàng của riêng mình chưa?",
+    "cta": "Làm ngay thôi!"
+  }
+}

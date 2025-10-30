@@ -1,0 +1,254 @@
+{
+  "smartCrossBorder": "Cross-Border Forwarding",
+  "menu": {
+    "overview": "Overview",
+    "pricing": "Pricing"
+  },
+  "banner": {
+    "heading": "Cross-Border Forwarding",
+    "title": "Customs and import-export management system",
+    "subTitle": [
+      "As the international transportation industry continues to expand, leveraging technology to optimize productivity and enhance operational efficiency has become more critical than ever.",
+      "IChiba Cross-Border Forwarding offers a comprehensive solution, enabling logistics businesses to efficiently manage import-export processes and customs procedures with ease."
+    ],
+    "freeTrial": "Start Free Trial"
+  },
+  "howItWorks": {
+    "label": "How to use the software?",
+    "heading": "Cross-Border Forwarding",
+    "subHeading": "Digitize workflows and efficiently manage import-export documents, ensuring faster customs clearance with IChiba Cross-Border Forwarding."
+  },
+  "fourObstacles": {
+    "heading": "4 Key Obstacles Holding Back Your Import-Export Operations",
+    "items": [
+      "Complex and error-prone import-export document handling",
+      "There’s no tool or system that helps minimize time-consuming manual tasks.",
+      "Difficulties in complying with customs regulations & international laws",
+      "Manage multiple suppliers and logistics partners"
+    ]
+  },
+  "process": {
+    "headingLoop": ["Automate", "Digitalize", "Optimize"],
+    "heading": " your import-export process",
+    "contents": [
+      {
+        "label": "Processes",
+        "items": [
+          {
+            "stt": "01",
+            "title": "Order creation & document preparation",
+            "subTitle": [
+              "Sellers create export orders.",
+              "Prepare necessary documents: commercial invoice, packing list, Certificate of Origin (C/O), Air Waybill (AWB) / Bill of Lading (B/L), and customs declaration."
+            ]
+          },
+          {
+            "stt": "02",
+            "title": "Export customs declaration",
+            "subTitle": [
+              "Submit the customs declaration electronically or directly to customs authorities.",
+              "Goods may undergo inspection and risk assessment (and verification if required)."
+            ]
+          },
+          {
+            "stt": "03",
+            "title": "International shipping",
+            "subTitle": [
+              "After customs clearance, goods are transported to the port/airport.",
+              "The carrier receives the shipment and issues the Bill of Lading (B/L).",
+              "Goods are shipped by sea/air to the importing country."
+            ]
+          },
+          {
+            "stt": "04",
+            "title": "Import customs declaration",
+            "subTitle": [
+              "The importing company declares customs clearance with local authorities.",
+              "Import duties and taxes are calculated and paid if applicable.",
+              "Necessary procedures are completed before goods are released."
+            ]
+          },
+          {
+            "stt": "05",
+            "title": "Fulfillment & last-mile delivery",
+            "subTitle": [
+              "Goods are transported to the destination warehouse and handed over to the recipient.",
+              "Handle any issues and settle logistics-related payments."
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Cross-border forwarding support",
+        "items": [
+          {
+            "stt": "01",
+            "title": "Cross-border forwarding supports:",
+            "subTitle": [
+              "Automatically generating Air Waybills (AWB) to reduce data entry errors.",
+              "Storing and managing standardized document templates for easy reuse."
+            ]
+          },
+          {
+            "stt": "02",
+            "title": "Cross-border forwarding supports:",
+            "subTitle": [
+              "Direct integration with the electronic customs system for declaration submission.",
+              "Automatically classifying HS codes and calculating export duties."
+            ]
+          },
+          {
+            "stt": "03",
+            "title": "Cross-border forwarding supports:",
+            "subTitle": [
+              "Managing bookings with carriers.",
+              "Tracking shipment routes and estimated time of arrival (ETA)."
+            ]
+          },
+          {
+            "stt": "04",
+            "title": "Cross-border forwarding supports:",
+            "subTitle": [
+              "Integrating international customs regulations and alerting for restricted goods.",
+              "Accurately estimating import duties and taxes."
+            ]
+          },
+          {
+            "stt": "05",
+            "title": "Cross-border forwarding supports:",
+            "subTitle": [
+              "Managing logistics partners and tracking shipments.",
+              "Analyzing logistics costs."
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "management": {
+    "heading": "Document and shipment management",
+    "items": [
+      {
+        "title": "Automated Air Waybill (AWB) generation",
+        "subTitle": "Automatically fill in all necessary details and generates AWBs without manual entry, saving time and reducing data entry errors."
+      },
+      {
+        "title": "Custom document template library",
+        "subTitle": "Store, manage, and reuse document templates based on cargo type, shipping routes, and customs requirements, reducing processing time and minimizing errors."
+      },
+      {
+        "title": "Real-time shipment tracking",
+        "subTitle": "Continuously update shipment status, providing timely and accurate information for both you and your customers."
+      },
+      {
+        "title": "Master Air Waybill (MAWB) / House Air Waybill (HAWB) management",
+        "subTitle": "Link multiple HAWBs to a single MAWB for easier tracking. Supports shipment splitting when deliveries need to be sent to multiple destinations."
+      },
+      {
+        "title": "Electronic signature",
+        "subTitle": "Enable digital signatures to speed up approval processes and optimize document handling workflows."
+      }
+    ]
+  },
+  "integration": {
+    "heading": "Customs and import tax integration",
+    "items": [
+      {
+        "title": "Create and manage import-export documents",
+        "subTitle": "Quickly generate and manage essential documents such as invoices, packing lists, and manifests, reducing paperwork processing time by up to 90% and minimizing data entry errors."
+      },
+      {
+        "title": "Customs portal integration",
+        "subTitle": "Seamlessly connect with electronic customs systems across multiple countries, enabling automated declarations and expediting the clearance process with real-time data synchronization."
+      },
+      {
+        "title": "Customs regulations updates",
+        "subTitle": "Continuously update database of customs regulations for different countries, providing real-time alerts for restricted goods or items requiring special permits."
+      },
+      {
+        "title": "Automated HS code classification",
+        "subTitle": "Suggest the most accurate HS codes based on product descriptions and historical data, reducing errors, speeding up customs declarations, and ensuring compliance with import-export regulations."
+      },
+      {
+        "title": "Import tax and fee estimation tool",
+        "subTitle": "Automatically calculate customs duties, taxes, and related fees according to each country’s regulations, helping businesses accurately forecast costs, optimize budgets, and avoid unexpected expenses."
+      },
+      {
+        "title": "Integrated electronic customs declaration",
+        "subTitle": "Easily submit customs declarations directly through the software, ensuring regulatory compliance and significantly reducing clearance times."
+      }
+    ]
+  },
+  "freightCost": {
+    "heading": "Freight cost management",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/lets_icons_file_dock_duotone_dee7b26055.svg",
+        "title": "Flexible rate configuration",
+        "subTitle": "Customize pricing tables based on origin/destination, weight, cargo type, and service level, optimizing shipping costs and ensuring precise automated rate calculations for each shipment."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/6176fd192c9aa66ba04117c9_test_1_34c898dc35.svg",
+        "title": "Surcharge management",
+        "subTitle": "Update and apply surcharges (fuel, peak season, security, etc.) in real time to ensure accurate quotations and optimize operational costs."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a1599394e82d62d6d4e5_Conversion_1_c55d4de5ab.svg",
+        "title": "Flexible pricing approval process",
+        "subTitle": "Enable approval workflows for special quotations or discount thresholds, ensuring strict control while maintaining flexibility in pricing strategies."
+      }
+    ]
+  },
+  "digitize": {
+    "heading": "Digitize import & export to gain a competitive edge",
+    "items": [
+      {
+        "title": "Boost operational efficiency",
+        "subTitle": "Automate processes to minimize manual work, increase productivity, and enhance overall efficiency."
+      },
+      {
+        "title": "Reduce risks and errors",
+        "subTitle": "Notify immediately if there are any errors in customs clearance."
+      },
+      {
+        "title": "Cost saving",
+        "subTitle": "Optimized workflows and efficient management help reduce operational costs and increase business profitability."
+      },
+      {
+        "title": "Enhance Customer Satisfaction",
+        "subTitle": "Providing timely and accurate information, which improves customer experience and loyalty."
+      }
+    ]
+  },
+  "customerSuccess": {
+    "heading": "Customer stories",
+    "subHeading": "Over 100+ logistics companies and fulfillment service providers have optimized their import-export processes, reducing customs clearance time by 40% while ensuring service SLA compliance."
+  },
+  "beforeAfter": [
+    {
+      "icon": "https://cms-strapi.ichiba.net/uploads/Group_531fe0d509.svg",
+      "label": "Before",
+      "title": "IChiba Cross-Border Forwarding",
+      "contents": [
+        "Manually processing thousands of export documents, prone to errors",
+        "Difficulties in tracking customs clearance status, leading to delivery delays",
+        "Managing order data from multiple sources, resulting in time-consuming reconciliation"
+      ]
+    },
+    {
+      "icon": "https://cms-strapi.ichiba.net/uploads/Objects_3b6fe655a5.svg",
+      "label": "After",
+      "title": "IChiba Cross-Border Forwarding",
+      "contents": [
+        "70% reduction in document handling time, enabling faster customs clearance",
+        "Automated data synchronization for accurate shipment tracking",
+        "50% reduction in operational costs, improving order processing efficiency"
+      ]
+    }
+  ],
+  "contact": {
+    "heading": "Managing import-export has never been faster and easier!",
+    "subHeading": "Are you ready to optimize your import-export process? Contact us now for 1-on-1 support from IChiba’s expert team!",
+    "textBtn": "Contact Us"
+  }
+}

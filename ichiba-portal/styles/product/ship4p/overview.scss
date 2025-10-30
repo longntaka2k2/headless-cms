@@ -1,0 +1,483 @@
+#overview {
+  user-select: none;
+
+  .banner {
+    padding: 60px 0 0px 0;
+    color: #333333;
+    background: linear-gradient(
+      106.99deg,
+      #173ab4 0%,
+      rgba(141, 177, 246, 0.899438) 45.25%,
+      rgba(188, 211, 255, 0.89967) 54.69%,
+      rgba(213, 227, 255, 0.9) 62.5%
+    );
+    color: #ffffff;
+
+    .title-banner {
+      h2 {
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 72px;
+      }
+    }
+
+    .content {
+      font-weight: 400;
+      font-size: 20px;
+    }
+
+    .banner-content {
+      width: 50%;
+
+      .banner-img {
+        .lf-player-container {
+          #lottie {
+            overflow: none !important;
+
+            @include respond(big-desktop) {
+              svg {
+                width: auto !important;
+              }
+            }
+          }
+        }
+
+        @include banner {
+          .banner-content {
+            svg {
+              width: 100% !important;
+              height: auto;
+            }
+          }
+        }
+      }
+    }
+
+    .banner-button {
+      font-size: 16px;
+
+      .trial {
+        color: #ffffff;
+        background: #f57c00;
+        border-radius: 8px;
+        padding: 16px 50px 16px 50px;
+      }
+
+      .tour {
+        color: #f57c00;
+        border: 1px solid #f57c00;
+        border-radius: 8px;
+        padding: 16px 50px 16px 50px;
+      }
+    }
+
+    .info {
+      position: relative;
+      background-color: #ffffff;
+      padding: 48px;
+      color: #333333;
+      top: 100px;
+
+      .number {
+        font-weight: 700;
+        font-size: 36px;
+      }
+    }
+  }
+
+  .we-build {
+    padding: 220px 0 80px 0;
+
+    .title {
+      font-weight: 700;
+      font-size: 36px;
+      text-align: center;
+      margin-bottom: 48px;
+    }
+
+    .ship4p {
+      cursor: pointer;
+
+      .ship4p-item {
+        padding: 48px;
+      }
+    }
+
+    .ship4p:hover {
+      .ship4p-item {
+        padding: 40px !important;
+        transform: scale(1.1);
+        transition: transform 0.5s;
+
+        .ship-content {
+          transition: ease-in-out 0.2s;
+        }
+      }
+    }
+
+    .before {
+      /* background: #f0f5ff; */
+      border-radius: 12px;
+    }
+
+    .after {
+      color: #ffffff;
+      margin-left: 12px;
+      border-radius: 12px;
+      background-color: #1d39c4;
+    }
+  }
+
+  .robust {
+    padding-bottom: 60px;
+
+    .title {
+      font-weight: 900;
+      font-size: 36px;
+      text-align: center;
+      margin-bottom: 48px;
+      max-width: 792px;
+      margin: 0 auto 68px auto;
+    }
+
+    .tab {
+      color: #666666;
+      border-bottom: 5px solid #c0bdbd;
+    }
+
+    .active {
+      color: #333333;
+      border-bottom: 8px solid #1d39c4;
+    }
+
+    .features-items {
+      margin: 20px 0;
+
+      .features-title {
+        height: 70px;
+      }
+
+      .features-content {
+        min-height: 180px;
+      }
+    }
+  }
+
+  .integration {
+    .input-group {
+      width: auto;
+      height: 39px;
+      margin-right: 20px;
+    }
+
+    .btn-view-all {
+      display: none;
+    }
+
+    .select-group {
+      height: 40px;
+    }
+
+    .all-carriers {
+      .carriers-item {
+        padding: 16px;
+        border: 1px solid#A2A9B0;
+        border-radius: 8px;
+      }
+    }
+  }
+
+  .how-ship4p {
+    padding: 40px 0;
+
+    .item-3 {
+      margin: 0 0 0 20%;
+    }
+
+    .title {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .btn-free {
+      padding: 16px 20px;
+      background-color: #f57c00;
+      color: #ffffff;
+      border-radius: 8px;
+    }
+  }
+
+  .built {
+    background-color: #f2f2f2;
+    padding-bottom: 60px;
+
+    .carosel {
+      height: 0px;
+      width: 52%;
+      position: relative;
+      bottom: 400px;
+      z-index: 1;
+      float: right;
+      padding-right: 30px;
+
+      .every-img {
+        max-width: 150px;
+        max-height: 150px;
+        width: 100%;
+        height: 100%;
+        border-radius: 12px;
+      }
+
+      .center-carousel {
+        margin-left: 120px;
+      }
+
+      .slick-slide.slick-center img {
+        opacity: 0.5;
+      }
+    }
+
+    .carosel::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -5;
+      height: 450px;
+      width: 50%;
+      background: linear-gradient(
+        to right,
+        #f2f2f2 0%,
+        rgba(247, 245, 244, 0) 100%
+      );
+      z-index: 1;
+    }
+
+    .save-every-main {
+      padding: 40px 0 0 0;
+      width: 100%;
+      position: relative;
+      z-index: 2;
+
+      .button {
+        padding: 16px;
+        border-radius: 8px;
+        color: #ffffff;
+        background-color: #f57c00;
+      }
+    }
+  }
+
+  .free-up {
+    margin: 60px 0;
+    padding: 92px 56px 88px 56px;
+    color: #ffffff;
+    border-radius: 8px;
+
+    .question-title {
+      font-weight: 900;
+      font-size: 36px;
+    }
+
+    .button {
+      padding: 12px;
+      background-color: #f57c00;
+      border-radius: 8px;
+      max-width: 240px;
+      color: #ffffff;
+    }
+  }
+}
+
+@include respond(tab-land) {
+  .banner {
+    .title-banner {
+      h2 {
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 40px;
+      }
+    }
+
+    .content {
+      font-weight: 400;
+      font-size: 16px;
+    }
+
+    .banner-button {
+      font-size: 16px;
+
+      .trial {
+        color: #ffffff;
+        background: #f57c00;
+        border-radius: 8px;
+        padding: 10px 25px 10px 25px;
+      }
+
+      .tour {
+        color: #f57c00;
+        border: 1px solid #f57c00;
+        border-radius: 8px;
+        padding: 10px 25px 10px 25px;
+      }
+    }
+
+    .banner-img {
+      width: auto;
+
+      svg {
+        width: 100% !important;
+        height: auto;
+      }
+    }
+  }
+}
+
+@include respond(tab-port) {
+  .banner {
+    .banner-content {
+      width: 100% !important;
+
+      svg {
+        width: 100% !important;
+      }
+    }
+
+    .info {
+      padding: 12px !important;
+
+      .number {
+        font-weight: 700;
+        font-size: 30px !important;
+      }
+    }
+  }
+
+  .we-build {
+    .title {
+      font-weight: 700 !important;
+      font-size: 38px !important;
+    }
+
+    .before {
+      margin-top: 0px !important;
+      margin-bottom: 30px;
+    }
+
+    .after {
+      margin-left: 0px !important;
+    }
+  }
+
+  .robust {
+    .title {
+      font-weight: 700 !important;
+      font-size: 38px !important;
+    }
+
+    .tab {
+      div {
+        font-size: 20px !important;
+        font-weight: 500 !important;
+      }
+    }
+
+    .features-items {
+      margin: 20px 0;
+      text-align: center;
+
+      .features-content {
+        height: 100px !important;
+      }
+    }
+  }
+
+  .how-ship4p {
+    padding: 70px 0;
+
+    .title {
+      margin: 0 auto;
+      font-size: 36px !important;
+      font-weight: 700 !important;
+    }
+  }
+
+  .integration {
+    .all-carriers {
+      .carriers-item {
+        padding: 16px;
+        border: 1px solid#A2A9B0;
+        border-radius: 8px;
+      }
+    }
+
+    .hidden {
+      height: 450px;
+      overflow: hidden;
+    }
+
+    .btn-view-all {
+      display: inline-block !important;
+      padding: 12px 20px;
+      background-color: #f57c00;
+      color: #fff;
+      border-radius: 12px;
+    }
+  }
+
+  .built {
+    .save-every-main {
+      text-align: center;
+      padding-bottom: 300px !important;
+
+      h2 {
+        font-size: 36px !important;
+      }
+
+      .button {
+        align-items: center;
+        margin: 0 auto;
+        margin-top: 10px;
+      }
+    }
+
+    .carosel {
+      width: 100% !important;
+      bottom: 300px !important;
+
+      .slick-slide {
+        .slick-list {
+          height: 100px !important;
+          margin: 1px 10px;
+        }
+      }
+
+      .center-carousel {
+        margin-left: 0px !important;
+      }
+    }
+
+    .carosel::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 20%;
+      background: none !important;
+      z-index: 1;
+    }
+  }
+
+  .free-up {
+    margin-top: 150px !important;
+  }
+}
+
+@include respond(phone) {
+  .built {
+  }
+
+  .free-up {
+    margin-top: 50px !important;
+  }
+}

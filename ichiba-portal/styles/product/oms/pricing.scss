@@ -1,0 +1,87 @@
+#oms-pricing {
+  padding-top: 40px;
+  .options {
+    .active {
+      border-radius: 8px;
+      border: 1px solid #389e0d;
+      background-color: #f6ffed;
+      height: 100%;
+      padding: 12px;
+      .title {
+        color: #389e0d;
+      }
+      .suitable {
+        color: #389e0d;
+      }
+    }
+    .default {
+      border-radius: 8px;
+      border: 1px solid #0f62fe;
+      background-color: #e6f3ff;
+      padding: 12px;
+      height: 100%;
+      .title {
+        color: #0f62fe;
+      }
+      .suitable {
+        color: #0f62fe;
+      }
+    }
+  }
+  .list-tab {
+    .tab {
+      padding: 12px;
+      border-radius: 12px;
+      background: var(--black-ink-1-s, #F2F2F2);
+      color: var(--black-ink-5-s, #666);
+      margin-right: 5px;
+      cursor: pointer;
+      display: inline-block;
+    }
+    .tab-active {
+    color: var(--brand-branda, #F57C00);
+      border: 1px solid var(--orange-orange-6-s, #fa8c16);
+      background: var(--orange-orange-2-s, #ffe7ba);
+    }
+  }
+  .table{
+    
+    border-radius: 12px;
+    table{
+      th{
+        width: 16.6666666667%;
+        padding: 12px;
+        min-width: 150px;
+      }
+      td{
+        padding: 12px;
+        border: 1px solid #999;
+      }
+      .main{
+        background-color: #F2F2F2;
+        border: 1px solid #999;
+      }
+      .free{
+        border: 1px solid #389E0D;
+        background:  #F6FFED;
+        color: #389E0D;
+        text-align: center;
+      }
+      .standard{
+        color: var(--blue-blue-6-s, #0F62FE);
+        background: #E6F3FF;
+        border: 1px solid #0F62FE;
+        text-align: center;
+      }
+      
+    }
+  }
+  @include respond(tab-port) {
+    .list-tab {
+      overflow: scroll;
+    }
+    .table{
+      overflow: scroll;
+    }
+  }
+}

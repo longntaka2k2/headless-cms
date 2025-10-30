@@ -1,0 +1,180 @@
+{
+  "title": "Sự kết hợp độc quyền giữa IChiba Commerce Layer và Fulfillment by EFEX",
+  "subTitle": "IChiba Commerce Layer hợp tác với dịch vụ Fulfillment by EFEX để cung cấp giải pháp giúp các doanh nghiệp nâng cao hiệu quả bán hàng đa kênh và đảm bảo năng suất trong các hoạt động lấy hàng, đóng gói và vận chuyển số lượng lớn.",
+  "contactSale": "Liên hệ ngay",
+  "process": {
+    "title": "Quy trình hoàn tất đơn hàng tại EFEX",
+    "subTitle": "Thúc đẩy bán hàng đa hiệu quả",
+    "step": [
+      "Người mua đặt hàng trên bất kỳ kênh bán nào",
+      "EFEX lấy hàng, đóng gói và vận chuyển",
+      "EFEX vận chuyển gói hàng đến tay người mua"
+    ],
+    "channels": {
+      "web": "Website bán hàng",
+      "platforms": "Sàn thương mại điện tử",
+      "platformsEg": "(Shopee, Lazada, Tiki,..)",
+      "stores": "Các kênh mạng xã hội",
+      "storesEg": "(Facebook, Instagram, Tiktok,...)"
+    },
+    "fulfillmentEfex": "Giải pháp hoàn thiện đơn đặt hàng đa kênh EFEX",
+    "fbe": "(FBE)",
+    "customers": "Khách hàng"
+  },
+  "fulfillmentDifferent": {
+    "title": {
+      "first": "Vì sao",
+      "second": "đặc biệt?"
+    },
+    "subTitle": "Hoàn tất đơn hàng thương mại điện tử trong thời gian nhanh nhất, với chi phí thấp nhất.",
+    "fbm": {
+      "title": "Người bán tự xử lý đơn hàng (FBM)",
+      "content": [
+        {
+          "title": "Chi phí vận hành cao",
+          "description": "Người bán phải trả nhiều loại phí khác nhau, bao gồm tiền thuê kho, thuê nhân viên, thiết bị kho, v.v."
+        },
+        {
+          "title": "Tốn thời gian và kém chuyên nghiệp",
+          "description": "Việc lấy hàng, đóng gói và vận chuyển không được chuyên nghiệp, gây lãng phí thồi gian, chi phí và khiến khách hàng rời bỏ."
+        },
+        {
+          "title": "Thời gian giao hàng chậm",
+          "description": "Thời gian vận chuyển với FBM thưởng kéo dài và chậm trễ, điều này có thể ảnh hưởng đến sự hài lòng của khách hàng và dẫn đến việc huỷ đơn."
+        }
+      ]
+    },
+    "fbe": {
+      "title": "Hoàn tất đơn hàng với EFEX (FBE)",
+      "content": [
+        {
+          "title": "Phí vận hành thấp hơn",
+          "description": {
+            "first": "Người bán có thể tiết kiệm",
+            "second": " tới 70%",
+            "third": " chi phí vận hành, nhân sự, trang thiết bị kho.",
+            "fourth": " Dùng bao nhiêu, trả bấy nhiêu."
+          }
+        },
+        {
+          "title": "Nhanh chóng và chuyên nghiệp",
+          "description": {
+            "first": "FBE quản lý toàn bộ quy trình, từ lưu kho đến lấy hàng, đóng gói và vận chuyển, đáp ứng cam kết SLA. Tăng khả năng xử lý đơn hàng chính xác",
+            "second": " lên tới 99,9%."
+          }
+        },
+        {
+          "title": "Thời gian giao hàng nhanh hơn",
+          "description": {
+            "first": "Xử lý đơn hàng nhanh chóng và hiệu quả, giúp",
+            "second": " cải thiện 50%",
+            "third": " tốc độ giao hàng mà còn thúc đẩy doanh số bán hàng tăng lên."
+          }
+        }
+      ]
+    }
+  },
+  "fulfillOrders": {
+    "heading": "Tại sao nên thực hiện đơn hàng với EFEX?",
+    "subHeading": "Tối ưu hoá và tiết kiệm tới 70% phí vận hành với EFEX.",
+    "sameDay": {
+      "title": "Xử lý đơn hàng trong ngày",
+      "content": [
+        "Tiến hành xử lý ngay khi có đơn mới trên các kênh bán hàng, giao hàng chính xác đúng thời gian cam kết.",
+        "Cam kết đạt 100% SLA trong suốt quá trình. Có thể đáp ứng tới 2000 đơn hàng/ngày."
+      ]
+    },
+    "payAs": {
+      "title": "Dùng bao nhiêu trả bấy nhiêu",
+      "content": [
+        "Phí fulfillment được tính dựa trên số lượng và quy mô đơn hàng được xử lý.",
+        "Không có phí bổ sung hoặc phí ẩn, nhiều chương trình khuyến mãi dành cho người bán hàng năm."
+      ]
+    },
+    "multiple": {
+      "title": "Nhiều kho tại các vị trí thuận tiện",
+      "content": "Mạng lưới kho hàng trải dài khắp Đông Nam Á, có vị trí chiến lược ở trung tâm các thành phố trọng điểm để xuất nhập và phân phối hàng hoá thuận tiện."
+    },
+    "delivery": {
+      "title": "Giao hàng chặng cuối",
+      "content": "Kết nối với các hãng vận chuyển trong nước và quốc tế để giao hàng một cách nhanh chóng với mức giá thấp nhất mà vẫn đảm bảo an toàn 100% cho đơn hàng trong quá trình vận chuyển."
+    },
+    "customized": {
+      "title": "Dịch vụ đóng hàng tuỳ chỉnh",
+      "content": [
+        "Tuỳ chỉnh đóng gói bao bì để mang lại lợi nhuận tối ưu.",
+        "Nâng cao nhận thức thương hiệu như chèn logo, thêm phiếu giảm giá, thư cảm ơn, tài liệu marketing.!"
+      ]
+    },
+    "provide": {
+      "title": "Phần mềm quản lý bán hàng đa kênh, đa thị trường Commerce Layer",
+      "free": "Miễn phí",
+      "content": [
+        "Bán hàng đa kênh, quản lý duy nhất tại một nơi.",
+        "Phần mềm của IChiba được tích hợp nhiều tính năng, giúp nhà bán hàng trên nhiều kênh (Tiktok Shop, Shopee, Lazada,...)"
+      ]
+    }
+  },
+  "unlocking": {
+    "title": "Mở khoá tiềm năng doanh nghiệp: Tối ưu hoá vận hành và fulfillment",
+    "subTitle": "Nâng cao năng suất, độ chính xác và tốc độ với kho hàng tiên tiến của chúng tôi."
+  },
+  "fulfillNetwork": {
+    "title": "Mạng lưới Fulfillment",
+    "subTitle": "Chúng tôi có mặt ở mọi nơi bạn cần trên toàn cầu."
+  },
+  "customerSuccess": {
+    "ourSuccess": "Câu chuyện thành công của khách hàng",
+    "title": "Thành công của khách hàng là niềm tự hào của chúng tôi.",
+    "subTitle": ""
+  },
+  "ourPartners": {
+    "title": "Đối tác",
+    "subTitle": "EFEX luôn nỗ lực xây dựng mối quan hệ hợp tác bền chặt với các công ty hàng đầu trong ngành để mang dến dịch vụ tốt nhất cho mọi doanh nghiệp.",
+    "items": [
+      {
+        "category": "Sàn thương mại điện tử"
+      },
+      {
+        "category": "Đơn vị vận chuyển",
+        "childCate": ["Vận chuyển nội địa", "Vận chuyển quốc tế"]
+      }
+    ]
+  },
+  "multichannel": {
+    "title": "Order Fulfillment đa kênh",
+    "subTitle": "Hoàn tất đơn hàng đa kênh một cách chính xác và chuyên nghiệp, tăng khả năng giữ chân khách hàng và để lại ấn tượng khó quên cho thương hiệu của bạn.",
+    "btnText": "Liên hệ ngay"
+  },
+  "contact": {
+    "title": "Hãy tập trung phát triển kinh doanh, hậu cần để EFEX lo!"
+  },
+  "frequentlyQues": {
+    "getAnswers": "Câu trả lời cho",
+    "title": "Câu hỏi thường gặp",
+    "subTitle": "Khám phá các câu hỏi thường gặp của chúng tôi để tìm hiểu về Fulfillment by EFEX (FBE) và nhiều thông tin khác.",
+    "content": [
+      {
+        "title": "“Fulfillment” là gì?",
+        "description": "\"Fulfillment\" (Hoàn tất đơn hàng) là quy trình lưu trữ, đóng gói và vận chuyển, cùng với việc quả lý đổi trả. Một số công ty tự thực hiện fulfillment, trong khi một số khác sử dụng các dịch vụ bên ngoài như Fulfillment by EFEX, hoặc kêt hợp cả hai cách. Việc thực hiện fulfillment hiệu quả sẽ mang lại sự hài lòng cho khách hàng."
+      },
+      {
+        "title": "FBE (Fulfillment by EFEX) là gì?",
+        "description": "Fulfillment by EFEX (FBE) là dịch vụ cho phép doanh nghiệp lưu kho hoặc thực hiện đơn hàng trên nhiều kênh bán. Khi khách hàng của bạn đặt đơn trên bất kỳ kênh nào, đội ngũ của EFEX sec bắt đầu lấy hàng, đóng gói, vận chuyển và quản lý đổi trả một cách hiệu quả, nhanh nhất có thể."
+      },
+      {
+        "title": "EFEX fulfillment hoạt động như thế nào?",
+        "description": "Khi người bán có đơn đặt hàng mới, đội ngũ EFEX sẽ lấy hàng, đóng gói và vận chuyển ngay trong ngày. Bên cạnh đó, EFEX cũng chịu trách nghiệm xử lý các sản phẩm bị trả lại. Chúng tôi sẽ nhanh chóng thực hiên việc kiểm tra, đánh giá và phân loại các mặt hàng có thể bán được trở lại kho. Đảm bảo việc hoàn trả không tốn thời gian và tiết kiệm chi phí để mang lại trải nghiệm tốt nhất có thể cho khách hàng."
+      },
+      {
+        "title": "Dịch vụ FBE tính giá như thế nào?",
+        "description": "Chi phí dịch vụ FBE khác nhau tuỳ theo số lượng sản phẩm, bao gồm cả phí hoàn tất đơn hàng và chi phí lưu kho. Vui lòng liên hệ với chúng tôi để nhận được báo giá chi tiết."
+      }
+    ],
+    "learnMore": {
+      "first": "Tìm hiểu thêm về",
+      "second": " hoàn tất đơn hàng thương mại điện tử",
+      "link": "https://efex.vn/vi/blog/fulfillment-la-gi"
+    }
+  }
+}

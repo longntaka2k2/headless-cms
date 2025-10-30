@@ -1,0 +1,905 @@
+{
+  "commerceLayer": "Commerce Layer",
+  "menu": {
+    "overview": "Overview",
+    "features": "Features",
+    "pos": "POS",
+    "posFeatures": "POS Features",
+    "automationEngagement": "Automation engagement",
+    "pricing": "Pricing"
+  },
+  "banner": {
+    "heading": [
+      "Transform your",
+      " multi-market",
+      " global selling",
+      " experience with omnichannel order management on multiple markets"
+    ],
+    "subHeading": [
+      "Cope with not only omnichannel order management on multiple markets complexity, but also product data governance, and integration configuration.",
+      "Trusted and used by over 50.000 businesses"
+    ]
+  },
+  "masterOminichannel": {
+    "heading": "Master omnichannel commerce - Sell everywhere you want with Commerce Layer",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_d652eca1ad.svg",
+        "title": "Omnichannel order management",
+        "des": "Connect with multiple sales channels (ecommerce, selling websites, etc.) to manage orders on one single platform."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group2_9a3eb4cf6c.svg",
+        "title": "International ecommerce integration",
+        "des": "Integrate hundreds of ecommerce platforms from abroad like Japan, America and Korea so sellers can effortlessly manage international orders."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group6_aa72b7f021.svg",
+        "title": "Integration management",
+        "des": "Integrate other system such as ERP, CRM, WMS to ensure smooth data flow and provide a comprehensive view of inventory levels, order status, customer information, and financial data."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group4_9d7132d33e.svg",
+        "title": "Inventory management",
+        "des": "Provide real-time stock visibility across warehouses, channels and locations. Allocate inventory to fulfill orders based on predefined rules, reducing the risk of stockouts and backorders."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_d471e7772d.svg",
+        "title": "Point of sale (POS) management",
+        "des": "Not just online channels, Commerce Layer helps sellers manage their physical stores with POS system. Monitor every single product, customer data and employee."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group1_be641eeb68.svg",
+        "title": "Social commerce",
+        "des": "Take control of order on social media sites like Facebook, Instagram with ease. Commerce Layer allows sellers to create order right on chat screen."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group5_9ec2ed5731.svg",
+        "title": "Order distribution",
+        "des": "Distribute orders to the most suitable warehouse based on the locations and available items to save time and cost of delivery."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group2_73a21bfb7b.svg",
+        "title": "Inventory allocation",
+        "des": "Allocate inventory level to each channel based on factors such as priority, location, availability, and customer requirements."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group1_400921e1b1.svg",
+        "title": "Multi-channel price management",
+        "des": [
+          "Manage product prices across multiple platforms like Shopee, Lazada, Amazon, and instantly synchronize when there are price changes on these marketplaces.",
+          "",
+          ""
+        ]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group1_9db563d5bb.svg",
+        "title": "Product management",
+        "des": "Centralize product information to control on Commerce Layer. Update data just once and you get it updated on all sales channels."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_84eda4ce65.svg",
+        "title": "Product crawler",
+        "des": "Crawl product data from international ecommerces as Amazon, eBay, Rakuten, etc. to your selling website. No need to import data manually, everything is updated automatically in real-time."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_7c08bdd1c7.svg",
+        "title": "Bundle, inventory bundle management",
+        "des": [
+          "Sell products in bundles or combos for upsell and cross-sell across all your stores.",
+          "No need to pre-pack the products – you can create bundles/combos at any time on IChiba Commerce Layer.",
+          "If you have excess stock, bundle them together and let IChiba handle the inventory tracking."
+        ]
+      }
+    ]
+  },
+  "multiChannel": {
+    "des": "Unlock the potential of IChiba: beyond omnichannel order management, delve into our multichannel fulfillment service. Leave the logistics to us and concentrate on shaping your business strategy.",
+    "textBtn": "About our fulfillment service"
+  },
+  "buildStoreFront": {
+    "heading": "StoreFront Layer IChiba OnePlatform",
+    "subHeading": "Transform your digital ambitions into reality with IChiba online store builder. We create captivating online selling platforms, landing pages or applications that elevate brands, engage customers, and drive conversions.",
+    "textBtn": "View More",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Layer_2_7b687bfcb4.svg",
+        "title": "Multi-market",
+        "image": "https://cms-strapi.ichiba.net/uploads/Rectangle_52705s_96ed982154.svg"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Layer_1_ea18878bee.svg",
+        "title": "Multi-currency",
+        "image": "https://cms-strapi.ichiba.net/uploads/Rectangle_52705_ac9b039e3d.svg"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Layer_3_f57f5fcb0f.svg",
+        "title": "Global selling",
+        "image": "https://cms-strapi.ichiba.net/uploads/Rectangle_527035_bae222749c.svg"
+      }
+    ]
+  },
+  "system": {
+    "heading": "System integration",
+    "subHeading": "Seamlessly integrate with sales channels, physical stores, social commerce & 3rd party system to deliver an all-inclusive management experience.",
+    "textBtn": "View all integrations",
+    "tabs": ["Sales channels", "Delivery companies", "3rd party systems"]
+  },
+  "suitability": {
+    "heading": "Suitability",
+    "subHeading": "IChiba Commerce Layer is capable of suiting multiple industries and company types, from SMEs to large corporations.",
+    "tabs": ["Company types", "Company industries"],
+    "compantTypes": {
+      "image": "https://cms-strapi.ichiba.net/uploads/Group_1171275967c_1_72365ae479.svg",
+      "items": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_9e52f4ac03.svg",
+          "title": "Omnichannel",
+          "des": "Optimize order processing and distribution on omni-sale channels by tracking and recording data. Automatically post products on multiple ecommerces at the same time."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/browser_internet_web_loading_1_d11886c128.svg",
+          "title": "B2B & Wholesalers",
+          "des": "Manage multiple suppliers, price lists, web stores and more with ease, and give businesses the flexibility they need to grow."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Delivery_Shipment_Box_Arrows_4d6c20773b.svg",
+          "title": "Direct to Customers (D2C)",
+          "des": "Overcome challenges of single-handedly managing the hassle of sales channel expansion and distribution operations."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/browser_cursor_fb965f4d59.svg",
+          "title": "Ecommerce",
+          "des": "Rapidly curate new services and deploy better online shopping experiences to take your business to the next level by making data-driven decisions."
+        }
+      ]
+    },
+    "companyIndustries": {
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171276630_9abd14c5fc.svg",
+      "items": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/shopping_bag_seller_09d1369eb5.svg",
+          "title": "Retail",
+          "des": "Enhance efficiency, expand market reach, simplify management tasks, and provide a cohesive customer experience across sales channels, both online and offline."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Loupe_List_Results_Search_bfdcbf9e23.svg",
+          "title": "Electronics",
+          "des": "Commerce Layer is able to handle complex product assortments and rapid market changes of electronics industries by managing products in serial and imei."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/delivery_box_list_group_0865fdfadf.svg",
+          "title": "Fashion & Beauty",
+          "des": "Achieve full integration of inventory handling and exchange your eCommerce data with manufacturers and retailers for full supply chain visibility."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/api_select_d6552ac965.svg",
+          "title": "Dropshipping",
+          "des": "Commerce Layer enhances dropshipping by providing robust order management and seamless multi-channel integration, all within a scalable, secure, and API-first commerce platform."
+        }
+      ]
+    }
+  },
+  "howWorks": {
+    "heading": "How Commerce Layer works",
+    "subHeading": "Create an account and then you will have your own workspace to manage orders from omnichannel.",
+    "items": [
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_4b65b09969.png",
+        "title": "Step 1: Signup/Login",
+        "content": ["Signup or Login to your account", "", ""],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_120_48fd855628.png"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_4_0f9b7092b4.png",
+        "title": "Step 2: Config data",
+        "content": [
+          "Set up the basic data regarding the market, social, integration, etc.",
+          "",
+          ""
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_121_fc90e820ab.png"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_3_5b7edb841e.png",
+        "title": "Step 3: Manage orders",
+        "content": [
+          "Manage orders, status, shipments and returns at",
+          " Manage orders section.",
+          ""
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_122_5b0f24ed44.png"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_2_62dfce63ac.png",
+        "title": "Step 4: Manage integration",
+        "content": [
+          "Go to",
+          " Integration",
+          " to add any sales channel or 3rd party system."
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_123_75d93599f6.png"
+      }
+    ]
+  },
+  "voicesOfSuccess": {
+    "heading": ["Voices of success: ", "Customer stories"],
+    "subHeading": "Explore the inspiring journeys of our valued customers as they share their experiences, triumphs & insights in using IChiba Commerce Layer.",
+    "textBtn": "View More"
+  },
+  "contactOverview": {
+    "label": "Contact IChiba OnePlatform",
+    "heading": "Experience the seamless integration and unparalleled efficiency in online - offline selling",
+    "subHeading": "Take control of your operations, optimize workflows, and watch your business thrive, no matter where you sell, on e-commerce, social media sites or physical stores. Don't wait, start transforming today!",
+    "textBtn": "Contact Sales"
+  },
+  "heroSection": {
+    "label": "COMMERCE LAYER FEATURES",
+    "heading": "IChiba Commerce Layer Features",
+    "subHeading": "Take advantage of IChiba Commerce Layer - an extensive set of features to take your business to the next level. Digitalize your selling management is now not utopian anymore.",
+    "textBtn": "Contact Sales"
+  },
+  "manageOrders": {
+    "heading": "Manage orders, no matter where you sell",
+    "textBtn": "View More",
+    "multiMarket": {
+      "icon": "https://cms-strapi.ichiba.net/uploads/Dashboard_c4743606a5.svg",
+      "title": "Multi-market, Multi currency , Multi-language",
+      "contents": [
+        "Centralize orders from multiple markets to one dashboard for seamless management.",
+        "Provide customized languages and currencies so business can effortlessly approach local customers."
+      ],
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_fbda8ba173.svg"
+    },
+    "omnichannel": {
+      "icon": "https://cms-strapi.ichiba.net/uploads/shopping_basket_laptop_2_062207cd3c.svg",
+      "title": "Omnichannel order management",
+      "contents": [
+        "Integrate all types of sales channels, both domestic and international: ecommerce, online selling websites, physical stores, social media sites.",
+        "Real-time syncing: Ensure all data remains up-to-date across all channels, providing a consistent and accurate overview of sales activities."
+      ],
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_11712758410_c9f90d765f.svg"
+    },
+    "multiChannel": {
+      "icon": "https://cms-strapi.ichiba.net/uploads/store_mobile_0dbff3acce.svg",
+      "title": "Multi-channel price management",
+      "contents": [
+        {
+          "titleContent": "Centralized price management: ",
+          "subTitle": "Sellers can manage product prices across multiple platforms like Shopee, Lazada, Amazon, selling websites, etc., from a single interface on Commerce Layer."
+        },
+        {
+          "titleContent": "Automatic price synchronization: ",
+          "subTitle": "Any price changes on sales channels are automatically updated in Commerce Layer, and vice versa, saving sellers time and preventing errors in manually updating prices on each platform."
+        },
+        {
+          "titleContent": "Improved efficiency and accuracy: ",
+          "subTitle": "By synchronizing prices across platforms, sellers can avoid price discrepancies between marketplaces, maintain consistency, and optimize their price management processes."
+        }
+      ],
+      "image": "https://cms-strapi.ichiba.net/uploads/Image_4e380aedb1.svg"
+    },
+    "bundle": {
+      "icon": "https://cms-strapi.ichiba.net/uploads/store_browser_f6cf331d85.svg",
+      "title": "Bundle/inventory bundle management",
+      "contents": [
+        {
+          "titleContent": "Flexible bundle creation: ",
+          "subTitle": "Sellers can flexibly select products and create bundles upon receiving an order without needing to pre-pack, saving time and optimizing inventory management."
+        },
+        {
+          "titleContent": "Clear out old stock: ",
+          "subTitle": "Selling product bundles is an effective way to quickly liquidate long-standing inventory, helping sellers improve cash flow."
+        },
+        {
+          "titleContent": "Increase cross-selling and upselling opportunities: ",
+          "subTitle": "Bundling products not only boosts purchase appeal but also helps sellers increase order value through cross-selling and upselling related items."
+        }
+      ],
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171276687_af0b6e6aeb.svg"
+    },
+    "distribution": {
+      "icon": "https://cms-strapi.ichiba.net/uploads/shopping_basket_laptopr_2_2f2e805cbd.svg",
+      "title": "Distribution orders",
+      "contents": [
+        "Identify warehouse near customers helps reduce the shipping zones and costs associated with shipping orders to faraway destinations.",
+        "Organize order fulfillment across channels to optimize delivery schedules and routes.",
+        "Offer network aggregation and inventory visibility for full control in multi-market.",
+        "If a warehouse can't adapt to the number of products, you can split the order for multiple warehouses to make deliveries."
+      ],
+      "image": "https://cms-strapi.ichiba.net/uploads/Group_1171275989_eb5ccaba0e.svg"
+    },
+    "reserve": {
+      "icon": "https://cms-strapi.ichiba.net/uploads/warehouse_delivery_package_box_f3d4c3cb44.svg",
+      "title": "Reserve inventory",
+      "contents": [
+        "Lock a projected amount of inventory for future selling programs, as promotions or flash sale.",
+        "After the events, the left reserve inventory level will be back to available stock."
+      ],
+      "image": "https://cms-strapi.ichiba.net/uploads/Group_1171275989_9fc989298b.svg"
+    },
+    "social": {
+      "icon": "https://cms-strapi.ichiba.net/uploads/message_review_star_87b79047d9.svg",
+      "title": "Social media sales integration",
+      "contents": [
+        "Instant invoicing: Generate and send invoices directly through social media chat interfaces, facilitating immediate order confirmation.",
+        "Customer interaction tracking: Keep a log of customer interactions on social media to better understand their preferences and buying behavior."
+      ],
+      "image": "https://cms-strapi.ichiba.net/uploads/Group_1171275990_c1a7e76626.svg"
+    },
+    "flexible": {
+      "icon": "https://cms-strapi.ichiba.net/uploads/message_review_starr_b6dae053e8.svg",
+      "title": "Flexible third party integration",
+      "contents": [
+        "Built with an API-first approach, ensuring easy integration with existing business systems like CRM, ERP, or financial software.",
+        "Develop custom connectors to link with new or niche platforms as your business requirements expand.",
+        "All integrations are secured with robust encryption and authentication protocols to protect your data."
+      ],
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_11712475810_4103824756.svg"
+    }
+  },
+  "productInformation": {
+    "heading": "Product information management",
+    "title": "Better product management, better selling performance",
+    "subTitle": "An all-in-one product information management (PIM) solution makes it faster & easier to create and deliver compelling product experiences.",
+    "unified": {
+      "title": "Unified product database",
+      "icon": "https://cms-strapi.ichiba.net/uploads/Group_1171275986_ad82cca57f.svg",
+      "content": "Gather product data to monitor on one dashboard. Massively update information on sales channels, just once. Save time and enhance accuracy.",
+      "image": "https://cms-strapi.ichiba.net/uploads/inventory_1_b03094110e.svg"
+    },
+    "manage": {
+      "title": "Manage product data",
+      "icon": "https://cms-strapi.ichiba.net/uploads/Group_1171275987_63c20499f5.svg",
+      "content": "Customize product information to fit the requirements of different sales channels, including ecommerce, social media platforms, and selling websites.",
+      "image": "https://cms-strapi.ichiba.net/uploads/image_859_56356faa23.svg"
+    },
+    "advanced": {
+      "title": "Advanced data enrichment",
+      "icon": "https://cms-strapi.ichiba.net/uploads/Group_1171275988_aa5c37f1a8.svg",
+      "content": "Enhance product listings with high-quality images, videos, and detailed descriptions to improve engagement and sales.",
+      "image": "https://cms-strapi.ichiba.net/uploads/image_860_51e42ac883.svg"
+    },
+    "localization": {
+      "title": "Localization & internationalization",
+      "icon": "https://cms-strapi.ichiba.net/uploads/language_5291956_1_32c1f11474.svg",
+      "content": "Manage product information in multiple languages, making it easy to cater to global markets. Automatically convert prices and measurements to local standards, simplifying international sales.",
+      "image": "https://cms-strapi.ichiba.net/uploads/image_861_0ce7e90952.svg"
+    },
+    "solutions": [
+      "Easier to locate product data",
+      "Reduced operational costs",
+      "Faster Time-to-market",
+      "Enhanced customer experience & ROI",
+      "Unified Omni-channel experience",
+      "Better overall SEO",
+      "Expand to new markets faster",
+      "Simpified operations"
+    ]
+  },
+  "dataCrawler": {
+    "heading": "Product data crawler",
+    "contents": [
+      "Easily pull product data from international e-commerce platforms like Amazon, Rakuten, Yahoo Shopping, etc., into your selling website or app.",
+      "Product images, descriptions, prices, and promotions are updated in real time.",
+      "Stay ahead of consumer shopping trends with the collection creation feature, displaying curated product data right on your website's homepage."
+    ],
+    "textBtn": "View More"
+  },
+  "pos": {
+    "heading": "Point of sale (POS) management system",
+    "textBtn": "View More",
+    "contents": [
+      {
+        "title": "Unified inventory",
+        "content": "View and manage in-store and online inventory simultaneously, ensuring consistency across all points of sale."
+      },
+      {
+        "title": "Employee management",
+        "content": "Assign roles and permissions to store employees, and track performance directly through the POS system."
+      },
+      {
+        "title": "Customer profiles",
+        "content": "Access detailed customer profiles at the point of sale, enabling personalized service and marketing opportunities."
+      },
+      {
+        "title": "Product management",
+        "content": "Save all relevant information of items, allow staff to easily and quickly search the information, including the location, stock level, price, etc."
+      }
+    ]
+  },
+  "contactFeatures": {
+    "heading": "Evaluate your business with advanced commerce tools from Commerce Layer",
+    "subHeading": "Unlock the full potential of your multi-channel operations with Commerce Layer’s comprehensive feature set.",
+    "textBtn": "Contact Sales"
+  },
+  "tryIChibaCommerceLayer": {
+    "heading": "Try IChiba Commerce Layer, the multi-channel and multi-market SaaS platform, with life-long free plan",
+    "textBtn": "View detail",
+    "items": [
+      {
+        "title": "Startup plan",
+        "oldPrice": "39$",
+        "if": "",
+        "value": "0$",
+        "contactUs": "",
+        "suitable": "Suitable for small teams",
+        "markets": ["Manage ", "1 ", "market"],
+        "stores": ["Manage upto ", "5 ", "users"],
+        "integrate": ["Integrate ", "3 ", "sales channels"],
+        "warehouse": ["Manage ", "1 ", "warehouse location"],
+        "orders": ["Manage and fulfill upto ", "3,000 ", "orders/month"],
+        "products": "Manage products",
+        "analytic": "Standard analytic report",
+        "loyalty": "Manage loyalty program",
+        "support": "",
+        "recommendation": "",
+        "inventory": "",
+        "textBtn": "Try Now"
+      },
+      {
+        "title": "Standard plan",
+        "oldPrice": "49$",
+        "if": "If billed annually",
+        "value": "36.75$/month",
+        "contactUs": "",
+        "suitable": "Suitable for growing teams",
+        "markets": ["Manage ", "3 ", "markets"],
+        "stores": ["Manage upto ", "15 ", "users"],
+        "integrate": ["Integrate upto ", "5 ", "stores on each channels"],
+        "warehouse": ["Manage ", "1 ", "warehouse locations"],
+        "orders": ["Manage and fulfill upto ", "3,000 ", "orders/month"],
+        "products": "Manage products",
+        "analytic": "Standard analytic report",
+        "loyalty": "Manage loyalty program",
+        "support": "24/7 support",
+        "recommendation": "",
+        "inventory": "",
+        "textBtn": "Start Free Trial"
+      },
+      {
+        "title": "Premium plan",
+        "oldPrice": "199$",
+        "if": "If billed annually",
+        "value": "149.25$/month",
+        "contactUs": "",
+        "suitable": "Suitable for businesses looking to expand their market",
+        "markets": ["Manage ", "unlimited ", "markets"],
+        "stores": ["Manage upto ", "unlimited ", "users"],
+        "integrate": ["Integrate ", "unlimited ", "channels"],
+        "warehouse": ["Manage ", "unlimited ", "warehouse locations"],
+        "orders": ["Manage and fulfill upto ", "3,000 ", "orders/month"],
+        "products": "Manage products",
+        "analytic": "Advanced analytic report",
+        "loyalty": "Manage loyalty program",
+        "support": "24/7 support",
+        "recommendation": "",
+        "inventory": "",
+        "textBtn": "Start Free Trial"
+      }
+    ]
+  },
+  "pricing": {
+    "heading": "Optimized plans for your business",
+    "subHeading": "IChiba Commerce Layers plans are designed to be affordable, flexible, and tailored to your unique needs.",
+    "subHeader": [
+      {
+        "title": "Startup plan",
+        "oldPrice": "39$",
+        "if": "",
+        "value": "$0",
+        "contactUs": "",
+        "suitable": "Suitable for small teams",
+        "itemContent": {
+          "title": "Startup",
+          "userPermissions": {
+            "value": "5"
+          },
+          "markets": {
+            "value": "1 market"
+          },
+          "maximuminStores": {
+            "value": "1"
+          },
+          "numberFanpages": {
+            "value": "1"
+          },
+          "pos": {
+            "value": "1",
+            "plus": ""
+          },
+          "listProducts": {
+            "value": "-",
+            "image": "https://cms-strapi.ichiba.net/uploads/_b294b2672d.svg"
+          },
+          "sellingWebsite": {
+            "value": "-",
+            "image": "https://cms-strapi.ichiba.net/uploads/_b294b2672d.svg"
+          },
+          "inventoryLocation": {
+            "value": "1"
+          },
+          "inventoryAllocation": {
+            "value": "-",
+            "image": "https://cms-strapi.ichiba.net/uploads/_b294b2672d.svg"
+          },
+          "network": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "suppliers": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "inbound": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "ordersMonth": {
+            "value": "3000"
+          },
+          "return": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "catalog": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "single": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "product": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "standard": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "advanced": {
+            "value": "-",
+            "image": "https://cms-strapi.ichiba.net/uploads/_b294b2672d.svg"
+          },
+          "integration": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "pointWallet": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "discount": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "voucher": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "cashback": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Group_f52946ce28.svg"
+          },
+          "support": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/_b294b2672d.svg"
+          }
+        }
+      },
+      {
+        "title": "Standard plan",
+        "oldPrice": "49$",
+        "if": "If billed annually",
+        "value": "$36.75/month",
+        "contactUs": "",
+        "suitable": "Suitable for growing teams",
+        "itemContent": {
+          "title": "Standard",
+          "userPermissions": {
+            "value": "15"
+          },
+          "markets": {
+            "value": "3 market"
+          },
+          "maximuminStores": {
+            "value": "5"
+          },
+          "numberFanpages": {
+            "value": "5"
+          },
+          "pos": {
+            "value": "1",
+            "plus": "+$29/additional POS"
+          },
+          "listProducts": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "sellingWebsite": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "inventoryLocation": {
+            "value": "5"
+          },
+          "inventoryAllocation": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "network": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "suppliers": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "inbound": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "ordersMonth": {
+            "value": "10000"
+          },
+          "return": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "catalog": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "single": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "product": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "standard": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "advanced": {
+            "value": "-",
+            "image": "https://cms-strapi.ichiba.net/uploads/_b294b2672d.svg"
+          },
+          "integration": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "pointWallet": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "discount": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "voucher": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "cashback": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "support": {
+            "value": "24/7",
+            "image": ""
+          }
+        }
+      },
+      {
+        "title": "Premium plan",
+        "oldPrice": "199$",
+        "if": "If billed annually",
+        "value": "$149.25/month",
+        "contactUs": "",
+        "suitable": "Suitable for businesses",
+        "itemContent": {
+          "title": "Premium",
+          "userPermissions": {
+            "value": "Unlimited"
+          },
+          "markets": {
+            "value": "Unlimited"
+          },
+          "maximuminStores": {
+            "value": "Unlimited"
+          },
+          "numberFanpages": {
+            "value": "Unlimited"
+          },
+          "pos": {
+            "value": "1",
+            "plus": "+$29/additional POS"
+          },
+          "listProducts": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "sellingWebsite": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "inventoryLocation": {
+            "value": "Unlimited"
+          },
+          "inventoryAllocation": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "network": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "suppliers": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "inbound": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "ordersMonth": {
+            "value": "Unlimited"
+          },
+          "return": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "catalog": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "single": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "product": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "standard": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "advanced": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "integration": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "pointWallet": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "discount": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "voucher": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "cashback": {
+            "value": "",
+            "image": "https://cms-strapi.ichiba.net/uploads/Check_color_24_0c6917fe0f.svg"
+          },
+          "support": {
+            "value": "24/7",
+            "image": ""
+          }
+        }
+      }
+    ],
+    "titleLeft": {
+      "heading": "Main features",
+      "userManagement": "User management",
+      "iChiba": "IChiba Multi-market",
+      "salesChannel": "Sales channel integration",
+      "inventory": "Inventory management",
+      "orderManagement": "Order management and fulfillment",
+      "productManagement": "Product management",
+      "reports": "Reports & annalytics",
+      "otherSystem": "Other system integration",
+      "loyalty": "Loyalty program",
+      "support": "Support"
+    },
+    "functions": {
+      "heading": "Functions",
+      "userPermissions": {
+        "title": "Manage and assign user permissions"
+      },
+      "markets": {
+        "title": "Manage markets"
+      },
+      "maximuminStores": {
+        "title": "Maximum integrated stores per channel"
+      },
+      "numberFanpages": {
+        "title": "Number of Facebook fanpages & Instagram to integrate"
+      },
+      "pos": {
+        "title": "POS"
+      },
+      "listProducts": {
+        "title": "List products on Google Shopping"
+      },
+      "sellingWebsite": {
+        "title": "Selling website (Storefront) integration"
+      },
+      "inventoryLocation": {
+        "title": "Inventory Location"
+      },
+      "inventoryAllocation": {
+        "title": "Inventory allocation strategy"
+      },
+      "network": {
+        "title": "Network"
+      },
+      "suppliers": {
+        "title": "Suppliers management"
+      },
+      "inbound": {
+        "title": "Inbound package management"
+      },
+      "ordersMonth": {
+        "title": "Maximum orders/month"
+      },
+      "return": {
+        "title": "Return & complain management"
+      },
+      "catalog": {
+        "title": "Catalog & attribute management"
+      },
+      "single": {
+        "title": "Single & combo product management"
+      },
+      "product": {
+        "title": "Product document management"
+      },
+      "standard": {
+        "title": "Standard analytic report"
+      },
+      "advanced": {
+        "title": "Advanced analytic report"
+      },
+      "integration": {
+        "title": "Integration"
+      },
+      "pointWallet": {
+        "title": "Point-wallet management"
+      },
+      "discount": {
+        "title": "Discount management"
+      },
+      "voucher": {
+        "title": "Voucher management"
+      },
+      "cashback": {
+        "title": "Cashback management"
+      },
+      "support": {
+        "title": "Support"
+      },
+      "recommendation": {
+        "title": [
+          "AI recommendation:",
+          " Recommend suitable items for each buyer based on their search, view, and report history data"
+        ],
+        "commonValue": "$500/month"
+      },
+      "forecast": {
+        "title": "Inventory forecast",
+        "commonValue": "$500/month"
+      }
+    }
+  }
+}

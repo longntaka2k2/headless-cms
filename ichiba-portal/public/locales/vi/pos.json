@@ -1,0 +1,301 @@
+{
+  "banner": {
+    "title": "Phần mềm quản lý điểm bán hàng (POS) cho mọi nhà bán lẻ",
+    "subtitle": "Chuẩn hóa quy trình bán hàng và đem lại trải nghiệm mua sắm liền mạch cho khách hàng của bạn",
+    "requestDemo": "Yêu cầu demo",
+    "items": [
+      {
+        "title": "80%",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_1_6fdbe4c721.png",
+        "subtitle": ["Cải thiện", "sự chính xác"]
+      },
+      {
+        "title": "100%",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_1_6fdbe4c721.png",
+        "subtitle": ["Đảm bảo", "bảo mật"]
+      },
+      {
+        "title": "50%",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_1_6fdbe4c721.png",
+        "subtitle": ["Tiết kiệm", "thời gian"]
+      },
+      {
+        "title": "Không giới hạn",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276527_1_6fdbe4c721.png",
+        "subtitle": ["Quản lý", "sản phẩm"]
+      }
+    ]
+  },
+  "posSoftware": {
+    "title": "Phần mềm POS IChiba: Người bạn đồng hành hoàn hảo của nhà bán lẻ",
+    "subtitle": "Phần mềm quản lý điểm bán hàng của chúng tôi cho phép các doanh nghiệp bán lẻ có thể linh hoạt tùy chỉnh cấu hình để đáp ứng các yêu cầu kinh doanh khác nhau."
+  },
+  "posIntegration": {
+    "title": "Khả năng tích hợp của POS",
+    "subtitle": "Ứng dụng công nghệ cao để kết nối nền tảng thương mại điện tử của bạn với hệ thống POS",
+    "shipping": "Vận chuyển",
+    "orderFulfillment": "Xử lý đơn hàng",
+    "employee": "Quản lý nhân viên",
+    "eCommerce": "eCommerce",
+    "account": "Phần mềm kế toán",
+    "marketing": "Công cụ Marketing",
+    "payment": "Quy tình thanh toán",
+    "wareHouse": "Quản lý kho vận"
+  },
+  "posforemploy": {
+    "label": "POS dành cho nhân viên bán hàng",
+    "title": "Tiết kiệm thời gian và công sức cho các công việc hàng ngày",
+    "searchProducts": {
+      "title": "Tìm kiếm và thêm mới sản phẩm",
+      "content": "Xử lý hoàn hảo tất cả các tác vụ liên quan đến quản lý sản phẩm, bao gồm tìm kiếm, thêm mới , giám sát  sản phẩm đơn lẻ và giám sát sản phẩm theo nhóm,..."
+    },
+    "searchCustomers": {
+      "title": "Tìm kiếm và thêm mới khách hàng",
+      "content": "Hệ thống POS ghi lại mọi hoạt động mua bán của khách hàng, bao gồm mặt hàng, tổng giá trị giao dịch, thông tin liên hệ,... nhằm thúc đẩy trải nghiệm khách hàng và tăng tỷ lệ giữ chân khách hàng."
+    },
+    "multiple": {
+      "title": "Tich hợp đa cổng thanh toán",
+      "content": "IChiba POS tích hợp nhiều phương thức thanh toán khác nhau. Số tiền đặt hàng được tự động chuyển đến đầu đọc thẻ của bạn mà không cần nhập chi tiết theo cách thủ công."
+    },
+    "inventory": {
+      "title": "Tich hợp phần mềm quản lý kho hàng",
+      "content": "Dễ dàng giám sát mức tồn kho theo thời gian thực, cũng như đồng bộ hóa dữ liệu kịp thời để tránh hết hàng và thừa hàng trong kho."
+    }
+  },
+  "posforshop": {
+    "label": "POS dành cho chủ cửa hàng",
+    "title": "Quản lý nhân viên và hiệu quả bán hàng tốt hơn",
+    "items": [
+      {
+        "title": "Quản lý nhân sự",
+        "content": "Giám sát mọi thứ liên quan đến nhân viên: đóng mở ca làm việc, doanh thu, v.v... Xuất báo cáo hàng tháng về hiệu quả kinh doanh của nhân viên."
+      },
+      {
+        "title": "Báo cáo bán hàng hàng ngày",
+        "content": "Tự động gửi báo cáo bán hàng vào cuối ngày. Bạn cũng có thể chọn xem theo khoảng thời gian để có cái nhìn tổng quát hơn về hiệu suất bán hàng."
+      }
+    ]
+  },
+  "posforbuyer": {
+    "label": "POS dành cho người mua hàng",
+    "title": "Nâng cao trải nghiệm mua sắm",
+    "items": [
+      {
+        "title": "Hóa đơn điện tử và offline",
+        "content": "Cung cấp cho khách hàng cả hóa đơn giấy  lẫn hóa đơn điện tử. Tính linh hoạt này cũng cho phép việc hoàn trả và đổi hàng được xử lý nhanh hơn."
+      },
+      {
+        "title": "Hỗ trợ đa ngôn ngữ",
+        "content": "Dễ dàng mở rộng dịch vụ hoặc sản phẩm của bạn ra thị trường quốc tế mà không cần mua thêm một hệ thống POS tại nước sở tại. "
+      },
+      {
+        "title": "Quản lý đơn đổi trả",
+        "content": "Hỗ trợ trả hàng cả khi có hoặc không có biên lai. Cung cấp các danh mục được xác định trước để nhân viên thu ngân lựa chọn dựa trên lý do trả lại."
+      },
+      {
+        "title": "Linh hoạt lựa chọn xử lý đơn hàng",
+        "content": "Cho phép khách hàng lựa chọn phương thức thực hiện đơn hàng mà họ muốn (lấy luôn tại cửa hàng hoặc gửi ship về nhà), từ đó thúc đẩy doanh số bán hàng."
+      }
+    ]
+  },
+  "compatible": {
+    "title": "Tương thích với mọi thiết bị và hệ thống",
+    "subtitle": "Dễ dàng sử dụng trên các thiết bị có sẵn của bạn mà không yêu cầu phải cài đặt phần mềm phụ trợ."
+  },
+  "howDoes": {
+    "title": "POS vận hành như thế nào?",
+    "subtitle": "Dễ dàng sử dụng trên các thiết bị có sẵn của bạn mà không yêu cầu phải cài đặt phần mềm phụ trợ.",
+    "items": [
+      {
+        "title": "Khách hàng chọn mua sản phẩm",
+        "content": "Khách hàng quyết định mua sản phẩm từ cửa hàng vật lý hoặc kênh bán online của bạn."
+      },
+      {
+        "title": "Tính toán giá tiền",
+        "content": "Hệ thống POS tính toán tổng giá tiền các mặt hàng đã chọn bằng máy quét mã vạch hoặc nhập thủ công."
+      },
+      {
+        "title": "Thanh toán đơn hàng",
+        "content": "Khách hàng thực hiện thanh toán bằng nhiều phương thức khác nhau: tiền mặt, thẻ thanh toán nội địa, thẻ ghi nợ quốc tế,..."
+      },
+      {
+        "title": "Hoàn tất giao dịch",
+        "content": "Đưa tận tay hoặc vận chuyển cho khách mặt hàng họ đã mua. Cung cấp biên lai và tích điểm thành viên (nếu có)."
+      }
+    ]
+  },
+  "theUltimate": [
+    "Phần mềm POS đa kênh cho ",
+    "các doanh nghiệp bán lẻ ....",
+    ""
+  ],
+  "getStarted": {
+    "title": "các doanh nghiệp bán lẻ ....",
+    "subtitle": "Bắt đầu ngay hôm nay với IChiba POS và khám phá cách công nghệ tiên tiến giúp bạn quản lý giao dịch kinh doanh một cách hiệu quả và thuận tiện.",
+    "contact": "Liên hệ ngay"
+  },
+  "whyChooseUs": {
+    "title": "Tại sao bạn nên chọn IChiba POS?",
+    "items": [
+      {
+        "title": "Bảo mật tối ưu",
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc0c90700522_Multi_step_flows_1_41c9b07311.svg",
+        "content": "Bảo vệ dữ liệu tuyệt đối cho cả doanh nghiệp và khách hàng."
+      },
+      {
+        "title": "Tiết kiệm chi phí",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Shield_Protected_e4baf6de77.svg",
+        "content": "Bảo vệ dữ liệu tuyệt đối cho cả doanh nghiệp và khách hàng."
+      },
+      {
+        "title": "Giao diện thân thiện",
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db534192d180a_Automate_1_1_6871b70939.svg",
+        "content": "Bảo vệ dữ liệu tuyệt đối cho cả doanh nghiệp và khách hàng."
+      },
+      {
+        "title": "Bán hàng offline",
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db534192d180a_Automate_1_1_6871b70939.svg",
+        "content": "Cho phép nhân viên thu ngân tạo và xử lý đơn hàng ngay cả khi mất kết nối internet."
+      }
+    ]
+  },
+  "fromOnline": {
+    "title": "Từ bán hàng trực tuyến đến ngoại tuyến, IChiba đều có giải pháp dành cho bạn!",
+    "learnMore": "Tìm hiểu thêm",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "content": "Quản lý đơn hàng từ các cửa hàng online. Commerce Layer tích hợp với nhiều kênh bán như gian hàng thương mại điện tử, website và mạng xã hội để quản lý tập trung đơn hàng tại một nơi.",
+        "link": "/products/commerce-layer/overview"
+      }
+    ]
+  },
+  "explore": {
+    "title": "Khám phá trung tâm tin tức của POS",
+    "subtitle": "Khám phá những tip hữu ích để cá nhân hóa điểm bán hàng của bạn và cải thiện mọi khía cạnh của doanh nghiệp.",
+    "readMore": "Xem thêm",
+    "items": [
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Get_started_with_Wix_e_Commerce_1_10fecc01b9.svg",
+        "tag": "News",
+        "title": "Search information easily on your Website with Our Search Engine features.",
+        "description": "Open Labs said that 2021 was an incredible year for the business world regardless of the challenges. The COVID-19 pandemic that occurred is definitely a factor",
+        "createdAt": "22/12/2023"
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Get_started_with_Wix_e_Commerce_1_10fecc01b9.svg",
+        "tag": "News",
+        "title": "Search information easily on your Website with Our Search Engine features.",
+        "description": "Open Labs said that 2021 was an incredible year for the business world regardless of the challenges. The COVID-19 pandemic that occurred is definitely a factor",
+        "createdAt": "22/12/2023"
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Get_started_with_Wix_e_Commerce_1_10fecc01b9.svg",
+        "tag": "News",
+        "title": "Search information easily on your Website with Our Search Engine features.",
+        "description": "Open Labs said that 2021 was an incredible year for the business world regardless of the challenges. The COVID-19 pandemic that occurred is definitely a factor",
+        "createdAt": "22/12/2023"
+      }
+    ]
+  },
+  "feature": {
+    "bannerFeature": {
+      "label": "Các tính năng POS",
+      "heading": [
+        "Phần mềm quản lý điểm bán hàng toàn diện:",
+        "Nhanh hơn, tiện lợi hơn"
+      ],
+      "subHeading": "Hệ thống POS được tích hợp đầy đủ các tính năng giúp việc buôn bán tại cửa hàng hiệu quả hơn.",
+      "seeFeatures": "Xem các tính năng"
+    },
+    "supported": {
+      "title": "Hỗ trợ đa dạng cổng thanh toán",
+      "subTitle": "Cho phép khách hàng tùy chọn và chuyển đổi phương thức thanh toán: tiền mặt, thẻ tín dụng, thẻ ghi nợ, ví điện tử,..."
+    },
+    "effortless": {
+      "title": "Dễ dàng tìm kiếm & thêm mới sản phẩm",
+      "subTitle": "Cho phép nhân viên nhanh chóng thêm mới và  tìm kiếm sản phẩm theo tên gọi, danh mục hoặc mã vạch, giảm thời gian nhập liệu thủ công."
+    },
+    "customerManagement": {
+      "title": "Quản lý khách hàng",
+      "contentItems": [
+        "Tạo và lưu trữ hồ sơ khách hàng trong hệ thống. Dữ liệu lưu trữ bao gồm thông tin liên hệ, lịch sử mua hàng, địa chỉ giao hàng,...",
+        "Cung cấp dịch vụ cá nhân hóa và đề xuất phù hợp dựa trên lịch sử mua hàng và sở thích của khách hàng"
+      ]
+    },
+    "offlineSelling": {
+      "title": "Cửa hàng bị mất kết nối internet?",
+      "subTitle": [
+        "Cửa hàng bị mất kết nối internet?",
+        "Chuyện nhỏ! Phần mềm POS của chúng tôi cho phép các hoạt động bán hàng diễn ra bình thường, từ việc nhận đơn hàng đến tiến hành thanh toán. Dữ liệu sẽ được tự động đồng bộ sau khi có kết nối mạng trở lại."
+      ]
+    },
+    "inventory": {
+      "title": "Quản lý tồn kho",
+      "items": [
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/PART_Handling_v2_1_bea024faff.svg",
+          "content": "Liên tục cập nhật thông tin chính xác về mức tồn kho, cho phép doanh nghiệp theo dõi kho hàng theo thời gian thực."
+        },
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171275989_cc52783329.svg",
+          "content": "Hỗ trợ quét mã vạch và theo dõi SKU, cho phép nhận dạng sản phẩm nhanh chóng và cập nhật hàng tồn kho kịp thời."
+        }
+      ]
+    },
+    "physical": {
+      "title": "In hóa đơn giấy và xuất hóa đơn điện tử",
+      "subTitle": "Cung cấp tùy chọn lấy hóa đơn điện tử hoặc in biên lai giấy để tăng tính linh hoạt, giảm tải các thủ tục hành chính thuế và ngăn chặn các hành vi trái pháp luật. Tùy chỉnh nội dung biên lai theo yêu cầu: logo, thông tin liên hệ, thông điệp quảng cáo, chính sách đổi trả,..."
+    },
+    "returnManagement": {
+      "title": "Quản lý đơn hàng hoàn trả",
+      "contentCard": [
+        "Hỗ trợ trả hàng cả khi có lẫn không có biên lai, khuyến khích các chính sách linh hoạt và thân thiện với khách hàng",
+        "Lưu trữ lịch sử trả lại của khách hàng, cho phép theo dõi và phân tích các mẫu trả lại",
+        "Cung cấp các danh mục được xác định trước để nhân viên thu ngân lựa chọn dựa trên lý do trả lại"
+      ]
+    },
+    "employeeManagement": {
+      "title": "Quản lý nhân sự",
+      "items": [
+        {
+          "icon": "svg-icon-check",
+          "content": "Đóng/mở ca làm việc, theo dõi doanh thu. Gửi báo cáo hàng tháng về tình hình bán hàng của từng nhân viên."
+        },
+        {
+          "icon": "svg-icon-check",
+          "content": "Phân quyền cho từng cá nhân/bộ phận để đảm bảo an ninh an toàn cho hệ thống."
+        }
+      ]
+    },
+    "dailySales": {
+      "title": "Báo cáo bán hàng hàng ngày",
+      "subTitle": "Nhận báo cáo hàng ngày theo thời gian thực về tình hình bán hàng. Tùy chọn các mục mà bạn cần xem như thời gian, giá trị trung bình đơn hàng, doanh thu thuần, sản phẩm bán chạy nhất, v.v..."
+    },
+    "sellBetter": {
+      "title": "Bán hàng hiệu quả với IChiba POS",
+      "subTitle": "Tự động hóa hoạt động bán hàng của bạn với bộ công cụ toàn diện để quản lý sản phẩm, nhân viên, thanh toán, v.v.",
+      "textBtn": ["Dùng thử miễn phí", "Liên hệ với chúng tôi"]
+    },
+    "faqs": {
+      "label": "FAQs",
+      "title": "Các câu hỏi thường gặp",
+      "subtitle": "Khám phá các câu hỏi thường gặp của chúng tôi để tìm hiểu thêm về Nền tảng IChiba và hơn thế nữa.",
+      "contents": [
+        {
+          "title": "Những thiết bị phần cứng nào là bắt buộc cho phần mềm POS?",
+          "content": "Thiết bị phần cứng cho POS tùy thuộc vào nhu cầu kinh doanh của bạn. Phần cứng thường được sử dụng bao gồm máy tính hoặc máy tính bảng để chạy phần mềm, máy quét mã vạch để quét sản phẩm, máy in hóa đơn. Một số doanh nghiệp cũng có thể sử dụng các thiết bị ngoại vi bổ sung như đầu đọc thẻ, cân hoặc màn hình ở phía khách hàng."
+        },
+        {
+          "title": "Có thể tích hợp POS với các hệ thống khác không?",
+          "content": "Có, phần mềm POS cung cấp khả năng tích hợp với các hệ thống khác như phần mềm kế toán, nền tảng thương mại điện tử, công cụ quản lý quan hệ khách hàng (CRM) và hệ thống quản lý hàng tồn kho. Sự tích hợp này giúp các doanh nghiệp hợp lý hóa hoạt động và duy trì dữ liệu nhất quán trên các nền tảng khác nhau."
+        },
+        {
+          "title": "Tôi có thể truy cập phần mềm POS từ xa hoặc trên điện toán đám mây không?",
+          "content": "Có, phần mềm POS dựa trên điện toán đám mây cho phép bạn truy cập và quản lý dữ liệu kinh doanh của mình từ mọi nơi có kết nối internet. Nó cho phép đồng bộ hóa thời gian thực, truy cập từ xa, cập nhật phần mềm tự động và sao lưu dữ liệu."
+        }
+      ]
+    }
+  }
+}

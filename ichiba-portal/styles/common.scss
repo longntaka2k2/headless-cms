@@ -1,0 +1,73 @@
+@include respond(phone) {
+  .fs-phone-14 {
+    font-size: 14px !important;
+  }
+  .fs-phone-18 {
+    font-size: 18px !important;
+  }
+  .fs-phone-24 {
+    font-size: 24px !important;
+  }
+
+  .fw-phone-700 {
+    font-weight: 700 !important;
+  }
+
+  .lh-phone-32 {
+    line-height: 32px !important;
+  }
+
+  .py-phone-12 {
+    padding: 12px 0px 12px 0px !important;
+  }
+  .pt-phone-24 {
+    padding-top: 24px !important;
+  }
+
+  .mb-phone-16 {
+    margin-bottom: 16px !important;
+  }
+  .mb-phone-20 {
+    margin-bottom: 20px !important;
+  }
+  .mb-phone-24 {
+    margin-bottom: 24px !important;
+  }
+  .p-phone {
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20px;
+  }
+}
+
+.h0-section {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 48px;
+}
+
+.h1-section {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 48px;
+  margin-bottom: 12px;
+}
+.h2-section {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 32px;
+}
+.h3-section {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.color-brand-primary {
+  color: #f57c00;
+}
+
+.desktop-section {
+  padding: 40px 0;
+}

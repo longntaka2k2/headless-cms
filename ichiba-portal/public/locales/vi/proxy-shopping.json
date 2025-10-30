@@ -1,0 +1,159 @@
+{
+  "banner": {
+    "title": "Số hóa quy trình quản lý mua hộ, vận chuyển quốc tế",
+    "subtitle": "Giải pháp SaaS được thiết kế riêng cho các doanh nghiệp order hộ và vận chuyển quốc tế."
+  },
+  "challenges": {
+    "title": "Những thách thức mà các doanh nghiệp order hàng quốc tế gặp phải",
+    "high": "Chi phí vận hành cao",
+    "complexities": "Quy trình logistics quốc tế phức tạp",
+    "cultural": "Rào cản văn hóa và ngôn ngữ",
+    "legal": "Các rào cản về pháp lý, quy định",
+    "currency": "Biến động tiền tệ và thanh toán phức tạp"
+  },
+  "whatAre": {
+    "label": "Đâu là câu trả lời cho những vấn đề trên?",
+    "title": "Bộ giải pháp của IChiba OnePlatform dành cho doanh nghiệp làm order và vận chuyển quốc tế"
+  },
+  "purchase": {
+    "title": "Quản lý đơn mua",
+    "content": "Dễ dàng quản lý các đơn mua quốc tế từ nhiều trang web bán hàng và nhà cung cấp khác nhau, chỉ trong một bảng điều khiển duy nhất."
+  },
+  "auction": {
+    "title": "Quản lý đấu giá",
+    "content": "Tạo lợi thế cạnh tranh với hàng loạt tính năng như cài đặt đấu giá, cập nhật thời gian đấu giá đúng thực tế, phân bổ nick đấu và gửi thông báo kịp thời."
+  },
+  "pricing": {
+    "title": "Tùy chỉnh bảng giá cho từng thị trường",
+    "content": "Hiểu rằng mỗi thị trường đều có những tính chất riêng, IChiba OnePlatform cho phép doanh nghiệp xây dựng chiến lược định giá kép: công khai và cá nhân hóa. Từ đó tối đa hóa doanh thu và sự hài lòng của khách hàng."
+  },
+  "international": {
+    "title": "Quản lý vận chuyển xuyên biên giới",
+    "content": "Với kinh nghiệm dày dặn trong ngành thương mại quốc tế, IChiba Cross-Border Forwarding giúp tích hợp nhiều hãng vận chuyển, tuyến đường, đơn giản hóa quy trình, và xử lý nhiều yêu cầu pháp lý phức tạp."
+  },
+  "product": {
+    "title": "Quản lý thông tin sản phẩm (PIM)",
+    "items": [
+      {
+        "title": "Trình thu thập dữ liệu sản phẩm",
+        "content": "Thu thập và chuyển dữ liệu sản phẩm từ các trang thương mại điện tử quốc tế trực tiếp đến trang web/ứng dụng bán hàng của bạn. Đảm bảo luôn có sự cập nhật theo thời gian thực về giá cả, tình trạng hàng hóa và khuyến mại mới nhất."
+      },
+      {
+        "title": "Product finder (Tìm kiếm và tạo bộ sưu tập)",
+        "content": "Dễ dàng tạo bộ sưu tập sản phẩm theo ý muốn và hiển thị lên trang chủ của website/app bán hàng. Mọi dữ liệu đều được kéo từ các sàn thương mại điện tử quốc tế."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Quy trình thanh toán",
+    "multi": {
+      "title": "Hỗ trợ đa tiền tệ",
+      "content": "Cho phép giao dịch bằng nhiều loại tiền tệ, tạo điều kiện thuận lợi cho việc mua hàng quốc tế."
+    },
+    "sercure": {
+      "title": "Cổng thanh toán an toàn",
+      "content": "Tích hợp với các cổng thanh toán đáng tin cậy để đảm bảo giao dịch an toàn."
+    },
+    "tax": {
+      "title": "Thuế và phí",
+      "content": "Tự động tính thuế và phí cho các lô hàng quốc tế, đảm bảo mọi tuân thủ và minh bạch."
+    }
+  },
+  "howItWork": {
+    "label": "Quy trình vận hành",
+    "title": "Đơn giản hóa quản lý kinh doanh quốc tế chưa bao giờ dễ dàng đến thế!",
+    "content": "Tối ưu hóa quy trình quản lý đơn mua hộ, đấu giá, vận chuyển quốc tế của bạn với IChiba Cross-Border Forwarding ngay hôm nay!",
+    "step": "Bước",
+    "steps": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_1304476c73.svg",
+        "title": "Đăng ký và cài đặt",
+        "content": "Tạo tài khoản và cài đặt hồ sơ của bạn."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/6176f8341f3d2df3fbe9d8ba_shopping_cart_1_f31a99268a.svg",
+        "title": "Chọn nguồn cung ứng sản phẩm bằng trình thu thập dữ liệu PIM",
+        "content": "Sử dụng Trình thu thập dữ liệu sản phẩm theo thời gian thực của chúng tôi để dễ dàng tìm nguồn sản phẩm từ nhiều trang thương mại điện tử quốc tế khác nhau. Nhóm các sản phẩm thành bộ sưu tập để người mua có thể dễ dàng tìm thấy những món đồ yêu thích."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_1304476c73.svg",
+        "title": "Quản lý đơn mua và đơn đấu giá",
+        "content": "Theo dõi các đơn mua và đơn đấu giá của bạn trên bảng điều khiển của IChiba Cross-Border Forwarding."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_1304476c73.svg",
+        "title": "Tùy chỉnh bảng giá",
+        "content": "Cài đặt cách tính giá của bạn một cách linh hoạt. Chọn giữa giá công khai để duy trì tính cạnh tranh hoặc giá cá nhân hóa cho từng đối tượng khách hàng cụ thể."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_1304476c73.svg",
+        "title": "Xử lý đơn hàng và vận chuyển",
+        "content": "Sau khi có đơn đặt hàng, bạn có thể giám sát mọi trạng thái của shipment, từ tạo nhãn vận chuyển đến tính toán lộ trình và chọn mức phí vận chuyển tốt nhất."
+      }
+    ]
+  },
+  "streamline": {
+    "title": "Hiện đại hóa quy trình vận hành để vươn ra quốc tế dễ dàng",
+    "items": [
+      {
+        "title": "Tiết kiệm thời gian và chi phí",
+        "icon": "https://cms-strapi.ichiba.net/uploads/607732b0a896b11ca4c5f83d_Personalize_1_23610e524d.svg",
+        "content": "Đơn giản hóa vận hành, loại bỏ các công việc thủ công tốn nhiều thời gian và nguồn lực."
+      },
+      {
+        "title": "Khả năng mở rộng",
+        "icon": "https://cms-strapi.ichiba.net/uploads/6081adcc1b5ca002a84fd4f4_icon_5_1_d546959ac7.svg",
+        "content": "Phần mềm IChiba SaaS được thiết kế để phát triển cùng với doanh nghiệp của bạn, bất kể quy mô."
+      },
+      {
+        "title": "Tuân thủ và minh bạch",
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_7d164d007f.svg",
+        "content": "Quản lý các giấy tờ hải quan, thuế và các quy định quốc tế tại một nơi để đảm bảo doanh nghiệp luôn tuân thủ những quy định pháp lý."
+      }
+    ]
+  },
+  "customer": {
+    "items": [
+      {
+        "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets.",
+        "name": "Mrs.Hoai Thuong",
+        "bio": "Omnichannel Retailer",
+        "img": ""
+      },
+      {
+        "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets.",
+        "name": "Mrs.Hoai Thuong",
+        "bio": "Omnichannel Retailer",
+        "img": ""
+      }
+    ]
+  },
+  "whatAreTheRight": {
+    "title": "Phần mềm gợi ý",
+    "learnMore": "Xem thêm",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_3_758d27042a.png",
+        "title": "Commerce Layer",
+        "content": "Bán hàng đa kênh, đa thị trường, quản lý tập trung mọi đơn hàng. Dữ liệu cập nhật theo thời gian thực.",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_2_76a8716a5c.png",
+        "title": "Ship4P",
+        "content": "Tập hợp các hãng vận chuyển trên cùng một bảng điều khiển duy nhất để dễ dàng quản lý, theo dõi hàng trình đơn hàng tiện lợi và nhanh chóng.",
+        "link": "/products/ship4p/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Shape_Quare_15837be92d.svg",
+        "title": "StoreFront Layer",
+        "content": "Xây dựng website/ứng dụng order xuyên biên giới của riêng bạn với bộ công cụ phần mềm toàn diện của IChiba.",
+        "link": "/products/storefront-layer/overview"
+      }
+    ]
+  },
+  "haveQuestion": {
+    "title": "Bạn cần trợ giúp? Đội ngũ của IChiba luôn sẵn sàng hỗ trợ!",
+    "contact": "Liên hệ ngay"
+  }
+}

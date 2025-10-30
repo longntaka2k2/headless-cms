@@ -1,0 +1,41 @@
+{
+  "meta": { "title": "Connect Your Tools With IChiba Integration Ecosystem" },
+  "metaDescription": {
+    "intergrations": ""
+  },
+  "textBtn": ["Get It Free", "Contact Sales"],
+  "banner": {
+    "heading": "Connect your tools with",
+    "heading2": "IChiba Integration Ecosystem",
+    "subHeading": "Discover 200+ integrations in our ever-growing Marketplace to help you seamlessly sync your business data in one place.",
+    "cta": "Go to integrations"
+  },
+  "explore": {
+    "heading": "Explore integrations",
+    "categories": [
+      "Marketplaces",
+      "Ecommerce Platforms",
+      "Social Commerce",
+      "Shipping Carriers",
+      "3PL Fulfillment",
+      "Accounting",
+      "Marketing Automations",
+      "Helpdesk CRM",
+      "Other"
+    ],
+    "cta": {
+      "moreInfo": "More info"
+    }
+  },
+  "ichibaGlobal": "IChiba OnePlatform",
+  "aPower": "A power that glows your business",
+  "contactNow": {
+    "heading": "Ready to upgrade your multi-carrier shipping management system",
+    "subHeading": "Create your account and connect shipping API for free today!",
+    "textBtn": "Contact now"
+  },
+  "ourAPI": {
+    "connect": "Connect"
+  },
+  "iChiba": ["IChiba Global", "A power that glows your business"]
+}

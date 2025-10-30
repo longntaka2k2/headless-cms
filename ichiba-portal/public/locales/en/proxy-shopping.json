@@ -1,0 +1,159 @@
+{
+  "banner": {
+    "title": "Revolutionize Your Proxy-Shopping and International Shipping",
+    "subtitle": "The leading SaaS solution designed for proxy-shopping and international shipping services."
+  },
+  "challenges": {
+    "title": "Challenges faced by proxy-shopping providers",
+    "high": "High operational costs",
+    "complexities": "Complexities of international logistics",
+    "cultural": "Cultural and language barriers",
+    "legal": "Legal and regulatory hurdles",
+    "currency": "Currency fluctuations and payment challenges"
+  },
+  "whatAre": {
+    "label": "What are the answers for the above issues?",
+    "title": "IChiba OnePlatform solutions for proxy-shopping and international shipping service providers"
+  },
+  "purchase": {
+    "title": "Purchase order management",
+    "content": "Empower proxy-shopping businesses to effortlessly oversee and manage the entire lifecycle of purchase orders from multiple sites and vendors within a single, unified dashboard. "
+  },
+  "auction": {
+    "title": "Auction management",
+    "content": "Stay ahead of the competition with real-time updates, automated bidding nick distribution, and timely notifications."
+  },
+  "pricing": {
+    "title": "Pricing customization for each market",
+    "content": "Understanding that each market has its unique dynamics, IChiba OnePlatform enables businesses to craft dual pricing strategies: public and personalized. It allows revenue maximization and customer satisfaction."
+  },
+  "international": {
+    "title": "International shipping management",
+    "content": "Designed with the intricacies of cross-border trade in mind, IChiba Cross-Border Forwarding simplifies the shipping process, accommodating various carriers, routes, and regulatory requirements. "
+  },
+  "product": {
+    "title": "Product information management (PIM)",
+    "items": [
+      {
+        "title": "Product crawler (PIM)",
+        "content": "Capture and funnel product data from international e-commerce sites directly to your business website. Ensure your product listings remain up-to-date with the latest pricing, availability, and promotional offers."
+      },
+      {
+        "title": "Product finder",
+        "content": "Effortlessly create product collection and make it visible on homepage of your proxy website. Data is collected from international e-commerce sites."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Payment Processing",
+    "multi": {
+      "title": "Multi-Currency Support",
+      "content": "Allow transactions in multiple currencies, facilitating international sales."
+    },
+    "sercure": {
+      "title": "Secure Payment Gateways",
+      "content": "Integrate with trusted payment gateways to ensure secure and reliable transactions."
+    },
+    "tax": {
+      "title": "Tax and Duty Calculation",
+      "content": "Automatically calculate taxes and duties for international shipments to ensure compliance and transparency."
+    }
+  },
+  "howItWork": {
+    "label": "HOW IT WORKS",
+    "title": "Your Gateway to Simplified Global Commerce",
+    "content": "Streamline your proxy-shopping and international shipping operations in just a few intuitive steps. Here’s how you can leverage our powerful SaaS solution to enhance your business efficiency!",
+    "step":"step",
+    "steps": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_1304476c73.svg",
+        "title": "Sign up and set up",
+        "content": "Create your account with us and set up your profile."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/6176f8341f3d2df3fbe9d8ba_shopping_cart_1_f31a99268a.svg",
+        "title": "Product sourcing with real-time crawler",
+        "content": "Utilize our real-time Product Crawler to effortlessly source products from various international e-commerce sites. Group products to form a collections so buyers can easily find favorite items."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_1304476c73.svg",
+        "title": "Manage purchase orders and auctions",
+        "content": "Keep track of your orders and bids on IChiba Cross-Border Forwarding dashboard. "
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_1304476c73.svg",
+        "title": "Pricing customization and personalization",
+        "content": "Set up your pricing models. Choose between public pricing to stay competitive or personalized pricing for specific customers."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_1304476c73.svg",
+        "title": "Order fulfillment and shipping",
+        "content": "Once an order is placed, you can oversee every shipment status, from generating shipping labels to calculating the best shipping routes and rates. "
+      }
+    ]
+  },
+  "streamline": {
+    "title": "Streamline Your Operations and Expand Globally with Ease",
+    "items": [
+      {
+        "title": "Time and cost efficiency",
+        "icon": "https://cms-strapi.ichiba.net/uploads/607732b0a896b11ca4c5f83d_Personalize_1_23610e524d.svg",
+        "content": "Simplify operations, eliminate manual tasks that take a lot of time and resources."
+      },
+      {
+        "title": "Scalability",
+        "icon": "https://cms-strapi.ichiba.net/uploads/6081adcc1b5ca002a84fd4f4_icon_5_1_d546959ac7.svg",
+        "content": "IChiba SaaS software grows with your business, no matter what scale you are reaching."
+      },
+      {
+        "title": "Compliance assistance",
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_7d164d007f.svg",
+        "content": "Manage customs, taxes, and international regulations in one place, so businesses do not miss any compliance."
+      }
+    ]
+  },
+  "customer": {
+    "items": [
+      {
+        "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets.",
+        "name": "Mrs.Hoai Thuong",
+        "bio": "Omnichannel Retailer",
+        "img": ""
+      },
+      {
+        "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets.",
+        "name": "Mrs.Hoai Thuong",
+        "bio": "Omnichannel Retailer",
+        "img": ""
+      }
+    ]
+  },
+  "whatAreTheRight": {
+    "title": "Products match your needs",
+    "learnMore":"Learn more",
+    "items": [
+      {
+        "icon":"https://cms-strapi.ichiba.net/uploads/Logo_3_758d27042a.png",
+        "title": "Commerce Layer",
+        "content": "Sell across multiple channels and markets while managing all orders in one place. Real-time data updates.",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icon":"https://cms-strapi.ichiba.net/uploads/Logo_2_76a8716a5c.png",
+        "title": "Ship4P",
+        "content": "Shipping management platform that centralizes multiple carriers to manage, reducing costs, and simplifying shipment management.",
+        "link": "/products/ship4p/overview"
+      },
+      {
+        "icon":"https://cms-strapi.ichiba.net/uploads/Shape_Quare_15837be92d.svg",
+        "title": "StoreFront Layer",
+        "content": "Build your own selling website or marketing landing page with the support of IChiba comprehensive tool set.",
+        "link": "/products/storefront-layer/overview"
+      }
+    ]
+  },
+  "haveQuestion":{
+    "title":"Have questions? Our team is ready to help!",
+    "contact":"Contact Sales"
+  }
+}

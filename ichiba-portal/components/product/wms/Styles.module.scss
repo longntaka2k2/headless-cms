@@ -1,0 +1,15 @@
+.text__gradient__first {
+  background: linear-gradient(88deg, #0364f6 16.04%, #ff9528 39.56%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-feature-settings: "clig" off, "liga" off;
+}
+
+.text__gradient__second {
+  background: linear-gradient(81deg, #f57c00 17.68%, #2858ff 58.45%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-feature-settings: "clig" off, "liga" off;
+}

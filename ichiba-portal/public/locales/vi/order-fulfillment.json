@@ -1,0 +1,226 @@
+{
+  "orderFulfillment": "Order fulfillment",
+  "getStarted": "Dùng thử miễn phí",
+  "contactSales": "Liên hệ với chúng tôi",
+  "getInTouchNow": "Liên hệ ngay",
+  "readUserGuide": "Đọc HDSD",
+  "viewAllIntegrations": "Xem tất cả các tích hợp",
+  "introduce": {
+    "title": "Đáp ứng mọi yêu cầu của khách hàng với giải pháp thực hiện đơn hàng đa kênh linh hoạt",
+    "content": "Cung cấp các giải pháp thực hiện đơn hàng thương mại điện tử và hậu cần cho khách hàng B2B & B2C với các tính năng quản lý và báo cáo mạnh mẽ."
+  },
+  "moreThan": {
+    "title": "Hơn cả việc lấy hàng, đóng hàng và vận chuyển",
+    "content": "IChiba OnePlatform cung cấp dịch vụ hoàn thiện đơn hàng đa kênh với công nghệ hiện đại. Chúng tôi sở hữu mạng lưới hơn 20 trung tâm xử lý đơn hàng trên toàn thế giới.",
+    "items": [
+      {
+        "title": "Mạng lưới kho hàng trên toàn thế giới",
+        "content": "Mạng lưới kho hàng đạt các chứng chỉ quốc tế của chúng tôi được phân bổ trên toàn cầu, giúp bạn dễ dàng và nhanh chóng vận chuyển sản phẩm đến tay người tiêu dùng."
+      },
+      {
+        "title": "Công cụ hiện đại",
+        "content": "Công nghệ đám mây của chúng tôi thu thập thông tin chi tiết về quy trình bán hàng dựa trên dữ liệu người tiêu dùng. Từ đó và cung cấp báo cáo cụ thể về mức độ phân phối và tồn kho."
+      },
+      {
+        "title": "Tích hợp công nghệ",
+        "content": "Kết nối chuỗi cung ứng và các sàn thương mại điện tử hiện tại của bạn với nền tảng hoàn tất đơn hàng của IChiba để tích hợp các luồng dữ liệu đặt hàng và hàng tồn kho một cách liền mạch."
+      }
+    ]
+  },
+  "fulfillmentNetwork": {
+    "title": "Mạng lưới hoàn thiện đơn hàng của chúng tôi",
+    "content": "Chúng tôi hiện diện ở bất cứ nơi đâu mà bạn cần, trên toàn thế giới."
+  },
+  "getInTouch": {
+    "title": "Bạn đã sẵn sàng tăng tốc cho hoạt động hoàn tất đơn hàng đa kênh trên toàn cầu chưa?",
+    "content": "Tăng tỉ lệ bán hàng, giảm chi phí và tiết kiệm thời gian bằng cách phối hợp với IChiba OnePlatform - đối tác hoàn thiện đơn hàng đa kênh hàng đầu Đông Nam Á."
+  },
+  "integrations": {
+    "title": "Tích hợp cho mọi nhu cầu kinh doanh",
+    "content": "Bảng điều khiển tích hợp API cho tất cả mọi thứ"
+  },
+  "statistical": {
+    "items": [
+      {
+        "value": 99.95,
+        "unit": "%",
+        "label": "Đơn đặt hàng giao đúng thời hạn"
+      },
+      {
+        "value": 99.96,
+        "unit": "%",
+        "label": "Độ chính xác trong việc xử lý các đơn đặt hàng"
+      },
+      {
+        "value": 49,
+        "unit": "%",
+        "label": "Tiết kiệm chi phí xử lý đơn hàng"
+      },
+      {
+        "value": 20,
+        "unit": "+",
+        "label": "Trung tâm hoàn thiện đơn hàng trên toàn cầu"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "Chúng tôi hoạt động như thế nào?",
+    "content": "Khai phóng sức mạnh giải pháp hoàn hiện đơn hàng đa kênh Thông minh của chúng tôi với một quy trình nghiêm ngặt.",
+    "items": [
+      {
+        "title": "Tư vấn",
+        "subTitle": "Tư vấn miễn phí",
+        "content": "Chúng tôi dựa trên tình hình kinh doanh hiện tại và ước muốn trong tương lai của doanh nghiệp để tư vấn giải pháp hậu cần tùy chỉnh phù hợp."
+      },
+      {
+        "title": "Kết nối",
+        "subTitle": "Kết nối các hệ thống hiện có của bạn với nền tảng của IChiba OnePlatform",
+        "content": "Tích hợp các kênh bán hàng, các sàn thương mại điện tử và hệ thống ERP của bạn với nền tảng công nghệ của chúng tôi."
+      },
+      {
+        "title": "Lưu trữ",
+        "subTitle": "Lưu trữ hàng tồn kho an toàn trong các trung tâm xử lý đơn hàng của chúng tôi",
+        "content": "Hàng trong kho được chuyển đến một trong các trung tâm xử lý đơn hàng. Chúng tôi sẽ lưu trữ, quản lý chặt chẽ và cập nhật mọi hoạt động luân chuyển hàng hóa trên nền tảng IChiba OnePlatform để bạn theo dõi bất cứ lúc nào."
+      },
+      {
+        "title": "Xử lý",
+        "subTitle": "Xử lý đơn hàng",
+        "content": "Chúng tôi tiến hành nhặt hàng, đóng gói và vận chuyển đến tận tay khách hàng ngay sau khi có đơn đặt hàng trên bất kỳ kênh bán hàng nào."
+      },
+      {
+        "title": "Vận chuyển",
+        "subTitle": "Vận chuyển đơn hàng",
+        "content": "Chúng tôi tiến hành gửi các đơn đặt hàng cho các đối tác của chúng tôi để chuyển các lô hàng của bạn đến đích cuối cùng đúng hẹn với điều kiện tốt nhất."
+      },
+      {
+        "title": "Điều chỉnh",
+        "subTitle": "Liên tục đánh giá và điều chỉnh",
+        "content": "Chúng tôi luôn liên tục tự đánh giá và điều chỉnh để đảm bảo rằng giải pháp mà chúng tôi cung cấp phù hợp với nhu cầu của công ty bạn."
+      }
+    ]
+  },
+  "fulfillmentCapability": {
+    "title": "Năng lực hoàn tất đơn hàng",
+    "items": [
+      {
+        "title": "Kết nối kỹ thuật",
+        "contents": [
+          "Kết nối tất cả kho hàng với trên một nền tảng công nghệ",
+          "Kết nối với hơn 70 phần mềm ERP, quản lý giỏ hàng, quản lý đơn hàng và các sàn thương mại điện tử.",
+          "Xử lý đơn hàng thông qua trao đổi dữ liệu điện tử EDI",
+          "Tích hợp bảng điều khiển API mở"
+        ]
+      },
+      {
+        "title": "Kết nối kho hàng",
+        "contents": [
+          "Phân bố danh mục sản phẩm nâng cao",
+          "Quản lý đơn hàng và tồn kho, bao gồm theo dõi, cảnh báo và dự báo trên một bảng điều khiển duy nhất",
+          "Báo cáo chi tiết và cá nhân hóa",
+          "Thoi dõi kiện hàng trong thời gian thực"
+        ]
+      },
+      {
+        "title": "Năng lực vận tải",
+        "contents": [
+          "Kết hợp với hơn 50 hãng vận chuyển và nhà cung cấp dịch vụ hậu cần trên toàn thế giới.",
+          "Tối ưu tuyến đường để giảm thiểu chi phí",
+          "Theo dõi & giám sát hàng hóa theo thời gian thực",
+          "Phân tích dữ liệu và các chỉ số để cải thiện hiệu suất",
+          "Quản lý mức tồn kho và luồng chuỗi cung ứng",
+          "Đảm bảo tuân thủ nghiêm ngặt các quy định về an toàn vận chuyển"
+        ]
+      },
+      {
+        "title": "Năng lực lưu kho & chỉ số SLA",
+        "contents": [
+          "Tổng diện tích kho lên đến 50.000 m2",
+          "Đảm bảo thực hiện đơn hàng kịp thời và chính xác với phần mềm quản lý kho hàng chuyên nghiệp",
+          "Giữ chân khách hàng trung thành bằng cách tuân thủ nghiêm ngặt SLA",
+          "Hệ thống nhặt hàng và đóng gói tự động",
+          "Giảm thiểu lỗi và chậm trễ với hệ thống theo dõi hàng tồn kho hiện đại."
+        ]
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Tại sao giải pháp hoàn tất đơn hàng đa kênh của IChiba OnePlatform có thể giúp ích cho doanh nghiệp bạn?",
+    "content": "Đảm bảo trải nghiệm mua sắm khó quên  cho khách hàng và duy trì danh tiếng trực tuyến của bạn với dịch vụ thực hiện đơn hàng chính xác 100%",
+    "items": [
+      {
+        "title": "Tích hợp nhiều kênh bán hàng và quản lý tập trung việc xử lý đơn hàng thương mại điện tử",
+        "contents": [
+          "Thực hiện đơn hàng trên tất cả các kênh, từ các sàn thương mại điện tử đến các cửa hàng trực tuyến, kết nối các cửa hàng bán lẻ với trung tâm thực hiện đơn hàng và quản lý tập trung ở một nơi duy nhất.",
+          "Cho phép hiển thị theo thời gian thực và kiểm soát quá trình xử lý đơn hàng trên tất cả các kênh bán hàng.  Bạn chỉ cần một đối tác duy nhất là chúng tôi và hãy để chúng tôi thực hiện mọi đơn hàng của bạn."
+        ]
+      },
+      {
+        "title": "Hoàn tất cùng lúc nhiều đơn hàng ở nhiều kho khác nhau",
+        "contents": [
+          "Xác định kho hàng hoặc trung tâm xử đơn hàng  gần nhất, sẵn hàng trong kho để nhanh chóng giao cho khách, từ đó gia tăng sự hài lòng, xây dựng niềm tin và sự trung thành với khách hàng.",
+          "Tối ưu lộ trình vận chuyển, giảm chi phí vận chuyển và số lần vận chuyển cho mỗi đơn hàng."
+        ]
+      },
+      {
+        "title": "Đồng bộ hóa việc quản lý hàng tồn kho đa kênh",
+        "contents": [
+          "Quản lý và cập nhật mức tồn kho ở tất cả các kênh bán trong thời gian thực chỉ bằng một cái chạm tay, đảm bảo lượng hàng trong kho đáp ứng được nhu cầu của khách hàng.",
+          "Tận dụng nhà kho thông minh xây dựng trên nền tảng dữ liệu cao cấp để đảm bảo rằng bạn luôn có đúng sản phẩm trong kho đáp ứng nhu cầu của khách hàng. Từ đó tối đa hóa tiềm năng bán hàng của bạn."
+        ]
+      },
+      {
+        "title": "Xử lý đơn hàng ngay trong ngày nhanh chóng và chính xác",
+        "contents": [
+          "Xử lý đơn hàng nhanh chóng ngay khi phát sinh đơn đặt trên tất cả các kênh. Giao đúng mặt hàng khách đã đặt theo đúng thời gian đã cam kết, thậm chí nhanh hơn dự kiến.",
+          "Cho phép giám sát và cập nhật quy trình thực hiện đơn hàng trong thời gian thực thông qua bảng điều khiển được cá nhân hóa."
+        ]
+      },
+      {
+        "title": "Cập nhật trạng thái đơn hàng đến từng phút",
+        "contents": [
+          "Nhận thông báo về hành trình của đơn hàng từ điểm đầu đến điểm cuối. Cho dù bạn đang theo dõi một gói hàng hay cả triệu gói hàng, bảng điều khiển đều sẽ sắp xếp và hiển thị chúng trực quan.",
+          "Bảng điều khiển API và Webhook thông minh kịp thời cung cấp các thông tin về trạng thái và vị trí đơn hàng trong thời gian thực để doanh nghiệp không bỏ lỡ thông tin cập nhật."
+        ]
+      },
+      {
+        "title": "Giải pháp đóng gói thiết kế cá nhân hóa",
+        "contents": [
+          "Tối ưu hóa lợi nhuận cho doanh nghiệp bằng cách đầu tư vào bao bì và đóng gói. Bằng cách sử dụng giải pháp đóng gói được thiết kế tùy chỉnh, doanh nghiệp có thể giữ cho khách hàng cảm giác mới mẻ và hứng thú khi mua hàng.",
+          "Cung cấp các giải pháp đóng gói phù hợp mọi yêu cầu, mọi trường hợp. Cho dù đó là đóng gói số lượng lớn, dán nhãn, in logo, thêm mã giảm giá, thư cảm ơn, tài liệu marketing, chúng tôi đều có thể làm được."
+        ]
+      },
+      {
+        "title": "Phân phối hàng hoá",
+        "contents": [
+          "Tự động xác định nhà kho gần nhất với khách hàng để tiết kiệm chi phí và thời gian vận chuyển.",
+          "Tăng sự hài lòng của khách hàng vì họ có thể nhận hàng nhanh hơn so với khi xử lý đơn hàng theo phương pháp truyền thống."
+        ]
+      },
+      {
+        "title": "Dự trữ tồn kho",
+        "contents": [
+          "Giữ lại một lượng sản phẩm tồn kho nhất định nhằm chuẩn bị cho một sự kiện bán hàng trong tương lai.",
+          "Hỗ trợ doanh nghiệp kiểm soát hoạt động buôn bán mà không cần lo lắng về nguồn hàng."
+        ]
+      }
+    ]
+  },
+  "getSupport": {
+    "title": "Chắp cánh cho thành công của bạn trên mỗi bước đường",
+    "content": "Nhận hỗ trợ ngay lập tức các yêu cầu cụ thể của bạn. Chúng tôi cũng có văn phòng đại diện tại nhiều vị trí để kịp thời hỗ trợ khách hàng.",
+    "items": [
+      {
+        "value": "24/7",
+        "label": "hỗ trợ<br/>mọi lúc mọi nơi"
+      },
+      {
+        "value": "Voted #1",
+        "label": "Được khách hàng bình chọn là yêu thích nhất"
+      },
+      {
+        "value": "1 hour",
+        "label": "trung bình thời gian phản hồi"
+      }
+    ]
+  }
+}

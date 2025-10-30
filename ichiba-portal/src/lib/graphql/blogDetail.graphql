@@ -1,0 +1,74 @@
+query blogDetailId($slug: String = "",$locale: String = ""){
+  blogDetailCollection(where: {slug: $slug},locale:$locale,limit:1){
+    items{
+       contentRichText{
+        json
+        links {
+            assets {
+              block {
+                sys {
+                  id
+                }
+                url
+                title
+                width
+                height
+                description
+              }
+            }
+        }
+      }
+      img{
+        url
+      }
+      content
+      author
+      date
+      category
+      topic
+      title
+      authorBiography
+      avtAuthor{
+        url
+      }
+      relatedProductsCollection(limit:2){
+        items{
+          ...mostItems
+        }
+      }
+    }
+  }
+}
+query assetEntry ($id : String = ""){
+ asset(id : $id){
+  	url
+	}
+}
+
+
+
+fragment mostItems on BlogDetail{
+  title
+  content
+  img{
+    url
+  }
+  date
+	author  
+}
+query layoutBlogDetail{
+ 	layoutBlogDetailCollection(limit:1){
+    items{
+      getStarted
+      getStartedImg{
+        url
+      }
+      getStartedBg
+      mostPopularCollection(limit:2){
+        items{
+          ...mostItems
+        }
+      }
+    }
+  }
+}

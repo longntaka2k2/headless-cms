@@ -1,0 +1,7 @@
+.btn {
+  @apply tw-w-16 tw-h-16 tw-rounded-full tw-text-white tw-text-2xl tw-font-bold tw-flex tw-items-center tw-justify-center;
+  background: linear-gradient(0deg, #a6a6a6 -0.66%, #d8d8d8 99.49%);
+  &.active {
+    background: linear-gradient(0deg, #e45504 -0.66%, #fb5 99.49%);
+  }
+}

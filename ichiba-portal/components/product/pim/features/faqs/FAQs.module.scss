@@ -1,0 +1,19 @@
+.list {
+  @apply tw-flex tw-flex-col tw-mt-6;
+  .item {
+    @apply tw-relative;
+    .question {
+      @apply tw-flex tw-gap-6 tw-justify-between tw-items-center tw-relative tw-py-4 lg:tw-py-6;
+    }
+    &:first-child {
+      .question {
+        @apply tw-pt-0;
+      }
+    }
+    &:not(:last-child) {
+      &::after {
+        @apply tw-content-empty tw-absolute tw-inset-x-0 tw-border-b tw-border-ic-ink-2;
+      }
+    }
+  }
+}

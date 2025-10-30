@@ -1,0 +1,13 @@
+.root {
+  background: linear-gradient(
+    0deg,
+    #f2f2f2 -64.32%,
+    rgba(235, 238, 250, 0) 100%
+  );
+  @apply xl:tw-bg-ic-ink-1;
+}
+
+.swiper__slide {
+  @apply tw-relative tw-w-[600px] xl:tw-w-[724px];
+  max-width: calc(100% - 24px);
+}

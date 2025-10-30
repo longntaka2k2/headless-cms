@@ -1,0 +1,21 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_52390_507589)">
+<rect width="44" height="44" rx="22" fill="url(#paint0_linear_52390_507589)"/>
+<rect x="14.5" y="10.75" width="15" height="12.5" rx="2.5" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M10.75 27H33.25" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.25 33.25H10.75" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.5 33.25V27" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M29.5 33.25V27" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 33.25V27" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.8125 10.75H24.1875V14.5C24.1875 14.8452 23.9077 15.125 23.5625 15.125H20.4375C20.0923 15.125 19.8125 14.8452 19.8125 14.5V10.75Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_52390_507589" x1="22" y1="44.2884" x2="22" y2="0.223957" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FF7400"/>
+<stop offset="1" stop-color="#FFAB52"/>
+</linearGradient>
+<clipPath id="clip0_52390_507589">
+<rect width="44" height="44" rx="22" fill="white"/>
+</clipPath>
+</defs>
+</svg>

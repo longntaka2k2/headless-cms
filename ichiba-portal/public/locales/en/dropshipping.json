@@ -1,0 +1,142 @@
+{
+  "bannerDropshipping": {
+    "heading": [
+      "Streamline",
+      " Dropshipping",
+      " with All-in-One IChiba SaaS Solutions for Dropship" 
+
+    ],
+    "subHeading": "Go through every worry about order management, automated fulfillment & analytics with all-in-one IChiba SaaS solutions for dropship.",
+    "contactSales": "Contact Sales"
+  },
+  "theOptimalChoice": {
+    "heading": "IChiba OnePlatform - the optimal choice for dropshipping businesses",
+    "onlineStore": {
+      "title": "Online store builder",
+      "subTitle": "Build storefront website, landing page or app with ultimate built-in features. You can choose to upload your products or connect with international e-commerces (like Amazon, eBay, Yahoo Shopping, Taobao, Tmall, etc.) to crawl product data."
+    },
+    "marketingService": {
+      "title": "Marketing service",
+      "subTitle": "IChiba OnePlatform offers marketing services with bundle of solutions for dropshipping companies to boost sales.",
+      "items": [
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Rectangle_52697_86f0831ba9.svg",
+          "title": "Marketing automation",
+          "subTitle": "Run email campaigns, send push notifications to remind customers about abandoned carts, and nurture loyalty during peak seasons."
+        },
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Rectangle_52697_1_c142044162.svg",
+          "title": "Create product collection",
+          "subTitle": "Our PIM tool enables dropshipping companies select outstanding items from international ecommerces and display them on the website or app."
+        },
+        {
+          "image": "https://cms-strapi.ichiba.net/uploads/Rectangle_52697_2_cd687f7ea9.svg",
+          "title": "Ads and SEO",
+          "subTitle": "Save effort on running promotions or push your brand as we get a professional teams for ads and SEO. We’ll help you widely spread your dropshipping service on Google and social media."
+        }
+      ]
+    }
+  },
+  "notJustBuild": {
+    "title": [
+      "Not just build website, ",
+      "IChiba offers an end-to-end solution for dropshipping"
+    ],
+    "items": [
+      {
+        "label": "Simplified order management",
+        "title": "Simplified order management",
+        "content": "Centralize and control all of your orders. Manage, edit, and track dropshipping orders in one place.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_260929_65066e6f90.svg"
+      },
+      {
+        "label": "Automated fulfillment",
+        "title": "Automated fulfillment",
+        "content": "Connect with suppliers and automate the fulfillment process. From order placement to delivery tracking, it's all handled for you.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_260929_65066e6f90.svg"
+      },
+      {
+        "label": "Data-driven analytics",
+        "title": "Data-driven analytics",
+        "content": "Gain insights into your business with our comprehensive analytics tools. Track sales trends, customer behavior, and more.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_260929_65066e6f90.svg"
+      },
+      {
+        "label": "Seamless integrations",
+        "title": "Seamless integrations",
+        "content": "Easily integrate with major ecommerce platforms, payment gateways, and other essential tools with just a few clicks.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_260929_65066e6f90.svg"
+      }
+    ]
+  },
+  "whatDropshipping": {
+    "title": "What dropshipping companies get from IChiba SaaS solutions",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Layer_1_58064efd15.svg",
+        "title": "Round-the-clock expert support"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Layer_1_1_68f3c8646f.svg",
+        "title": "Enhanced customer experience"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Layer_1_2_4c27364a5f.svg",
+        "title": "Centralized control panel"
+      }
+    ]
+  },
+  "yourDropshipping": {
+    "title": "Your dropshipping operations simplified in 4 steps",
+    "items": [
+      {
+        "step": "Step 1: ",
+        "title": "Sign up and set up your account.",
+        "content": "Sign up to experience StoreFront’s unlimited features on a 14 days free trial",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_819d3c5f55.svg"
+      },
+      {
+        "step": "Step 2: ",
+        "title": "Create workspace and activate any software that you need in IChiba SaaS ecosystem.",
+        "content": "Choose an available template that is most suitable with you from IChiba’s Themes library",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_1_403af051d2.svg"
+      },
+      {
+        "step": "Step 3: ",
+        "title": "Customize your product listings. Set your pricing rules to automatically adjust markups and maintain your profit margins.",
+        "content": "Drag & drop to customize images, text, size...anything you want to personalize your website to be more attractive",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_2_aa3ba6fb15.svg"
+      },
+      {
+        "step": "Step 4: ",
+        "title": "Monitor and optimize with analytics.",
+        "content": "Connect with your domain or register new domain",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_3_4a417e61b7.svg"
+      }
+    ]
+  },
+  "porductsServices": {
+    "heading": "Products/Services designed for dropship businesses",
+    "learnMore": "Learn more",
+    "items": [
+      {
+        "icon": "svg-storefront",
+        "title": "StoreFront Layer",
+        "content": "Build your own selling website or marketing landing page with the support of IChiba comprehensive tool set.",
+        "bgIcon": "linear-gradient(0deg, #FF7400 -0.66%, #FFAB52 99.49%)",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "icon": "svg-icon-storefront",
+        "title": "Commerce Layer",
+        "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data and intelligence. ",
+        "bgIcon": "linear-gradient(0deg, #FF7400 -0.66%, #FFAB52 99.49%)",
+        "link": "/products/commerce-layer/overview"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Ready to elevate your dropshipping business?",
+    "contactSales": "Contact Sales"
+  }
+}

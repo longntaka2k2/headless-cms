@@ -1,0 +1,157 @@
+{
+  "banner": {
+    "label": "ICHIBAONE FOR BUSINESS OWNERS",
+    "title": "Your business can’t spread out?",
+    "content": [
+      "Customer Acquisition and Retention, Technology and Platform Management, Logistics and Shipping, ",
+      "Scaling Challenges, and a bunch of other issues.",
+      "Sound familiar?"
+    ]
+  },
+  "weFeel": {
+    "title": "We feel your pains",
+    "content": "IChiba offer the best end-to-end commerce enablement platform for brand commerces and enterprise businesses."
+  },
+  "noMore": {
+    "title": "No more overloaded or complicated management",
+    "content": "You can get an all-inclusive ecommerce enablement ecosystem in which management activities are centralized and optimized.",
+    "contactSale": "Contact Sales"
+  },
+  "global": {
+    "title": "Global operations made easy",
+    "content": "Effortlessly spread your business to globe with the support of our tools. Centrally manage everything in one dashboard only.",
+    "markets": {
+      "title": "Multiple markets",
+      "content": "Expand business or operations into multiple markets or geographic regions with IChiba's support tools."
+    },
+    "warehouse": {
+      "title": "Multiple warehouses",
+      "content": "Manage multiple warehouses in one dashboard to distribute orders strategically, optimize costs and time."
+    },
+    "currencies": {
+      "title": "Multiple currencies",
+      "content": "Integrate as many as payment methods with different currencies to suit every market that business target to."
+    },
+    "channels": {
+      "title": "Multiple channels",
+      "content": "Cater more customers, make cross-channel transitions convenient by going omni-channel."
+    }
+  },
+  "comprehensive": {
+    "title": "Comprehensive management",
+    "content": "Take full control of your selling operation with IChiba SaaS software, from streamlining market interfaces, trading, and order management across diverse channels.",
+    "items": [
+      {
+        "img":"https://cms-strapi.ichiba.net/uploads/6517249a46a706e8fb423947_1_digital_physical_goods_1_d80b6ab489.png",
+        "title": "An outstanding player",
+        "content": "IChiba SaaS platforms offer robust features for customization, SEO optimization, and integrations, helping businesses stand out in a crowded market. We also provide templates and tools for unique branding and design."
+      },
+      {
+        "img":"https://cms-strapi.ichiba.net/uploads/6517249a46a706e8fb423947_1_digital_physical_goods_1_d80b6ab489.png",
+        "title": "Scaling businesses",
+        "content": "Our scalable SaaS platforms allow businesses to expand their operations easily, add new features, and accommodate increased traffic without significant infrastructure changes."
+      },
+      {
+        "img":"https://cms-strapi.ichiba.net/uploads/6517249a46a706e8fb423947_1_digital_physical_goods_1_d80b6ab489.png",
+        "title": "Logistics and Shipping",
+        "content": "Integrate with shipping and logistics services, provide real-time shipping rates, order tracking, and inventory management, and streamline the fulfillment process."
+      }
+    ]
+  },
+  "opportunities": {
+    "label": "Opportunities for business leaders",
+    "title": "Increase revenue and stand out from competitors",
+    "content": "Delve into numerous possibilities to drive profit growth and gain an edge over others. Find out how you can attain limitless scalability, unparalleled adaptability, and reduced expenses by adopting innovative e-commerce solutions. IChiba enables you to broaden your market presence, enhance your brand, and maximize your return on investment.",
+    "items": [
+      {
+        "title": "Unlimited scale",
+        "content": "Extend and grow across new regions, markets, and channels using a single commerce enablement platform.",
+        "icons": "https://cms-strapi.ichiba.net/uploads/6081adcc1b5ca002a84fd4f4_icon_5_1_0e13d8a0be.svg"
+      },
+      {
+        "title": "Limitless flexibility",
+        "content": "Flexible configuration and adaptation to meet every single specific business requirement.",
+        "icons": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_4ab775bf77.svg"
+      },
+      {
+        "title": "Lower costs",
+        "content": "Flexible configuration and adaptation to meet every single specific business requirement.",
+        "icons": "https://cms-strapi.ichiba.net/uploads/607732b0a896b11ca4c5f83d_Personalize_1_28d4d6890a.svg"
+      }
+    ]
+  },
+  "dontJust": {
+    "title": "Don’t just take our word",
+    "content": "See how IChiba impacted our users, from small project to most innovative companies in the world.",
+    "read": "Read User stories"
+  },
+  "power": {
+    "title": "Power your business to expand",
+    "content": "Contact us for free consultation on all-inclusive ecommerce solutions of innovating, scaling and captivating customers.",
+    "contact": "Contact Sales"
+  },
+  "iChiba": {
+    "title": "IChiba OnePlatform for the whole team",
+    "items": [
+      {
+        "title": "For Marketing teams",
+        "content": "Empower marketing teams with the tools and data necessary to create, execute, and refine marketing strategies, ultimately driving traffic, improving conversions, and enhancing customer engagement in the e-commerce space.",
+        "background": "linear-gradient(112deg,#E6F3FF_28.86%,rgba(235,_241,_254,_0.79)_64.16%)"
+      },
+      {
+        "title": "For Technical teams",
+        "content": "Empower technical teams to focus on innovation, customization, and optimizing the e-commerce experience rather than being burdened with routine maintenance and infrastructure management tasks.",
+        "background": "linear-gradient(276deg,_#F1F5FE_2.49%,_#D7D9FC_104.45%)"
+      },
+      {
+        "title": "For Operation teams",
+        "content": "Empower operations teams by automating processes, providing real-time data and insights, optimizing inventory and order management, and improving overall operational efficiency in the e-commerce environment.",
+        "background": "linear-gradient(276deg,_#FEF8F1_2.49%,_#FAE7DD_104.45%)"
+      }
+    ]
+  },
+  "suggested": {
+    "title": "Suggested products for business owners",
+    "learnMore":"Learn more",
+    "content": "Take your business to the next level with IChiba portfolio of products and services.",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Shape_Quare_15837be92d.svg",
+        "title": "StoreFront Layer",
+        "link":"/products/storefront-layer/overview",
+        "content": "Build your own selling website or marketing landing page with the support of IChiba comprehensive tool set."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "link":"/products/commerce-layer/overview",
+        "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data and intelligence. "
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_dc1b80f4a0.png",
+        "title": "CDXP (Coming soon)",
+        "link":"/",
+        "content": "A central hub for marketing and engagement needs, ensuring easy access to comprehensive customer insights."
+      }
+    ]
+  },
+  "faqs":{
+    "label":"GET ANSWERS FOR",
+    "title":"Frequently asked questions",
+    "subtitle":"Explore our frequently asked questions to learn more about IChiba OnePlatform and more.",
+    "contents": [
+      {
+        "title": "Is an OMS suitable for small businesses?",
+        "content": "Yes, OMS solutions come in various sizes and complexities, catering to the needs of small, medium, and large businesses. There are simpler and more affordable OMS options designed specifically for smaller enterprises."
+      },
+      {
+        "title": "What is a SaaS ecommerce enablement platform?",
+        "content": "A SaaS ecommerce enablement platform is a software solution delivered as a service that equips businesses with tools and features necessary to establish, manage, and optimize an online store or ecommerce operations."
+      },
+      {
+        "title": "How does SaaS ecommerce differ from traditional ecommerce solutions?",
+        "content": "SaaS ecommerce platforms are cloud-based, subscription-based solutions that offer scalability, regular updates, and usually do not require extensive technical expertise for setup and maintenance compared to traditional ecommerce solutions that may involve more customization and infrastructure management."
+      }
+    ]
+  }
+}

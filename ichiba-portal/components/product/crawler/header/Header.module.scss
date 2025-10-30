@@ -1,0 +1,5 @@
+.mobile__menu {
+  &:global(.drop-header) {
+    top: 64px !important;
+  }
+}

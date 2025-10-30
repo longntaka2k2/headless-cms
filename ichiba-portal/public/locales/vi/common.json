@@ -1,0 +1,2231 @@
+{
+  "freeTrial": "Dùng Thử Miễn Phí",
+  "takeTour": "Khám phá IChiba",
+  "vietName": "Việt Nam",
+  "global": "Quốc Tế",
+  "titleGEOModal": "Xin chào, Bạn đang truy cập trang web cho {0}, bạn có muốn tiếp tục trên trang web này không?",
+  "continueGEOModal": "Tiếp tục với {0}",
+  "nextGEOModal": "Chuyển đến với {0}",
+  "signIn": "Đăng nhập",
+  "forSeller": "For Seller",
+  "sellerDemo": "Seller Demo Account",
+  "forOperator": "For Operator",
+  "present": "IChiba OnePlatform là công cụ hỗ trợ thương mại điện tử toàn diện hàng đầu ở Đông Nam Á",
+  "here": "đây",
+  "hello": "Xin chào",
+  "access": "Bạn đang truy cập trang web cho {0}, bạn có muốn tiếp tục trên trang web này không?",
+  "userInfo": "Người dùng",
+  "visit": "Ghé thăm",
+  "language": "Ngôn ngữ:",
+  "logOut": "Đăng xuất",
+  "learnMore": "Tìm hiểu thêm",
+  "bookDemo": "Đặt lịch hẹn",
+  "readMore": "Tìm hiểu thêm",
+  "takeATour": "Tìm hiểu thêm",
+  "all": "Tất cả",
+  "suscess": "Thành công!",
+  "false": "Đã xảy ra lỗi!",
+  "customerSay": {
+    "customerSayContent": "Thay vì mất quá nhiều thời gian theo dõi từng đơn vị vận chuyển trên từng website, giờ đây tôi có thể theo dõi gói hàng của mình ngay trên màn hình Ship4P chỉ với vài cú nhấp chuột. Nhờ có IChiba mà tôi đã giảm được rất nhiều thời gian và công sức trong việc theo dõi đơn hàng để có thêm thời gian nghiên cứu và phát triển sản phẩm. Tôi hy vọng IChiba OnePlatform có thể kết nối nhiều đơn vị vận chuyển hơn nữa trên thế giới trong tương lai.",
+    "customerSayContent1": "Mặc dù có khối lượng đơn hàng khá lớn, đặc biệt nhân dịp flash sale hàng tháng, nhưng chúng tôi vẫn xử lý và vận chuyển đơn hàng với tốc độ nhanh hơn bao giờ hết. Chưa kể, gần đây chúng tôi không còn phải theo dõi từng gói hàng của từng nhà vận chuyển nữa vì giờ đây chúng tôi có thể theo dõi trạng thái đơn hàng của mình mọi lúc, mọi nơi trên 1 bảng điều khiển duy nhất.",
+    "customerSayContent2": "Ship4P đã cho phép chúng tôi phát triển mạng lưới vận chuyển của mình, mang đến cho khách hàng của chúng tôi nhiều lựa chọn vận chuyển đến mọi nơi trên thế giới với điều kiện tốt nhất, cũng như giúp nhóm dịch vụ khách hàng của Toro có quyền truy cập đầy đủ tất cả các đơn đặt hàng của khách hàng một cách dễ dàng - trên 1 nền tảng để sử dụng.",
+    "customerSayContent3": "Bởi vì các đơn đặt hàng bán buôn được xử lý lâu hơn so với những khách hàng đến với chúng tôi qua kênh DC, nên việc thực hiện đơn hàng sẽ tăng thêm một lớp phức tạp. Tuy nhiên, Brightpearl tự động cập nhật từng kênh bán hàng theo thời gian thực với thông tin về những sản phẩm có sẵn. Và nguồn sự thật duy nhất của nó có nghĩa là tôi có thể truy cập vào nền tảng này bất cứ lúc nào để nhanh chóng có được cái nhìn tổng quan về hàng tồn kho, quá trình thực hiện đơn hàng và doanh số bán hàng của chúng tôi trên các kênh, điều này rất quan trọng để loại bỏ các nút thắt tiềm tàng trong hoạt động của chúng tôi.",
+    "title": "Khách hàng nói gì về chúng tôi",
+    "story": "Câu chuyện khách hàng thành công",
+    "content": "Với bộ công cụ phần mềm mạnh mẽ, IChiba đã giúp hàng ngàn doanh nghiệp mở rộng quy mô và tối ưu quy trình vận hành. Hãy cùng xem những chia sẻ của các khách hàng về chúng tôi - và rút ra những bài học riêng cho doanh nghiệp của bạn.",
+    "name1": "Ông Nam Đặng",
+    "name2": "Bà. Lan Thy",
+    "name3": "Bà Trang Trần",
+    "bio1": "Trưởng phòng kinh doanh tại Next 247",
+    "bio2": "Trưởng phòng chăm sóc khách hàng tại Ezbuy",
+    "bio3": "Chủ shop tại Toro Clothing"
+  },
+  "tryItFree": "Dùng thử miễn phí",
+  "tryForFree": "Dùng thử miễn phí",
+  "getStart": "Dùng thử",
+  "getStartedFor": "Dùng thử",
+  "contactSale": "Liên hệ ngay",
+  "contactsale": {
+    "ichibaSupport": "Hỗ trợ IChiba",
+    "contact": "Thông tin",
+    "talk": "Trò chuyện với các chuyên gia IChiba OnePlatform",
+    "firstName": "Họ và tên",
+    "lastName": "Tên",
+    "customerType": "Loại khách hàng",
+    "industry": "Ngành hàng",
+    "role": "Chức vụ/ Nghề nghiệp",
+    "companyName": "Tên công ty",
+    "companyWebsite": "Tên website công ty",
+    "inputCompanyWebsite": "Nhập tên website công ty",
+    "serviceInterested": "Dịch vụ bạn quan tâm",
+    "position": "Chức vụ",
+    "companyEmail": "Email",
+    "companySize": "Số lượng nhân viên",
+    "country": "Bạn ở tỉnh/ thành phố nào?",
+    "phone": "Số điện thoại",
+    "canHelp": "Chúng tôi có thể làm gì để giúp bạn?",
+    "signUp": "Tôi đồng ý để IChiba OnePlatform liên hệ với tôi qua điện thoại, email và gửi cho tôi thông tin, tin tức, sự kiện và cập nhật liên quan đến yêu cầu của tôi",
+    "submit": "Gửi yêu cầu",
+    "hereToHelp": "Chúng tôi ở đây để giúp bạn!",
+    "ourSale": "Đội ngũ chuyên gia của IChiba OnePlatform cung cấp hướng dẫn cụ thể cho từng trường hợp, giúp bạn tìm ra giải pháp kinh doanh phù hợp thông qua:",
+    "design": "Thiết kế giải pháp tối ưu, phù hợp giúp bạn đạt được các mục tiêu kinh doanh trong thời gian ngắn.",
+    "take": "Cung cấp các buổi demo và hướng dẫn chi tiết",
+    "provide": "Cung cấp thêm thông tin về giá cả, quy trình thanh toán cũng như cách tối ưu chi phí",
+    "likeToContact": "Tôi muốn liên hệ với bộ phận bán hàng để hỗ trợ về sản phẩm",
+    "selectAnOption": "Chọn một tùy chọn",
+    "goodCompany": "Trên hành trình kinh doanh đầy tự hào",
+    "goodCompany2": "Luôn đồng hành cùng bạn ",
+    "submitThisForm": "Tôi đồng ý với quy định sử dụng và chính sách bảo mật của IChiba",
+    "shareMore": "Chia sẻ thêm chi tiết về dự án của bạn và những gì bạn đang tìm kiếm",
+    "employee": "Nhân viên",
+    "orMore": "Trên 200 nhân viên",
+    "requied": "Phần bắt buộc",
+    "industryOptions": {
+      "bank": "Ngân hàng",
+      "ecommerce": "Thương mại điện tử",
+      "warehouse": "Kho",
+      "transport": "Vận chuyển",
+      "orther": "Khác"
+    },
+    "productInterest": {
+      "omni": "Bán hàng đa kênh (Omnichannel)",
+      "pos": "Bán hàng tại cửa hàng (POS)",
+      "tmdt": "Bán hàng trên các sàn TMDT",
+      "social": "Bán hàng trên các Mạng xã hội",
+      "web": "Bán hàng trực tuyến trên website",
+      "fulfill": "Dịch vụ Fulfillment",
+      "cross": "Bán hàng xuyên biên giới"
+    },
+    "jobRole": {
+      "po": "Quản lí dự án",
+      "leader": "Trưởng nhóm",
+      "it": "Nhân viên kỹ thuật",
+      "ba": "Phân tích kính doanh",
+      "marketing": "Marketing"
+    },
+    "for": {
+      "demo": "Dùng thử",
+      "ticket": "Khiếu nại",
+      "support": "Hỗ trợ"
+    },
+    "started": "Tôi chưa bắt đầu bán: chưa có doanh thu",
+    "just": "Mới bắt đầu: < 1 tỉ đồng",
+    "building": "Xây dựng doanh nghiệp: 1 tỉ - 3.5 tỉ đồng",
+    "growing": "Doanh nghiệp đang phát triển: 3.5 tỉ - 24 tỉ đồng",
+    "small": "Doanh nghiệp nhỏ: 24 tỉ - 100 tỉ đồng",
+    "middle": "Doanh nghiệp vừa: 100 tỉ - 300 tỉ đồng",
+    "large": "Doanh nghiệp lớn: > 300 tỉ đồng",
+    "success": "Gửi thành công",
+    "false": "Đã xảy ra lỗi!"
+  },
+  "header": {
+    "product": {
+      "title": "Sản phẩm",
+      "ship4p": {
+        "title": "Ship4P",
+        "content": "Tích hợp thông minh với đa hãng vận chuyển nổi tiếng nhất thế giới"
+      },
+      "crossBorder": {
+        "title": "Thương mại điện tử xuyên biên giới (CBE)",
+        "content": "Nền tảng thương mại điện tử tăng khối lượng bán hàng và mở rộng phạm vi tiếp cận thị trường hiệu quả nhất."
+      },
+      "oms": {
+        "title": "Hệ thống quản lý đơn hàng (OMS)",
+        "content": "Tăng trưởng doanh số với hệ thống quản lý đa kênh vượt trội"
+      },
+      "wms": {
+        "title": "Hệ thống quản lý kho ( WMS)",
+        "content": "Tối ưu hóa quản lý và vận hành kho hàng"
+      },
+      "cdxp": {
+        "title": "CDXP (Sắp ra mắt)",
+        "content": "Sắp ra mắt"
+      },
+      "Integrations": {
+        "title": "Tích hợp",
+        "content": "Khám phá một hệ sinh thái tích hợp toàn diện giúp củng cố doanh nghiệp"
+      },
+      "digital": {
+        "title": "Thiết kế website bán hàng",
+        "content": "Xây dựng website bán hàng của riêng bạn với đầy đủ các công cụ linh hoạt nhất."
+      }
+    },
+    "solution": {
+      "title": "Giải Pháp",
+      "saas": "Dịch vụ phần mềm (SaaS)",
+      "fulfillS": "GIải pháp fulfillment",
+      "eDis": {
+        "title": "Nhà phân phối thương mại điện tử",
+        "content": "Giải pháp toàn diện cho nhà phân phối thương mại điện tử"
+      },
+      "fulfillment": {
+        "title": "Dịch vụ hoàn tất đơn hàng",
+        "content": "Các giải pháp thực hiện đơn hàng đa kênh hiệu quả cho mọi ngành"
+      },
+      "oRetailers": {
+        "title": "Nhà bán lẻ đa kênh",
+        "content": "Giải pháp chuyển đổi số cho nhà bán lẻ đa kênh"
+      },
+
+      "commerce": {
+        "title": "Brand Commerce",
+        "content": "Hỗ trợ các thương hiệu xây dựng nền tảng thương mại kỹ thuật số, quản lý và tăng doanh số"
+      },
+      "cross": {
+        "title": "TMĐT xuyên biên giới",
+        "content": "Giải pháp toàn diện giúp tăng trưởng doanh thu toàn cầu"
+      },
+      "ecomFulfill": {
+        "title": "Fulfillment TMĐT",
+        "content": "giải pháp fulfillment được thiết kế riêng cho thương mại điện tử"
+      },
+      "warehouse": {
+        "title": "Dịch vụ kho vận Fulfillment",
+        "content": "Quản lý chuỗi cung ứng và hậu cần của bạn một cách hiệu quả"
+      }
+    },
+    "support": {
+      "title": "Trung tâm hỗ trợ",
+      "faq": {
+        "title": "Câu hỏi thường gặp",
+        "content": "Trả lời tất cả các câu hỏi của bạn về chúng tôi"
+      },
+      "request": {
+        "title": "Yêu cầu hỗ trợ",
+        "content": "Không thể tìm thấy câu trả lời ? Liên hệ với chúng tôi để được giải đáp ngay."
+      }
+    },
+    "company": {
+      "title": "Về IChiba",
+      "discover": {
+        "title": "Khám Phá IChiba",
+        "content": "Sứ mệnh, tầm nhìn, giá trị, đội ngũ và mạng lưới."
+      },
+      "trust": {
+        "title": "An toàn & Bảo mật",
+        "content": "Cung cấp cơ sở hạ tầng đáng tin cậy, an toàn và tuân thủ nhất trong ngành."
+      },
+      "careers": {
+        "title": "IChiba OnePlatform Tuyển Dụng",
+        "content": "Bắt đầu một cuộc phiêu lưu mới trên con đường sự nghiệp tại IChiba OnePlatform"
+      },
+      "event": {
+        "title": "Sự kiện",
+        "content": "Commence a new adventure with us - a career at IChiba OnePlatform"
+      },
+      "job": "Jobs"
+    },
+    "resource": {
+      "title": "Kho tin tức",
+      "documentation": {
+        "title": "Tài liệu",
+        "content": "Tất cả hỗ trợ bạn cần cho các sản phẩm của IChiba OnePlatform, hướng dẫn dành cho nhà phát triển, v.v."
+      },
+      "blog": {
+        "title": "Blog",
+        "content": "Tin tức, chia sẻ kinh nghiệm kinh doanh, mẹo hay  v.v."
+      },
+      "events": {
+        "title": "Sự Kiện",
+        "content": "Theo dõi các hội thảo trên web, hội thảo, podcast , livestreams,...."
+      },
+      "video": {
+        "title": "Thư viện hình ảnh",
+        "content": "Hướng dẫn, đánh giá, case studies, v.v."
+      },
+      "user": {
+        "title": "Hướng dẫn sử dụng",
+        "content": "Xem sách hướng dẫn để hiểu hơn về các giải pháp của chúng tôi."
+      },
+      "job": "Việc làm"
+    },
+    "profile": {
+      "profile": "Thông tin cá nhân",
+      "login": "Đăng nhập mạng xã hội",
+      "address": "Sổ địa chỉ",
+      "security": "Bảo mật",
+      "logout": "Đăng xuất"
+    },
+    "suport": "Trung tâm hỗ trợ"
+  },
+  "needSupport": {
+    "title": "Bạn cần hỗ trợ? Liên hệ ngay với chuyên gia của chúng tôi!",
+    "content1": "Hãy đồng hành cùng nhau vì một mục tiêu phát triển! ",
+    "content2": "Liên hệ với các chuyên gia hỗ trợ được đào tạo bài bản để nhận được những câu trả lời chi tiết cho từng câu hỏi của bạn.",
+    "btnContact": "Liên hệ hỗ trợ",
+    "checkout": "Đọc thêm thông tin từ kho tin tức của chúng tôi",
+    "discover": "Khám phá trung tâm tài liệu",
+    "experience": "Trải nghiệm các công cụ tuyệt vời để phát triển doanh nghiệp bằng tài khoản miễn phí"
+  },
+  "footer": {
+    "copy": "Đã sao chép",
+    "ichiba": "IChiba OnePlatform",
+    "product": "Sản Phẩm",
+    "solutions": "Giải Pháp & Dịch Vụ",
+    "resource": "Tài nguyên",
+    "discover": "Khám phá IChiba",
+    "about": "Về chúng tôi",
+    "ourStrengths": "Điểm mạnh của IChiba",
+    "careers": "Tuyển dụng",
+    "trust": "An toàn & bảo mật",
+    "investors": "Các nhà đầu tư",
+    "oms": "Quản lý bán hàng đa kênh (OMS)",
+    "pim": "Quản lý thông tin sản phẩm (PIM)",
+    "pos": "Quản lý điểm bán lẻ (POS)",
+    "wms": "Hệ thống quản lý kho (WMS)",
+    "crossEcom": "Cross-Border Forwarding",
+    "ship4p": "Ship4P - Quản lý vận chuyển đa kênh",
+    "crossForward": "Cross-border forwarding",
+    "fulfillment": "Fulfillment service",
+    "brand": "Dành cho các chủ thương hiệu lớn",
+    "ecomDis": "Dành cho nhà phân phối TMĐT",
+    "omniRetail": "Dành cho nhà bán lẻ đa kênh/SMEs",
+    "blog": "Blog",
+    "useGuide": "Hướng dẫn sử dụng",
+    "video": "Thư viện video",
+    "webinars": "Webinar",
+    "contactUs": "Liên hệ:",
+    "documentation": "Tài liệu",
+    "digital": "StoreFront Layer",
+    "event": "Sự kiện",
+    "weAre": "WE ARE GLOBAL, MEET OUR TEAM",
+    "term": "Điều khoản và điều kiện",
+    "powerGlow": "Đặt nền móng cho tăng trưởng bền vững",
+    "subscribe": "Đăng ký",
+    "dontMiss": "Cập nhật những tin tức mới nhất từ chúng tôi!",
+    "privacy": "Chính sách bảo mật",
+    "hoChiMinh": "55 Sầm Sơn, Phường 4, Q. Tân Bình, Tp. Hồ Chí Minh, Vietnam 72517.",
+    "haNoi": "Số 20 thôn Mai Châu - xã Đại Mạch - huyện Đông Anh.",
+
+    "orderfulfillment": "Dịch vụ Order Fulfillment",
+    "ecomFulfill": "Dịch vụ Ecommerce Fulfillment",
+    "warehouse": "Dịch vụ Warehouse Fulfillment",
+    "cross": "TMĐT xuyên biên giới",
+    "cdxp": "Tăng trưởng doanh thu với CDXP",
+    "integration": "Tích hợp",
+    "asiaFulfillmentServ": "Dịch vụ Fulfillment tại Đông Nam Á",
+    "faq": "FAQs"
+  },
+  "discover": {
+    "whoWeAre": "Về IChiba OnePlatform",
+    "behindAStrong": "Đằng sau một doanh nghiệp thành công là một trợ thủ tâm huyết. ",
+    "behindAStrong2": "Tại đây, chúng tôi khai phá tiềm năng của mỗi doanh nghiệp thông qua hệ sinh thái phần mềm hậu cần & Thương mại điện tử với khả năng quản lý thông minh và thuận tiện, bất kể quy mô và mô hình.",
+    "7years": "7+ Năm",
+    "experience": "Kinh nghiệm về Logistic & TMĐT",
+    "customersServiced": "Khách hàng",
+    "worldwide": "Nhân viên",
+    "globalPartners": "đối tác toàn cầu",
+    "ourVision": {
+      "title": "Tầm nhìn",
+      "content": "Trở thành công ty hàng đầu cung cấp giải pháp thương mại điện tử xuyên biên giới dành cho các doanh nghiệp đang phát triển ở Đông Nam Á."
+    },
+    "ourMission": {
+      "title": "Sứ mệnh",
+      "content": "Chúng tôi cam kết xóa bỏ các rào cản của thương mại điện tử xuyên biên giới và hỗ trợ doanh nghiệp trên con đường tiếp cận thị trường toàn cầu."
+    },
+    "ourHistory": {
+      "title": "Lịch sử IChiba",
+      "content": "Nhận thức được sự phát triển của TMĐT và bán hàng trực tuyến đa kênh trở nên phổ biến hơn trên thị trường, Global liên tục đầu tư vào các công nghệ và phần mềm (SaaS) mang lại giải pháp chuyển đổi số bền vững cho các doanh nghiệp."
+    },
+    "coreValue": {
+      "title": "Những giá trị cốt lõi",
+      "content": "Các nguyên tắc phục vụ hướng đến quyền lợi khách hàng và nhân viên đã thấm nhuần vào tư tưởng IChiba OnePlatform",
+      "equality": {
+        "title": "Bình đẳng",
+        "content": "Là một tập đoàn đa quốc gia, IChiba tin rằng mọi người đều xứng đáng có cơ hội bình đẳng để đạt được thành công. Đánh giá cao các quan điểm đa dạng thúc đẩy sự đổi mới, tăng cường kết nối giữa mọi người và giúp IChiba trở thành một công ty bền vững"
+      },
+      "innovation": {
+        "title": "Sự sáng tạo",
+        "content": "Chúng tôi tin rằng không có thứ gọi là phiên bản tốt nhất. IChiba liên tục và không ngừng đổi mới để thích ứng với sự phát triển của thị trường mỗi ngày cho khách hàng."
+      },
+      "trustComponents": {
+        "title": "Uy tín",
+        "content": "Giành và giữ niềm tin của khách hàng là yếu tố then chốt để xây dựng mối quan hệ phát triển lâu dài. Chúng tôi duy trì sự an toàn của khách hàng bằng những phương pháp bảo mật đã được chứng thực."
+      },
+      "customerCentricity": {
+        "title": "Lấy khách hàng làm trung tâm",
+        "content": "Sự hài lòng của khách hàng là thước đo cho sự phát triển và thành công của chúng tôi. Tại đây, ichiba đánh giá cao phản hồi và đề xuất của khách hàng để nâng cao trải nghiệm của họ."
+      },
+      "integrityCommitment": {
+        "title": "Cam kết chính trực",
+        "content": "Chúng tôi giữ mối quan hệ rõ ràng, minh bạch với người lao động, đối tác, cổ đông và xã hội, đảm bảo hài hòa lợi ích của các bên liên quan, hướng tới phát triển bền vững."
+      }
+    },
+    "toward": {
+      "title": "Cùng nhau hướng tới sự phát triển!",
+      "withTech": "Thời gian là vàng bạc. Với các giải pháp công nghệ từ IChiba OnePlatform, các doanh nghiệp và cá nhân có thể vận hành hoạt động kinh doanh trên tất cả các kênh bán hàng tại một điểm. Giải pháp của IChiba hỗ trợ quản lý hoàn toàn tự động để các doanh nghiệp có thể tập trung vào quá trình phát triển và đổi mới.",
+      "ichibaGlobal": "Đội ngũ chuyên viên của IChiba OnePlatform đồng hành cùng khách hàng trong công việc để giúp vận hành các giải pháp công nghệ một cách trơn tru và thuận tiện. Chúng tôi tập trung vào việc loại bỏ những rắc rối trong chuyển đổi số, từ đó thương hiệu có thể mang lại những trải nghiệm phong phú dựa trên nền tảng dữ liệu và tạo lập văn hóa tư duy tiến bộ."
+    },
+    "ourNetworks": {
+      "title": "Mạng lưới IChiba OnePlatform",
+      "content": "Chúng tôi tự hào là đơn vị đầu tiên cung cấp hệ sinh thái phần mềm hỗ trợ Logistics & Thương mại điện tử với khả năng quản lý thông minh, thuận tiện cho mọi mô hình kinh doanh tại Đông Nam Á."
+    },
+    "ourStrengths": {
+      "title": "Thế mạnh của IChiba Globa",
+      "content": "Giá trị mà IChiba OnePlatform mang lại tới các doanh nghiệp",
+      "singlePlatform": {
+        "title": "Giải pháp thống nhất trên một nền tảng",
+        "content": "Chúng tôi cung cấp nền tảng tất cả giải pháp trong một, nền tảng của chúng tôi có thể giải quyết rất nhiều nguyên nhân gây ra việc triển khai kéo dài. Cách tiếp cận tích hợp, theo mô-đun góp phần đơn giản hóa các quy trình và giảm đáng kể độ phức tạp của các giải pháp CNTT."
+      },
+      "deepIntegration": {
+        "title": "Các giao diện tích hợp sâu",
+        "content": "Cho dù hoạt động chuỗi cung ứng của bạn phức tạp hay đơn giản, IChiba OnePlatform sẽ giúp tăng cường kiểm soát và khả năng hiển thị thông qua các giao diện tích hợp sâu. Các tích hợp linh hoạt và toàn diện của chúng tôi với Omni-channels, OMS, WMS, hệ thống bên thứ tư và nhiều hơn thế nữa, có thể tăng năng suất và hiệu quả kinh doanh của bạn."
+      },
+      "realTime": {
+        "title": "Hiển thị số liệu theo thời gian thực",
+        "content": "Kiểm soát hoạt động vận hành với các thông tin có thể theo dõi theo thời gian thực. Quản lý tốt các khía cạnh đa dạng của những quy trình phức tạp giúp doanh nghiệp có lợi thế cạnh tranh, nâng cao năng suất, tăng tính minh bạch và sự hài lòng của khách hàng, và giảm chi phí vận chuyển."
+      },
+      "comprehensive": {
+        "title": "Tuân thủ toàn diện",
+        "content": "Lợi ích của khách hàng được đảm bảo thông qua chương trình tuân thủ toàn diện của chúng tôi đối với tất cả các quy tắc, quy định, hợp đồng và chính sách chi phối các hoạt động của tổ chức. Doanh nghiệp có thể yên tâm làm việc trên IChiba OnePlatform mà không cần lo ngại về rủi ro rò rỉ dữ liệu."
+      }
+    },
+    "howWeWork": {
+      "howWeWork": "Cách chúng tôi làm việc",
+      "openToWork": "Văn hóa làm việc cởi mở",
+      "weBelieve": "Chúng tôi tin rằng tất cả mọi người đều có tiềm năng làm nên những điều tuyệt vời.",
+      "openToHas": "IChiba OnePlatform luôn chú trọng tạo ra môi trường cởi mở cho nhân viên. Mỗi một nhân viên đều cố gắng làm việc, giao tiếp và hợp tác với nhau mỗi ngày để phát triển những giá trị vượt trội.",
+      "openUp": "",
+      "meetOurTeam": "Gặp gỡ team IChiba"
+    },
+    "ourData": {
+      "title": "Cam kết bảo mật dữ liệu",
+      "content": "IChiba OnePlatform cam kết bảo mật dữ liệu tuyệt đối cho khách hàng và cung cấp đầy đủ các tài liệu pháp lý. Chúng tôi luôn tuân thủ chặt chẽ các quy định pháp luật để bảo vệ dữ liệu của bạn trong suốt quá trình kinh doanh.",
+      "learnMore": "Tìm hiểu thêm"
+    }
+  },
+  "trust": {
+    "heading": "An toàn & Bảo mật",
+    "title": "Tin cậy & Bảo mật",
+    "content": "Chúng tôi hiểu rằng niềm tin là #1 để xây dựng một mối quan hệ bền chặt và lâu dài.",
+    "security": {
+      "title": "Security",
+      "content": "IChiba OnePlatform phát triển các sản phẩm cùng với tính năng bảo mật tích hợp để các doanh nghiệp có thể tập trung vào phát triển và đổi mới."
+    },
+    "availability": {
+      "title": "Khả dụng",
+      "content": "IChiba và khách hàng chia sẻ trách nhiệm đảm bảo rằng dữ liệu có thể được truy cập bởi những người được ủy quyền bất cứ khi nào họ muốn."
+    },
+    "confidentiality": {
+      "title": "Bảo mật",
+      "content": "Các phương thức bảo mật nhiều lớp đảm bảo quyền truy cập được cấp phép bởi các cá nhân hoặc chương trình."
+    },
+    "compliance": {
+      "title": "Tuân thủ",
+      "content": "IChiba OnePlatform duy trì một bộ chứng nhận tuân thủ để xác thực giá trị tin cậy số 1 của chúng tôi."
+    },
+    "privacy": {
+      "title": "Sự riêng tư",
+      "content": "Chúng tôi coi trọng quyền riêng tư của cá nhân và cam kết thực hiện nghĩa vụ bảo vệ dữ liệu cá nhân cao nhất."
+    },
+    "certificates": {
+      "title": "Giấy chứng nhận tuân thủ tiêu chuẩn và quy định bảo mật thông tin",
+      "content": "Chúng tôi có các chứng nhận được ngành chấp nhận và tuân thủ các tiêu chuẩn cũng như quy định hiện hành của ngành, vì vậy bạn có thể yên tâm rằng dữ liệu của công ty và khách hàng của bạn vẫn an toàn và tuân thủ."
+    },
+    "nurture": {
+      "title": "Giá trị tích lũy niềm tin"
+    },
+    "securityPartners": {
+      "title": "Đối tác bảo mật",
+      "content": "Chúng tôi hợp tác với các công ty đi đầu về bảo mật để bảo vệ dữ liệu thông tin một cách tuyệt đối"
+    },
+    "question": {
+      "title": "Hãy liên hệ để được giải đáp ngay hôm nay!",
+      "content": "Liên hệ với một trong những kỹ sư hỗ trợ được đào tạo chuyên sâu của chúng tôi để nhận câu trả lời chi tiết cho các câu hỏi bảo mật cụ thể của bạn.",
+      "support": "Yêu cầu hỗ trợ"
+    }
+  },
+  "careers": {
+    "title": "Hãy cùng nhau sáng tạo và đổi mới thế giới Logistics!",
+    "content": "Môi trường làm việc năng động và nhiều cơ hội phát triển tại IChiba OnePlatform",
+    "searchJob": "Tìm kiếm công việc",
+    "viewAllJob": "Xem tất cả công việc",
+    "searchTitle": "Tìm kiếm công việc",
+    "ourCulture": {
+      "title": "Văn Hóa Tại IChiba OnePlatform",
+      "diversity": {
+        "title": "Đa dạng, Công bằng và Hòa nhập",
+        "content": "Chúng tôi đánh giá cao sự đóng góp của mọi người và tôn vinh sự sáng tạo. Các nhóm đa dạng và toàn diện phục vụ tất cả khách hàng và đối tác của chúng tôi hiệu quả hơn.",
+        "learnMore": "Tìm hiểu thêm"
+      },
+      "interview": {
+        "title": "Phỏng vấn tại IChiba OnePlatform",
+        "content": "Quy trình ứng tuyển và phỏng vấn tại IChiba khác nhau giữa các vị trí. Đọc thêm về phương pháp phỏng vấn đặc biệt, những điều cần dự đoán và cách chuẩn bị.",
+        "learnMore": "Tìm hiểu thêm"
+      },
+      "agile": {
+        "title": "Văn hóa Agile",
+        "content": "Tại IChiba, chúng tôi tạo ra một môi trường chuyên nghiệp từ các giá trị cốt lỗi và  sự thực tiễn giúp các cá nhân trở nên thích ứng, linh hoạt, đổi mới và phát triển hơn.",
+        "learnMore": "Khám phá thêm"
+      }
+    },
+    "employee": {
+      "title": "Thay đổi tương lai cùng IChiba OnePlatform",
+      "benefits": {
+        "title": "Lợi ích",
+        "content": "tại IChiba OnePlatform, chúng tôi cung cấp nhiều lợi ích tuyệt vời hỗ trợ nhân viên như thời gian nghỉ có lương và ngày nghỉ có lương, các chuyến du lịch của công ty bên cạnh các lựa chọn chỗ ở y tế khác dành cho các vấn đề về sức khỏe tinh thần và thể chất."
+      },
+      "training": {
+        "title": "Đào tạo & Phát triển",
+        "content": "Chúng tôi thiết lập môi trường làm việc chuyên nghiệp, đào tạo bài bản để nhân viên nâng cao kỹ năng, đảm bảo luôn tuân thủ khối lượng công việc."
+      },
+      "work": {
+        "title": "Môi trường làm việc",
+        "content": "Một môi trường làm việc tích cực thúc đẩy phúc lợi, năng suất và sự phát triển của nhân viên. Văn hóa, giá trị của IChiba OnePlatform và cách chúng tôi làm việc cùng nhau như một nhóm đảm bảo rằng mọi người đều cảm thấy có giá trị và được khen thưởng cho những đóng góp mà họ mang lại."
+      },
+      "equity": {
+        "title": "Chương trình Equity",
+        "content": "Chúng tôi muốn tất cả nhân viên đồng hành và chia sẻ thành công của IChiba OnePlatform. Chương trình vốn chủ sở hữu của chúng tôi cho phép tất cả các thành viên tham gia vào cả việc thuê mới và trợ cấp vốn chủ sở hữu liên tục."
+      },
+      "flexible": {
+        "title": "Công việc linh hoạt",
+        "content": "Chúng tôi cung cấp địa điểm và giờ làm việc linh hoạt cho nhân viên để họ có thể sắp xếp thời gian của mình tốt hơn."
+      },
+      "leadership": {
+        "title": "Chương trình lãnh đạo",
+        "content": "Chúng tôi khuyến khích nhân viên vượt qua những hạn chế của bản thân và phát huy thế mạnh của họ. Tại IChiba OnePlatform, mọi người đều mở ra cơ hội học hỏi và phát triển các kỹ năng lãnh đạo."
+      },
+      "weSave": "Chúng tôi lưu giữ từng kỷ niệm khó quên bên nhau!",
+      "followUs": "Theo dõi ",
+      "Wereglad": "Hãy tham gia cùng IChiba để tạo nên những sản phẩm vươn tầm thế giới !",
+      "seeOpen": "Việc làm mới nhất "
+    },
+    "findJob": "Tìm kiếm công việc bạn",
+    "search": "Tìm kiếm",
+    "location": "Vị trí",
+    "expirationDate": "Ngày hết hạn",
+    "all": "Tất cả",
+    "category": "Danh mục",
+    "engineering": "Engineering & Technology",
+    "sales": "Sales & Marketing",
+    "business": "Business Support & Operations",
+    "relatedJobs": "Related Jobs",
+    "applyNow": "Ứng Tuyển Ngay",
+    "share": "Chia sẻ",
+    "contract": "Loại hợp đồng",
+    "joinUs": "Tham gia IChiba OnePlatform ngay!",
+    "joinCommunity": "Tham gia ngay!",
+    "fullName": "Họ và tên",
+    "phoneNumber": "Số Điện Thoại",
+    "portfolio": "Portfolio",
+    "bySubmit": "Khi gửi CV, bạn đã đồng ý với các chính sách về quyền riêng tư của chúng tôi",
+    "drag": "Kéo và thả tệp của bạn vào đây hoặc duyệt từ máy tính của bạn. Tối đa 3mb, các loại tệp được phép: jpg, jpeg, png, doc, docx, pdf",
+    "submit": "Submit application",
+    "ourOffice": "Văn Phòng IChiba OnePlatform"
+  },
+  "ship": {
+    "overview": {
+      "header": {
+        "overView": "Tổng quan",
+        "features": "Tính năng"
+      },
+      "banner": {
+        "title": "Điểm kết nối doanh nghiệp với các hãng vận chuyển",
+        "content1": "Ship4P giúp các doanh nghiệp kết nối đa hãng vận chuyển trong và ngoài nước, quản lý tập trung tại một nơi.",
+        "content2": "Giải pháp chuỗi cung ứng toàn diện và thực hiện đơn hàng quốc tế từ Nhật, Mỹ, Hàn, Việt Nam, và các quốc gia khác nữa để đáp ứng mọi kỳ vọng của khách hàng.",
+        "getFree": "Dùng thử miễn phí",
+        "number": {
+          "orders": "Đơn hàng giao đúng hẹn",
+          "accuracy": "Tỷ lệ chính xác trong giao hàng",
+          "countries": "Quốc gia và vùng lãnh thổ",
+          "carriers": "Đơn vị vận chuyển được kết nối"
+        }
+      },
+      "weBuild": {
+        "title": "Ship4P - Cầu nối tin cậy giữa doanh nghiệp và các hãng vận chuyển",
+        "before": {
+          "title": "Trước khi sử dụng Ship4P",
+          "must": "Phải thao tác trên nhiều ứng dụng",
+          "canNot": "Không so sánh trực quan cước vận chuyển",
+          "decentralized": "Quản lý đơn hàng phân tán, dẫn đến sai sót",
+          "haveTo": "Phải vào từng trang của hãng vận chuyển để kiểm tra hành trình đơn hàng",
+          "complicated": "Đối soát thủ công, phức tạp",
+          "contact": "Tự liên hệ tổng đài từng hãng, từng bưu cục để được hỗ trợ"
+        },
+        "after": {
+          "title": "Sau khi sử dụng Ship4P",
+          "access": "Chỉ truy cập Ship4P, quản lý đa hãng vận chuyển",
+          "easily": "So sánh phí vận chuyển và các chương trình đồng giá",
+          "create": "Tạo mã vận đơn và quản lý đơn tập trung",
+          "automatic": "Cập nhật trạng thái tự động, hệ thống tra cứu mã vận ALL IN ONE",
+          "check": "Đối soát và thanh toán nhanh chóng, chuẩn xác",
+          "support": "Đội ngũ hỗ trợ vận đơn 24/7"
+        }
+      },
+      "robust": {
+        "title": "Tích hợp mạnh mẽ, hợp lý hóa quy trình vận chuyển",
+        "simplify": "Đơn giản hóa quá trình vận chuyển",
+        "manage": "Quản lý đa hãng vận chuyển",
+        "increase": "Quy trình được tự động hóa với API và plugins, giúp tăng năng suất và giảm thiểu sai sót.",
+        "ofTheShipping": "quá trình vận chuyển được tự động hóa.",
+        "centralize": "Tập trung tất cả các công ty vận chuyển tại một nơi để quản lý hiệu quả hơn.",
+        "timeSaved": "thời gian được rút gọn bởi quản lý tập trung các hãng vận chuyển.",
+        "keyFeatures": "Tính năng chính",
+        "theComplete": "Phần mềm quản lý đa hãng vận chuyển toàn diện giúp quản lý hiệu quả hành trình đơn hàng, từ khâu xuất đến hoàn hàng - và tất cả các quá trình ở giữa",
+        "delivery": {
+          "title": "Tùy chọn vận chuyển",
+          "content": "Khách hàng tùy ý  lựa chọn đơn vị vận chuyển phù hợp dựa trên thời gian và chi phí đã được ước tính. Chúng tôi cũng cung cấp các dịch vụ bổ sung như thu hộ COD, bảo hiểm, yêu cầu chữ ký, nhận và giao hàng vào thứ Bảy."
+        },
+        "automatic": {
+          "title": "Đồng bộ đơn hàng tự động",
+          "content": "Hệ thống Ship4P liên tục cập nhật trạng thái vận đơn từ nhiều kênh vận chuyển. Bạn có thể theo dõi tất cả các đơn hàng từ nhiều đơn vị vận chuyển khác nhau trên một màn hình, tiết kiệm đáng kể thời gian và chi phí."
+        },
+        "label": {
+          "title": "In nhãn và theo dõi vận đơn theo thời gian thực",
+          "content": "Chúng tôi cung cấp một loạt các kích cỡ nhãn cho bạn tùy chọn. Giờ đây, bạn cũng hoàn toàn có thể chủ động theo dõi lô hàng thông qua hệ thống API thông minh, tự động gửi thông báo theo thời gian thực, giúp tối ưu hóa hiệu suất vận chuyển và  gia tăng sự hài lòng của khách hàng."
+        },
+        "accurate": {
+          "title": "Đối soát  nhanh chóng, chính xác",
+          "content": "Tự động hóa hoàn toàn và chuẩn hóa quy trình đối soát, giảm đáng kể thời gian đối soát hàng ngày và cuối kỳ. Dữ liệu thu thập từ nhiều nguồn và các nhà cung cấp dịch vụ khác nhau được kiểm soát trong Ship4P."
+        },
+        "advanced": {
+          "title": "Báo cáo nâng cao",
+          "content": "Công cụ báo cáo giúp dễ dàng phân tích hiệu suất lô hàng, xuất báo cáo vận chuyển với nhiều tùy chọn tùy chỉnh như theo ngày, loại lô hàng, trạng thái, v.v.,"
+        },
+        "complete": {
+          "title": "Tích hợp  vận chuyển API",
+          "content": "API vận chuyển và webhook cho phép tích hợp trực tiếp các đối tác hậu cần với đa kênh bán hàng và hệ thống quản lý đơn hàng, tự động hóa mọi  quy trình. API vận chuyển mạnh mẽ của Ship4P tổng hợp tất cả thông tin vận chuyển và giao hàng trên một bảng điều khiển duy nhất."
+        },
+        "shipping": {
+          "title": "Tự động hóa quy trình vận chuyển",
+          "content": "Phần mềm của chúng tôi cung cấp các quy trình tự động hóa từ nhặt hàng trong kho, xử lý giấy tờ, đóng gói đến vận chuyển đơn hàng."
+        },
+        "interational": {
+          "title": "Vận chuyển quốc tế",
+          "content": "Ship4P cung cấp cho doanh nghiệp quyền truy cập tức thời vào thông tin vận chuyển quan trọng, khả năng lưu trữ  và sử dụng lại mã HS code cũng như các loại thuế ước tính đối với các lô hàng quốc tế."
+        },
+        "multi": {
+          "title": "Tích hợp đa hãng vận chuyển",
+          "content": "Kết nối không giới hạn với các hãng vận chuyển trong và ngoài nước, mang lại nhiều lựa chọn cho doanh nghiệp. Chúng tôi hỗ trợ lấy hàng đa kho, giảm chi phí vận chuyển."
+        },
+        "mangageSingle": {
+          "title": "Quản lý trên 1 màn hình duy nhất",
+          "content": "Bạn quá mệt mỏi vì phải đăng nhập nhiều tài khoản của các hãng vận chuyển khác nhau? Ship4P tích hợp các đơn vị vận chuyển trong 1 hệ thống, giúp tiết kiệm thời gian và công sức trong việc quản lý lô hàng."
+        }
+      },
+      "integration": {
+        "title": "Các tích hợp",
+        "content": "Vận chuyển đơn hàng đa kênh với bất kỳ nhà vận chuyển nào",
+        "allCountry": "Quốc gia",
+        "allCarries": "Các đơn vị vận chuyển",
+        "viewAll": "Xem tất cả",
+        "hide": "Ẩn bớt",
+        "vietnam": "Việt Nam",
+        "global": "Quốc tế",
+        "japan": "Nhật Bản",
+        "US": "Mỹ",
+        "korean": "Hàn Quốc",
+        "china": "Trung Quốc",
+        "singapore": "Singapore",
+        "myanmar": "Myanmar",
+        "malaysia": "Malaysia",
+        "indonesia": "Indonesia",
+        "thailand": "Thái Lan",
+        "laos": "Lào",
+        "cambodia": "Campuchia"
+      },
+      "howItWorks": {
+        "title": "Quy trình tạo vận đơn",
+        "startFree": "Bắt đầu miễn phí ngay",
+        "content": "Giải pháp vận chuyển từ cửa hàng đến tận tay khách hàng",
+        "connect": {
+          "title": "1. Kết nối các hãng vận chuyển",
+          "content": "Loại bỏ mọi phiền phức khi phải ký hợp đồng với từng nhà vận chuyển. Giờ đây, bạn có thể tích hợp đa hãng chỉ bằng một cú nhấp chuột thông qua Ship4P."
+        },
+        "createShipments": {
+          "title": "2. Tạo vận đơn",
+          "content": "Dù bạn ở đâu, bạn đều có thể tạo vận đơn trong nước hoặc quốc tế"
+        },
+        "choseaShipping": {
+          "title": "3. Chọn gói cước vận chuyển",
+          "content": "Công nghệ thông minh tự động so sánh cước phí, thời gian giao hàng và đề xuất hãng vận chuyển phù hợp"
+        },
+        "export": {
+          "title": "4. Xuất tem nhãn và hóa đơn",
+          "content": "Hỗ trợ xuất tem nhãn và hóa đơn. Dễ dàng thiết lập thông tin trên nhãn"
+        },
+        "track": {
+          "title": "5. Theo dõi trạng thái đơn hàng",
+          "content": "Theo dõi hành trình đơn hàng theo thời gian thực. Hệ thống all in one cho phép tra cứu vận đơn từ nhiều hãng vận chuyển khác nhau"
+        }
+      },
+      "built": {
+        "title": "Dành cho mọi nhà bán hàng online và đơn vị vận chuyển",
+        "available": "Có sẵn trên website và ứng dụng di động:",
+        "connect": "Kết nối các hãng vận chuyển phù hợp dù bạn ở đâu",
+        "fit": "Phù hợp với mọi ngành hàng:",
+        "diverse": "Đa dạng tính năng phục vụ nhiều mục đích và quy mô doanh nghiệp",
+        "international": "Công ty hậu cần quốc tế:",
+        "trustworthy": "Là đối tác tin cậy của các hãng vận chuyển nước ngoài không có trụ sở trong khu vực Đông Nam Á",
+        "freeUp": "Giao hàng thả ga - Không lo về giá, với vô vàn khuyến mãi vận chuyển cùng Ship4P",
+        "connectWith": "Đẩy đơn dễ dàng - Ship hàng nhanh chóng",
+        "getStarted": "Bắt đầu miễn phí"
+      }
+    },
+    "features": {
+      "title": "Tính năng của Ship4P",
+      "content": "Tích hợp đa hãng vận chuyển, đơn giản hóa hoạt động TMĐT",
+      "getStarted": "Bắt đầu miễn phí",
+      "shippingKeep": "Đa dạng vận chuyển, đồng bộ đa hãng",
+      "seamlessBusiness": "Tích hợp đa hãng - Kinh doanh dễ dàng",
+      "connectFirms": "Kết nối với các hãng vận chuyển nổi tiếng trên một nền tảng duy nhất.",
+      "easilySwap": "Dễ dàng đổi đơn vị vận chuyển phù hợp nhất với nhu cầu.",
+      "enableFast": "Tự động chọn đối tác vận chuyển với chi phí tối ưu nhất.",
+      "automatic": "Đồng bộ đơn hàng tự động",
+      "centeredly": "Quản lý và đồng bộ hóa đơn hàng từ nhiều đối tác vận chuyển chỉ trên một hệ thống duy nhất, tiết kiệm chi phí vận hành và giảm thiểu tỷ lệ thiếu hàng.",
+      "automatically": "Tự động cập nhật tất cả các kênh bán hàng đã tích hợp và thông tin vận đơn đều đặn.",
+      "trackAndTrace": "Theo dõi theo thời gian thực",
+      "quickly": "Tạo và theo dõi vận đơn nhanh chóng theo thời gian thực. Ngay cả khi mã vận đơn thay đổi liên tục theo lộ trình, API Ship4P vẫn có thể truy vết và cung cấp thông tin mới nhất về gói hàng.",
+      "receive": "Nhận thông báo về mọi hành trình vận đơn, tránh thất thoát đơn hàng.  Ship4P luôn sẵn sàng cung cấp thông tin vận đơn bất cứ lúc nào bạn yêu cầu.",
+      "flexible": "Quản lý vận đơn linh hoạt",
+      "easily": "Dễ dàng so sánh cước phí giữa các bên vận chuyển: API tự động ước tính chi phí chính xác giữa các hãng để doanh nghiệp tìm ra dịch vụ với giá tốt nhất.",
+      "print": "Tùy chỉnh & in hóa đơn và nhãn: Tạo nhãn trực tuyến và in hàng loạt cùng lúc.",
+      "suggest": "Gợi ý lộ trình vận chuyển tối ưu và kết nối linh hoạt với các phần mềm OMS, WMS, Social Commerce để kiểm soát vận đơn hiệu quả.",
+      "accurate": "Đối soát nhanh chóng, chính xác",
+      "easilyControl": "Dễ dàng kiểm soát tiền thu hộ từng đơn hàng để đảm bảo doanh nghiệp hoạt động trơn tru.",
+      "clearAnd": "Thống kê số liệu chi tiết: Quản lý dữ liệu từ nhiều nguồn và các hãng vận chuyển, giúp doanh nghiệp có cái nhìn tổng quan về các loại chi phí ngay trên một bảng điều khiển.",
+      "CheckWithin": "Đối soát trong ngày với vốn luân chuyển dễ dàng, giúp doanh nghiệp sử dụng ngân sách hiệu quả nhất có thể.",
+      "shippingAPI": "Tích hợp vận chuyển-API",
+      "anyPlatform": "Bất kỳ phần mềm nào có nhu cầu vận chuyển bán hàng đều có thể tích hợp với Ship4P để TỰ DO tạo mã vận đơn.",
+      "easilyValidate": "Dễ dàng xác thực địa chỉ của khách hàng hoặc nhận báo giá vận chuyển chỉ bằng một cú nhấp chuột.",
+      "ourAdvanced": "API nâng cao cung cấp các đơn đặt hàng, hàng trả lại, vận đơn, bảo hiểm vận chuyển và các tính năng cơ bản khác.",
+      "realTimeReport": "Báo cáo và phân tích theo thời gian thực",
+      "comprehensive": "Phân tích và báo cáo theo thời gian thực, hiển thị chính xác mức tồn kho, phương thức vận chuyển, giá trị giỏ hàng trung bình, cước phí vận chuyển, phí thực hiện và phí lưu kho mỗi đơn hàng,...",
+      "suggestSolution": "Đề xuất các giải pháp để hỗ trợ doanh nghiệp đưa ra quyết định kinh doanh đúng đắn.",
+      "companines": {
+        "title": "Tại sao nên chọn chúng tôi?",
+        "reliability": {
+          "title": "Đáng tin cậy",
+          "content": "Đơn hàng liên tục được cập nhật và theo dõi trên bảng điều khiển Ship4P trong suốt quá trình vận chuyển để doanh nghiệp có thể theo dõi suốt hành trình. Bạn hoàn toàn có thể yên tâm trước nguy cơ thất thoát đơn hàng hay sự hài lòng của khách hàng. "
+        },
+        "optimized": {
+          "title": "Lộ trình vận chuyển tối ưu",
+          "content": "Sử dụng công nghệ AI theo dõi và đánh giá dữ liệu tuyến đường trong quá khứ để cải thiện hiệu quả tuyến đường tương lai. Luôn cập nhật tình hình giao thông để xác định tuyến đường thay thế tối ưu hơn."
+        },
+        "transparency": {
+          "title": "Minh bạch",
+          "content": "Mọi thông tin và chi phí vận chuyển được cập nhật liên tục và hiển thị rõ ràng trên màn hình quản lý các đơn vị vận chuyển của Ship4P."
+        },
+        "saveTime": {
+          "title": "Tiết kiệm thời gian và chi phí",
+          "content": "Ship4P kết nối nhiều hãng vận chuyển ở một nơi, giúp người bán tiết kiệm thời gian theo dõi nhiều đối tác vận chuyển, cũng như giảm thiểu chi phí vận hành."
+        }
+      },
+      "weConnect": {
+        "title": "Chúng tôi kết nối các hãng vận chuyển trên toàn thế giới",
+        "content": "Mục tiêu của Ship4P là mang đến các giải pháp hiệu quả và phù hợp nhất với nhu cầu của doanh nghiệp. Chúng tôi tạo nên một mạng lưới kết nối tất cả các quốc gia trên toàn thế giới với nhau.",
+        "cod": "Nhận tiền COD",
+        "delivery": "Chi phí giao hàng",
+        "contracts": "Ký hợp đồng",
+        "reconciliation": "Quản lý đối soát",
+        "supporting": "Hỗ trợ xử lý khiếu nại",
+        "connectBy": "Kết nối bằng:",
+        "yourOwn": "Tài khoản các hãng vận chuyển",
+        "ship4pAccount": "Tài khoản Ship4P",
+        "timeWeek": "lần/tuần",
+        "manually": "Tìm và áp dụng thủ công các chương trình khuyến mãi của đơn vị giao hàng",
+        "connectTo": "Kết nối với từng đơn vị vận chuyển và ký hợp đồng để có tài khoản",
+        "separately": "Nhập riêng excel từ hãng vận chuyển để đối chiếu",
+        "contactTo": "Tự liên hệ trung tâm hỗ trợ của từng hãng",
+        "promotions": "Ưu đãi và voucher của Ship4P tổng hợp tự động",
+        "onlyConnect": "Chỉ cần kết nối với Ship4P là dùng được tất cả hãng vận chuyển trong và ngoài nước",
+        "automatically": "Tự động đối soát, gửi bảng kê qua email và trên hệ thống",
+        "centralized": "Đội ngũ hỗ trợ tập trung tất cả các hãng"
+      },
+      "faqs": {
+        "faq": "Các câu hỏi thường gặp (FAQs)",
+        "canConnect": "Tôi có thể kết nối để sử dụng các dịch vụ của Fedex không?",
+        "ship4pConnect": "Ship4P kết nối với tất cả các hãng vận chuyển uy tín trong nước và quốc tế, bao gồm cả Fedex. Nếu có bất kỳ thắc mắc nào liên quan đến các hãng vận chuyển, đừng ngần ngại liên hệ với chúng tôi để được tư vấn và giải đáp chi tiết.",
+        "doesShip4p": "Ship4P có cập nhật khuyến mãi của các đơn vị vận chuyển không?",
+        "ship4pUpdate": "Ship4P cập nhật chi tiết khuyến mãi của các hãng vận chuyển theo thời gian thực. Ngoài ra, khách hàng còn được hưởng các chương trình khuyến mãi đặc biệt chỉ có tại Ship4P.",
+        "canUseShip4p": "Tôi có thể sử dụng Ship4P để vận chuyển hàng hóa từ Việt Nam sang Mỹ và ngược lại không?",
+        "definitely": "Có. Bạn hoàn toàn có thể sử dụng Ship4P để kết nối với các nhà vận chuyển từ Việt Nam đến hơn 220 quốc gia và vùng lãnh thổ.",
+        "viewMore": "Xem thêm"
+      }
+    }
+  },
+  "crossBorder": {
+    "banner": {
+      "borderless": "Mua sắm và vận chuyển xuyên biên giới",
+      "stay": "Đi đầu công nghệ tiên tiến mang lại trải nghiệm mua hàng  toàn cầu như mua sắm nội địa với đa phương thức thanh toán, đa ngôn ngữ, đa tiền tệ.",
+      "international": "Dù bạn ở đâu, IChiba OnePlatform đều giúp bạn mua hơn 15 triệu sản phẩm từ Nhật, Hàn, Mỹ, Trung, Quốc và các quốc gia khác một cách dễ dàng.",
+      "explore": "Tìm hiểu thêm",
+      "integration": "Tích hợp",
+      "viewAllinte": "Xem thêm"
+    },
+    "globalShopping": {
+      "title": "Mua cả thế giới trong tầm tay",
+      "content": "Trải nghiệm mua sắm xuyên biên giới đa kênh với dịch vụ đa kho hàng, đa ngôn ngữ và đa tiền tệ. Tất cả những gì bạn cần đều nằm ngay trên 1 nền tảng tích hợp đầy đủ - IChiba - Thương mại điện tử xuyên biên giới",
+      "proxy": {
+        "title": "Mua hộ",
+        "content": "Trải nghiệm mua hàng Nhật, Mỹ, Trung, Hàn và nhiều nước như mua hàng tại Việt Nam mà không cần biết ngoại ngữ. Chúng tôi tích hợp dữ liệu sản phẩm từ hàng trăm trang thương mại điện tử quốc tế thông qua API để mang lại trải nghiệm mua sắm xuyên biên giới không giới hạn."
+      },
+      "bidding": {
+        "title": "Đấu giá online",
+        "content": "Cơ hội săn hàng tỷ mặt hàng, kể cả mặt hàng hiếm và giới hạn với giá cực hời. IChiba hỗ trợ khách hàng ở khắp mọi nơi tham gia đấu giá tại các trang web trên toàn cầu như Yahoo Auctions,..."
+      },
+      "complete": {
+        "title": "API thương mại toàn diện",
+        "content": "API tự động hóa với kiến trúc REST, cho phép người dùng nhận email, thông báo, thanh toán và cập nhật giá vận chuyển hoặc thuế theo thời gian thực, đồng thời đảm bảo an toàn dữ liệu ở mức cao nhất."
+      },
+      "crossBorder": {
+        "title": "Vận chuyển xuyên biên giới",
+        "content": "Chúng tôi hợp tác với các hãng vận chuyển hàng đầu, chuyển phát các gói hàng từ Mỹ, Nhật, Trung Quốc, Hàn đến hơn 220 quốc gia và vùng lãnh thổ trên thế giới. Chỉ cần một vài cú nhấp chuột, bạn đã có thể chuyển gói hàng của bạn đến điểm đến cuối cùng."
+      },
+      "multiWare": {
+        "title": "Đa kho",
+        "content": "Mạng lưới nhà kho toàn cầu cho phép lưu trữ sản phẩm gần khách hàng, giảm thời gian và chi phí vận chuyển. Phần mềm OMS và WMS thông minh giúp tối ưu hóa không gian lưu trữ, quản lý hàng tồn kho và thực hiện đơn hàng."
+      },
+      "valueAdded": {
+        "title": "Dịch vụ GTGT",
+        "content": "IChiba cung cấp các dịch vụ giá trị gia tăng như bảo hiểm, đóng gói bảo vệ, gộp hàng, dịch vụ kiểm tra và chụp ảnh, giúp tôi đa hóa sự hài lòng và giảm thiểu rủi ro hư hỏng hay thất lạc hàng hóa."
+      },
+      "integrated": {
+        "title": "Tích hợp nhiều cổng thanh toán",
+        "content": "Chúng tôi cung cấp nhiều cổng thanh toán trực tuyến khác nhau, hỗ trợ khách hàng thực hiện thanh toán xuyên biên giới từ hơn 220 quốc gia và vùng lãnh thổ bằng 120 loại tiền tệ, đa ngôn ngữ và dịch vụ thuế toàn cầu."
+      },
+      "multiMarket": {
+        "title": "Đa thị trường, đa tiền tệ",
+        "content": "Thỏa sức mua sắm từ hàng trăm cửa hàng hoặc chợ và thanh toán bằng đơn vị tiền tệ của mình. IChiba Thương mại điện tử xuyên biên giới là một nền tảng đa phương, hỗ trợ các khoản thanh toán xuyên biên giới, cũng như ngoại hối liên quan cho khách hàng."
+      },
+      "support": {
+        "title": "24/7 support service",
+        "content": "Gửi câu hỏi cho chúng tôi trực tiếp hoặc qua email, messenger, whatsapp, gọi thoại,...Đội ngũ hỗ trợ toàn cầu của chúng tôi luôn sẵn sàng giúp bạn liên hệ với người bán bất cứ lúc nào và bất cứ nơi đâu."
+      }
+    },
+    "howItWork": {
+      "howItWork": "How it works",
+      "crossBorder": "THƯƠNG MẠI ĐIỆN TỬ XUYÊN BIÊN GIỚI",
+      "ichibaFollow": "IChiba OnePlatform tuân thủ quy trình vận hành kho tiêu chuẩn, từ khi hàng nhập kho cho đến khi hàng hóa được vận chuyển tới tay khách hàng",
+      "letsLearn": "Cùng tìm hiểu cách mua hàng quốc tế trên IChiba và cách chúng tôi chăm sóc gói hàng trong suốt quá trình mua sắm của bạn nhé!"
+    },
+    "suitability": {
+      "title": "Tương thích với mọi lĩnh vực ngành hàng",
+      "businessType": {
+        "tab": "Loại hình doanh nghiệp",
+        "crossBorderB2B": {
+          "title": "B2B & Nhà bán buôn xuyên biên giới",
+          "content": "Liên hệ trực tiếp với các nhà cung cấp/thương hiệu nổi tiếng trên toàn cầu để nhập đơn hàng sỉ với mức giá tốt và vô vàn khuyến mãi dành riêng."
+        },
+        "international": {
+          "title": "B2C quốc tế",
+          "content": "Thỏa sức mua, đua sức sắm hàng triệu hàng hóa nước ngoài mà không e ngại vấn đề tiền tệ hoặc rào cản ngôn ngữ. Vận chuyển tới tay khách hàng chỉ trong một vài ngày."
+        }
+      },
+      "industry": {
+        "tab": "Các ngành hàng",
+        "fashion": {
+          "title": "Thời trang & May mặc",
+          "content": "Bắt kịp xu hướng thời trang mới nhất trên thế giới với nguồn hàng may mặc khổng lồ, giá phải chăng, chỉ có trên IChiba."
+        },
+        "beauty": {
+          "title": "Mỹ phẩm & Làm đẹp",
+          "content": "Nhu cầu làm đẹp với các sản phẩm làm đẹp hữu cơ và tự nhiên tăng lên mỗi ngày. IChiba thu hẹp khoảng cách, giúp người tiêu dùng trên khắp thế giới tiếp cận dễ dàng hơn với các sản phẩm làm đẹp nước ngoài chính hãng và chất lượng."
+        },
+        "grocery": {
+          "title": "Tạp hóa",
+          "content": "Thích ứng với nhu cầu thay đổi theo cấp số nhân của người tiêu dùng với đa dạng mặt hàng quốc tế giá tốt và chất lượng"
+        },
+        "technical": {
+          "title": "Sản phẩm kỹ thuật",
+          "content": "Nhu cầu về sản phẩm công nghệ đang tăng mạnh. Khách hàng hiện nay khá ưa chuộng các thiết bị kỹ thuật của Nhật, Mỹ, Trung do chất lượng cao và giá tốt. IChiba là kênh tin cậy giúp bạn mua được những sản phẩm đó, dù bạn là khách mua trực lẻ hay khách sỉ."
+        },
+        "mother": {
+          "title": "Chăm Sóc Mẹ & Bé",
+          "content": "Sản phẩm chăm sóc mẹ và bé với chiết xuất thành phần tự nhiên, không gây kích ứng, dịu nhẹ. Dịch vụ thương mại điện tử xuyên biên giới của IChiba đáp ứng mọi nhu cầu về sản phẩm mẹ và bé cao cấp, giúp mẹ an tâm, con khỏe mạnh."
+        }
+      }
+    },
+    "bestPrice": {
+      "title": "Triệu sản phẩm giá tốt, deal cực hời trên IChiba",
+      "content": "Gợi ý xu hướng thị trường để người bán nhập các mặt hàng đang hot nhanh nhất"
+    },
+    "ourPartner": "Đối tác đồng hành cùng chúng tôi",
+    "whyChooseCb": {
+      "title": "Ưu điểm vượt trội của IChiba - TMĐT xuyên biên giới",
+      "power": "Hỗ trợ hơn 500,000 đơn hàng mỗi tháng",
+      "certified": "Là đối tác chính của nhiều sàn TMĐT Nhật, Mỹ, Trung, Hàn, v...v",
+      "hyper": "Hệ thống thông minh, toàn diện đáp ứng mọi nhu cầu",
+      "professional": "Hỗ trợ 24/7 qua nhiều kênh như email, mạng xã hội, websites, live chat.",
+      "transparent": "Chính sách và quyền riêng tư minh bạch, bảo vệ quyền và thông tin khách hàng."
+    },
+    "globalShipping": {
+      "title": "Mạng lưới vận chuyển toàn cầu",
+      "content": "IChiba OnePlatform hỗ trợ vận chuyển từ Mỹ, Nhật, Trung, Hàn, và Châu âu đi 160+ quốc gia trên toàn thế giới. Mạng lưới kho hàng khắp 3 châu lục, kết nối hơn 100 hãng vận chuyển trong và ngoài nước hỗ trợ giữa các chặng, giúp giảm thiểu tối đa thời gian và chi phí vận chuyển."
+    },
+    "areYouReady": {
+      "title": "Quản lý kinh doanh xuyên biên giới dễ dàng với IChiba Cross-Border Forwarding",
+      "content": "Liên hệ chúng tôi ngay để săn ưu đãi mới nhất trên thế giới và nhận lời khuyên từ các chuyên gia về xu hướng và nhu cầu thị trường hiện tại",
+      "contact": "Liên hệ ngay"
+    },
+    "features": {
+      "banner": {
+        "title": "Tính năng IChiba Cross-Border Forwarding",
+        "content": "Là đơn vị tiên phong trong việc phát triển thương mại điện tử toàn cầu, IChiba OnePlatform  luôn cố gắng phát triển nhanh hơn, mạnh hơn để giúp khách hàng mua sắm xuyên biên giới một cách dễ dàng nhất.",
+        "exploreNow": "Khám phá ngay"
+      },
+      "contents": [
+        {
+          "title": "Tạo website mua hàng xuyên biên giới",
+          "content": [
+            "Xây dựng một website mua hàng quốc tế với đầy đủ tính năng.",
+            "Tiếp cận hơn 7.000.000 sản phẩm từ các trang web nổi tiếng như Amazon, eBay, Yahoo Shopping, v.v. ",
+            "Cập nhật mã giảm giá liên tục. Chúng tôi tích hợp các chương trình khuyến mãi theo thời gian thực từ các sàn thương mại điện tử quốc tế cho khách hàng."
+          ]
+        },
+        {
+          "title": "Giao diện tùy chỉnh",
+          "content": [
+            "Sử dụng công nghệ GraphQL API để tạo ra giao diện website thân thiện với người dùng. Chỉ cần dùng một nền tảng backend duy nhất để quản lý nhiều giao diện khác nhau.",
+            "Hỗ trợ tuỳ chỉnh giao diện để mang lại trải nghiệm mua sắm tuyệt vời nhất cho khách hàng."
+          ]
+        },
+        {
+          "title": "Đấu giá trực tuyến",
+          "content": [
+            "Kết nối với các trang web đấu giá trực tuyến lớn nhất, giúp người mua sở hữu được món hàng mong muốn với giá cực hời.",
+            "Theo dõi quá trình đấu giá theo thời gian thực và thay đổi giá bất kỳ lúc nào.",
+            "Tính năng đấu giá VIP - đấu giá trước và thanh toán sau. Chỉ khi bạn là người đấu thắng, bạn mới phải thanh toán."
+          ]
+        },
+        {
+          "title": "Quản lý đơn mua/đơn bán",
+          "content": [
+            "Theo dõi các đơn mua/đơn bán và kiểm tra trạng thái đơn hàng trong một dashboard duy nhất.",
+            "Quản lý các khoản chi và đảm bảo các đơn mua khớp với báo cáo."
+          ]
+        },
+        {
+          "title": "Vận chuyển xuyên biên giới",
+          "content": [
+            "Tích hợp các hãng vận chuyển nổi tiếng trong nước và quốc tế để đảm bảo mạng lưới vận chuyển rộng khắp toàn cầu.",
+            "Chuyến bay/ chuyến tàu đều đặn, đảm bảo khách nhận được hàng sau 10-15 ngày",
+            "Hỗ trợ thủ tục hải quan từ A-Z,  giảm thiểu chi phí và nhân công."
+          ]
+        },
+        {
+          "title": "Tích hợp nhiều cổng thanh toán",
+          "content": [
+            "Cho phép thanh toán qua bất kỳ cổng toán, vị trí hoặc đơn vị tiền tệ nào mà không cần tích hợp bổ sung.",
+            "IChiba đáp ứng tiêu chuẩn bảo mật toàn cầu (PCI DSS), đảm bảo an toàn thẻ thanh toán và dữ liệu người dùng.",
+            "Nhận thông báo thanh toán tức thì tự động (IPN) và xác thực dữ liệu theo thời gian thực, giảm thiểu tỷ lệ thanh toán lỗi lên đến 99%"
+          ]
+        },
+        {
+          "title": "Dịch vụ kho bãi chuyên nghiệp",
+          "content": [
+            "Phần mềm Hệ thống quản lý kho (WMS) công nghệ cao giúp theo dõi đơn hàng, nghiệp vụ hiệu quả, chính xác.",
+            "Hệ thống kệ Drive-in cung cấp giải pháp tối ưu khả năng lưu trữ hàng hóa nặng và tối đa hóa không gian kho hàng.",
+            "Hộp đóng gói chất lượng cao bảo vệ hàng hóa khỏi bị hư hại trong suốt quá trình lưu kho và vận chuyển."
+          ]
+        },
+        {
+          "title": "Đề xuất sản phẩm gợi ý được cá nhân hoá",
+          "content": [
+            "Thu thập dữ liệu người dùng cụ thể như danh mục sản phẩm, lịch sử mua hàng, sản phẩm được xem nhiều nhất và đưa ra các gợi ý phù hợp thông qua các trang web hoặc chiến dịch marketing.",
+            "Đề xuất các sản phẩm tương tự theo nhóm dựa trên các thuộc tính nhất định để người mua có nhiều lựa chọn và nhanh chóng đưa ra quyết định mua hàng hơn.",
+            "Sử dụng báo cáo AI để dự đoán điều khách hàng quan tâm dựa trên các sở thích của nhiều người dùng khác. "
+          ]
+        }
+      ],
+
+      "effortless": {
+        "title": "Mua hàng xuyên biên giới dễ dàng",
+        "search": "Mua sắm mọi thứ từ Nhật Bản, Hoa Kỳ, Hàn Quốc và Trung Quốc.",
+        "reach": "Tiếp cận hơn 7.000.000 sản phẩm Nhật Bản, Hoa Kỳ, Hàn Quốc và Trung Quốc từ các trang web nổi tiếng như Amazon, eBay, Yahoo Shopping, v.v. Mua hàng loạt với chi phí thấp hơn và tiếp cận các nguồn hàng khó tìm ở thị trường trong nước",
+        "update": "Cập nhật mã giảm giá liên tục. Chúng tôi tích hợp các chương trình khuyến mãi theo thời gian thực từ các sàn thương mại điện tử quốc tế cho khách hàng."
+      },
+      "online": {
+        "title": "Đấu giá trực tuyến",
+        "connectTo": "Kết nối với các trang web đấu giá trực tuyến lớn nhất, giúp người mua sở hữu được món hàng mong muốn với giá cực hời.",
+        "keepTrack": "Theo dõi quá trình đấu giá theo thời gian thực và thay đổi giá bất kỳ lúc nào. Nhận thông báo về trạng thái và kết quả đấu giá trên đa nền tảng siêu tiện lợi",
+        "VIP": "Tính năng đấu giá VIP - đấu giá trước và thanh toán sau. Chỉ khi bạn là người đấu thắng, bạn mới phải thanh toán.",
+        "sniper": "Săn phút chót:  Bạn chỉ cần nhập mức giá cao nhất cho sản phẩm bạn muốn mua và IChiba sẽ tự động trả giá, gia tăng tỷ lệ đấu thắng cho bạn mà không cần phải mất quá nhiều thời gian theo dõi."
+      },
+      "corssForward": {
+        "title": "Vận chuyển xuyên biên giới",
+        "integrate": "Tích hợp các hãng vận chuyển nổi tiếng trong nước và quốc tế để đảm bảo mạng lưới vận chuyển rộng khắp toàn cầu.",
+        "insurance": "Dịch vụ bảo hiểm bảo vệ gói hàng của bạn từ tay người bán đến tận tay khách hàng.",
+        "regular": "Chuyến bay/ chuyến tàu đều đặn, đảm bảo khách nhận được hàng sau 10-15 ngày",
+        "supporting": "Hỗ trợ thủ tục hải quan từ A-Z,  giảm thiểu chi phí và nhân công.",
+        "supportHigh": "Hỗ trợ vận chuyển khối lượng lớn, tiết kiệm đáng kể chi phí và dễ dàng quản lý."
+      },
+      "diversity": {
+        "title": "Đa dạng chương trình khuyến mãi, ưu đãi",
+        "cashback": "Hoàn tiền 5-7% khi mua hàng: Khi mua hàng trên một số sàn lớn như Rakuten và Rakuma, khách hàng sẽ được hoàn tiền 5-7%.",
+        "loyalty": "Chương trình khách hàng thân thiết: IChiba tổ chức hàng loạt chương trình khách hàng thân thiết với giá ưu đãi dành riêng cho từng khách hàng.",
+        "taxfree": "MIỄN THUẾ khi mua hàng từ Mỹ: Kho hàng IChiba nằm ở bang Oregon - bang được miễn thuế nội địa, giúp bạn giảm được một khoản chi phí đáng kể khi mua hàng.",
+        "continous": "Cập nhật liên tục các chương trình giảm giá theo thời gian thực từ các sàn Thương mại điện tử nước ngoài."
+      },
+      "valueAdd": {
+        "title": "Đa dạng dịch vụ giá trị gia tăng",
+        "package": "Gom hàng: Giảm phí vận chuyển quốc tế và hỗ trợ nhận nhiều kiện cùng lúc.",
+        "protective": "Đóng gói bảo vệ: Bảo vệ gói hàng, giảm thiểu những rủi ro không mong muốn trong suốt quá trình vận chuyển",
+        "insurance": "Dịch vụ bảo hiểm: Cam kết bồi thường lên đến 100% giá trị sản phẩm trong trường hợp kiện hàng bị thất lạc, hư hỏng.",
+        "photo": "Dịch vụ chụp ảnh: Xác nhận số lượng và tình trạng đóng gói trước khi vận chuyển"
+      },
+      "multiple": {
+        "title": "Tích hợp nhiều cổng thanh toán",
+        "accept": "Cho phép thanh toán qua bất kỳ cổng toán, vị trí hoặc đơn vị tiền tệ nào mà không cần tích hợp bổ sung.",
+        "weMeet": "IChiba đáp ứng tiêu chuẩn bảo mật toàn cầu (PCI DSS), đảm bảo an toàn thẻ thanh toán và dữ liệu người dùng.",
+        "getAutomated": "Nhận thông báo thanh toán tức thì tự động (IPN) và xác thực dữ liệu theo thời gian thực, giảm thiểu tỷ lệ thanh toán lỗi lên đến 99%."
+      },
+      "professional": {
+        "title": "Dịch vụ kho bãi chuyên nghiệp",
+        "highTechnology": "Phần mềm Hệ thống quản lý kho (WMS) công nghệ cao giúp theo dõi đơn hàng, nghiệp vụ hiệu quả, chính xác.",
+        "drive": "Hệ thống kệ Drive-in cung cấp giải pháp tối ưu khả năng lưu trữ hàng hóa nặng và tối đa hóa không gian kho hàng.",
+        "high": "Hộp đóng gói chất lượng cao bảo vệ hàng hóa khỏi bị hư hại trong suốt quá trình lưu kho và vận chuyển.",
+        "cubiscan": "Cân điện tử CUBISCAN đo trọng lượng và kích thước gói hàng chính xác 100%"
+      },
+      "fulfillment": {
+        "title": "Năng lực xử lý đơn hàng",
+        "warehouse": "Hệ thống kho hàng khắp thế giới: Mạng lưới kho hàng toàn cầu cho phép lưu trữ hàng hóa gần với khách hàng hơn, giảm số dặm vận chuyển và tiết kiệm đáng kể chi phí.",
+        "optimized": "Năng lực tối ưu hóa: OMS thông minh tối ưu hóa không gian lưu trữ, chuẩn bị hàng tồn kho và thực hiện đơn hàng.",
+        "shipments": "+1000 lô hàng/ngày:  Có thể xử lý tới hơn 1.000 lô hàng và giao hàng ngay trong ngày."
+      },
+      "customized": {
+        "title": "Giao diện tùy chỉnh",
+        "inherently": "Tách riêng lớp trình bày khỏi trung tâm kinh doanh, sử dụng API GraphQL thân thiện với giao diện người dùng nhất, hỗ trợ quản lý mọi cửa hàng thông qua một backend duy nhất",
+        "customize": "Tùy chỉnh giao diện để tạo trải nghiệm mua thuật tiện nhất."
+      },
+      "diverse": {
+        "title": "Hệ sinh thái phần mềm đa dạng",
+        "connect": "Kết nối với bên thứ ba với công nghệ tùy chỉnh như Contentful, quickbooks, hệ thống OMS, ERP, POS, v.v.",
+        "choose": "Chọn bất kỳ công nghệ nào phù hợp nhất và khởi chạy nhanh chóng."
+      },
+      "persional": {
+        "title": "Cá nhân hóa và đề xuất bằng nền tảng thương mại kỹ thuật số IChiba",
+        "collect": "Thu thập dữ liệu người dùng cụ thể như danh mục sản phẩm, lịch sử mua hàng, sản phẩm được xem nhiều nhất và đưa ra các gợi ý phù hợp thông qua các trang web hoặc chiến dịch marketing.",
+        "suggest": "Đề xuất các sản phẩm tương tự theo nhóm dựa trên các thuộc tính nhất định để người mua có nhiều lựa chọn và nhanh chóng đưa ra quyết định mua hàng hơn.",
+        "usingAi": "Sử dụng báo cáo AI để dự đoán điều khách hàng quan tâm dựa trên các sở thích của nhiều người dùng khác."
+      },
+      "committed": {
+        "title": "Chúng tôi cam kết bảo mật dữ liệu và quyền riêng tư của bạn",
+        "multi": {
+          "title": "Bảo mật nhiều lớp",
+          "content": "Đảm bảo an toàn dữ liệu tuyệt đối, sớm phát hiện và ngăn chặn nguy cơ bị tấn công ngay lập tức, thường xuyên truy quét an ninh hệ thống."
+        },
+        "monitor": {
+          "title": "Giám sát 24 x 7 x 365",
+          "content": "Chúng tôi kiểm tra hệ thống định kỳ hàng năm để đảm bảo dữ liệu của khách hàng được bảo vệ trong mọi điều kiện."
+        },
+        "committed": {
+          "title": "Cam kết minh bạch",
+          "content": "Khách hàng có toàn quyền truy cập và kiểm soát dữ liệu của mình. Chúng tôi cam kết giữ vững sự minh bạnh trong suốt quá trình hợp tác."
+        },
+        "certi": "Chứng nhận và tuân thủ",
+        "learnMore": "Tim hiểu thêm về chứng nhận và tuân thủ"
+      },
+      "faqs": {
+        "title": "Câu Hỏi Thường Gặp (FAQs)",
+        "ifRecive": "Tôi phải làm gì nếu nhận hàng bị hỏng, vỡ?",
+        "whenReceive": "Trong trường hợp bạn nhận được hàng bị hư hại, chúng tôi sẽ hoàn tiền sau khi xác nhận đầy đủ các điều kiện bồi thường.",
+        "pleaseContact": "Vui lòng liên hệ với IChiba trong vòng 7 ngày kể từ ngày nhận hàng với các thông tin kèm theo sau:",
+        "li1": "2-3 bức ảnh về bao bì gói hàng",
+        "li2": "2-3 bức ảnh hàng hóa bị hư hại",
+        "li3": "Mã số đơn hàng",
+        "isAction": "Đấu giá trên Yahoo Auction có an toàn không?",
+        "yahooAution": "Yahoo Auction là một trang thương mại điện tử thuộc sở hữu của Tập đoàn Yahoo Nhật Bản. Sàn không bán sản phẩm mà đóng vai trò là trung tâm giao dịch đảm bảo cho việc trao đổi, mua bán, thanh toán giữa người mua và người bán. Hàng ngàn sản phẩm bao gồm đã qua sử dụng và hàng mới được đấu giá hoặc mua lại như đồng hồ, Zippo, phụ kiện ô tô, v.v.",
+        "onlinePurchases": "Mua hàng online, đặc biệt là mua hàng xuyên biên giới từ Nhật Bản khiến nhiều người băn khoăn về nguồn gốc xuất xứ của sản phẩm, phương thức thanh toán hay vấn đề vận chuyển. Mọi giao dịch trên hệ thống Yahoo Auction đều được cam kết bảo mật và được kiểm soát chặt chẽ bởi hệ thống bảo mật 3 lớp. Do đó, việc mua và trả giá hàng hóa ở đây là an toàn.",
+        "isItPosible": "Tôi có thể sử dụng dịch vụ gộp hàng cho nhiều đơn mua từ nhiều nơi khác nhau không?",
+        "whenYou": "Khi mua các mặt hàng từ nhiều cửa hàng hoặc từ những người bán khác nhau, bạn có thể sử dụng dịch vụ gom hàng khi chúng đến kho của chúng tôi.",
+        "however": "Tuy nhiên, có một số trường hợp chúng tôi không thể hợp nhất một số mặt hàng, chẳng hạn như những mặt hàng khó vận chuyển do hình dạng bất thường, dễ vỡ hoặc quá khổ."
+      }
+    },
+    "flexible": {
+      "content": "Quản lý đơn đặt hàng linh hoạt",
+      "fullControl": {
+        "title": "Toàn quyền quản lý đơn hàng",
+        "content": "Tự động điều chỉnh các thông tin đơn hàng theo thời gian thực như đặt và xác nhận đơn hàng, vận chuyển, xác nhận giao hàng v..v."
+      },
+      "clear": {
+        "title": "Hóa đơn rõ ràng",
+        "content": "Tạo, in hóa đơn và theo dõi trạng thái đơn hàng từ bất kỳ nhà cung cấp nào."
+      },
+      "easily": {
+        "title": "Dễ dàng kiểm soát các nhà cung cấp và đơn mua",
+        "content": "Cung cấp thông tin mua hàng chính xác, chi tiết, không trùng lặp khiến bạn dễ hiểu nhầm, khó kiểm soát và theo dõi."
+      }
+    },
+    "findout": {
+      "find": "Tìm hiểu thêm",
+      "tour": "Khám phá các tính năng khác",
+      "content": "IChiba OnePlatform cung cấp hệ sinh thái toàn diện SaaS (Software as a service), hỗ trợ các doanh nghiệp và nhà bán lẻ trên toàn thế giới mở rộng quy mô kinh doanh toàn cầu. Tìm hiểu cách chúng tôi thực hiện sứ mệnh thông qua các dịch vụ và giải pháp toàn diện."
+    },
+    "realTime": {
+      "title": "Hot deal khắp thế giới",
+      "deals": "Cập nhật sau mỗi",
+      "update": "Cập nhật trong vòng",
+      "minutes": "Phút",
+      "allDeal": "Tất cả ưu đãi "
+    },
+    "committed": {
+      "title": "Chúng tôi cam kết bảo mật dữ liệu và quyền riêng tư của bạn",
+      "multi": {
+        "title": "Bảo mật nhiều lớp",
+        "content": "Đảm bảo an toàn dữ liệu tuyệt đối, sớm phát hiện và ngăn chặn nguy cơ bị tấn công ngay lập tức, thường xuyên truy quét an ninh hệ thống."
+      },
+      "monitor": {
+        "title": "Giám sát 24 x 7 x 365",
+        "content": "Chúng tôi kiểm tra hệ thống định kỳ hàng năm để đảm bảo dữ liệu của khách hàng được bảo vệ trong mọi điều kiện. "
+      },
+      "committed": {
+        "title": "Cam kết minh bạch",
+        "content": "Khách hàng có toàn quyền truy cập và kiểm soát dữ liệu của mình. Chúng tôi cam kết giữ vững sự minh bạnh trong suốt quá trình hợp tác."
+      },
+      "certi": "Chứng nhận và tuân thủ",
+      "learnMore": "Tìm hiểu thêm"
+    },
+    "faqs": {
+      "title": "Câu Hỏi Thường Gặp",
+      "ifRecive": "Tôi phải làm gì nếu nhận hàng bị hỏng, vỡ?",
+      "whenReceive": "Trong trường hợp bạn nhận được hàng bị hư hại, chúng tôi sẽ hoàn tiền sau khi xác nhận đầy đủ các điều kiện bồi thường.",
+      "pleaseContact": "Vui lòng liên hệ với IChiba trong vòng 7 ngày kể từ ngày nhận hàng với các thông tin kèm theo sau:",
+      "li1": "2-3 bức ảnh về bao bì gói hàng",
+      "li2": "2-3 bức ảnh hàng hóa bị hư hại",
+      "li3": "Mã số đơn hàng",
+      "isAction": "Đấu giá trên Yahoo Auction có an toàn không?",
+      "yahooAution": "Yahoo Auction là một trang thương mại điện tử thuộc sở hữu của Tập đoàn Yahoo Nhật Bản. Sàn không bán sản phẩm mà đóng vai trò là trung tâm giao dịch đảm bảo cho việc trao đổi, mua bán, thanh toán giữa người mua và người bán. Hàng ngàn sản phẩm bao gồm đã qua sử dụng và hàng mới được đấu giá hoặc mua lại như đồng hồ, Zippo, phụ kiện ô tô, v.v.",
+      "onlinePurchases": "Mua hàng online, đặc biệt là mua hàng xuyên biên giới từ Nhật Bản khiến nhiều người băn khoăn về nguồn gốc xuất xứ của sản phẩm, phương thức thanh toán hay vấn đề vận chuyển. Mọi giao dịch trên hệ thống Yahoo Auction đều được cam kết bảo mật và được kiểm soát chặt chẽ bởi hệ thống bảo mật 3 lớp. Do đó, việc mua và trả giá hàng hóa ở đây là an toàn.",
+      "isItPosible": "Tôi có thể sử dụng dịch vụ gộp hàng cho nhiều đơn mua từ nhiều nơi khác nhau không?",
+      "whenYou": "Khi mua các mặt hàng từ nhiều cửa hàng hoặc từ những người bán khác nhau, bạn có thể sử dụng dịch vụ gom hàng khi chúng đến kho của chúng tôi.",
+      "however": "Tuy nhiên, có một số trường hợp chúng tôi không thể hợp nhất một số mặt hàng, chẳng hạn như những mặt hàng khó vận chuyển do hình dạng bất thường, dễ vỡ hoặc quá khổ."
+    }
+  },
+  "oms": {
+    "banner": {
+      "allInOne": "Phần mềm quản lý bán hàng toàn diện cho mọi doanh nghiệp",
+      "built": "Được xây dựng dựa trên nguyên tắc MACH (Microservice-based, API-first, Cloud-native and Headless), IChiba OnePlatform cho phép người dùng tùy chỉnh các trải nghiệm phù hợp với nhu cầu của doanh nghiệp.",
+      "integrated": "Tích hợp với các kênh bán hàng và mạng xã hội",
+      "findAll": "Tìm kiếm nhanh các đơn hàng chỉ trên một màn hình",
+      "manage": "Quản lý tồn kho dễ dàng và hiệu quả",
+      "useOmni": "Dùng phần mềm quản lý bán hàng đa kênh miễn phí",
+      "connect": "Kết nối với hệ sinh thái thương mại điện tử để quản lý hiệu quả hơn: các hãng vận chuyển, phần mềm kế toán, điểm bán hàng,..."
+    },
+    "system": {
+      "title": "Hệ thống tích hợp",
+      "content": "Dễ dàng kết nối liền mạch với các trang thương mại điện tử, mạng xã hội và hệ sinh thái hỗ trợ phổ biến nhất.",
+      "viewAll": "Xem Tất Cả Tích Hợp"
+    },
+    "effortless": {
+      "title": "Quản lý bán hàng đa kênh dễ dàng",
+      "workLess": {
+        "title": "Hiệu quả công việc cao hơn",
+        "content": "Với nền tảng mạnh mẽ quản lý bán hàng từ A-Z trên tất cả các kênh xã hội",
+        "bio": "Bán hàng trực tiếp trên các trang mạng xã hội đang là xu thế toàn cầu. Phần mềm quản lý bán hàng trên mạng xã hội của chúng tôi cung cấp trải nghiệm trơn tru và tập trung cho khách hàng, cho phép thanh toán ngay mà không cần thoát ứng dụng mạng xã hội, từ đó gia tăng doanh số cho doanh nghiệp."
+      },
+      "enjoy": {
+        "title": "Tận hưởng quá trình quản lý đa kênh",
+        "content": "Bằng việc tích hợp tất cả các kênh bán hàng trên một nền tảng",
+        "bio": "Từ D2C đến bán lẻ đến B2B, phần mềm OMS của chúng tôi cho phép bạn bán hàng trên tất cả các kênh và thị trường - quản lý trên một nền tảng duy nhất mà không có bất kỳ yêu cầu tương thích nào. Giờ đây bạn có thể quản lý dữ liệu tập trung, thu thập thông tin khách hàng và tự động hóa các công việc lặp đi lặp lại, bất kể bạn đang bán hàng ở đâu: Thương mại điện tử, mạng xã hội, cửa hàng trực tuyến hay điểm bán hàng."
+      },
+      "systematization": {
+        "title": "Hệ thống hoá trong từng bước",
+        "content": "Với giải pháp fulfillment đa kênh",
+        "bio": "Giải pháp hoàn tất đơn hàng đa kênh của IChiba OnePlatform cho phép người bán quản lý đơn hàng toàn diện, giảm thiểu rủi ro về giao trễ và hoàn hàng, đồng thời đồng bộ thông tin sản phẩm trên tất cả các kênh bán hàng."
+      },
+      "putCustomer": {
+        "title": "Đặt khách hàng lên hàng đầu",
+        "content": "Với tính năng quản lý hàng hoàn",
+        "bio": "Tự động vạch lộ trình giao hàng và lộ trình hoàn hàng. Cổng thông tin điện toán đám mây giúp truy cập các thông tin về RMAs, lô hàng và giá sản phẩm theo thời gian thực."
+      },
+      "saveTime": {
+        "title": "Tiết kiệm thời gian và tiền bạc",
+        "content": "Bằng việc kết nối và quản lý tất cả các hãng vận chuyển trên một màn hình",
+        "bio": "IChiba sử dụng API tích hợp đa hãng vận chuyển giúp tự động hóa các tác vụ vận chuyển, bao gồm truy xuất giá vận chuyển chính xác theo thời gian thực, in hóa đơn, theo dõi đơn hàng, vv…"
+      },
+      "moreConversion": {
+        "title": "Lấy được nhiều chuyển đổi hơn",
+        "content": "Với các báo cáo chi tiết nâng cao",
+        "bio": "Các báo cáo và phân tích theo thời gian thực giúp quản lý các hoạt động kinh doanh và theo dõi sát sao các đơn đặt hàng, hàng tồn kho, fulfillment, nhân viên và sản xuất. Công nghệ điện toán đám mây  hiển thị hoạt động kinh doanh cho phép người bán vạch ra chiến lược bán hàng trong tương lai."
+      },
+      "crack": {
+        "title": "Xoá bỏ các quy trình phức tạp",
+        "content": "Bằng việc tích hợp các phần mềm ERP/kế toán",
+        "bio": "Kết nối và đồng bộ với phần mềm ERP hoặc phần mềm kế toán để thu thập, theo dõi và phân tích dữ liệu theo thời gian thực. Với việc tích hợp ERP, doanh nghiệp của bạn có thể giảm thiểu các tác vụ phức tạp, từ thanh toán, giao dịch đến báo cáo kế toán, tiết kiệm rất nhiều thời gian và chi phí."
+      },
+      "cutsOrder": {
+        "title": "Quản lý đơn hàng dễ dàng hơn",
+        "content": "Với tính năng quản lý danh mục, sản phẩm và đơn hàng",
+        "bio": "Quản lý sản phẩm và danh mục tập trung, tự động điền các thông tin  liên quan đến sản phẩm như tiêu đề, mô tả, hình ảnh, v.v. Hệ thống OMS của chúng tôi đảm bảo quá trình xử lý, vận chuyển và xử lý đơn hàng diễn ra suôn sẻ."
+      }
+    },
+    "howitwork": {
+      "howItWork": "How it works",
+      "intelligent": "Quản lý bán hàng thông minh",
+      "experience": "Trải nghiệm tất cả các tính năng của phần mềm quản lý bán hàng tốt nhất trong một nền tảng duy nhất",
+      "freeTrial": "Dùng Thử Miễn Phí",
+      "companyType": "Loại hình doanh nghiệp",
+      "specific": "Ngành nghề",
+      "omnichannel": {
+        "title": "Bán hàng đa kênh",
+        "content": "Tối ưu hóa quá trình xử lý và phân phối đơn hàng trên các kênh bán hàng đa dạng bằng cách theo dõi và ghi lại dữ liệu. Tự động đăng sản phẩm trên nhiều sàn thương mại điện tử cùng lúc."
+      },
+      "fourth": {
+        "title": "Công ty 4PL",
+        "content": "Tự động xác định vị trí đơn hàng ở kho gần nhất với địa chỉ khách hàng để rút ngắn thời gian cũng như tối ưu chi phí giao hàng."
+      },
+      "b2b": {
+        "title": "B2B & Bán buôn",
+        "content": "Dễ dàng quản lý nhiều nhà cung cấp, bảng giá, cửa hàng trực tuyến, v.v. và mang đến cho doanh nghiệp sự linh hoạt cần thiết để phát triển."
+      },
+      "direct": {
+        "title": "Direct to Customers (D2C)",
+        "content": "Giải quyết mọi khó khăn trong việc quản lý thủ công các kênh bán hàng và hoạt động phân phối."
+      },
+      "ecommerce": {
+        "title": "Thương mại điện tử",
+        "content": "Nhanh chóng sắp xếp các dịch vụ mới và triển khai trải nghiệm mua sắm trực tuyến dựa trên dữ liệu số giúp doanh nghiệp đưa ra những quyết định đúng đắn."
+      },
+      "fashion": {
+        "title": "Thời trang & May mặc",
+        "content": "Bắt kịp xu hướng thời trang mới nhất trên thế giới với nguồn hàng may mặc khổng lồ, giá phải chăng, chỉ có trên IChiba."
+      },
+      "beauty": {
+        "title": "Mỹ phẩm & Làm đẹp",
+        "content": "Nhu cầu làm đẹp với các sản phẩm làm đẹp hữu cơ và tự nhiên tăng lên mỗi ngày. IChiba thu hẹp khoảng cách, giúp người tiêu dùng trên khắp thế giới tiếp cận dễ dàng hơn với các sản phẩm làm đẹp nước ngoài chính hãng và chất lượng."
+      },
+      "pharmaceutical": {
+        "title": "Dược phẩm",
+        "content": "Đáp ứng các yêu cầu thực hiện đơn hàng phức tạp dành cho các nhà bán buôn và bán lẻ dược phẩm, đồng thời tận hưởng khả năng tiếp cận hàng tồn kho có kiểm soát, bổ sung tự động, khả năng đáp ứng được cải thiện, theo dõi và truy xuất nguồn gốc sản phẩm theo thời gian thực."
+      },
+      "fast": {
+        "title": "Hàng tiêu dùng nhanh (FMCG)",
+        "content": "Nhanh chóng thích ứng với nhu cầu thay đổi của các bên liên quan khác nhau, với các hệ thống giữ chi phí cố định và chi phí biến đổi ở mức tối thiểu và duy trì dịch vụ khách hàng tốt."
+      }
+    },
+    "features": {
+      "title": "Tính năng của IChiba OnePlatform OMS",
+      "content": "Hãy xem cách người bán sử dụng Hệ thống quản lý đơn hàng của chúng tôi để tăng doanh số bán hàng của họ trên đa kênh như thế nào!",
+      "getItFree": "Dùng Miễn Phí",
+      "social": {
+        "tab": "Social commerce",
+        "title": "Quản lý  bán hàng trên các trang mạng xã hội",
+        "create": "Tạo đơn hàng nhanh chóng ngay trên màn hình livestream hoặc màn hình chat và gửi hóa đơn xác nhận đơn hàng.",
+        "automatically": "Tự động thông báo cho khách hàng đợt sale hoặc livestream mới nhất, trả lời comment/tin nhắn 24/7.",
+        "filter": "Lọc comment chứa số điện thoại & email để thực hiện tư vấn nhanh chóng.",
+        "creatOrder": "Tạo đơn hàng tự động theo từ khóa, tiết kiệm thời gian kiểm tra từng bình luận và đặt hàng thủ công."
+      },
+      "integration": {
+        "tab": "Tích hợp đa kênh",
+        "title": "Toàn quyền kiểm soát các kênh bán hàng",
+        "oms": "Sản phẩm OMS tích hợp với tất cả các kênh bán hàng (nền tảng Thương mại điện tử, cửa hàng online, POS, v.v.) và các thiết bị tại cửa hàng, hợp nhất thông tin từ tất cả các điểm bán trong thời gian thực với dữ liệu được bảo mật tuyệt đối.",
+        "orchestrate": "Sắp xếp, giám sát và quản lý tất cả các đơn đặt hàng từ bảng điều khiển tập trung, cả trực tuyến và ngoại tuyến.",
+        "integrate": "Tích hợp nhiều dịch vụ khác để quá trình buôn bán được triển khai nhanh nhất có thể."
+      },
+      "catalog": {
+        "tab": "Quản lý danh mục sản phẩm và đơn hàng",
+        "title": "Dễ dàng quản lý vòng đời của đơn hàng",
+        "effect": "Quản lý, lưu trữ, truy xuất, thực hiện và tối ưu hóa danh mục trên đa kênh đồng thời cấu trúc danh mục theo nhiều yếu tố như tên sản phẩm, mô tả hoặc giá.",
+        "automatically": "Tự động hiển thị các đơn đặt hàng và yêu cầu của khách hàng, đồng thời cập nhật trạng thái chính xác của từng đơn hàng theo thời gian thực để đảm bảo các đơn hàng được hoàn thành đúng hạn"
+      },
+      "fulfillment": {
+        "tab": "Quản lý fulfillment đa kênh",
+        "title": "Hệ thống hoá trong từng bước",
+        "mangage": "Quản lý, theo dõi và kiểm soát số lượng hàng đa kho, giúp doanh nghiệp dự báo và ra quyết định, đẩy nhanh quy trình fulfillment cho bất kỳ kênh bán hàng nào.",
+        "automatically": "Tự động đồng bộ định mức hàng trong kho, cập nhật trạng thái 24/7.",
+        "store": "Lưu trữ hàng tồn kho gần khách hàng giúp rút ngắn thời gian vận chuyển và tối ưu chi phí.",
+        "fasten": "Đẩy nhanh quy trình fulfillment bằng cách tích hợp các đơn vị giao hàng trên toàn thế giới và tự động hóa các quy trình."
+      },
+      "return": {
+        "tab": "Quản lý hoàn hàng",
+        "title": "Mang đến trải nghiệm cá nhân tuyệt vời",
+        "regardless": "Bất kể bạn đang bán hàng ở đâu, chúng tôi đều cho phép quản lý và theo dõi tất cả các trường hợp trả hàng bao gồm ngày trả hàng, mặt hàng bị trả lại, lý do trả hàng, v.v.",
+        "manage": "Quản lý và kiểm soát chất lượng hàng trả lại một cách hiệu quả nhằm tăng doanh thu, giảm chi phí, nâng cao lợi nhuận và nâng cao chất lượng dịch vụ khách hàng.",
+        "api": "Cổng điện toán đám mây API cho phép người dùng truy cập dữ liệu trong thời gian thực để thực hiện các hành động cần thiết, gia tăng trải nghiệm khách hàng."
+      },
+      "shipping": {
+        "tab": "Tích hợp với các đơn vị vận chuyển",
+        "title": "Tiết kiệm thời gian và tiền bạc",
+        "ship": "Vận chuyển đơn hàng nhanh hơn và kiểm soát ở một nơi duy nhất.",
+        "integrates": "Tích hợp với các hãng vận chuyển lớn để đẩy đơn hàng tự động.",
+        "saveTime": "Tự động chọn đơn vị vận chuyển với giá phù hợp nhất để tiết kiệm thời gian và tối ưu chi phí.",
+        "update": "Cập nhật và theo dõi trạng thái đơn hàng theo thời gian thực."
+      },
+      "accounting": {
+        "tab": "Tích hợp với các phần mềm ERP/Phần mềm kế toán",
+        "title": "Đồng bộ tất cả các thông tin tài chính về một nguồn cơ sở dữ liệu",
+        "integrated": "Tích hợp với phần mềm ERP giúp sắp xếp tất cả dữ liệu một cách có hệ thống, tạo và gửi hóa đơn, đồng thời có cái nhìn tổng quan về các hoạt động kinh doanh.",
+        "once": "Truy cập các công cụ như theo dõi chi phí, thông tin thuế, v.v. giúp bộ phận kế toán giảm áp lực công việc."
+      },
+      "detailed": {
+        "tab": "Báo cáo chi tiết theo thời gian thực",
+        "title": "Sử dụng trí tuệ nhân tạo để tạo nhiều chuyển đổi hơn",
+        "oms": "Báo cáo IChiba OMS bao gồm doanh thu bán hàng, KPI và dự báo doanh số bán hàng hàng ngày được chia theo từng kênh.",
+        "automatically": "Tự động gửi báo cáo và các phân tích chi tiết giúp doanh nghiệp đưa ra dự báo, chiến lược bán hàng và quyết định đúng đắn.",
+        "api": "API-first cho phép truy xuất dữ liệu chính xác từ bất kỳ nguồn nào để điều chỉnh cho phù hợp với nhu cầu của thị trường."
+      }
+    },
+    "whyChoose": {
+      "title": "Tại sao chọn IChiba OnePlatform OMS",
+      "content": "Được tin tưởng bởi hơn 1.000 doanh nghiệp đến từ Đông Nam Á, IChiba OnePlatform OMS vượt trội với các tính năng tích hợp toàn diện cần thiết để góp phần quản lý đơn hàng đa kênh một cách trơn tru và hiệu quả.",
+      "user": {
+        "title": "Hướng dẫn người dùng",
+        "content": "Tổng hợp những tin tức cập nhật, thủ thuật và hướng dẫn mới nhất cho người dùng.",
+        "learn": "Xem thêm "
+      },
+      "product": {
+        "title": "Cập nhật sản phẩm",
+        "content": "Những cập nhật mới nhất về sản phẩm và dịch vụ.",
+        "learn": "Xem thêm "
+      },
+      "ichiba": {
+        "title": "Cộng đồng IChiba OnePlatform",
+        "content": "Những câu chuyện truyền cảm hứng từ khách hàng và đội ngũ của chúng tôi.",
+        "learn": "Tham gia cộng đồng "
+      },
+      "resource": {
+        "title": "Trung tâm học liệu",
+        "content": "Nguồn tài liệu mở cho nhà phát triển.",
+        "learn": "Xem thêm "
+      }
+    },
+    "moreReading": {
+      "title": "Bài đọc",
+      "content": "Các sự kiện, tin tức và bài viết về sản phẩm OMS của IChiba OnePlatform"
+    },
+    "getStarted": {
+      "title": "Bắt đầu ngay với IChiba OnePlatform OMS",
+      "getFree": "Dùng miễn phí",
+      "completed": "Xem bảng giá"
+    },
+    "FAQ": {
+      "title": "Câu hỏi thường gặp",
+      "isIchiba": {
+        "title": "IChiba OnePlatform OMS có đắt không?",
+        "content": "Hệ thống OMS của chúng tôi có bảng giá được tùy chỉnh để phù hợp với nhu cầu của doanh nghiệp. Bảng giá rõ ràng, minh bạch, được thống nhất bởi cả hai bên và cam kết tuyệt đối không phát sinh chi phí ngoài lề."
+      },
+      "canIUse": {
+        "title": "Nếu tôi không bán hàng ở trên các sàn thương mại điện tử thì tôi có thể sử dụng IChiba OnePlatform không?",
+        "content": "Có. Sứ mệnh của IChiba OnePlatform là giúp tất cả các nhà bán hàng phát triển tốt hơn, bất kể họ bán hàng trên kênh nào."
+      },
+      "doesIchiba": {
+        "title": "IChiba OnePlatform OMS có đội ngũ hỗ trợ không?",
+        "content": "Chúng tôi hỗ trợ khách hàng 24/7 trên toàn thế giới. Bạn chỉ cần điền vào đơn ",
+        "content1": "Yêu Cầu Hỗ Trợ ",
+        "content2": "để nhận tư vấn, bất kể lĩnh vực hay ngành nghề nào."
+      },
+      "viewMore": "Xem thêm"
+    },
+    "pricing": {
+      "month": "/ Tháng",
+      "optimized": "Kế hoạch tối ưu hóa cho doanh nghiệp của bạn",
+      "ichiba": "Các gói IChiba OMS được thiết kế với giá cả phải chăng, linh hoạt và phù hợp với nhu cầu riêng của bạn.",
+      "title": "Bảng phí",
+      "free": {
+        "title": "Miễn phí/dùng thử",
+        "content": "Phù hợp với nhóm nhỏ."
+      },
+      "standard": {
+        "title": "Tiêu chuẩn",
+        "content": "Phù hợp với nhóm đang phát triển."
+      },
+      "premium": {
+        "title": "Cao cấp",
+        "content": "Phù hợp với các công ty quy mô nhỏ và vừa."
+      },
+      "enterprise": {
+        "title": "Doanh nghiệp",
+        "content": "Phù hợp với doanh nghiệp có quy mô toàn cầu, yêu cầu bảo mật cao."
+      },
+      "suitable": "Phù hợp với",
+      "time": "*Thời gian: hàng tháng/hàng năm.",
+      "tab": {
+        "features": "Tính năng",
+        "admin": "Quyền admin",
+        "security": "An toàn & Bảo mật",
+        "storage": "Lưu trữ, hỗ trợ & hóa đơn"
+      },
+      "mainFeatures": "Tính năng chính",
+      "funtions": "Chức năng",
+      "dataTable": {
+        "workspace": "Không gian làm việc",
+        "multiWork": "Đa không gian làm việc",
+        "store": "Kho/Chi nhánh",
+        "multiStore": "Đa kho/chi nhánh",
+        "integration": "Tích hợp sàn thương mại điện tử",
+        "integrationWith": "Kết nối kênh bán",
+        "product": "Sản phẩm",
+        "productMana": "Quản lý sản phẩm",
+        "upload": "Đăng bán sản phẩm lên sàn",
+        "sync": "Đồng bộ sản phẩm từ sàn về",
+        "productMap": "Liên kết sản phẩm",
+        "salesOrder": "Đơn hàng",
+        "monthly": "Quản lý đơn hàng bán/tháng",
+        "automatically": "Duyệt đơn hàng tự động",
+        "returnOrder": "Đơn hoàn",
+        "invent": "Kho",
+        "inventUpdate": "Đồng bộ tồn kho",
+        "purchase": "Đơn đặt hàng",
+        "purchaseMana": "Quản lý đơn mua",
+        "intergration": "Tích hợp WMS",
+        "wareHouse": "Kết nối kho",
+        "integrationCarrier": "Nhà cung cấp dịch vụ tích hợp",
+        "carrier": "Kết nối hãng vận chuyển",
+        "notification": "Thông báo",
+        "viaEmail": "Email",
+        "onApp": "App",
+        "chat": "SMS",
+        "publicApi": "Mở kết nối API",
+        "analytics": "Báo cáo/Phân tích",
+        "dashboard": "Bảng điều khiển",
+        "basic": "Báo cáo cơ bản",
+        "advance": "Báo cáo nâng cao",
+        "schedulling": "Lập lịch báo cáo",
+        "domain": "Xác minh tên miền ",
+        "roles": "Phân quyền",
+        "advanced": "Quyền nâng cao",
+        "account": "Bảo mật tài khoản",
+        "multiFactor": "Xác thực đa yếu tố",
+        "singerSign": "Đăng nhập một lần",
+        "mobile": "Mobile",
+        "anonymous": "Truy cập ẩn danh",
+        "certifications": "Chứng nhận",
+        "commu": "Cộng đồng hỗ trợ",
+        "email": "Hỗ trợ qua email",
+        "customer": "Hỗ trợ khách hàng",
+        "csm": "Customer Success Manager",
+        "enhanced": "Tài liệu onboard/Video/Hồ sơ sản phẩm/Proposals",
+        "professional": "Dịch vụ chuyên nghiệp 24/7",
+        "uptime": "Uptime SLA",
+        "seat": "Thành viên",
+        "payment": "Phương thức thanh toán",
+        "billings": "Hóa đơn",
+        "conttract": "Thời hạn hợp đồng",
+        "separated": "Cơ sở dữ liệu riêng biệt",
+        "annualAnd": "Hàng năm (tiết kiệm tới 20%) hoặc Hàng tháng",
+        "annual": "Hàng năm",
+        "unlimited": "Không giới hạn",
+        "orders": "Đơn"
+      }
+    }
+  },
+  "smartCrossBorder": {
+    "banner": {
+      "title": "Cross-Border Forwarding",
+      "subtitle": "Quản lý mua hàng & vận chuyển xuyên biên giới",
+      "content": "Chúng tôi cung cấp phần mềm quản lý đơn mua hộ và vận chuyển xuyên biên giới với đa phương thức thanh toán, đa ngôn ngữ, và đa tiền tệ.",
+      "subcontent": "Nhà bán hàng có thể chủ động cài đặt các cấu hình trên giao diện quản lý để việc vận hành và kinh doanh thương mại điện tử xuyên biên giới được linh hoạt hơn",
+      "getDemo": "Đặt lịch hẹn",
+      "freeTrial": "Dùng thử miễn phí"
+    },
+    "howItWorks": {
+      "label": "Quy trình vận hành",
+      "title": "Cross-Border Forwarding",
+      "content": "Hãy cùng tìm hiểu cách mà phần mềm quản lý mua hàng/bán hàng của chúng tôi hoạt động và bạn sẽ nhận được những lợi ích gì từ nó!",
+      "learnMore": "Tìm hiểu thêm"
+    },
+    "beyond": {
+      "title": "Để vận hành website mua hộ xuyên biên giới không còn là thách thức",
+      "content": "Phần mềm IChiba Cross-Border Forwarding cung cấp dịch vụ hoàn chỉnh giúp nhà bán hàng quản lý mua hàng và vận chuyển xuyên biên giới với các chức năng về đa kho hàng, đa ngôn ngữ và đa tiền tệ.",
+      "shipping": {
+        "label": "Quản lý đơn vận chuyển xuyên biên giới ",
+        "title": "Quản lý đơn vận chuyển xuyên biên giới",
+        "content": "Chúng tôi hợp tác với các hãng vận chuyển hàng đầu, chuyển phát các gói hàng đi khắp nơi trên thế giới. Chỉ cần một vài cú nhấp chuột, bạn đã có thể chuyển gói hàng của bạn đến điểm đến cuối cùng."
+      },
+      "creation": {
+        "label": "Quản lý đơn mua hộ, đấu giá",
+        "title": "Quản lý đơn mua hộ, đấu giá",
+        "content": "Dễ dàng quản lý tất cả các đơn mua và bán của bạn từ dashboard quản lý của chúng tôi. Kiểm soát chi phí mua hàng đầu vào và phân phối đơn hàng đến kho mong muốn."
+      },
+      "bidding": {
+        "label": "Thiết lập bảng giá dịch vụ",
+        "title": "Thiết lập bảng giá dịch vụ",
+        "content": "Cho phép doanh nghiệp linh hoạt tự tạo bảng giá cho các loại dịch vụ: mua hộ, xử lý hàng trong kho và vận chuyển. Bảng giá dịch vụ có thể khác nhau trên từng thị trường và được chia làm 2 loại: Giá cước công bố và cá nhân hóa."
+      }
+    },
+    "ortherBenefit": {
+      "label": "Những tính năng khác",
+      "title": "Của IChiba Cross-Border Forwarding",
+      "items": {
+        "integrated": {
+          "title": "Tích hợp nhiều cổng thanh toán",
+          "content": "Chúng tôi cung cấp nhiều cổng thanh toán trực tuyến khác nhau, hỗ trợ khách hàng thực hiện thanh toán xuyên biên giới từ hơn 220 quốc gia và vùng lãnh thổ bằng 120 loại tiền tệ, đa ngôn ngữ và dịch vụ thuế toàn cầu."
+        },
+        "multiMarket": {
+          "title": "Cấu hình vận hành đa thị trường",
+          "content": "Phần mềm Cross-Border Forwarding cho phép linh hoạt tùy chỉnh cấu hình vận hành phù hợp với nghiệp vụ của từng doanh nghiệp. Các thông số vận hành có thể khác nhau tùy theo từng thị trường."
+        },
+        "sale": {
+          "title": "Cấu hình về chính sách bán hàng",
+          "content": "Doanh nghiệp có thể tùy chỉnh các thông tin, dữ liệu về chính sách, đảm bảo hoạt động kinh doanh mua hộ có lãi và diễn ra trơn tru."
+        },
+        "package": {
+          "title": "Tách/gộp kiện hàng",
+          "content": "Với chức năng này, nhà bán có thể tách rời một kiện hàng lớn hoặc gom gộp nhiều kiện hàng nhỏ để tiết kiệm thời gian trong việc xử lý cũng như chi phí vận chuyển."
+        },
+        "multiCurrency": {
+          "title": "Đa thị trường, đa tiền tệ",
+          "content": "Quản lý mua hộ và vận chuyển xuyên biên giới từ hàng trăm cửa hàng và cho phép người mua thanh toán bằng đơn vị tiền tệ của mình. Doanh nghiệp cũng có thể cài đặt phương thức thanh toán phù hợp với từng thị trường."
+        },
+        "product": {
+          "title": "Trình thu thập dữ liệu sản phẩm",
+          "content": "Tự động kéo dữ liệu sản phẩm từ nhiều sàn quốc tế. Mọi khuyến mãi và thông tin đều được cập nhật theo thời gian thực."
+        }
+      }
+    },
+    "CreateCross": {
+      "title": "Tạo web mua hàng xuyên biên giới với StoreFront Layer",
+      "content": "Chúng tôi cung cấp dịch vụ tạo website mua hàng xuyên biên giới với đầy đủ các tính năng như mua hàng, đấu giá, thanh toán, vận chuyển, v.v. Khách hàng có thể truy cập vào website của bạn để mua bất cứ thứ gì họ muốn từ nước ngoài.",
+      "subcontent": "",
+      "local": "Thanh toán bằng nội tệ",
+      "multilang": "Hỗ trợ đa ngôn ngữ",
+      "multipayment": "Hỗ trợ đa cổng thanh toán",
+      "customized": "Tùy chỉnh linh hoạt",
+      "export": "Khám phá ngay"
+    },
+    "connectBesst": {
+      "label": "Quy trình",
+      "title": "Kết nối nguồn hàng giá tốt từ khắp mọi nơi trên thế giới",
+      "content": "Gợi ý xu hướng thị trường để người bán nhập các mặt hàng đang hot nhanh nhất.",
+      "contactSale": "Liên hệ ngay"
+    }
+  },
+
+  "support": {
+    "ichibaSupport": "Hỗ trợ IChiba",
+    "submitSupport": "Gửi yêu cầu hỗ trợ",
+    "idlike": "Tôi muốn liên hệ với bộ phận bán hàng",
+    "issue": "Thông tin vấn đề",
+    "subject": "Chủ đề",
+    "briefly": "Mô tả yêu cầu của bạn",
+    "description": "Mô tả",
+    "elaborate": "Hãy giải thích thêm về yêu cầu của bạn để chúng tôi hỗ trợ bạn tốt hơn",
+    "anySupport": "Tài liệu hỗ trợ cho yêu cầu của bạn",
+    "upload": "Tải tệp của bạn lên đây với định dạng PDF",
+    "onlyPDF": "Chỉ chấp nhận các loại PDF, JPG, PNG",
+    "theMax": "Kích thước tệp tối đa là 10 MB.",
+    "contactInfo": "Thông tin liên hệ",
+    "bySubmit": "Bằng cách gửi biểu mẫu này, tôi xác nhận các quy định của IChiba",
+    "firstName": "Họ",
+    "lastName": "Tên"
+  },
+  "blog": {
+    "heading": "Blog IChiba OnePlatform",
+    "pubicshed": "Ngày tạo",
+    "author": "Tác giả",
+    "category": "Danh mục",
+    "topic": "Đề tài",
+    "most": "Phổ biến nhất",
+    "dontMiss": "Đừng bỏ lỡ tin mới nhất",
+    "getUpdate": "Nhận cập nhật trong hộp thư đến của bạn",
+    "all": "Tất cả",
+    "relatedBlogs": "Bài viết liên quan",
+    "type": {
+      "home": "Trang chủ blog",
+      "news": "Tin tức mới",
+      "promotion": "Khuyến mãi",
+      "aboutIchiba": "Tin tức về IChiba",
+      "engineer": "Kỹ thuật & công nghệ"
+    },
+    "detail": {
+      "article": "Trong bài viết này",
+      "takeAtour": "Khám phá IChiba",
+      "seeIChiba": "Tăng trưởng doanh thu hiệu quả với bộ giải pháp phần mềm toàn diện của IChiba OnePlatform.",
+      "request": "Yêu cầu dùng thử"
+    },
+    "viewMore": "Xem thêm",
+    "readMore": "Đọc thêm"
+  },
+  "crossFulfill": {
+    "banner": {
+      "title": "Dịch vụ fulfillment xuyên biên giới",
+      "content": "Vận hành chuỗi cung ứng hiệu quả, đáp ứng nhu cầu của người tiêu dùng trên toàn cầu"
+    },
+    "benefit": {
+      "title": "Khách hàng hưởng lợi gì từ giải pháp fulfillment của IChiba OnePlatform ",
+      "content": "Một giải pháp - Ngàn lợi ích",
+      "sameAday": {
+        "title": "Xử lý đơn hàng trong ngày",
+        "content": "Xử lý đơn hàng ngay trong ngày sau khi người mua đặt hàng. Điều này giúp rút ngắn thời gian giao hàng, cải thiện sự hài lòng của khách hàng và tạo dựng sự trung thành."
+      },
+      "fulfillment": {
+        "title": "Khả năng xử lý lên đến 5000+ đơn hàng/ngày",
+        "content": "Với phần mềm quản lý kho vận (WMS) linh hoạt, công cụ lấy hàng tự động, và các khu vực được phân chia theo từng ngành hàng, IChiba có thể xử lý lên đến hơn 5000 đơn hàng/ngày."
+      },
+      "cross-border": {
+        "title": "Giải pháp fulfillment xuyên biên giới",
+        "content": "Tiếp cận nhiều khách hàng tiềm năng hơn trên phạm vi toàn thế giới với  mạng lưới các trung tâm hoàn tất đơn hàng phủ rộng khắp châu Á."
+      },
+      "expedited": {
+        "title": "Dịch vụ chuyển phát nhanh chóng và uy tín",
+        "content": "Kết nối với hầu hết các đơn vị vận chuyển nổi tiếng trên thế giới để mang đến nhiều lựa chọn vận chuyển, giao hàng nhanh với mức giá cạnh tranh nhất."
+      },
+      "tight": {
+        "title": "Kiểm soát chặt chẽ hàng tồn kho",
+        "content": "Không còn quản lý trên những bảng tính cồng kềnh, không còn rủi ro tính toán sai số lượng hàng tồn kho vì IChiba mang đến giải pháp kiểm soát bằng mã vạch. Màn hình dashboard hiện thị toàn bộ thông tin hàng tồn kho theo thời gian thực."
+      },
+      "fulfillmentAutomation": {
+        "title": "Tự động hóa quy trình fulfillment",
+        "content": "Chúng tôi áp dụng công nghệ tự động để giúp quá trình fulfillment được diễn ra nhanh chóng mà vẫn đảm bảo được các yêu cầu nghiêm ngặt về chất lượng và tiết kiệm chi phí."
+      },
+      "cutdown": {
+        "title": "Giảm chi phí thuê kho ngoài",
+        "content": "Tổng diện tích kho lên đến 6000m2, đủ rộng để lưu trữ tất cả các loại hàng hóa với giải pháp lưu trữ linh hoạt theo mùa. Bạn chỉ phải trả tiền phần bạn sử dụng. Chúng tôi không quy định giới hạn giá trị đơn hàng tối thiểu."
+      },
+      "surprise": {
+        "title": "Tạo bất ngờ cho người mua khi mở hàng",
+        "content": "Cải thiện trải nghiệm khách hàng với dịch vụ đóng gói kèm quà tặng, tờ rơi quảng cáo, thư cảm ơn hoặc bất kỳ thứ gì mà bạn muốn gửi tặng khách hàng."
+      },
+      "return": {
+        "title": "Quản lý hàng trả lại",
+        "content": "Nhanh chóng thực hiện kiểm tra, đánh giá, phân loại và bổ sung hàng hoàn quay trở lại kho hàng đang hoạt động. Luôn đảm bảo rằng quá trình trả hàng không tốn thời gian cũng như không tốn kém để cung cấp trải nghiệm khách hàng tốt nhất có thể."
+      }
+    },
+    "oneTop": {
+      "title": "Dịch vụ fulfillment xuyên biên giới một cửa",
+      "content": "Khám phá cách các trung tâm hoàn tất đơn hàng trên khắp thế giới của chúng tôi xử lý đơn hàng của bạn và vận chuyển chúng về tận nhà người mua.",
+      "sync": {
+        "title": "1. Đồng bộ cửa hàng",
+        "content": "Đồng bộ cửa hàng của bạn (cả cửa hàng online và cửa hàng vật lý) với hệ thống fulfillment của chúng tôi chỉ trong vài cú nhấp chuột. Các đơn đặt hàng trong và ngoài nước sẽ được tự động cập nhật khi khách hàng mua hàng."
+      },
+      "store": {
+        "title": "2. Lưu trữ hàng hóa",
+        "content": "Giám sát toàn diện, bảo đảm an toàn hàng hóa ở trong kho. Khi sản phẩm nhập kho, chúng tôi tiến hành quét mã và kiểm tra, sau đó tải dữ liệu lên hệ thống để truy cập bất cứ lúc nào."
+      },
+      "warehouse": {
+        "title": "3. Vận hành kho",
+        "content": "Phần mềm WMS của IChiba OnePlatform có thể tích hợp được với các nền tảng khác mà khách hàng đang sử dụng để cung cấp thông tin về logistics và hàng tồn kho, giúp giảm đáng kể tỷ lệ sai sót trong quản lý."
+      },
+      "picking": {
+        "title": "4. Lấy hàng và đóng gói",
+        "content": "Lấy hàng và đóng gói dựa trên mã vạch hoặc mã QR. Tiết kiệm thời gian lấy hàng với tính năng gợi ý lộ trình."
+      },
+      "value": {
+        "title": "5. Các dịch vụ cộng thêm",
+        "content": "Cung cấp các dịch vụ được cá nhân hóa theo yêu cầu của khách hàng, bao gồm gộp hàng, đóng gói bảo vệ, chụp ảnh và bảo hiểm."
+      },
+      "strategize": {
+        "title": "6. Đề xuất đơn vị vận chuyển phù hợp",
+        "content": "Hệ thống fulfillment của IChiba OnePlatform tự động ước tính giá và gợi ý các lựa chọn fulfillment phù hợp nhất với doanh nghiệp của bạn."
+      },
+      "international": {
+        "title": "7. Vận chuyển quốc tế và thủ tục hải quan",
+        "content": "Dịch vụ fulfillment của IChiba OnePlatform giúp khách hàng vận chuyển quốc tế, xử lý các giấy tờ về thuế và thủ tục hải quan."
+      },
+      "lastMile": {
+        "title": "8. Giao hàng chặng cuối",
+        "content": "Chúng tôi hợp tác với các hãng vận chuyển nội địa để dễ dàng phân phối hàng hóa tới người mua một cách nhanh nhất."
+      },
+      "return": {
+        "title": "9. Quản lý hàng trả lại",
+        "content": "IChiba OnePlatform cung cấp địa điểm chuyên lưu trữ hàng bị trả lại, giúp giảm chi phí xử lý."
+      }
+    },
+    "getCustomized": "Giải pháp fulfillment được tùy chỉnh theo nhu cầu của khách hàng và tối ưu hóa hiệu suất giao hàng trên mọi thị trường.",
+    "talkToOur": "Trò chuyện với chuyên gia",
+    "thePower": {
+      "title": "Nền tảng quản lý vận đơn xuyên biên giới",
+      "api": {
+        "tab": "Tích hợp API",
+        "title": "Tích hợp API, kết nối với các trang thương mại điện tử",
+        "content": "Tích hợp liền mạch với tất cả các kênh bán, tự động nhập & đồng bộ dữ liệu về các đơn hàng, cho phép doanh nghiệp kiểm soát số lượng hàng lớn chỉ trên một màn hình."
+      },
+      "order": {
+        "tab": "Phần mềm quản lý đơn hàng",
+        "title": "Màn hình quản lý tập trung",
+        "content": "Quản lý tất cả mọi thứ liên quan đến đơn đặt hàng, bao gồm thông tin sản phẩm, giao hàng, tồn kho, v.v."
+      },
+      "inventory": {
+        "tab": "Quản lý tồn kho",
+        "title": "Dự báo nhu cầu để lên kế hoạch nhập hàng tồn kho",
+        "content": "Đồng bộ và theo dõi mức tồn kho trên nhiều nhà kho. Đặt lời nhắc cảnh báo mức tồn kho đã đạt giới hạn để nhà bán lên kế hoạch chuẩn bị đủ lượng hàng phục vụ bán hàng đa kênh và toàn cầu."
+      },
+      "multi": {
+        "tab": "Quản lý đa thị trường",
+        "title": "Quản lý đa kênh bán hàng",
+        "content": "Các số liệu thống kê chi tiết giúp nhà bán dễ dàng theo dõi hiệu suất bán hàng trên nhiều kênh và thị trường khác nhau."
+      },
+      "detailed": {
+        "tab": "Báo cáo và phân tích chi tiết",
+        "title": "Báo cáo và phân tích chi tiết",
+        "content": "Cập nhật hoạt động kinh doanh theo thời gian thực với các số liệu chính xác về hiệu quả kinh doanh, tồn kho, dự báo bán hàng. Doanh nghiệp có thể căn cứ vào đây để đưa ra quyết định về chiến lược kinh doanh."
+      }
+    },
+    "ourWareHouse": {
+      "title": "Mạng lưới kho",
+      "content": "Kết nối với mạng lưới trung tâm fulfillment toàn cầu của IChiba OnePlatform, đáp ứng mọi nhu cầu logistics của khách hàng."
+    },
+    "whatMakes": {
+      "title": "Tại sao dịch vụ fulfillment xuyên biên giới của IChiba OnePlatform vượt trội?",
+      "trust": {
+        "title": "Các trung tâm fulfillment đáng tin cậy",
+        "content": "Ngoài các trung tâm fulfillment thuộc sở hữu của IChiba, chúng tôi còn hợp tác với các đơn vị bên thứ 3 để đảm bảo tốc độ xử lý hàng, rút ngắn thời gian giao hàng mà vẫn đảm bảo chất lượng dịch vụ."
+      },
+      "optional": {
+        "title": "Các dịch vụ cộng thêm",
+        "content": "Các dịch vụ cộng thêm bao gồm gộp hàng, chụp ảnh, đóng gói bảo vệ và bảo hiểm mang đến cho người mua một trải nghiệm mua hàng đáng nhớ."
+      },
+      "custome": {
+        "title": "Các dịch vụ tăng nhận diện thương hiệu",
+        "content": "Chúng tôi cung cấp các dịch vụ để gia tăng nhận diện thương hiệu như đóng gói kèm thẻ quà tặng, băng keo in logo nhãn hàng, v.v."
+      },
+      "automation": {
+        "title": "Vận hành tự động",
+        "content": "Mỗi bước trong dịch vụ fulfillment của chúng tôi đều được tự động hóa, vì vậy doanh nghiệp có thể tập trung phát triển các khía cạnh kinh doanh khác."
+      },
+      "reliable": {
+        "title": "Chất lượng hàng đầu",
+        "content": "IChiba OnePlatform sử dụng những vật liệu đóng gói cao cấp nhất và công nghệ hàng đầu trong ngành, qua đó cải thiện sự hài lòng của khách hàng lên đến 99%."
+      },
+      "noOrde": {
+        "title": "Không yêu cầu đơn hàng tối thiểu",
+        "content": "Không yêu cầu về số lượng hay giá trị đơn hàng tối thiểu. Dù chỉ là một đơn hàng, chúng tôi cũng sẵn sàng phục vụ bạn."
+      }
+    },
+    "notSure": {
+      "title": "Bạn vẫn chưa chắc mình cần gì? Đội ngũ chuyên gia của chúng tôi có thể hỗ trợ!",
+      "content": "Liên hệ ngay với đội ngũ chuyên gia của chúng tôi để tìm hiểu những bí quyết mở rộng hoạt động kinh doanh ra toàn cầu, cũng như những công cụ hỗ trợ cần thiết để thực hiện điều đó.",
+      "advice": "Liên hệ ngay"
+    }
+  },
+  "metatitle": {
+    "blog": "Blog IChiba OnePlatform: Cung Cấp Giải Pháp SaaS Hỗ Trợ TMĐT",
+    "contactSale": "Liên hệ IChiba OnePlatform: Cung Cấp Giải Pháp SaaS Hỗ Trợ TMĐT",
+    "suport": "Hỗ trợ IChiba OnePlatform: Cung Cấp Giải Pháp SaaS Hỗ Trợ TMĐT",
+    "ship4p": "Giải Pháp Vận Chuyển Đa Kết Nối | Ship4P",
+    "crossborder": "Giải Pháp Phần Mềm Dành Cho Các Nhà TMĐT Xuyên Biên Giới",
+    "OMSOverview": "Phần Mềm Quản Lý Bán Hàng Đa Kênh Cho Mọi Doanh Nghiệp: Tổng Quan",
+    "OMSFeatures": "Phần Mềm Quản Lý Bán Hàng Đa Kênh Cho Mọi Doanh Nghiệp: Tính Năng",
+    "OMSPricing": "Phần Mềm Quản Lý Bán Hàng Đa Kênh Cho Mọi Doanh Nghiệp: Bảng Giá",
+    "digitalOverview": "Thiết Kế Website Chuyên Nghiệp, Chuẩn SEO",
+    "digitalFeatures": "Dịch Vụ Thiết Kế Website Bán Hàng Từ A-Z",
+    "digitalLandingPage": "Landing page",
+    "wmsOverview": "Giải Pháp Quản Lý Kho Hàng Hiệu Quả Cho Doanh Nghiệp",
+    "wmsFeatures": "Phần Mềm Quản Lý Kho Bãi Online Tốt Nhất",
+    "eDistributors": "Giải Pháp Toàn Diện Hỗ Trợ Các Nhà Phân Phối TMĐT",
+    "orderFulfillment": "Giải Pháp Thực Hiện Đơn Hàng Đa Kênh Linh Hoạt | IChiba OnePlatform",
+    "ecomFulfill": "Dịch Vụ Hoàn Thiện Đơn Hàng Thương Mại Điện Tử | IChiba OnePlatform",
+    "warehouseFulfillment": "Giải Pháp Thực Hiện Đơn Hàng Warehouse Fulfillment Đột Phá",
+    "multi": "Giải Pháp Hoàn Tất Đơn Hàng Đa Kênh Cho Doanh Nghiệp",
+    "omnichannel": "Giải Pháp Chuyển Đổi Số Cho Nhà Bán Lẻ Đa Kênh & Doanh Nghiệp SME",
+    "brandCommerce": "Brand Commerce: Nâng Tầm Thương Hiệu",
+    "smes": "Giải Pháp Chuyển Đổi Số Cho Nhà Bán Lẻ Đa Kênh & Doanh Nghiệp SME",
+    "pimOverview": "Giải Pháp Phần Mềm Giúp Quản Lý Dữ Liệu Sản Phẩm Hiệu Quả: Tổng Quan",
+    "pimFeatures": "Giải Pháp Phần Mềm Giúp Quản Lý Dữ Liệu Sản Phẩm Hiệu Quả: Tính Năng",
+    "smartCBOverview": "Phần Mềm Quản Lý Mua Hàng & Vận Chuyển Xuyên Biên Giới | Tổng Quan",
+    "smartCBFeatures": "Phần Mềm Quản Lý Mua Hàng & Vận Chuyển Xuyên Biên Giới | Tính Năng",
+    "wareHouse": "Dịch Vụ Thực Hiện Đơn Hàng Warehouse Fulfillment | IChiba OnePlatform",
+    "crossFulfillment": "Dịch Vụ Fulfillment Xuyên Biên Giới | IChiba OnePlatform",
+    "careers": {
+      "index": {
+        "title": "Khám phá cơ hội việc làm tại IChiba OnePlatform.",
+        "meta": "Với sứ mệnh phát triển thị trường thương mại điện tử toàn cầu, IChiba OnePlatform tạo ra một môi trường làm việc đa dạng và cởi mở, khuyến khích nhân viên phát triển bản thân và sáng tạo để đóng góp cho sự thành công của công ty."
+      },
+      "ourLife": {
+        "title": "Văn Hóa Tại IChiba OnePlatform",
+        "meta": "Chúng tôi cung cấp một môi trường làm việc linh hoạt, được trang bị đầy đủ các thiết bị cần thiết nhằm thúc đẩy sự sáng tạo và tập trung."
+      },
+      "listCareers": {
+        "title": "Trang tuyển dụng | IChiba OnePlatform",
+        "meta": "Trang tuyển dụng cung cấp thông tin chi tiết về các vị trí tuyển dụng, quy trình phỏng vấn và các phúc lợi cho nhân viên. Hãy truy cập trang tuyển dụng của IChiba OnePlatform để khám phá các cơ hội việc làm tuyệt vời và bắt đầu hành trình sự nghiệp của bạn ngay hôm nay!."
+      },
+      "trust": {
+        "title": "An toàn và bảo mật | IChiba OnePlatform",
+        "meta": "IChiba cam kết bảo mật dữ liệu khách hàng với các tiêu chuẩn an toàn, tuân thủ nghiêm ngặt và các giải pháp bảo mật tích hợp, giúp doanh nghiệp phát triển bền vững."
+      },
+      "blog": {
+        "title": "Blog | IChiba OnePlatform",
+        "meta": "Trang thông tin chung và các sự kiện diễn ra tại IChiba OnePlatform."
+      }
+    },
+    "orderFulfillmentPage": {
+      "title": "Integrating IChiba OMS to Fulfillment by EFEX",
+      "subTitle": "IChiba OMS partners with Fulfillment by EFEX service to deliver a solution, in which businesses enhance the efficiency of multichannel selling and ensure the effectiveness in high-volume picking, packing, and shipping operations.",
+      "contactSale": "Contact Sales",
+      "process": {
+        "title": "Order Fulfillment Process at EFEX",
+        "subTitle": "Power your growth across any sales channel",
+        "step": [
+          "Customers place orders on any sales channels",
+          "EFEX picks, packs and ships the orders",
+          "EFEX deliveries orders to customers"
+        ],
+        "channels": {
+          "web": "Brand websites",
+          "platforms": "eCommerce platforms",
+          "platformsEg": "(Shopee, Lazada, Tiki,..)",
+          "stores": "Social media stores",
+          "storesEg": "(Facebook, Instagram, Tiktok,...)"
+        },
+        "fulfillmentEfex": "Fulfillment by EFEX",
+        "fbe": "(FBE)",
+        "customers": "Customers"
+      },
+      "fulfillmentDifferent": {
+        "title": {
+          "first": "What makes",
+          "second": "special in businesses’ minds?"
+        },
+        "subTitle": "We can help business unrivaled order fulfillment for a new age of ecommerce with the lowest cost as possible",
+        "fbm": {
+          "title": "Fulfillment by Merchant (FBM)",
+          "content": [
+            {
+              "title": "Increasingly high operating fees",
+              "description": "The sellers must pay a variety of fees, including warehouse renting, staff employment, warehouse equipment, etc."
+            },
+            {
+              "title": "Time-consuming and less professional",
+              "description": "Picking, packing, and shipping are not smooth and professional, which wastes so much time, cost, and customer leaving. "
+            },
+            {
+              "title": "Low delivery time",
+              "description": "Shipping time with FBM is frequently long and delayed, which may affect customer satisfaction and order cancellations."
+            }
+          ]
+        },
+        "fbe": {
+          "title": "Fulfillment by EFEX (FBE)",
+          "content": [
+            {
+              "title": "Lower operating fee",
+              "description": {
+                "first": "Sellers can save",
+                "second": " up to 70%",
+                "third": " on expenses for operations,staff, firefighting, and prevention.",
+                "fourth": " Pay as you really go."
+              }
+            },
+            {
+              "title": "Smooth and professional",
+              "description": {
+                "first": "FBE smoothly manages the entire process, from storage to picking, packing, and shipping, meeting the SLA requirement. Increase precise order handling by",
+                "second": " up to 99.9%."
+              }
+            },
+            {
+              "title": "Faster delivery time",
+              "description": {
+                "first": "Swiftly and efficiently handle orders, resulting in a",
+                "second": " 50% improvement",
+                "third": " in delivery speeds. This not only boosts customer satisfaction but also drives increased sales."
+              }
+            }
+          ]
+        }
+      },
+      "fulfillOrders": {
+        "heading": "Why should fulfill orders with EFEX?",
+        "subHeading": "EFEX can optimize operation and save up to 70% operating fee",
+        "sameDay": {
+          "title": "Same-day order processing",
+          "content": [
+            "Fulfill orders speedily as soon as there is any new order on sales channels, deliver the exact items on time as promised.",
+            "Commit to achieve 100% SLA during the process. Be able to fulfill up to 2000 orders/day."
+          ]
+        },
+        "payAs": {
+          "title": "Pay as you really go",
+          "content": [
+            "The fulfill fee is counted based on the number and size of orders processed.",
+            "No extra or hidden fee, many promotions for each sellers annually."
+          ]
+        },
+        "multiple": {
+          "title": "Multiple warehouses at convenient locations",
+          "content": "Our expansive logistics network spans across Southeast Asia, strategically positioned in the heart of key cities for seamless import- export, and distribution of goods."
+        },
+        "delivery": {
+          "title": "Last-mile delivery",
+          "content": "Connect with renowned domestic and international carriers to deliver your orders quickly with the lowest rates while keeping your order safe 100% during order shipping."
+        },
+        "customized": {
+          "title": "Customized packing",
+          "content": [
+            "Optimize and customize packaging for optimal profitability.",
+            "Everything to boost your brand awareness such as inserting label or logo, adding vouchers, cards, marketing documents, we are on it!"
+          ]
+        },
+        "provide": {
+          "title": "Provide Multichannel Order Management System (OMS)",
+          "free": "Free",
+          "content": [
+            "Sell everywhere, manage in one place with various advanced features from our proprietary software",
+            "Everything on multiple channels (TikTokShop, Shopee, Lazada,..) is integrated on one..."
+          ]
+        }
+      },
+      "unlocking": {
+        "title": "Unlocking business efficiency: maximizing operations and fulfillment",
+        "subTitle": "Enhance productivity, accuracy & speed with our advanced warehouses."
+      },
+      "fulfillNetwork": {
+        "title": "Fulfillment Network",
+        "subTitle": "We’re everywhere you need us to be, around the world."
+      },
+      "customerSuccess": {
+        "ourSuccess": "Customer success is our success",
+        "title": "Customere Success Stories",
+        "subTitle": "Discover how businesses like yours use Intercom to acquire, engage, and support customers."
+      },
+      "ourPartners": {
+        "title": "Our Partners",
+        "subTitle": "EFEX is always on the lookout to forge strong partnerships with industry leaders to bring the top-notch service for every business"
+      },
+      "multichannel": {
+        "title": "Multichannel Order Fulfillment",
+        "subTitle": "Fulfill everything for any channel accurately and professionally to increase customer retention and leave unforgettable impression on your brand.",
+        "btnText": "Contact Sales"
+      },
+      "contact": {
+        "title": "Let’s focus on scaling business, EFEX will handle the rest!"
+      },
+      "frequentlyQues": {
+        "getAnswers": "Get answers for",
+        "title": "Frequently asked questions",
+        "subTitle": "Explore our frequently asked questions to learn more about Fulfillment by EFEX (FBE) and more.",
+        "content": [
+          {
+            "title": "What is “Fulfillment”?",
+            "description": "\"Fulfillment\" refers to the procedure of storing, packaging, and sending out orders, along with managing returns and exchanges. While some companies handle fulfillment internally, others utilize services like Fulfillment by EFEX, or a blend of internal and third-party choices. Efficient and dependable fulfillment brings super customer satisfaction."
+          },
+          {
+            "title": "What is FBE (Fulfillment by EFEX)?",
+            "description": "Fulfillment by EFEX (FBE) is a service that allows businesses to warehouse or fulfill orders on multiple sales channels. When your customers make a purchase on any channel, EFEX fulfillment specialists start picking, packing, shipping orders, and managing returns effectively as fast as possible."
+          },
+          {
+            "title": "How EFEX fulfillment works?",
+            "description": "When the seller have a new order, EFEX warehouse specialists pick, pack, and ship the order to your customer on the same day. Moreover, EFEX fulfillment specialists can process returned products. We will quickly perform returned product testing, assessment, sorting, and sellable items back to the active inventory. Always ensure that returns are neither time-consuming, nor costly to provide the best possible client experience."
+          },
+          {
+            "title": "How much does FBE cost per item?",
+            "description": {
+              "first": "Expenses differ per the number of products, which encompasses both order processing charges and storage costs. To find out how much Fulfillment by EFEX costs, please refer to our",
+              "second": "pricing details."
+            }
+          }
+        ],
+        "learnMore": {
+          "first": "Learn more about",
+          "second": "eCommerce order fulfillment"
+        }
+      }
+    },
+    "businessOwner": "Giải Pháp Thương Mại Điện Tử Cho Chủ Doanh Nghiệp",
+    "marketingTeams": "Giải Pháp Thương Mại Điện Tử Cho Marketing",
+    "globalSelling": "Giải Pháp Bán Hàng Xuyên Biên Giới | IChiba OnePlatform",
+    "allInOne": "Giải Pháp Cho Nhu Cầu Quản Lý Đa Hãng Vận Chuyển",
+    "proxy": "Số Hoá Quy Trình Quản Lý Mua Hộ, Vận Chuyển Quốc Tế",
+    "multichannelFulfillment": "Giải Pháp Thực Hiện Đơn Hàng Đa Kênh",
+    "orderFulfillmentByEfex": "Sự Kết Hợp Độc Quyền Giữa IChiba Commerce Layer Và Fulfillment By EFEX",
+    "performance": "Giải Pháp Tăng Trưởng & Tiếp Thị Hiệu Quả | IChiba OnePlatform",
+    "posOverview": "Phần Mềm Quản Lý Điểm Bán Hàng (POS) Cho Mọi Nhà Bán Lẻ: Tổng Quan",
+    "posFeature": "Phần Mềm Quản Lý Điểm Bán Hàng (POS) Cho Mọi Nhà Bán Lẻ: Tính Năng",
+    "buildStoreFrontLandingPage": "Thiết Kế Landing Page Chuyển Đổi Cao: IChiba StoreFront Layer",
+    "buildStoreFrontOverview": "Trình Tạo Website Nhanh StoreFront Layer",
+    "buildStoreFrontCommerceSites": "Thiết Kế Website Bán Hàng Chuyên Nghiệp, Đa Thị Trường",
+    "buildStoreFrontThemesLibrary": "Kho Giao Diện Website và Landing Page Bán Hàng: IChiba",
+    "omnichannelSelling": "Giải Pháp Bán Hàng Đa Kênh | IChiba OnePlatform",
+    "retail": "Giải Pháp SaaS Toàn Diện Dành Cho Doanh Nghiệp Bán Lẻ Online Và Offline (O2O)",
+    "motherBaby": "Giải Pháp SaaS Cho Ngành Mẹ Và Bé | IChiba OnePlatform",
+    "logistic": "Cải Thiện Hoạt Động Logistics Với Sự Chính Xác Và Hiệu Quả Hoàn Hảo",
+    "fashionBeauty": "Giải Pháp SaaS Hỗ Trợ Doanh Nghiệp Thời Trang & Làm Đẹp",
+    "electronic": "Giải Pháp SaaS Dành Cho Ngành Hàng Đồ Điện Tử",
+    "dropshipping": "Cách Mạng Hóa Ngành Dropshipping Với SaaS IChiba OnePlatform",
+    "caseStudies": "Case Studies: Câu Chuyện Khách Hàng Thành Công Của IChiba",
+    "omnichannelRetailers": "Giải Pháp Bán Lẻ Đa Kênh Hiệu Quả Nhất",
+    "crossBorderEcommerce": "Giải Pháp Phần Mềm Dành Cho Các Nhà TMĐT Xuyên Biên Giới",
+    "ecommerceFulfillment": "Dịch Vụ Hoàn Thiện Đơn Hàng Thương Mại Điện Tử | IChiba OnePlatform",
+    "products": "Hệ Sinh Thái Sản Phẩm Phần Mềm SaaS IChiba",
+    "wms": "Phần Mềm Quản Lý Kho Hàng Thông Minh IChiba WMS",
+    "crawlerOverview": "Trình Thu Thập Dữ Liệu Sản Phẩm Ecommerce | IChiba Crawler",
+    "commerceLayer": "Phần Mềm Quản Lý Bán Hàng Đa Kênh Đa Thị Trường",
+    "commerceLayerPricing": "Commerce Layer: Giải pháp giá tối ưu cho doanh nghiệp của bạn",
+    "integrations": "Hệ Sinh Thái Phần Mềm Logistics & Thương Mại Điện Tử",
+    "operationTeams": "Giải Pháp Thương Mại Điện Tử Cho Vận Hành",
+    "technicalTeams": "Giải Pháp Thương Mại Điện Tử Cho Kĩ Thuật",
+    "thankYou": "Cảm ơn",
+    "pod": "Hành trình Print-on-demand xuyên suốt từ kết nối nguồn hàng đến giao hàng!"
+  },
+  "metaDescription": {
+    "ship4p": "Giải pháp vận chuyển đa kết nối Ship4P mang đến trải nghiệm quản lý các hãng vận chuyển tập trung mượt mà, giúp tiết kiệm thời gian để tập trung cho các nhiệm vụ kinh doanh chiến lược hơn.",
+    "crossborder": "Dành cho những doanh nghiệp làm thương mại điện tử xuyên biên giới, chúng tôi đã phát triển một bộ giải pháp hoàn chỉnh giúp nhà bán hàng tăng trưởng doanh thu vượt bậc.",
+    "OMSOverview": "Phần mềm quản lý bán hàng đa kênh (OMS) của IChiba OnePlatform giúp doanh nghiệp kiểm soát được các đơn đặt hàng, phân phối hàng hóa hợp lý thông qua những tích hợp đa kênh toàn diện.",
+    "OMSFeatures": "Tính năng phần mềm quản lý bán hàng đa kênh iChiba OMS giúp quản lý đơn hàng sản phẩm tập trung, báo cáo chi tiết cho cửa hàng.",
+    "digitalOverview": "Thiết Kế Website Chuyên Nghiệp, Chuẩn SEO",
+    "digitalFeatures": "Dịch Vụ Thiết Kế Website Bán Hàng Từ A-Z",
+    "wmsOverview": "Giải Pháp Quản Lý Kho Hàng Hiệu Quả Cho Doanh Nghiệp",
+    "wmsFeatures": "Phần Mềm Quản Lý Kho Bãi Online Tốt Nhất",
+    "eDistributors": "Giải Pháp Toàn Diện Hỗ Trợ Các Nhà Phân Phối TMĐT",
+    "multi": "Giải Pháp Hoàn Tất Đơn Hàng Đa Kênh Cho Doanh Nghiệp",
+    "omnichannel": "Giải Pháp Bán Lẻ Đa Kênh Hiệu Quả Nhất",
+    "brand": "Brand Commerce: Nâng Tầm Thương Hiệu",
+    "smes": "Phần Mềm Quản Lý SaaS Tốt Nhất Cho Doanh Nghiệp Vừa và Nhỏ",
+    "pimOverview": "Phần mềm quản lý thông tin sản phẩm (PIM) của IChiba OnePlatform giúp quản lý dữ liệu đa kênh, đồng bộ hóa dữ liệu trên các hệ thống và tối ưu hóa để tăng trưởng doanh thu hiệu quả.",
+    "pimFeatures": "Phần mềm quản lý thông tin sản phẩm (PIM) của chúng tôi tích hợp đầy đủ các chức năng giúp tối ưu dữ liệu sản phẩm, từ đó nâng cao hiệu quả bán hàng và lợi nhuận.",
+    "smartCBOverview": "Chúng tôi giúp các nhà bán hàng xuyên biên giới xây dựng website bán hàng quốc tế với đa phương thức thanh toán, tiền tệ và ngôn ngữ; đồng thời quản lý mua hàng và vận chuyển hiệu quả.",
+    "smartCBFeatures": "Phần mềm quản lý mua hàng & vận chuyển xuyên biên giới Cross-Border Forwarding của IChiba OnePlatform cung cấp những tính năng vượt trội, giúp nhà bán hàng xây dựng website quốc tế, quản lý đơn mua và đơn bán,…",
+    "wareHouse": "IChiba OnePlatform mang đến giải pháp thực hiện đơn hàng Warehouse Fulfillment dựa trên nền tảng công nghệ để tối ưu hóa chuỗi cung ứng và tạo ra một cuộc cách mạng cho hoạt động kinh doanh của bạn.",
+    "crossFulfillment": "Với dịch vụ fulfillment xuyên biên giới của IChiba OnePlatform, chúng tôi có các trung tâm hoàn tất đơn hàng trên khắp thế giới giúp xử lý đơn hàng của bạn và vận chuyển chúng về tận nhà người mua.",
+    "buildStoreOverview": "StoreFront Layer IChiba OnePlatform (StoreFront Layer) hỗ trợ xây dựng website thương mại điện tử nhanh chóng với đầy đủ các công cụ linh hoạt nhất phù hợp cho mọi doanh nghiệp",
+    "omnichannelRetailers": "Phá vỡ rào cản bán hàng đa kênh cho nhà bán lẻ đa kênh/doanh nghiệp nhỏ với phần mềm quản lý tập trung, khách hàng của bạn ở đâu IChiba OnePlatform giúp bạn bán hàng tại đó",
+    "crossBorderEcommerce": "IChiba OnePlatform hỗ trợ bạn thúc đẩy doanh số bán hàng quốc tế và xây dựng chiến lược tăng trưởng toàn cầu của doanh nghiệp với giải pháp xuyên biên giới toàn diện",
+    "brandCommerce": "Brand Commerce - bộ thúc đẩy thương hiệu mạnh mẽ, đem tới trải nghiệm mua sắm mượt mà trên tất cả các điểm chạm, đại lý bán hàng, các kênh bán online, offline",
+    "orderFulfillment": "Giải pháp hoàn tất đơn hàng đa kênh IChiba OnePlatform cung cấp các giải pháp thực hiện đơn hàng thương mại điện tử và hậu cần cho khách hàng B2B & B2C",
+    "ecommerceFulfillment": "eCommerce Fuulfillment - hoàn thiện đơn hàng thương mại điện tử không tốn sức từ quản lý tồn kho đến theo dõi trạng thái đơn hàng",
+    "warehouseFulfillment": "IChiba OnePlatform đem tới giải pháp thực hiện đơn hàng warehouse fulfillment dựa trên nền tảng công nghệ để tối ưu hóa chuỗi cung ứng",
+    "posOverview": "Phần mềm IChiba POS giúp các điểm bán lẻ chuẩn hóa mọi hoạt động và mang lại trải nghiệm mua sắm liền mạch cho khách hàng. Người bán có thể cấu hình phần mềm đề phù hợp với yêu cầu...",
+    "posFeature": "Với những tính năng vượt trội, người bán có thể sử dụng IChiba POS để quản lý dữ liệu khách hàng & sản phẩm, tích performance nhiều phương thức thanh toán, giám sát nhân viên, v.v.",
+    "buildStoreFrontLandingPage": "Mở rộng kênh bán, tiếp cận nhiều khách hàng hơn với dịch vụ thiết kế website kinh doanh chuyên nghiệp, chuẩn SEO của IChiba OnePlatform.",
+    "buildStoreFrontOverview": "Trình tạo webiste nhanh StoreFront Layer của IChiba hỗ trợ xây dựng website thương mại điện tử nhanh chóng với các công cụ linh hoạt nhất.",
+    "buildStoreFrontCommerceSites": "Xây dựng website bán hàng/landing page quảng cáo của riêng bạn với đầy đủ các công cụ linh hoạt nhất. Tương thích với mọi mô hình doanh nghiệp và loại hình kinh doanh!",
+    "buildStoreFrontThemesLibrary": "Nền tảng thiết kế landing page quảng cáo chuyên nghiệp, với hơn 100+ mẫu giao diện có sẵn, thao tác đơn giản với chức năng kéo thả, và bảo mật dữ liệu cao.",
+    "businessOwner": "Doanh nghiệp gặp khó trong việc mở rộng quy mô? Giải pháp thương mại điện tử cho chủ doanh nghiệp sẽ giải quyết mọi vấn đề khó khăn phức tạp trong việc kinh doanh.",
+    "marketingTeams": "Giải pháp thương mại điện tử cho marketing từ IChiba OnePlatform giúp bạn tối ưu hóa chiến lược, tăng cường hiệu quả và kết nối mạnh mẽ với khách hàng tiềm năng.",
+    "globalSelling": "Giải pháp bán hàng xuyên biên giới đồng hành cùng các doanh nghiệp vươn ra toàn cầu bán hàng quốc tế đa kênh, đa thị trường và thực hiện fulfillment xuyên biên giới.",
+    "allInOne": "Tạm biệt nỗi lo quản lý quá nhiều hãng vận chuyển với giải pháp phần mềm của IChiba. Kết nối các đơn vị chuyển phát trong nước và quốc tế, quản lý trên một dashboard duy nhất.",
+    "proxy": "Bộ giải pháp SaaS IChiba được thiết kế riêng cho các doanh nghiệp mua hộ, vận chuyển quốc tế từ việc tạo trang web mới cho đến quản lý đơn hàng xuyên biên giới.",
+    "omnichannelSelling": "Bùng nổ doanh thu của bạn trên mọi kênh bán cùng với giải pháp bán hàng đa kênh của IChiba OnePlatform. Khách ở đâu bán ở đó, quản lý tất cả trên cùng một nền tảng.",
+    "multichannelFulfillment": "Đáp ứng mọi yêu cầu của khách hàng với giải pháp thực hiện đơn hàng đa kênh linh hoạt. Cung cấp dịch vụ fulfillment đa kênh hiệu quả trong mọi lĩnh vực kinh doanh.",
+    "orderFulfillmentByEfex": "IChiba OMS hợp tác với dịch vụ Fulfillment by EFEX để cung cấp giải pháp giúp các doanh nghiệp đảm bảo năng suất trong các hoạt động lấy hàng, đóng gói và vận chuyển.",
+    "performance": "Khởi đầu hành trình kinh doanh với giải pháp Marketing của IChiba OnePlatform. Đích đến của chúng tôi là giúp bạn tiếp cận và chuyển đổi nhiều khách hàng nhất có thể.",
+    "retail": "Dễ dàng quản lý hàng nghìn SKU sản phẩm, tự động in hóa đơn. Dù bạn bán hàng online hay offline, chúng tôi đều có giải pháp hỗ trợ quản lý.",
+    "motherBaby": "Các giải pháp SaaS cho ngành Mẹ và Bé của IChiba: giải quyết mọi nhu cầu quản lý của bạn. Phát triển cửa hàng Mẹ & Bé và xây dựng câu chuyện thành công ngay hôm nay!",
+    "logistic": "Khai thác toàn bộ tiềm năng của mạng lưới logistics bằng phần mềm SaaS của chúng tôi - được thiết kế để tích hợp liền mạch, theo dõi thời gian thực và hiệu suất được tối ưu hóa ở mọi thời nơi.",
+    "fashionBeauty": "Giải pháp quản lý bán hàng trong ngành Thời trang & Làm đẹp với các tính năng quan trọng như quản lý sản phẩm, báo cáo bán hàng, phân tích, v.v",
+    "electronic": "Nâng cao tiềm năng của các cửa hàng bán đồ điện tử bằng khả năng tích hợp liền mạch và quản lý thông minh. Quản lý chính xác sản phẩm, tồn kho theo serial và imei.",
+    "dropshipping": "Giải quyết mọi nỗi lo về quản lý đơn hàng, fulfillment tự động và báo cáo phân tích với giải pháp SaaS toàn diện IChiba dành cho ngành dropship.",
+    "caseStudies": "Khám phá những câu chuyện truyền cảm hứng về hành trình và những thành tựu đạt được của các doanh nghiệp đã và đang sử dụng nền tảng SaaS hỗ trợ thương mại điện tử IChiba.",
+    "products": "Hệ sinh thái phần mềm SaaS IChiba bao gồm các phần mềm hỗ trợ kinh doanh online-offline, được chia thành ba loại chính: thương mại điện tử, logistics và tăng doanh thu.",
+    "wms": "Phần mềm quản lý kho hàng thông minh IChiba WMS mang đến giải pháp quản lý và vận hành kho hàng toàn diện, giúp lập kế hoạch tồn kho và nâng cao hiệu suất xử lý đơn hàng.",
+    "crawlerOverview": "IChiba Crawler - Trình thu thập dữ liệu sản phẩm ecommerce hỗ trợ doanh nghiệp truy cập nguồn dữ liệu sản phẩm khổng lồ từ các nền tảng thương mại điện tử quốc tế",
+    "commerceLayer": "Phần mềm quản lý bán hàng đa kênh đa thị trường Commerce Layer của IChiba giúp tối ưu hóa quy trình bán hàng, tăng doanh thu và quản lý hiệu quả trên mọi nền tảng.",
+    "integrations": "Kết nối phần mềm của bạn với hệ sinh thái phần mềm logistics & thương mại điện tử của IChiba OnePlatform với hơn 200 tiện ích giúp đồng bộ hóa dữ liệu liền mạch.",
+    "operationTeams": "Khám phá giải pháp thương mại điện tử cho vận hành với nền tảng SaaS IChiba OnePlatform, tối ưu hoá quy trình và nâng cao hiệu suất với đội ngũ chuyên nghiệp.",
+    "technicalTeams": "Khám phá giải pháp thương mại điện tử cho kĩ thuật với nền tảng SaaS IChiba, tối ưu hóa quy trình kỹ thuật và nâng cao hiệu quả kinh doanh trực tuyến của bạn.",
+    "thankYou": "",
+    "commerceLayerPricing": "Các gói dịch vụ của IChiba Commerce Layer không chỉ tiết kiệm, linh hoạt mà còn được thiết kế tối ưu, tùy chỉnh linh hoạt nhằm đáp ứng mọi yêu cầu đặc biệt của doanh nghiệp",
+    "bookDemo": "Đặt lịch tư vấn trực tuyến với IChiba để khám phá các giải pháp SaaS thương mại điện tử phù hợp cho doanh nghiệp của bạn, cùng chuyên gia hỗ trợ bạn đạt được mục tiêu kinh doanh.",
+    "pod": ""
+  },
+
+  "viewMore": "Xem thêm",
+  "requestSupport": "Yêu cầu hỗ trợ",
+  "solutions": {
+    "cbe": {
+      "crossBorderEcommerce": "TMĐT xuyên biên giới",
+      "banner": {
+        "heading": "Vượt xuyên biên giới - Tăng trưởng vượt bậc",
+        "subHeading": "Thúc đẩy doanh số bán hàng quốc tế và xây dựng chiến lược tăng trưởng toàn cầu của doanh nghiệp với giải pháp xuyên biên giới toàn diện."
+      },
+      "boost": {
+        "heading": "Bứt phá doanh số bán hàng toàn cầu với khả năng chuyên biệt chỉ có tại IChiba",
+        "label1": "Cổng thanh toán nội địa",
+        "label2": "Quốc gia & Vùng lãnh thổ",
+        "label3": "Nội tệ"
+      },
+      "globalExpansion": {
+        "heading": "Mọi thứ bạn cần để mở rộng kinh doanh ra thị trường quốc tế nhanh chóng",
+        "subHeading": "Khai phá tiềm năng thương mại điện tử xuyên biên giới, cá nhân hóa trải nghiệm của khách hàng theo từng đất nước.",
+        "tab1": {
+          "title": "Đa thị trường",
+          "content1": "Quản trị viên có toàn quyền kiểm soát tất cả những tính năng TMĐT xuyên biên giới, cho phép bạn xử lý các vấn đề về ngôn ngữ, vận chuyển, thủ tục hải quan và các giấy tờ, tất cả chỉ trên một dashboard. ",
+          "content2": "Tối ưu hóa website bán hàng để nâng cao trải nghiệm khách hàng: Tùy chỉnh ngôn ngữ, giao diện web, đơn vị tiền tệ cho phù hợp với từng vùng miền và đất nước."
+        },
+        "tab2": {
+          "title": "Thanh toán linh hoạt",
+          "content1": "Đa dạng  loại tiền tệ: Hỗ trợ hơn 100 loại tiền tệ.",
+          "content2": "Cung cấp nhiều phương thức thanh toán với nhiều loại tiền tệ và ngôn ngữ, giúp quá trình thanh toán quốc tế trở nên dễ dàng hơn."
+        },
+        "tab3": {
+          "title": "Website bán hàng quốc tế",
+          "content1": "Trình duyệt web được tối ưu hóa cho từng thị trường với nội dung và cấu trúc phù hợp với thị hiếu của người tiêu dùng ở thị trường đó.",
+          "content2": "Tính năng đề xuất sản phẩm dựa vào thói quen và sở thích mua sắm của người dân mang đến trải nghiệm mua sắm được cá nhân hóa cao."
+        }
+      },
+      "globalExpansion1": {
+        "heading": "Hoàn thiện đơn hàng và vận chuyển quốc tế nhanh chóng",
+        "subHeading": "Đập tan mọi nỗi lo về các rào cản trong xử lý đơn hàng quốc tế cũng như các thủ tục để vận chuyển hàng hóa xuyên biên giới",
+        "tab1": {
+          "title": "Xử lý đơn hàng quốc tế",
+          "content1": "Chúng tôi hợp tác với các bên vận chuyển thứ 3 giúp khách hàng có nhiều sự lựa chọn hơn, tối ưu hóa thời gian & chi phí vận chuyển.",
+          "content2": "Tích hợp hóa đơn thương mại với các tính năng thanh toán để quản lý tài liệu hải quan và thông quan nhanh chóng.",
+          "content3": "Thu thập dữ liệu tồn kho từ nhiều trung tâm fulfillment và hiển thị chính xác mức tồn kho trên màn hình quản lý."
+        },
+        "tab2": {
+          "title": "Vận chuyển xuyên biên giới",
+          "content1": "Cung cấp nhiều lựa chọn vận chuyển quốc tế với các mức giá và cấp độ dịch vụ khác nhau.",
+          "content2": "Sử dụng công nghệ AI tự động đề xuất mức giá vận chuyển tốt nhất dựa trên thuộc tính của sản phẩm và điểm giao hàng mục tiêu.",
+          "content3": "Hiển thị đầy đủ các thông tin về trạng thái giao hàng, đơn vị vận chuyển, dữ liệu được cập nhật theo thời gian thực, quản lý trên một màn hình duy nhất."
+        },
+        "tab3": {
+          "title": "Công cụ tính thuế tự động",
+          "content1": "Cập nhật mã HS code, các giấy tờ hải quan thiết yếu,... cho phép quy trình thương mại quốc tế được diễn ra đúng như dự tính.",
+          "content2": "Cho phép khách hàng xem và thanh toán trước tất cả các chi phí hải quan và thuế để tránh những sự cố khi giao hàng.",
+          "content3": "Tự động tính toán chính xác các loại thuế, dựa trên sản phẩm được bán, vị trí của người mua, v.v."
+        },
+        "tab4": {
+          "title": "Khai thuê hải quan",
+          "content1": "Thông quan hàng hóa một cách nhanh chóng, ngay cả ở những thị trường được coi là khó tính.",
+          "content2": "Cập nhật liên tục tình trạng lô hàng trong quá trình xử lý hải quan theo thời gian thực.",
+          "content3": "Sử dụng các công nghệ thông quan tiên tiến và phân hệ Trao đổi dữ liệu điện tử EDI để đảm bảo hoạt động thương mại được diễn ra nhất quán và tuân thủ quy trình."
+        }
+      },
+      "service": {
+        "heading": "Các sản phẩm dành riêng cho doanh nghiệp của bạn",
+        "prod1": {
+          "label": "Phần mềm tích hợp vận chuyển (Ship4P)",
+          "description": "Nền tảng quản lý tập trung các hãng vận chuyển, giúp giảm chi phí và đơn giản hóa việc quản lý lô hàng."
+        },
+        "prod2": {
+          "label": "Phần mềm quản lý nhà kho (WMS)",
+          "description": "Thúc đẩy hiệu quả, giảm chi phí và tạo ra một doanh nghiệp siêu kết nối nhân viên, dữ liệu và quy trình trong kho."
+        },
+        "prod3": {
+          "label": "Cross-Border Forwarding",
+          "description": "Tận hưởng trải nghiệm mua sắm xuyên biên giới thú vị trên đa kênh, đa kho hàng, đa ngôn ngữ và đa tiền tệ."
+        },
+        "prod4": {
+          "label": "Thực hiện đơn hàng (Order Fulfillment)",
+          "description": "Cung cấp các giải pháp thực hiện đơn hàng và logistics hiện đại tùy chỉnh cho khách hàng B2B & B2C với các tính năng quản lý và báo cáo đầy đủ."
+        },
+        "prod5": {
+          "label": "Quản lý thông tin sản phẩm (PIM)",
+          "description": "Hệ thống thu thập, quản lý và bổ sung dữ liệu sản phẩm, tạo danh mục sản phẩm và phân phối chúng tới các kênh bán hàng tiện lợi."
+        }
+      },
+      "globalSelling": {
+        "heading": "Vươn tới cuộc chơi toàn cầu chưa bao giờ dễ dàng đến thế!",
+        "item1": {
+          "title": "Công cụ hỗ trợ toàn diện",
+          "description": "Với cơ sở hạ tầng hoàn chỉnh, chúng tôi có thể giúp bạn quản lý mọi hoạt động logistics, bao gồm vận chuyển xuyên biên giới, các thủ tục hải quan, hàng hoàn, v.v..."
+        },
+        "item2": {
+          "title": "Mở rộng quy mô dễ dàng",
+          "description": "Nắm bắt các cơ hội bán hàng mới tại các thị trường trước đây không thể tiếp cận và định vị doanh nghiệp để lên kế hoạch phát triển."
+        },
+        "item3": {
+          "title": "Dịch vụ hỗ trợ 24/7/365 ",
+          "description": "Dịch vụ hỗ trợ nhanh chóng, toàn diện và dễ tiếp cận nhất, hoạt động 24 giờ một ngày, 7 ngày một tuần, 365 ngày một năm."
+        }
+      },
+      "goGlobal": {
+        "heading": "Khai phá mọi thị trường quốc tế tiềm năng với IChiba",
+        "subHeading": "Bản địa hóa trải nghiệm khách hàng - “xương sống” của thương mại điện tử xuyên biên giới."
+      },
+      "slider": "Chúng tôi đã giúp hàng trăm nhãn hàng mở rộng ra thị trường quốc tế",
+      "contactNow": {
+        "heading": "Bạn đã sẵn sàng trải nghiệm mua sắm quốc tế dễ dàng và tiện lợi như mua sắm nội địa?",
+        "subHeading": "Liên hệ chúng tôi ngay để săn ưu đãi mới nhất trên thế giới và nhận lời khuyên từ các chuyên gia về xu hướng và nhu cầu thị trường hiện tại."
+      }
+    },
+    "warehouseFulfillment": {
+      "banner": {
+        "heading": "Tiếp thêm sức mạnh cho doanh nghiệp với giải pháp thực hiện đơn hàng warehouse fulfillment đột phá",
+        "subHeading": "Mang đến giải pháp thực hiện đơn hàng warehouse fulfillment dựa trên nền tảng công nghệ để tối ưu hóa chuỗi cung ứng và tạo ra một cuộc cách mạng cho hoạt động kinh doanh của bạn."
+      },
+      "classification": {
+        "heading": "Phân loại nhà kho",
+        "subHeading": "Để đáp bảo đáp ứng được tất cả yêu cầu của khách hàng, chúng tôi chia hệ thống nhà kho thành ba loại riêng biệt dựa trên mục đích sử dụng của chúng.",
+        "title1": "Kho ngoại quan",
+        "title2": "Kho thành phẩm",
+        "title3": "Kho phân phối trực tiếp",
+        "tab1": "Lưu trữ hàng hóa nhập khẩu dưới sự kiểm soát của hải quan mà không phải trả các khoản thuế cho đến khi chúng sẵn sàng để xuất khẩu hoặc thông quan để tiêu thụ nội địa.",
+        "tab2": "Quản lý hàng lưu kho trong một khoảng thời gian, bao gồm lấy hàng, đóng gói, điều phối hậu cần và vận chuyển kịp thời. ",
+        "tab3": "Hàng hóa được vận chuyển trực tiếp đến kho, sau đó phân loại và điều phối để giao hàng đến điểm đích mà không cần lưu kho lâu dài."
+      },
+      "businessSolution": {
+        "heading": "Khám phá cách chúng tôi nâng tầm doanh nghiệp",
+        "subHeading": "Giải pháp của IChiba tối ưu hóa hoạt động xử lý hàng hóa, đảm bảo quá trình vận hành diễn ra suôn sẻ và giúp doanh nghiệp đứng vững trong thị trường cạnh tranh khốc liệt.",
+        "t1": {
+          "title": "#1 Xử lý đơn hàng đa kênh",
+          "content1": "Sử dụng hệ thống quét mã vạch và phân loại tự động để lấy hàng và đóng gói chính xác các mặt hàng từ các kênh khác nhau trong một nhà kho.",
+          "content2": "Tích hợp hệ thống quản lý hàng tồn kho để cung cấp khả năng hiển thị mức tồn kho theo thời gian thực  trên tất cả các kênh, ngăn chặn việc bán khống hoặc cháy hàng.",
+          "content3": "Tối ưu hóa cách bố trí nhà kho và các chiến lược lưu trữ để chứa hàng tồn kho từ nhiều kênh, tối đa hóa không gian và giảm thiểu thời gian xử lý."
+        },
+        "t2": {
+          "title": "#2. Thiết lập hệ thống đa kho hàng ở đa thị trường",
+          "content1": "Cung cấp hệ thống nhiều kho hàng có vị trí chiến lược ở các thị trường khác nhau để việc xử lý đơn hàng nhanh hơn và tiết kiệm chi phí.",
+          "content2": "Sử dụng các thuật toán định tuyến đơn hàng thông minh để tự động phân bổ đơn hàng đến nhà kho phù hợp nhất dựa trên khoảng cách, tình trạng tồn kho và địa chỉ giao hàng."
+        },
+        "t3": {
+          "title": "#3. Tích hợp công nghệ hiện đại",
+          "content1": "Sử dụng hệ thống quản lý kho hàng để hợp lý hóa và tự động hóa các bước thực hiện khác nhau trong nhà kho.",
+          "content2": "Tích hợp với hệ thống của hãng vận chuyển để tự động hóa việc tạo nhãn vận chuyển, theo dõi trạng thái đơn hàng và tính toán tỉ lệ giao hàng, đơn giản hóa quy trình vận chuyển."
+        },
+        "t4": {
+          "title": "#4 Báo cáo và phân tích chi tiết",
+          "content1": "Theo dõi và phân tích các chỉ số thực hiện đơn hàng, bao gồm tỷ lệ giao hàng đúng hạn, tỷ lệ hoàn thành đơn hàng, sự hài lòng của khách hàng,... Đảm bảo duy trì chất lượng dịch vụ và xác định chỗ cần cải thiện.",
+          "content2": "Sử dụng dữ liệu nâng cao để tối ưu hóa cách bố trí và tổ chức kho hàng, chọn tuyến đường ngắn nhất để rút ngắn khoảng cách vận chuyển, cải thiện độ chính xác của đơn hàng và nâng cao hiệu quả tổng thể."
+        },
+        "t5": {
+          "title": "#5 Dịch vụ giá trị gia tăng đi kèm",
+          "content1": "Đóng gói đơn hàng đi kèm với các tài liệu marketing như chẳng phiếu giảm giá, thư cảm ơn,... để gia tăng tỷ lệ mua lại và bán chéo.",
+          "content2": "Cung cấp bảo hiểm cho hàng hóa trong quá trình lưu trữ trong kho, giảm thiểu rủi ro hư hỏng, mất mát có thể xảy ra trong quá trình này."
+        }
+      },
+      "process": {
+        "heading": "Quy trình xử lý đơn hàng trong kho",
+        "heading2": "",
+        "subHeading": "Với kho hàng được tổ chức hợp lý, chúng tôi đảm bảo một quá trình suôn sẻ từ khi nhận đến khi gửi đi, đảm bảo rằng các sản phẩm sẽ đến được người nhận mong muốn một cách chính xác và hiệu quả."
+      },
+      "efficiency": {
+        "heading": "Khai phá tối đa hiệu suất kho hàng",
+        "heading2": "",
+        "subHeading": "Nâng cao năng suất, độ chính xác và tốc độ với kho hàng hiện đại của chúng tôi."
+      },
+      "support": {
+        "heading": "Dịch vụ hỗ trợ chuyên nghiệp",
+        "subHeading1": "Bằng cách thiết kế các giải pháp riêng biệt cho từng doanh nghiệp, chúng tôi đảm bảo được quy trình xử lý hàng hóa trong kho diễn ra liền mạch và hiệu quả tối ưu.",
+        "subHeading2": "Đội ngũ tâm huyết của chúng tôi luôn hỗ trợ kịp thời, túc trực 24/7, đồng hành với doanh nghiệp của bạn trong suốt quá trình hoàn tất  đơn hàng trong kho."
+      }
+    }
+  },
+  "contactNow": "Liên hệ ngay",
+  "trust": {
+    "heading": "An toàn và bảo mật",
+    "title": "Tin cậy & Bảo mật",
+    "content": "Chúng tôi hiểu rằng niềm tin là #1 để xây dựng một mối quan hệ bền chặt và lâu dài.",
+    "security": {
+      "title": "Bảo mật",
+      "content": "IChiba OnePlatform phát triển các sản phẩm cùng với tính năng bảo mật tích hợp để các doanh nghiệp có thể tập trung vào phát triển và đổi mới."
+    },
+    "availability": {
+      "title": "Khả dụng",
+      "content": "IChiba và khách hàng chia sẻ trách nhiệm đảm bảo rằng dữ liệu có thể được truy cập bởi những người được ủy quyền bất cứ khi nào họ muốn."
+    },
+    "confidentiality": {
+      "title": "Bảo mật",
+      "content": "Các phương thức bảo mật nhiều lớp đảm bảo quyền truy cập được cấp phép bởi các cá nhân hoặc chương trình."
+    },
+    "compliance": {
+      "title": "Tuân thủ",
+      "content": "IChiba OnePlatform duy trì một bộ chứng nhận tuân thủ để xác thực giá trị tin cậy số 1 của chúng tôi."
+    },
+    "privacy": {
+      "title": "Sự riêng tư",
+      "content": "Chúng tôi coi trọng quyền riêng tư của cá nhân và cam kết thực hiện nghĩa vụ bảo vệ dữ liệu cá nhân cao nhất."
+    },
+    "certificates": {
+      "title": "Giấy chứng nhận tuân thủ tiêu chuẩn và quy định bảo mật thông tin",
+      "content": "Chúng tôi có các chứng nhận được ngành chấp nhận và tuân thủ các tiêu chuẩn cũng như quy định hiện hành của ngành, vì vậy bạn có thể yên tâm rằng dữ liệu của công ty và khách hàng của bạn vẫn an toàn và tuân thủ."
+    },
+    "nurture": {
+      "title": "Giá trị tích lũy niềm tin"
+    },
+    "securityPartners": {
+      "title": "Đối tác bảo mật",
+      "content": "Chúng tôi hợp tác với các công ty đi đầu về bảo mật để bảo vệ dữ liệu thông tin một cách tuyệt đối"
+    },
+    "question": {
+      "title": "Hãy liên hệ để được giải đáp ngay hôm nay!",
+      "content": "Liên hệ với một trong những kỹ sư hỗ trợ được đào tạo chuyên sâu của chúng tôi để nhận câu trả lời chi tiết cho các câu hỏi bảo mật cụ thể của bạn.",
+      "support": "Yêu cầu hỗ trợ"
+    }
+  },
+  "myProduct": "My product",
+  "switchTo": "Switch to",
+  "organization": "Organization",
+  "getStartWithYourOwnWorkspace": "Get started with your own workspace",
+  "tryProductToStartGrowthWithYourBusiness": "Try a product to start growth with your business",
+  "createWorkspace": "Create workspace",
+  "workspaces": "Workspaces",
+  "seeMore": "See more",
+  "workspaceInformation": "Workspace information",
+  "application": "Application",
+  "userAccessManagement": "User Access Management",
+  "configuration": "Configuration",
+  "multiChannelFulfillment": "Xử lý đơn hàng đa kênh",
+  "mainContent": "Nội dung chính"
+}

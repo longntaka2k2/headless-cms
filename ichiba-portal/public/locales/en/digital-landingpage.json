@@ -1,0 +1,145 @@
+{
+  "banner": {
+    "heading": "Build a marketing landing page",
+    "createProfessional": "Create professional landing pages for ads/marketing: ",
+    "preDesigned": "More than 100 pre-designed templates",
+    "simpleDesign": "Simple design with drag-and-drop function",
+    "hightData": "High data security",
+    "freeHosting": "Free hosting",
+    "buttonText": "Start for free"
+  },
+  "templates": {
+    "heading": "Access unlimited landing page templates",
+    "subHeading": "More than 100 available templates that are suitable for all industries. Easily and quickly edit.",
+    "textButton": "View templates"
+  },
+  "contactUs": {
+    "heading": "Want your own exclusively designed landing page?",
+    "subHeading": "We provide specialized services to support businesses in designing exclusive and unique advertising landing pages.",
+    "textButton": "Contact us now"
+  },
+  "whyChoose": {
+    "title": "Outstanding features of IChiba Landing Page",
+    "subTitle": "Tối ưu hóa hiệu quả quảng cáo, triển khai các chiến dịch marketing nhanh chóng …..",
+    "items": [
+      {
+        "title": "Drag-and-drop",
+        "content": "Free to create your landing page with flexible, easy-to-use drag-and-drop tool.",
+        "icon": "/uploads/Frame_1171275808_f2940b8b28.svg",
+        "img": "/uploads/Frame_1171275896_2d49e54bba.png"
+      },
+      {
+        "title": "Multi-platform integration",
+        "content": "Integrate your landing page with mulitple platforms: Google analytics, Google Ads, Website,... to measure conversion efficiency.",
+        "icon": "/uploads/60772bcea6d9cc0c90700522_Multi_step_flows_1_449179c9c9.svg",
+        "img": "/uploads/Frame_1171275896_2d49e54bba.png"
+      },
+      {
+        "title": "E-commerce integration",
+        "content": "nclude outstanding features to support ecommerce such as: shopping cart, product management, shipping companies, etc.",
+        "icon": "/uploads/6176f8341f3d2df3fbe9d8ba_shopping_cart_1_df42029909.svg",
+        "img": "/uploads/Frame_1171275896_2d49e54bba.png"
+      },
+      {
+        "title": "Conversion boosters",
+        "content": "Provide a variety of tools to attract user attention and call for actions: Popup, Sticky bar, Form, Live chat, etc.",
+        "icon": "/uploads/60e8a11ead3db534192d180a_Automate_1_353bb5191f.svg",
+        "img": "/uploads/Frame_1171275896_2d49e54bba.png"
+      }
+    ]
+  },
+  "flexiblyCustomize": {
+    "heading": "Flexibly customize to business goals",
+    "boostSale": {
+      "title": "Boost sales",
+      "content": "Design landing pages specialized for your product/service to convince customers to make quick purchasing decisions. Optimize conversion rates from advertising and multi-channel.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "brandDevelopment": {
+      "title": "Brand Development",
+      "content": "Investing in building landing pages to introduce your brand will increase customer trust and brand awareness.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "leadsGathering": {
+      "title": "Lead gathering",
+      "content": "Easily measure and collect data about potential customers interested in your products and services. It helps businesses come up with better approaches and care.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "ortherGoals": {
+      "title": "Other goals",
+      "content": "A complete set of tools allows businesses to quickly and flexibly create landing pages, serving any goal, from advertising to marketing.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "productIntroduction": {
+      "title": "New Product Introduction",
+      "content": "Highlight new products and services: introduce information, outstanding features, eye-catching images, etc. to call customers for action.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "promotions": {
+      "title": "Promotions",
+      "content": "Design promotion landing pages, with optimized content and images precisely targeting the right customer base, thereby increasing conversion rates.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "tryForFree": "Try for free"
+  },
+  "buildOptimized": {
+    "heading": "Build optimized advertising landing pages",
+    "subHeading": "Freely create your landing page in your own way. Flexible integrate add-on tools to increase customer engagement and optimize conversion rates.",
+    "boxGather": {
+      "heading": "Gather customer data",
+      "subHeading": "Easily collect information about potential customers for advertising and sales campaigns.",
+      "image": "/uploads/60e8a11a46c4f46b330388fa_Group_20429_p_1080_1_003394c6e2.png"
+    },
+    "boxImprove": {
+      "heading": "Improve page loading speed",
+      "subHeading": "Optimized interface, file compression technology, optimized JS and CSS reduce page loading time.",
+      "image": "/uploads/Frame_1171275821_ac3b7f2104.png"
+    },
+    "boxCompatible": {
+      "heading": "Compatible on multiple devices",
+      "subHeading": "The interface is compatible with many devices: computers, laptops, phones, and so on to increase user experience.",
+      "image": "/uploads/Group_1171275894_1_3ae96c3d6e.png"
+    },
+    "boxSEO": {
+      "heading": "SEO optimization",
+      "subHeading": "All available interface templates are designed to be friendly to Google's algorithm, so the page quickly gets to the top of searches.",
+      "image": "/uploads/651b06e7c4abf7566bd98f72_card_3_1_1_645a3a7726.png"
+    },
+    "boxCustomizable": {
+      "heading": "Customizable widgets",
+      "subHeading": "Add components and tools to the landing page, depending on the purpose of your business.",
+      "image": "/uploads/image_594_1_a73fb1c559.png"
+    }
+  },
+  "helpBuild": {
+    "letIchiBaOne": "Let IChiba OnePlatform",
+    "storeFont": "StoreFront Layer",
+    "helpYouBuild": " help you build professional landing pages in marketing campaigns",
+    "omnichannel": {
+      "icon": "/uploads/60772bcea6d9cc0c90700522_Multi_step_flows_1_25b4065ddc.svg",
+      "title": "Omnichannel connection",
+      "content": "Connect with business sales channels (website, e-commerce platform, etc.) and measurement platforms (Google Analytics, etc.) to update data in real-time."
+    },
+    "dataSecurity": {
+      "icon": "/uploads/Shield_Protected_5374f0dd3d.svg",
+      "title": "Data security",
+      "content": "Install SSL free. Data is not saved on the landing page but will be redirected directly to the business's archive."
+    },
+    "optimized": {
+      "icon": "/uploads/60e8a11ead3db534192d180a_Automate_1_1_9c9eea3726.svg",
+      "title": "Optimized transmission speed",
+      "content": "IChiba OnePlatform connects with leading cloud server partners: Google Cloud, Cloudflare, etc. to keep stable and fast connection."
+    }
+  },
+  "ourCustomers": {
+    "title": "Our Customers",
+    "trusted": "Trusted by",
+    "number": " 100+",
+    "customWith": " custom with 3000+ designed landing pages"
+  },
+  "contact": {
+    "title": "Contact IChiba OnePlatform",
+    "subTitle": "To own a professional, SEO-standard landing page",
+    "buttonText": "Contact Sales"
+  }
+}

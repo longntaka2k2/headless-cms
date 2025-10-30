@@ -1,0 +1,180 @@
+{
+  "eCommerceFulfillment": "eCommerce Fulfillment",
+  "getStarted": "Dùng thử miễn phí",
+  "getStartedNow": "Kết nối ngay",
+  "contactSales": "Liên hệ tư vấn",
+  "introduce": {
+    "title": "Hoàn thiện đơn hàng thương mại điện tử không tốn công sức!",
+    "content": "Từ quản lý tồn kho đến theo dõi trạng thái đơn hàng, giải pháp hoàn tất đơn hàng thương mại điện tử toàn diện của chúng tôi cho phép bạn dễ dàng kiểm soát hoạt động kinh doanh của mình từng bước mà không cần tốn nhiều công sức."
+  },
+  "simplifyFulfillment": {
+    "title": "Đơn giản hóa khâu xử lý đơn hàng của bạn",
+    "subTitle": "Trải nghiệm quy trình xử lý đơn hàng thương mại điện tử tinh giản khi chúng tôi tối ưu hóa toàn bộ quy trình chỉ trong 3 khâu.",
+    "slices": [
+      {
+        "title": "Tích hợp với các sàn thương mại điện tử",
+        "content": "Tích hợp liền mạch với các trang thương mại điện tử phổ biến như Shopify, Ebay, Shopee, Lazada, Janbox,..."
+      },
+      {
+        "title": "Chuyển hàng trong kho của bạn đến các trung tâm xử lý đơn hàng của chúng tôi",
+        "content": "Đội ngũ của chúng tôi sẽ làm việc với bạn để ra chọn trung tâm xử lý đơn hàng gần nhất. Điều này giúp rút ngắn khoảng cách, giảm thời gian vận chuyển và tiết kiệm chi phí cho mỗi gói hàng."
+      },
+      {
+        "title": "Vận chuyển đơn hàng đến tay người tiêu dùng",
+        "content": "Tất cả các đơn hàng từ các sàn thương mại điện tử đều được tự động nhập vào trung tâm hoàn thiện đơn hàng để xử lý, sau đó sẽ được chuyển đến tay khách hàng của bạn."
+      }
+    ],
+    "banner": {
+      "title": "Xử lý đơn hàng nhanh & tăng tốc độ bán hàng",
+      "content": "Kết nối với chúng tôi để được thiết kế riêng một quy trình hoàn tất đơn hàng thương mại điện tử phù hợp với nhu cầu của doanh nghiệp."
+    }
+  },
+  "fulfillmentProficiency": {
+    "title": "Năng lực hoàn tất đơn hàng của chúng tôi",
+    "subTitle": "Xử lý hoàn hảo các đơn đặt hàng thương mại điện tử nhờ vào năng lực vượt trội, kho bãi rộng lớn, mạng lưới trung tâm thực hiện dày đặc và mối quan hệ tốt với các đơn vị vận chuyển lớn trên toàn thế giới.",
+    "items": [
+      {
+        "value": "> 50,000 m2",
+        "label": "Tổng diện tích"
+      },
+      {
+        "value": "50+",
+        "label": "Đối tác vận chuyển toàn cầu"
+      },
+      {
+        "value": "20+",
+        "label": "Trung tâm xử lý đơn hàng trên toàn thế giới"
+      },
+      {
+        "value": "API",
+        "label": "Tích hợp công nghệ"
+      },
+      {
+        "value": "> 99%",
+        "label": "Tỉ lệ đúng hẹn và chính xác"
+      }
+    ]
+  },
+  "multiChannelFulfillment": {
+    "title": "Xử lý đơn hàng đa kênh",
+    "content": "Việc xử lý đơn hàng đa kênh có thể gặp nhiều khó khăn, tốn kém và mất thời gian. Hãy để IIChiba OnePlatform giúp bạn giải quyết những thách thức này. Chúng tôi sẽ đảm bảo rằng doanh nghiệp của bạn luôn đem đến dịch vụ tốt nhất để làm hài lòng khách hàng.",
+    "items": [
+      {
+        "title": "Gặt hái tăng trưởng về lợi nhuận",
+        "content": "Xử lý đơn hàng đa kênh giúp nâng cao số lượng “điểm chạm” với khách hàng cũng như nâng cao chất lượng dịch vụ, mang lại kết quả kinh doanh tốt hơn."
+      },
+      {
+        "title": "Phát triển các quy trình liền mạch",
+        "content": "Các hoạt động trở nên hiệu quả và hợp lý hơn thông qua các quy trình thực hiện được tích hợp và phối hợp liền mạch."
+      },
+      {
+        "title": "Gia tăng sự hài lòng của khách hàng",
+        "content": "Gia tăng tỷ lệ chuyển đổi nhờ vào việc thiết kế hành trình khách hàng  phù hợp, cải thiện lượng hàng sẵn có, đem đến nhiều lựa chọn linh hoạt về thời gian và địa điểm khi mua sắm."
+      }
+    ]
+  },
+  "fulfillmentProcess": {
+    "title": "Quá trình hoàn thiện đơn hàng thương mại điện tử",
+    "content": "Khám phá quy trình xử lý đơn thương mại điện tử của IIChiba OnePlatform qua từng bước, từ khi phát sinh đơn hàng đến tận khi chúng được trao đến tay người mua.",
+    "items": [
+      {
+        "title": "Kết nối với các sàn thương mại điện tử",
+        "content": "Kết nối với tất cả các trang thương mại điện tử của bạn để tiếp nhận và đồng bộ hóa dữ liệu liên quan đến đơn hàng."
+      },
+      {
+        "title": "Xử lý đơn hàng",
+        "content": "Tiếp nhận chi tiếp đơn hàng, xác minh thông tin khách hàng và kiểm tra tình trạng hàng tồn kho."
+      },
+      {
+        "title": "Quản lý hàng tồn kho",
+        "content": "Liên tục cập nhật dữ liệu tồn kho để đảm bảo có đủ hàng phục vụ cho việc kinh doanh."
+      },
+      {
+        "title": "Lấy hàng và đóng gói",
+        "content": "Nhân viên kho lấy hàng dựa trên vị trí mà hệ thống định vị cung cấp. Sau đó sử dụng các vật liệu thích hợp để đóng gói hàng hóa."
+      },
+      {
+        "title": "Dán nhãn và vận chuyển",
+        "content": "Dán nhãn lên các gói hàng. Nhãn vận chuyển thường chứa thông tin cơ bản như địa chỉ của khách hàng. Gói hàng sau đó được bàn giao cho đơn vị vận chuyển."
+      },
+      {
+        "title": "Cập nhật trạng thái đơn hàng theo thời gian thực",
+        "content": "Khi đơn hàng đang được vận chuyển, khách hàng có thể nhận được email hoặc thông báo trên nhiều nền tảng khác nhau với thông tin chi tiết về trạng thái đơn hàng."
+      }
+    ]
+  },
+  "focusYourSale": {
+    "title": "Bạn chỉ cần tập trung bán hàng, việc xử lý đơn hàng hãy để chúng tôi lo",
+    "content": "Giúp doanh nghiệp trút bỏ gánh nặng hoàn tất đơn hàng để tập trung hoàn toàn vào việc thúc đẩy doanh số. Chúng tôi xử lý hoàn hảo mọi bước quá trình thực hiện đơn hàng thương mại điện tử.",
+    "items": [
+      "Kết nối cửa hàng",
+      "Tích hợp phần mềm",
+      "Xử lý đơn hàng",
+      "Vận chuyển",
+      "Hỗ trợ khách hàng",
+      "Tăng trưởng doanh số"
+    ]
+  },
+  "whyChoose": {
+    "title": "Tại sao bạn nên chọn chúng tôi?",
+    "content": "Lựa chọn đơn vị xử lý đơn hàng thương mại điện tử phù hợp là một trong những yếu tố quan trọng quyết định sự thành bại của hoạt động kinh doanh. Hãy cùng khám phá cách mà chúng tôi có thể giúp doanh nghiệp của bạn lớn mạnh.",
+    "items": [
+      {
+        "title": "Xử lý đơn hàng với độ chính xác vượt trội",
+        "contents": [
+          "Đồng bộ hóa mức tồn kho trên các kênh, đảm bảo sự chính xác cho việc quản lý kho và ngăn chặn tình trạng bán khống.",
+          "Duy trì tỷ lệ chính xác của đơn đặt hàng ở mức 99,99% nhờ vào bước xác minh scan hai lần, thuật toán cao cấp và đội ngũ nhân viên trình độ cao."
+        ]
+      },
+      {
+        "title": "Nhà kho tự động hóa & Dịch vụ đóng gói đi kèm",
+        "contents": [
+          "Đáp ứng các yêu cầu chi tiết của doanh nghiệp nhờ vào công nghệ tiên tiến, quy trình thực hiện tự động và phần mềm quản lý kho hàng thông minh.",
+          "Cung cấp dịch vụ đóng gói tùy chỉnh để nâng cao trải nghiệm khách hàng, bao gồm cả bao bì thân thiện với môi trường."
+        ]
+      },
+      {
+        "title": "Phân phối hàng hoá",
+        "contents": [
+          "Tự động xác định nhà kho gần nhất với khách hàng để tiết kiệm chi phí và thời gian vận chuyển.",
+          "Tăng sự hài lòng của khách hàng vì họ có thể nhận hàng nhanh hơn so với khi xử lý đơn hàng theo phương pháp truyền thống."
+        ]
+      },
+      {
+        "title": "Dự trữ tồn kho",
+        "contents": [
+          "Giữ lại một lượng sản phẩm tồn kho nhất định nhằm chuẩn bị cho một sự kiện bán hàng trong tương lai.",
+          "Hỗ trợ doanh nghiệp kiểm soát hoạt động buôn bán mà không cần lo lắng về nguồn hàng."
+        ]
+      },
+      {
+        "title": "Quản lý đơn hoàn trả hiệu quả",
+        "contents": [
+          "Xử lý hiệu quả các đơn hàng hàng bị trả lại.  Nhanh chóng kiểm tra, đánh giá và xử lý  để giảm thiểu sự chậm trễ và đẩy nhanh việc hoàn tiền hoặc đổi hàng.",
+          "Tích hợp với phần mềm quản lý hàng tồn kho, đảm bảo rằng các mặt hàng bị trả lại được hạch toán chính xác, giảm thiểu sai lệch."
+        ]
+      },
+      {
+        "title": "Tùy chọn các phương thức vận chuyển khác nhau",
+        "contents": [
+          "Có nhiều lựa chọn vận chuyển để đáp ứng mọi nhu cầu vận chuyển của doanh nghiệp. Bạn hoàn toàn có thể lựa chọn phương thức vận chuyển dựa trên ưu tiên về chi phí hoặc thời gian.",
+          "Các tùy chọn giao hàng linh hoạt, bao gồm giao hàng tận nhà, điểm nhận hàng hoặc giao ngay trong ngày ở một số khu vực nhất định."
+        ]
+      },
+      {
+        "title": "Hỗ trợ khách hàng 24/7 qua mọi kênh",
+        "contents": [
+          "Hỗ trợ khách hàng 24/7, bạn có  thể liên hệ hỗ trợ bất cứ lúc nào, dù ngày hay đêm.",
+          "Hỗ trợ qua bất cứ kênh nào thuận tiện nhất cho khách hàng, bao gồm điện thoại, email, mạng xã hội, cổng thông tin,..."
+        ]
+      },
+      {
+        "title": "Hóa đơn minh bạch và giá cả cạnh tranh",
+        "contents": [
+          "Chúng tôi tạo hóa đơn bằng phần mềm tự động, đảm bảo các khoản chi phí đều minh bạch.",
+          "Cung cấp dịch vụ với mức giá cạnh tranh, từ đó giúp giảm thiểu giá thành sản phẩm, tăng tính cạnh tranh cho doanh nghiệp của bạn trên thị trường."
+        ]
+      }
+    ]
+  }
+}

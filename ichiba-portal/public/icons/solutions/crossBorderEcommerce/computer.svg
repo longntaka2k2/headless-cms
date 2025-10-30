@@ -1,0 +1,16 @@
+<svg width="65" height="64" viewBox="0 0 65 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="44.5555" cy="18.6667" rx="4" ry="4" stroke="#F57C00" stroke-width="3" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <rect x="29.8889" y="8" width="29.3333" height="21.3333" rx="1.77778" stroke="#F57C00" stroke-width="3"
+        stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M16.5555 16H21.8889" stroke="#F57C00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M19.2222 24H21.8889" stroke="#F57C00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path
+        d="M56.5555 37.3333V38.6667C56.5555 42.3486 53.5708 45.3333 49.8889 45.3333H15.2222C11.5403 45.3333 8.55554 42.3486 8.55554 38.6667V14.6667C8.55554 10.9848 11.5403 8 15.2222 8H21.8889"
+        stroke="#F57C00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M37.8889 45.3333L39.2222 56" stroke="#F57C00" stroke-width="3" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path d="M27.2222 45.3333L25.8889 56" stroke="#F57C00" stroke-width="3" stroke-linecap="round"
+        stroke-linejoin="round" />
+    <path d="M21.8889 56H43.2222" stroke="#F57C00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>

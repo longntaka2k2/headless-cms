@@ -1,0 +1,28 @@
+.main {
+  @apply tw-flex tw-items-center tw-gap-10 tw-py-5 tw-flex-1;
+  z-index: 100;
+  .header {
+    @apply tw-flex tw-gap-2 tw-items-center;
+    h2 {
+      @apply tw-uppercase tw-font-black tw-mb-0 tw-text-xl tw-leading-6;
+    }
+  }
+  .menu {
+    @apply tw-flex tw-items-center;
+    a {
+      @apply tw-text-sm tw-py-2 tw-px-4 tw-no-underline tw-text-ic-ink-5 tw-relative;
+      &:first-child {
+        @apply tw-ml-0;
+      }
+      &:last-child {
+        @apply tw-mr-0;
+      }
+      &:not(:first-child)::before {
+        @apply tw-content-empty tw-absolute tw-border-l tw-border-ic-ink-2 tw-left-0 tw-top-1/2 tw-h-5 -tw-translate-y-1/2;
+      }
+    }
+    &.active {
+      @apply tw-text-primary-6;
+    }
+  }
+}

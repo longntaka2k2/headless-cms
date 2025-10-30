@@ -1,0 +1,212 @@
+#discover{
+  h2{
+    font-weight: 900;
+    font-size: 48px;
+  }
+  .discover-img{
+    max-height: 640px;
+    overflow: hidden;
+    .discover-banner{
+      width: 100%;
+      height:auto;
+      
+    }
+  }
+  
+  .we-are{
+    bottom: 140px;
+    padding-top: 50px;
+    background-image: linear-gradient(180deg, #00194F 55%, #FFF 45%);
+    color: #FFFFFF;
+    .our{
+      .our-item{
+        img{
+          width: 100%;
+          height:auto;
+        }
+        .our-content{
+          box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.05);
+          color: #333333;
+          background-color: #FFFFFF;
+          padding: 24px 40px;
+        }
+      }
+    }
+  }
+  .our-history{
+    padding-top: 120px;
+    padding-bottom: 40px;
+    color: #333333;
+    img{
+      width: 100%;
+      height:auto;
+    }
+    .history-title{
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 800px;
+    }
+      
+    
+  }
+  .core-value{
+    padding: 48px 0 144px 0;
+    background-color:#F2F2F2;
+    .values{
+      img{
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+  .towards{
+    h2{
+      font-weight: 700;
+    }
+    img{
+      width: 100%;
+      height: auto;
+    }
+    .content-towards{
+      padding: 48px 0 0 0;
+      display: -webkit-box;
+      -webkit-line-clamp: 7;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      height: 245px;
+    }
+    .btn-ichiba{
+      position: relative;
+      bottom: 25px;
+      color: #FFFFFF;
+      padding: 16px 12px;
+      background: #F57C00;
+      border-radius: 8px;
+    }
+  }
+  .our-networks{
+    padding:  60px 0;
+    .our-content{
+      max-width: 800px;
+      margin: 0 auto;
+      padding-bottom: 56px;
+      text-align: center;
+      h2{
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 56px;
+      }
+    }
+    
+    .banner{
+      width: 100%;
+      height: auto;
+    }
+    
+  }
+  .our-strengths{
+    .our-strengths-items{
+      width: 100%;
+      .item{    
+          max-width: 532px; 
+      }
+      .our-img{
+        max-width: 532px;
+        width: 100%;
+        height: auto;
+      }
+    }
+    .res-molbie{
+      display: none;
+    }
+  }
+  .openToWork{
+    background-color: #00194F;
+    padding: 64px 0;
+    color: #FFFFFF;
+    .img{
+      img{
+        width: 100%;
+        height: auto;
+      }
+    }
+    @include respond(big-desktop){
+      .img{
+        position: relative !important;
+        bottom: 230px;
+        img{
+          width: auto !important;
+        }
+        height: 0px;
+        
+      }
+    }
+    
+  }
+  .our-data{
+    padding: 110px 0;
+  }
+}
+
+@include respond(tab-port){
+  .we-are{
+    .our{
+      .our-item{
+        margin-bottom: 40px; 
+      }
+    }
+  }
+  .our-history{
+    padding-top: 60px !important;
+  }
+  .towards{
+    h2{
+      font-size: 40px !important;
+    }
+    .content-towards{
+    
+      height: 300px !important;
+    }
+  }
+  .core-value{
+    padding-top: 60px;
+  }
+  .our-strengths{
+    
+    .res-molbie{
+      display: block !important;
+      .our-strengths-items{
+        padding-bottom: 40px;
+        text-align: center ;
+        .item{ 
+          padding-bottom: 30px;
+          max-width: 100% !important;
+        }
+        .our-img{
+          width: 100% !important;
+        }
+      }
+    }
+    .res-pc{
+      display: none;
+      
+    }
+  }
+
+  .title{
+    font-size: 30px;
+  }
+  .openToWork{
+    .img{
+      margin-top: 30px;
+      img{
+        width: 100%;
+      }
+    }
+    
+  }
+}
+@include respond(phone){
+  
+}

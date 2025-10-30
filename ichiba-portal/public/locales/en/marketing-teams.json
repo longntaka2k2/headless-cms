@@ -1,0 +1,171 @@
+{
+  "banner": {
+    "label": "ICHIBA FOR MARKETING TEAMS",
+    "title": "Create unforgettable shopping experiences across channels",
+    "content": "Build online stores, create marketing landing pages, gather 360 customer data, and many more. Dig deep into performance with IChiba promotional and marketing tools. ",
+    "contact": "Contact Sales"
+  },
+  "byTheNumber": {
+    "label": "IChiba PLATFORM",
+    "title": "By the Numbers",
+    "items": [
+      {
+        "bg": "#FFFDEB",
+        "title": "50%",
+        "content": "increased CR",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_3f2f8ee478.svg"
+      },
+      {
+        "bg": "#E5F1F9",
+        "title": "75%",
+        "content": "SEO efficiency",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_1_965efe8a0f.svg"
+      },
+      {
+        "bg": "#F3FFEF",
+        "title": "75%",
+        "content": "increased ROI",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_1_965efe8a0f.svg"
+      },
+      {
+        "bg": "#FFF5EB",
+        "title": "Unlimited",
+        "content": "integration",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_3_c6b9683cba.svg"
+      }
+    ]
+  },
+  "takeBack": {
+    "title": "Take back control of the customer journey",
+    "content": "Allow consumers to experience your brand as you intend. Optimize their conversion path wherever they go while nurturing customer loyalty.",
+    "items": [
+      {
+        "title": "Awareness",
+        "content": ["Digital ads", "Share of search", "Social media", "Content"]
+      },
+      {
+        "title": "Consideration",
+        "content": [
+          "Brand website",
+          "Product detail page",
+          "Stock availability",
+          "Pricing analysis",
+          "Rating & Reviews"
+        ]
+      },
+      {
+        "title": "Decision",
+        "content": [
+          "Purchase Enablement",
+          "Seller Optimization",
+          "Content Experience"
+        ]
+      },
+      {
+        "title": "Loyalty",
+        "content": ["Image accuracy", "Emails & promos", "Customer support  "]
+      }
+    ]
+  },
+  "features": {
+    "title": "Features that assists marketing teams",
+    "marketing": {
+      "title": "Marketing Automation",
+      "content": "Create and schedule email campaigns, automate social media posts, personalize content based on customer behavior, and run targeted promotions."
+    },
+    "multidevice": {
+      "title": "Multi-device Optimization",
+      "content": "Create selling websites or landing pages with multi device-friendly designs and optimization features. This allows marketing teams to reach and engage customers on many devices effectively."
+    },
+    "campaign": {
+      "title": "Campaign Performance Tracking",
+      "content": "Marketing teams can track the performance of their campaigns in real-time, allowing for quick adjustments and optimizations based on the data received."
+    },
+    "multiChannel": {
+      "title": "Multi-Channel Integration",
+      "content": "SaaS platforms allow marketing teams to manage multiple sales channels from a single dashboard. This includes integration with marketplaces, social media platforms, and other third-party sites, streamlining marketing efforts across various channels."
+    },
+    "seo": {
+      "title": "SEO and Content Management",
+      "content": "Our PIM (Product Management System) optimizes product descriptions, meta tags, and URLs. This helps improve search engine rankings and visibility, aiding marketing efforts to attract organic traffic."
+    },
+    "customer": {
+      "title": "Customer Segmentation and Personalization",
+      "content": "Our CDXP enables businesses to segment customers based on behavior, demographics, or purchase history. Marketing teams can use this data to create targeted campaigns and personalized experiences, improving conversion rates and customer engagement."
+    }
+  },
+  "offer": {
+    "caseStudies": "CASE STUDY",
+    "title": "Offer consumers a unified purchase experience across all channels",
+    "content": "Get access to 100+ smart capabilities to administer eCommerce operations. Rotate inventory more quickly and without error, process orders as soon as they are received, conduct promotional offers & provide your customers with an exceptional post-purchase experience."
+  },
+  "saveEffort": {
+    "title": "Save effort for creative. We’ll help you take care of data and implementation.",
+    "content": "Contact us for professional consultation of SaaS platforms that support marketing teams.",
+    "contact": "Contact Sales"
+  },
+  "ichibaGlobal": {
+    "title": "IChiba Platform for the whole team",
+    "items": [
+      {
+        "title": "For Marketing teams",
+        "content": "Empower marketing teams with the tools and data necessary to create, execute, and refine marketing strategies, ultimately driving traffic, improving conversions, and enhancing customer engagement in the e-commerce space.",
+        "background": "linear-gradient(112deg,#E6F3FF_28.86%,rgba(235,241,254,0.79)_64.16%)"
+      },
+      {
+        "title": "For Technical teams",
+        "content": "Empower technical teams to focus on innovation, customization, and optimizing the e-commerce experience rather than being burdened with routine maintenance and infrastructure management tasks.",
+        "background": "linear-gradient(276deg,#F1F5FE_2.49%,#D7D9FC_104.45%)"
+      },
+      {
+        "title": "For Operation teams",
+        "content": "Empower operations teams by automating processes, providing real-time data and insights, optimizing inventory and order management, and improving overall operational efficiency in the e-commerce environment.",
+        "background": "linear-gradient(276deg,#FEF8F1_2.49%,#FAE7DD_104.45%)"
+      }
+    ]
+  },
+  "suggested": {
+    "title": "Suggested products for business owners",
+    "learnMore": "Learn more",
+    "content": "Take your business to the next level with IChiba portfolio of products and services.",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Shape_Quare_15837be92d.svg",
+        "title": "StoreFront Layer",
+        "link": "/products/storefront-layer/overview",
+        "content": "Build your own selling website or marketing landing page with the support of IChiba comprehensive tool set."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "link": "/products/commerce-layer/overview",
+        "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data and intelligence. "
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_dc1b80f4a0.png",
+        "title": "CDXP (Coming soon)",
+        "link": "/",
+        "content": "A central hub for marketing and engagement needs, ensuring easy access to comprehensive customer insights."
+      }
+    ]
+  },
+  "faqs": {
+    "label": "GET ANSWERS FOR",
+    "title": "Frequently asked questions",
+    "subtitle": "Explore our frequently asked questions to learn more about IChiba OnePlatform and more.",
+    "contents": [
+      {
+        "title": "How easily can these platforms integrate with existing marketing tools and CRM systems?",
+        "content": "Our platform offers seamless integration with popular marketing tools and CRM systems through APIs, ensuring smooth data flow and collaboration between systems."
+      },
+      {
+        "title": "Can the platform handle large-scale marketing campaigns and increased traffic during peak times without compromising performance?",
+        "content": "Our platform is built to handle large-scale campaigns and peak traffic periods, ensuring consistent performance without compromising speed or reliability."
+      },
+      {
+        "title": "How intuitive is the platform for marketers with varying technical expertise, and what kind of training or support is provided?",
+        "content": "Our user-friendly interface requires minimal technical expertise. We offer comprehensive training resources and dedicated support to ensure marketers can utilize the platform effectively."
+      }
+    ]
+  }
+}

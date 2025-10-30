@@ -1,0 +1,22 @@
+#list-career{
+  padding: 120px 0;
+  color: #121619;
+  .from-search{
+    .input-search{
+      border-right: none;
+    }
+    .input-search:focus-visible{
+      outline: unset;
+    }
+  }
+  .text-janbox:hover{
+    color: #F57C00;
+  }
+  .career-items{
+    color: #333333;
+    background-color: #F2F2F2;
+    padding: 12px;
+    border-radius: 12px;
+  }
+ 
+}

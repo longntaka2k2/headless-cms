@@ -1,0 +1,172 @@
+{
+  "pageTitle": "Omnichannel Retailers/SMEs",
+  "getStarted": "Dùng thử miễn phí",
+  "contactSales": "Liên Hệ Ngay",
+  "speakToExperts": "Liên hệ với chuyên gia",
+  "viewMore": "Xem thêm",
+  "bookDemo": "Đặt lịch",
+  "introduce": {
+    "title": "Phá vỡ rào cản bán hàng đa kênh - Quản lý tập trung",
+    "content1": "Dễ dàng quản lý tập trung đơn hàng, kho vận, fulfillment trên đa kênh.",
+    "content2": "Khách hàng của bạn ở đâu, IChiba OnePlatform sẽ giúp bạn bán hàng tại đó."
+  },
+  "topBarriers": {
+    "title": "Những rào cản mà nhà bán lẻ đa kênh/Doanh nghiệp nhỏ gặp phải",
+    "items": [
+      "Quy trình quản lý đa kênh phức tạp",
+      "Khó khăn trong việc lựa chọn đơn vị vận chuyển phù hợp và theo dõi đơn hàng",
+      "Các phần mềm quản lý khó sử dụng hoặc thiếu tính năng",
+      "Khó triển khai các chiến dịch quảng cáo trên đa kênh",
+      "Tốn nhiều thời gian và tài nguyên để xây dựng cửa hàng online",
+      "Chưa có kinh nghiệm bán hàng đa kênh, đa thị trường"
+    ]
+  },
+  "insights": {
+    "title": "Đọc thêm",
+    "content": "Tìm hiểu về các xu hướng trên thị trường, insight khách hàng và tư duy lãnh đạo giúp các nhà bán lẻ đa kênh đạt được những thành tựu to lớn.",
+    "items": []
+  },
+  "multipleChannels": {
+    "title": "Bộ phần mềm mạnh mẽ giúp bán hàng đa kênh hiệu quả",
+    "content": "Giúp các nhà bán lẻ đa kênh dễ dàng chuyển đổi thành công nhiều khách hàng hơn trên mọi thiết bị và kênh bán hàng.",
+    "items": [
+      {
+        "title": "Phần mềm quản lý bán hàng (OMS)",
+        "content": "Quản lý bán hàng đa kênh tại một nơi. Tối đa hóa hiệu quả với khả năng tự động hóa, thu thập dữ liệu thông minh."
+      },
+      {
+        "title": "Phần mềm tích hợp vận chuyển (Ship4P)",
+        "content": "Nền tảng quản lý tập trung các hãng vận chuyển, giúp giảm chi phí và đơn giản hóa việc quản lý lô hàng."
+      },
+      {
+        "title": "Phần mềm tạo website bán hàng",
+        "content": "Xây dựng website bán hàng của riêng bạn với sự hỗ trợ của bộ công cụ phần mềm toàn diện của IChiba."
+      }
+    ]
+  },
+  "trustedPartner": {
+    "title": "IChiba OnePlatform - Đối tác tin cậy giúp bạn dễ dàng bán hàng đa kênh",
+    "content": "Chúng tôi hợp tác chặt chẽ với doanh nghiệp để phát triển một lộ trình, áp dụng các công cụ vào quản lý thực tế và đảm bảo hệ thống vận hành trơn tru.",
+    "items": [
+      {
+        "title": "Tư vấn",
+        "content": "Xác định rõ mục tiêu và nhu cầu của doanh nghiệp."
+      },
+      {
+        "title": "Xây dựng lộ trình",
+        "content": "Xác định các điểm chạm quan trọng để áp dụng các sản phẩm của chúng tôi một cách phù hợp nhất."
+      },
+      {
+        "title": "Triển khai",
+        "content": "Tiến hành triển khai giải pháp và liên tục cập nhật tiến triển và hiệu quả."
+      },
+      {
+        "title": "Xác nhận",
+        "content": "Xác nhận liệu rằng giải pháp của chúng tôi có phù hợp với doanh nghiệp của bạn không."
+      },
+      {
+        "title": "Duy trì",
+        "content": "Duy trì giải pháp bán lẻ đa kênh và hỗ trợ khi cần thiết."
+      }
+    ]
+  },
+  "madeForScale": {
+    "sectionName": "Tăng trưởng doanh số",
+    "title": "Mở rộng tệp khách hàng với các giải pháp toàn diện nhất cho các nhà bán lẻ đa kênh/doanh nghiệp vừa và nhỏ",
+    "content": "Contact us now to get detailed advices and guidance."
+  },
+  "eraseBarriers": {
+    "title": "Xóa bỏ rào cản đa kênh với phần mềm quản lý tập trung",
+    "content": "Hành vi mua sắm của khách hàng đã thay đổi rất nhiều trong những năm gần đây. Đã đến lúc bạn phải tìm kiếm một công cụ giúp thúc đẩy trải nghiệm đa kênh một cách xuyên suốt và nhất quán.",
+    "items": [
+      {
+        "title": "Quản lý bán hàng đa kênh tập trung",
+        "contents": [
+          "Hợp nhất tồn kho và đơn giản hóa quản lý đơn hàng trên tất cả các kênh một cách dễ dàng.",
+          "Tạo và tùy chỉnh thông tin sản phẩm từ một nơi và tự động cập nhật lên nhiều kênh bán hàng khác nhau."
+        ]
+      },
+      {
+        "title": "Hợp nhất trải nghiệm mua hàng online-offline",
+        "contents": [
+          "Tăng tỉ lệ mua hàng bằng cách xây dựng trải nghiệm xuyên suốt, dù khách mua hàng online hay offline.",
+          "Đồng bộ dữ liệu giữa cửa hàng vật lý và cửa hàng online giúp luân chuyển hàng hóa kịp thời, tránh bán khống."
+        ]
+      },
+      {
+        "title": "Cá nhân hóa các chương trình khuyến mãi",
+        "contents": [
+          "Quản lý tập trung nhiều chương trình khuyến mãi, mã giảm giá, đặt hàng trước và flash sale cho nhiều sản phẩm.",
+          "Đề xuất sản phẩm gợi ý cho khách hàng dựa trên lịch sử mua hàng và tìm kiếm."
+        ]
+      },
+      {
+        "title": "Tích hợp cửa hàng với hệ sinh thái SaaS để quản lý toàn diện",
+        "contents": [
+          "Tích hợp và quản lý nhiều cửa hàng, nhà kho với hệ sinh thái phần mềm toàn diện của IChiba OnePlatform.",
+          "Truy cập dữ liệu mọi lúc, mọi nơi để theo dõi doanh số bán hàng và thực hiện những điều chỉnh phù hợp."
+        ]
+      },
+      {
+        "title": "Cung cấp dịch vụ chăm sóc khách hàng đa kênh",
+        "contents": [
+          "Hỗ trợ nhiều phương thức chăm sóc khách hàng: qua email,điện thoại, live chat, mạng xã hội, sàn TMĐT, v.v…",
+          "Thu thập dữ liệu để xác định cách tiếp cận với khách hàng một cách phù hợp nhất và cá nhân hóa trải nghiệm mua hàng."
+        ]
+      },
+      {
+        "title": "Báo cáo khách hàng",
+        "contents": [
+          "Hợp nhất dữ liệu từ đa kênh theo thời gian thực để có cái nhìn toàn diện về hiệu suất bán hàng và hành vi khách hàng.",
+          "Phân tích đối thủ cạnh tranh và dự báo các nguy cơ tiềm ẩn về uy tín thương hiệu và chất lượng sản phẩm, giúp đưa ra chiến lược tốt hơn trong tương lai."
+        ]
+      },
+      {
+        "title": "Đồng bộ và quản lý tồn kho tập trung",
+        "contents": [
+          "Cập nhật lượng tồn kho theo thời gian thực, tránh tình trạng bán khống.",
+          "Gửi cảnh báo tự động khi lượng tồn kho giảm xuống quá ngưỡng để chuẩn bị cho mùa cao điểm bán hàng."
+        ]
+      }
+    ]
+  },
+  "customerStories": {
+    "title": "Khách hàng nói gì về chúng tôi",
+    "content": "We’ve helped thousands of people get to the next success chapter.",
+    "items": [
+      {
+        "author": "Feng Zhu",
+        "content": "Dynamic commerce có nghĩa là bán hàng đa kênh. IChiba OnePlatform đã mang lại bộ công cụ hoàn chỉnh giúp chúng tôi quản lý bán hàng trên nhiều kênh bán.",
+        "position": "CEO, Hooga"
+      },
+      {
+        "author": "Lưu Linh",
+        "content": "Việc áp dụng các giải pháp bán lẻ đa kênh của IChiba đã giúp chúng tôi cá nhân hóa các tương tác của khách hàng và thực hiện các chiến dịch marketing với đúng đối tượng, từ đó tăng tỷ lệ chuyển đổi."
+      },
+      {
+        "author": "Emily Johnson",
+        "content": "Hệ thống phần mềm của IChiba hoàn toàn phù hợp với mục tiêu của chúng tôi, đó là mang lại trải nghiệm mua hàng đa kênh hoàn hảo."
+      },
+      {
+        "author": "Jessica Martinez",
+        "content": "Với giải pháp dành cho nhà bán lẻ đa kênh của IChiba, chúng tôi đã thu được những dữ liệu vô cùng có giá trị về hành vi và sở thích của khách hàng. Từ đó tối ưu hóa tồn kho, phân loại sản phẩm để đáp ứng nhu cầu của người mua."
+      },
+      {
+        "author": "Li Wei",
+        "content": "Nhờ có giải pháp dành cho nhà bán lẻ đa kênh của IChiba, chúng tôi đã cải thiện được tỷ lệ khách hàng trung thành và mức độ tương tác. Người mua giờ đây có thể dễ dàng chuyển đổi giữa các kênh mua hàng online và offline."
+      },
+      {
+        "author": "Santo",
+        "content": "Sự tích hợp liền mạch giữa các kênh bán hàng online và offline cho phép chúng tôi tạo ra một trải nghiệm mang tính thương hiệu, thúc đẩy niềm tin và lòng trung thành của khách hàng một cách mạnh mẽ."
+      },
+      {
+        "author": "Kenji Inoue",
+        "content": "IChiba đã giúp chúng tôi tối ưu hóa quy trình vận hành, quản lý tồn kho, đơn hàng và dữ liệu khách hàng tốt hơn."
+      },
+      {
+        "author": "Samantha Davis",
+        "content": "IChiba đã giúp chúng tôi quản lý hàng tồn kho hiệu quả trên nhiều kênh bán, giảm thiểu tình trạng hết hàng và tăng doanh số."
+      }
+    ]
+  }
+}

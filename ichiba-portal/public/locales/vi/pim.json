@@ -1,0 +1,194 @@
+{
+  "menu": {
+    "overview": "Tổng quan",
+    "features": "Tính năng",
+    "pricing": "Bảng phí",
+    "landingpage": "Landing page"
+  },
+  "title": "Giải pháp phần mềm giúp quản lý dữ liệu sản phẩm hiệu quả",
+  "subTitle": "Phần mềm quản lý thông tin sản phẩm (PIM) của IChiba OnePlatform giúp quản lý dữ liệu đa kênh, đồng bộ hóa dữ liệu trên các hệ thống và tối ưu hóa để tăng trưởng doanh thu hiệu quả.",
+  "getDemo": "Đặt lịch tư vấn",
+  "freeTrial": "Dùng thử miễn phí",
+  "keyBenefits.title": "Khách hàng được lợi gì khi sử dụng phần mềm quản lý dữ liệu sản phẩm PIM của IChiba OnePlatform?",
+  "keyBenefits.subTitle": "Giúp khách hàng có trải nghiệm sản phẩm tốt hơn với phần mềm quản lý sản phẩm toàn diện PIM.",
+  "pimCanDo": {
+    "title": "Quản lý thông tin sản phẩm vượt trội",
+    "subTitle": "Phần mềm PIM của chúng tôi cung cấp tất cả các tính năng bạn cần để quản lý thông tin sản phẩm một cách hiệu quả và dễ dàng hơn."
+  },
+  "viewAllIntegrations": "Xem tất cả tích hợp",
+  "supportDesc": "Đội ngũ chăm sóc khách hàng của chúng tôi cung cấp dịch vụ hỗ trợ 24/7, sẵn sàng hỗ trợ khách hàng trên tất cả các ngành nghề.",
+  "howItWorks": "Quy trình hoạt động",
+  "collect": "Thu thập",
+  "manage": "Quản lý",
+  "enrich": "Làm giàu",
+  "distribute": "Phân phối",
+  "howPimHelpTitle": "Ai có thể sử dụng sản phẩm của chúng tôi",
+  "sellingMoreTitle": "Dễ dàng bán hàng và tăng trưởng doanh số",
+  "sellingMoreDesc": "Chuyển đổi số dữ liệu sản phẩm để quản lý tập trung và hiệu quả.",
+  "contactSales": "Liên Hệ Ngay",
+  "benefits": [
+    "Dễ dàng định vị dữ liệu sản phẩm",
+    "Giảm chi phí vận hành",
+    "Rút ngắn thời gian sản phẩm ra thị trường",
+    "Cải thiện trải nghiệm khách hàng",
+    "Hợp nhất trải nghiệm đa kênh",
+    "Tăng hiệu quả SEO",
+    "Mở rộng sang các thị trường mới nhanh hơn",
+    "Đơn giản hóa vận hành"
+  ],
+  "collectSteps": [
+    {
+      "title": "Thu thập dữ liệu",
+      "content": "Thu thập dữ liệu từ tất cả các nền tảng: ERP, PLM,..."
+    },
+    {
+      "title": "Nhập dữ liệu",
+      "content": "Trích xuất và nhập dữ liệu thông qua tệp CSV, XLSX và phần mềm hiệu chỉnh."
+    },
+    {
+      "title": "Giới thiệu sản phẩm",
+      "content": "Tiếp nhận thông tin sản phẩm từ nhà cung cấp."
+    },
+    {
+      "title": "Kết nối",
+      "content": "Kết nối với phần mềm DAM (Digital Asset Management-Quản lý tài sản kỹ thuật số) để truy cập nguồn tài nguyên về hình ảnh, video, tài liệu."
+    }
+  ],
+  "manageSteps": [
+    {
+      "title": "Phân loại",
+      "content": "Phân loại sản phẩm theo danh mục, thuộc tính, hoặc kênh bán hàng."
+    },
+    {
+      "title": "Đo lường",
+      "content": "Phân tích, điều chỉnh và giám sát chất lượng dữ liệu sản phẩm."
+    },
+    {
+      "title": "Phân quyền",
+      "content": "Hệ thống phân quyền giúp quản lý quy trình được tối ưu và trơn tru hơn."
+    },
+    {
+      "title": "Quản lý",
+      "content": "Quản lý các nội dung đã được xuất bản, các phiên bản phụ và nội dung danh mục."
+    }
+  ],
+  "enrichSteps": [
+    {
+      "title": "Làm giàu",
+      "content": "Sử dụng dữ liệu và công nghệ để làm phong phú mô tả sản phẩm, quản lý việc nhập hình ảnh sản phẩm và tăng tỷ lệ chuyển đổi."
+    },
+    {
+      "title": "Kết hợp",
+      "content": "Liên kết hình ảnh, video và tài liệu với từng sản phẩm để thu hút khách hàng hơn."
+    },
+    {
+      "title": "Tối ưu hóa",
+      "content": "Sử dụng trí tuệ nhân tạo để tự động bổ sung các nội dung cần thiết về sản phẩm."
+    },
+    {
+      "title": "Bản địa hóa dữ liệu",
+      "content": "Tự động dịch nội dung mô tả sản phẩm linh hoạt theo từng vùng miền, quốc gia."
+    }
+  ],
+  "distributeSteps": [
+    {
+      "title": "Quản lý",
+      "content": "Quản lý danh mục sản phẩm cho mọi kênh bán hàng trên một nền tảng duy nhất - IChiba OnePlatform PIM."
+    },
+    {
+      "title": "Phân loại",
+      "content": "Xác định thuộc tính đặc trưng của từng kênh bán hàng để đưa đến cho người dùng trải nghiệm mua sắm tốt nhất."
+    },
+    {
+      "title": "Tích hợp",
+      "content": "Tích hợp với các kênh bán hàng thông qua API."
+    },
+    {
+      "title": "Đồng bộ danh mục",
+      "content": "Đồng bộ các danh mục sản phẩm tới các nền tảng và thị trường bán lẻ thứ 3."
+    }
+  ],
+  "canDoList": [
+    {
+      "title": "Quản lý dữ liệu sản phẩm tập trung",
+      "description": "Phân phối dữ liệu sản phẩm theo SKU tới nhiều kênh bán hàng chỉ trong vòng 1 phút."
+    },
+    {
+      "title": "Phân loại sản phẩm",
+      "description": "Tạo các bộ sản phẩm từ các nhóm thuộc tính chung: dòng sản phẩm, sản phẩm bán chạy, bộ sưu tập theo mùa,..."
+    },
+    {
+      "title": "Đồng bộ dữ liệu sản phẩm",
+      "description": "Đồng bộ toàn bộ dữ liệu sản phẩm và phân loại theo từng danh mục giúp nhà bán hàng khai thác tối đa sức mạnh marketing của các nền tảng bán hàng."
+    },
+    {
+      "title": "Không giới hạn thuộc tính sản phẩm",
+      "description": "Cho phép tạo các thuộc tính sản phẩm không giới hạn. Thông tin sản phẩm phong phú giúp thúc đẩy quá trình ra quyết định và nâng cao sự hài lòng của khách hàng."
+    },
+    {
+      "title": "Theo dõi tồn kho đa kênh/đa kho",
+      "description": "Theo dõi mức tồn kho, chỉnh sửa thông tin sản phẩm và kiểm tra các mặt hàng hết hàng chỉ trong vài giây trên một màn hình duy nhất."
+    },
+    {
+      "title": "Tối ưu hóa nội dung sản phẩm",
+      "description": "Tối ưu hóa nội dung sản phẩm bằng cách liên kết với nguồn hình ảnh, video không giới hạn, cải thiện chất lượng dữ liệu, thúc đẩy hiệu quả SEO để tạo ra trải nghiệm mua sắm hoàn hảo cho khách hàng."
+    },
+    {
+      "title": "Tích hợp toàn diện",
+      "description": "PIM của IChiba OnePlatform sử dụng công nghệ điện toán đám mây và API để kết nối với hệ sinh thái phần mềm (các sàn TMĐT, phần mềm quản lý hình ảnh, video, vv...) giúp quản lý thông tin sản phẩm từ A-Z."
+    },
+    {
+      "title": "Thống nhất trải nghiệm đa kênh",
+      "description": "Quản lý thông tin sản phẩm từ nhiều kênh bán hàng mà vẫn đảm bảo sự đồng nhất dữ liệu và nội dung."
+    },
+    {
+      "title": "Phân tích dữ liệu dựa trên AI",
+      "description": "Phân tích dữ liệu dựa trên AI giúp kiểm soát các review, đánh giá từ khách hàng, chi phí quảng cáo và phân loại đối thủ cạnh tranh."
+    }
+  ],
+  "integrationTitle": "Tích hợp",
+  "integrationSubtitle": "Chúng tôi tích hợp chặt chẽ với các trang bán hàng và nền tảng thương mại điện tử, cho phép bạn đồng bộ hóa dữ liệu sản phẩm của mình trên nhiều kênh bán một cách hiệu quả.",
+  "howPimHelp": {
+    "marketing": {
+      "title": "Marketing",
+      "shortTitle": "Marketing",
+      "content": "Giảm tải các công việc lặp đi lặp lại để tăng năng suất và hiệu quả làm việc, góp phần vào việc phát triển trải nghiệm sản phẩm tốt hơn."
+    },
+    "customerSuccess": {
+      "title": "Chăm sóc khách hàng",
+      "shortTitle": "Chăm sóc khách hàng",
+      "content": "Giúp đưa sản phẩm ra thị trường nhanh hơn. Đáp ứng kịp thời những nhu cầu/yêu cầu thay đổi nhanh chóng của người tiêu dùng. Tạo ra trải nghiệm mua sắm tuyệt vời giúp giữ chân và tạo dựng lòng trung thành của khách hàng."
+    },
+    "informationTechnology": {
+      "title": "Bộ phận IT",
+      "shortTitle": "Bộ phận IT",
+      "content": "Phần mềm PIM dựa trên điện toán đám mây tích hợp tất cả các phần mềm và ứng dụng giúp quản lý thông tin sản phẩm tập trung, giảm chi phí vận hành và cung cấp đầy đủ nguồn tài nguyên cho IT."
+    },
+    "theCsuite": {
+      "title": "Cấp quản lý",
+      "shortTitle": "Cấp quản lý",
+      "content": "PIM giúp doanh nghiệp đơn giản hóa vận hành, tăng năng suất. Cấp quản lý có thể dành nhiều thời gian hơn vào nghiên cứu phát triển doanh nghiệp và mở rộng thị trường."
+    }
+  },
+  "pimFeaturesTitle": "Các tính năng nổi bật",
+  "pimFeaturesSubtitle": "Giải pháp PIM của chúng tôi giúp bạn cải thiện hiệu quả kinh doanh tổng thể và tăng trưởng doanh thu.",
+  "exploreNow": "Khám phá ngay",
+  "categorizeProducts": "Phân loại sản phẩm",
+  "centralizedProductData": "Quản lý dữ liệu sản phẩm tập trung",
+  "automaticDataEnrichment": "Tối ưu hóa nội dung sản phẩm",
+  "multiMerchantManagement": "Quản lý nhà bán hàng",
+  "productDataSyndication": "Đồng bộ hóa dữ liệu sản phẩm",
+  "unlimitedProductAttributes": "Tạo không giới hạn thuộc tính sản phẩm",
+  "multiWarehouseChannel": "Theo dõi tồn kho đa kênh/đa kho",
+  "realtimeAnalyticsDashboards": "Báo cáo phân tích theo thời gian thực",
+  "deepIntegrationWithMultiplePlatforms": "Tích hợp đa nền tảng",
+  "omniChannelExperience": "Tối ưu hóa trải nghiệm đa kênh",
+  "readMoreSuccessStories": "Read more success stories",
+  "storyTitle": "Phần mềm PIM của IChiba OnePlatform phù hợp với mọi quy mô doanh nghiệp",
+  "sourceOfTrustTitle": "Phần mềm quản lý thông tin sản phẩm hoàn hảo cho mọi nhà kinh doanh",
+  "sourceOfTrustSubtitle": "Quản lý dữ liệu sản phẩm hiệu quả và dễ dàng hơn bao giờ hết",
+  "sourceOfTrustDesc": "Với PIM của IChiba OnePlatform, bạn sẽ không cần phải quản lý dữ liệu sản phẩm thủ công, giảm tải lượng công việc lặp đi lặp lại, giúp đưa sản phẩm ra thị trường nhanh hơn, và thúc đẩy tăng trưởng doanh thu hiệu quả.",
+  "startFreeTrial": "Bắt đầu miễn phí",
+  "faqsTitle": "Frequently asked questions (FAQs)",
+  "viewMore": "Xem thêm"
+}
