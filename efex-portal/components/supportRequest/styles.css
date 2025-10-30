@@ -1,0 +1,15 @@
+.upLoadFile{
+    padding: 12px;
+    width: 100%;
+    text-align: center;
+    border: 1px dashed #DDDDDD;
+    border-radius: 8px;
+    input{
+      background-color: #ffffff;
+      opacity: 0;
+      pointer-events: none;
+      position: absolute;
+      width: 0;
+      height: 0;
+    }
+  }

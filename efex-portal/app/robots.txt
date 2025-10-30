@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */feed
+Allow: /
+
+Sitemap: https://efex.vn/sitemap.xml

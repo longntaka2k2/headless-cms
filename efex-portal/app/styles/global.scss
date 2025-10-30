@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "swiper.scss";
+@import "header.scss";
+@import "home.scss";
+@import "slide.scss";
+@import "blog.scss";
+@import "solutions.scss";
+@import "sellInVietNam.scss";
+@import "start.scss";
+@import "infSlider.scss";
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+*:focus {
+  outline: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@layer utilities {
+  .pause {
+    animation-play-state: paused;
+  }
+}
+
+@layer base {
+  h1 {
+    @apply font-bold text-2xl lg:text-5xl;
+  }
+  h2 {
+    @apply font-bold text-2xl lg:text-4xl lg:leading-12;
+  }
+  h3 {
+    @apply font-bold text-lg lg:text-2xl leading-6 lg:leading-8;
+  }
+}
+
+.gradient-text {
+  background: -webkit-linear-gradient(0deg, #00194F 0%, #ce0202 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.headingGradient {
+  background: -webkit-linear-gradient(left, #00194f, #af0000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.titleGradient {
+  background: -webkit-linear-gradient(left, #5bffc8, #f5222d);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
