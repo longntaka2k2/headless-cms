@@ -1,0 +1,124 @@
+.inf-slider {
+  padding: 20px 0px;
+  background-color: white;
+  align-items: center;
+  //   display: flex;
+  justify-content: center;
+  .hrhr {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px; /* 133.333% */
+    letter-spacing: 4px;
+
+    display: flex;
+    justify-content: center;
+    font-feature-settings: "clig" off, "liga" off;
+    color: #666;
+    text-transform: uppercase;
+    &:before,
+    &::after {
+      content: "";
+      flex: 1;
+      height: 1px;
+      background-color: #ccc;
+      position: relative;
+      top: 7px;
+    }
+  }
+  @mixin white-gradient {
+    background: linear-gradient(
+      to right,
+      rgba(255, 255, 255, 1) 0%,
+      rgba(255, 255, 255, 0) 100%
+    );
+  }
+
+  $animationSpeed: 40s;
+
+  // Animation
+  @keyframes scroll {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(calc(-250px * 7));
+    }
+  }
+
+  // Styling
+  .slider {
+    // box-shadow: 0 10px 20px -5px rgba(0, 0, 0, 0.125);
+    height: auto;
+    margin: auto;
+    overflow: hidden;
+    position: relative;
+
+    &::before,
+    &::after {
+      content: "";
+      height: 100px;
+      position: absolute;
+      width: 200px;
+      z-index: 2;
+    }
+
+    &::after {
+      right: 0;
+      top: 0;
+      transform: rotateZ(180deg);
+    }
+
+    &::before {
+      left: 0;
+      top: 0;
+    }
+
+    .slide-track {
+      animation: scroll $animationSpeed linear infinite;
+      display: flex;
+      gap: 16px;
+      width: calc(150px * 26);
+      &:hover {
+        animation-play-state: paused;
+      }
+      margin-top: 24px;
+    }
+    .slide img {
+      border: 1px solid #ccc;
+      border-radius: 16px;
+      height: 56px;
+      width: 160px;
+    }
+  }
+
+  // Replace the undefined mixin with a standard media query
+  @media (max-width: 768px) {
+    padding-top: 20px;
+
+    .slide-track {
+      animation: scroll $animationSpeed linear infinite;
+      display: flex;
+      gap: 8px;
+      width: calc(150px * 14);
+      &:hover {
+        animation-play-state: paused;
+      }
+      margin-top: 24px;
+    }
+
+    .hrhr {
+      padding: 0 16px;
+      font-size: 10px;
+      line-height: 16px;
+      letter-spacing: 2px;
+      font-weight: 500;
+    }
+    .slider {
+      .slide img {
+        height: 40px;
+        width: 100px;
+      }
+    }
+  }
+}

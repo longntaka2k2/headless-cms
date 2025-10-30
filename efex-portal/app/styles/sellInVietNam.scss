@@ -1,0 +1,60 @@
+.new {
+    .sell-cross::after {
+        content: "";
+        position: absolute;
+        height: 100%;
+        width: 1px;
+        left: 20px;
+        z-index: 1;
+        top: 0px;
+        min-width: 2px;
+        background: linear-gradient(107deg, #173AB4 0%, rgba(141, 177, 246, 0.90) 45.25%, rgba(188, 211, 255, 0.90) 54.69%, rgba(212, 227, 255, 0.90) 62.5%);
+    }
+
+    .number::after {
+        content: "";
+        position: absolute;
+        width: 105%;
+        z-index: 3;
+        top: 8px;
+        height: 7px;
+        border: 1px dashed #00194F;
+    }
+}
+
+.modal {
+    position: relative;
+}
+
+.modal::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    z-index: 1;
+}
+
+.border-efex{
+    background: white;
+    border-radius: 12px;
+    position: relative;
+}
+.border-efex-active{
+    position: relative;
+    border: 1.5px solid transparent;
+    background-clip: padding-box;
+    border-radius: 12px;
+}
+
+.border-efex-active::after {
+    position: absolute;
+    border-radius: 12px;
+    background: linear-gradient(89deg, #00194F 0%, #AF0000 84.37%);
+    content: '';
+    z-index: -1;
+}
+.border-efex:hover{
+    border: 2px solid #af00006b;
+}
