@@ -1,0 +1,533 @@
+{
+  "brand": "IChiba OnePlatform",
+  "notCareers": "Không có tin tuyển dụng nào",
+  "freeTrial": "Free Trial",
+  "takeTour": "Take tour",
+  "vietName": "Việt Nam",
+  "global": "Quốc Tế",
+  "titleGEOModal": "Xin chào, Bạn đang truy cập trang web cho {0}, bạn có muốn tiếp tục trên trang web này không?",
+  "continueGEOModal": "Tiếp tục với {0}",
+  "nextGEOModal": "Chuyển đến với {0}",
+  "signIn": "Đăng nhập",
+  "present": "IChiba OnePlatform là công cụ hỗ trợ thương mại điện tử toàn diện hàng đầu ở Đông Nam Á",
+  "here": "đây",
+  "hello": "Xin chào",
+  "access": "Bạn đang truy cập trang web cho {0}, bạn có muốn tiếp tục trên trang web này không?",
+  "userInfo": "Người dùng",
+  "visit": "Ghé thăm",
+  "language": "Ngôn ngữ:",
+  "logOut": "Đăng xuất",
+  "share": "Chia sẻ trên",
+  "learnMore": "Tìm hiểu thêm",
+  "bookDemo": "Liên hệ",
+  "readMore": "Tìm hiểu thêm",
+  "suscess": "Thành công!",
+  "false": "Đã xảy ra lỗi!",
+  "customerSay": {
+    "customerSayContent": "Bởi vì các đơn đặt hàng bán buôn được xử lý lâu hơn so với những khách hàng đến với chúng tôi qua kênh DC, nên việc thực hiện đơn hàng sẽ tăng thêm một lớp phức tạp. Tuy nhiên, Brightpearl tự động cập nhật từng kênh bán hàng theo thời gian thực với thông tin về những sản phẩm có sẵn. Và nguồn sự thật duy nhất của nó có nghĩa là tôi có thể truy cập vào nền tảng này bất cứ lúc nào để nhanh chóng có được cái nhìn tổng quan về hàng tồn kho, quá trình thực hiện đơn hàng và doanh số bán hàng của chúng tôi trên các kênh, điều này rất quan trọng để loại bỏ các nút thắt tiềm tàng trong hoạt động của chúng tôi.",
+    "title": "Khách hàng nói gì về chúng tôi",
+    "story": "Câu chuyện khách hàng thành công",
+    "content": "Với bộ công cụ phần mềm mạnh mẽ, IChiba đã giúp hàng ngàn doanh nghiệp mở rộng quy mô và tối ưu quy trình vận hành. Hãy cùng xem những chia sẻ của các khách hàng về chúng tôi - và rút ra những bài học riêng cho doanh nghiệp của bạn."
+  },
+  "getStart": "Dùng thử",
+  "getStartedFor": "Dùng thử",
+  "contactSale": "Liên hệ",
+  "contactsale": {
+    "talk": "Trò chuyện với các chuyên gia IChiba OnePlatform",
+    "firstName": "Họ",
+    "lastName": "Tên",
+    "industry": "Ngành hàng",
+    "role": "Chức vụ/ Nghề nghiệp",
+    "companyName": "Tên công ty",
+    "companyEmail": "Email",
+    "companySize": "Quy mô công ty",
+    "country": "Bạn ở tỉnh/ thành phố nào?",
+    "phone": "Số điện thoại",
+    "canHelp": "Chúng tôi có thể làm gì để giúp bạn?",
+    "signUp": "Tôi đồng ý để IChiba OnePlatform liên hệ với tôi qua điện thoại, email và gửi cho tôi thông tin, tin tức, sự kiện và cập nhật liên quan đến yêu cầu của tôi",
+    "submit": "Gửi yêu cầu",
+    "hereToHelp": "Chúng tôi ở đây để giúp bạn!",
+    "ourSale": "Đội ngũ chuyên gia của IChiba OnePlatform cung cấp hướng dẫn cụ thể cho từng trường hợp, giúp bạn tìm ra giải pháp kinh doanh phù hợp thông qua:",
+    "design": "Thiết kế giải pháp tối ưu, phù hợp giúp bạn đạt được các mục tiêu kinh doanh trong thời gian ngắn.",
+    "take": "Cung cấp các buổi demo và hướng dẫn chi tiết",
+    "provide": "Cung cấp thêm thông tin về giá cả, quy trình thanh toán cũng như cách tối ưu chi phí"
+  },
+  "header": {
+    "product": {
+      "title": "Sản phẩm",
+      "ship4p": {
+        "title": "Ship4P",
+        "content": "Tích hợp thông minh với đa hãng vận chuyển nổi tiếng nhất thế giới"
+      },
+      "crossBorder": {
+        "title": "Thương mại điện tử xuyên biên giới (CBE)",
+        "content": "Nền tảng thương mại điện tử tăng khối lượng bán hàng và mở rộng phạm vi tiếp cận thị trường hiệu quả nhất."
+      },
+      "oms": {
+        "title": "Hệ thống quản lý đơn hàng (OMS)",
+        "content": "Tăng trưởng doanh số với hệ thống quản lý đa kênh vượt trội"
+      },
+      "wms": {
+        "title": "Hệ thống quản lý kho ( WMS)",
+        "content": "Tối ưu hóa quản lý và vận hành kho hàng"
+      },
+      "cdxp": {
+        "title": "CDXP (Sắp ra mắt)",
+        "content": "Sắp ra mắt"
+      },
+      "Integrations": {
+        "title": "Tích hợp",
+        "content": "Khám phá một hệ sinh thái tích hợp toàn diện giúp củng cố doanh nghiệp"
+      },
+      "digital": {
+        "title": "Thiết kế website bán hàng",
+        "content": "Xây dựng website bán hàng của riêng bạn với đầy đủ các công cụ linh hoạt nhất."
+      }
+    },
+    "solution": {
+      "title": "Giải Pháp",
+      "eDis": {
+        "title": "Nhà phân phối thương mại điện tử",
+        "content": "Giải pháp toàn diện cho nhà phân phối thương mại điện tử"
+      },
+      "fulfillment": {
+        "title": "Multi - channel fulfillment",
+        "content": "Các giải pháp thực hiện đơn hàng đa kênh hiệu quả cho mọi ngành"
+      },
+      "oRetailers": {
+        "title": "Nhà bán lẻ đa kênh",
+        "content": "Giải pháp chuyển đổi số cho nhà bán lẻ đa kênh"
+      },
+
+      "commerce": {
+        "title": "Brand Commerce",
+        "content": "Hỗ trợ các thương hiệu xây dựng nền tảng thương mại kỹ thuật số, quản lý và tăng doanh số"
+      },
+      "sme": {
+        "title": "Doanh nghiệp vừa và nhỏ (SMEs)",
+        "content": "Tích hợp không giới hạn với mọi quy mô hệ thống dành cho doanh nghiệp vừa và nhỏ"
+      }
+    },
+    "support": {
+      "title": "Trung tâm hỗ trợ",
+      "faq": {
+        "title": "Câu hỏi thường gặp",
+        "content": "Trả lời tất cả các câu hỏi của bạn về chúng tôi"
+      },
+      "request": {
+        "title": "Yêu cầu hỗ trợ",
+        "content": "Không thể tìm thấy câu trả lời ? Liên hệ với chúng tôi để được giải đáp ngay."
+      }
+    },
+    "company": {
+      "title": "Về IChiba",
+      "discover": {
+        "title": "Khám phá IChiba",
+        "content": "Sứ mệnh, tầm nhìn, giá trị, đội ngũ và mạng lưới."
+      },
+      "trust": {
+        "title": "An toàn & Bảo mật",
+        "content": "Cung cấp cơ sở hạ tầng đáng tin cậy, an toàn và tuân thủ nhất trong ngành."
+      },
+      "careers": {
+        "title": "Tuyển dụng",
+        "content": "Bắt đầu một cuộc phiêu lưu mới trên con đường sự nghiệp tại IChiba OnePlatform"
+      },
+      "event": {
+        "title": "Sự kiện",
+        "content": "Commence a new adventure with us - a career at IChiba OnePlatform"
+      },
+      "job": "Jobs"
+    },
+    "resource": {
+      "title": "Kho tin tức",
+      "documentation": {
+        "title": "Trung tâm tài liệu",
+        "content": "Tất cả hỗ trợ bạn cần cho các sản phẩm của IChiba OnePlatform, hướng dẫn dành cho nhà phát triển, v.v."
+      },
+      "blog": {
+        "title": "Blog",
+        "content": "Tin tức, chia sẻ kinh nghiệm kinh doanh, mẹo hay  v.v."
+      },
+      "events": {
+        "title": "Sự Kiện",
+        "content": "Theo dõi các hội thảo trên web, hội thảo, podcast , livestreams,...."
+      },
+      "video": {
+        "title": "Thư viện hình ảnh",
+        "content": "Hướng dẫn, đánh giá, case studies, v.v."
+      },
+      "user": {
+        "title": "Hướng dẫn sử dụng",
+        "content": "Xem sách hướng dẫn để hiểu hơn về các giải pháp của chúng tôi."
+      },
+      "job": "Việc làm"
+    },
+    "suport": "Trung tâm hỗ trợ",
+    "vie": "Tiếng Việt",
+    "en": "Tiếng Anh"
+  },
+  "needSupport": {
+    "title": "Cần được hỗ trợ ? Chúng tôi ở đây để hỗ trợ bạn!",
+    "title1": "",
+    "content": "Hãy cùng làm việc với nhau vì cùng một mục tiêu phát triển ! Liên hệ với những chuyên gia hỗ trợ được đào tạo chuyên sâu của chúng tôi để nhận được câu trả lời chi tiết cho các câu hỏi của bạn.",
+    "btnContact": "Liên hệ hỗ trợ",
+    "checkout": "Đọc thêm thông tin từ kho tin tức của chúng tôi",
+    "discover": "Khám phá trung tâm tài liệu của chúng tôi.",
+    "experience": "Trải nghiệm các công cụ tuyệt vời để phát triển doanh nghiệp của bạn bằng tài khoản miễn phí."
+  },
+  "footer": {
+    "ichiba": "IChiba OnePlatform",
+    "product": "Sản Phẩm",
+    "solutions": "Giải Pháp & Dịch vụ",
+    "resource": "Tài nguyên",
+    "discover": "Khám phá IChiba",
+    "about": "Về chúng tôi",
+    "ourStrengths": "Điểm mạnh của IChiba",
+    "careers": "Tuyển dụng",
+    "trust": "An toàn & bảo mật",
+    "investors": "Các nhà đầu tư",
+    "oms": "Quản lý bán hàng đa kênh (OMS)",
+    "pim": "Quản lý thông tin sản phẩm (PIM)",
+    "wms": "Quản lý kho vận (WMS)",
+    "integration": "Tích hợp",
+    "pos": "Quản lý điểm bán lẻ (POS)",
+    "crossEcom": "Smart cross-border",
+    "ship4p": "Ship4P - Quản lý vận chuyển đa kênh",
+    "cdxp": "Tăng trưởng doanh thu với CDXP",
+    "crossForward": "Cross-border forwarding",
+    "orderfulfillment": "Dịch vụ Order Fulfillment",
+    "fulfillment": "Fulfillment service",
+    "brand": "Brand Commerce",
+    "ecomDis": "Dành cho nhà phân phối TMĐT",
+    "omniRetail": "Dành cho nhà bán lẻ đa kênh/SMEs",
+    "blog": "Blog",
+    "useGuide": "Hướng dẫn sử dụng",
+    "video": "Video",
+    "webinars": "Webinar",
+    "contactUs": "Liên hệ:",
+    "documentation": "Tài liệu",
+    "digital": "Trình tạo website nhanh",
+    "event": "Sự kiện",
+    "weAre": "WE ARE GLOBAL, MEET OUR TEAM",
+    "term": "Điều khoản và điều kiện",
+    "powerGlow": "IChiba - Thay đổi cách bạn kinh doanh",
+    "subscribe": "Đăng ký",
+    "dontMiss": "Cập nhật những tin tức mới nhất từ chúng tôi!",
+    "privacy": "Chính sách bảo mật",
+    "hoChiMinh": "55 Sầm Sơn, Phường 4, Q. Tân Bình, Tp. Hồ Chí Minh, Vietnam 72517.",
+    "haNoi": "Số 20 thôn Mai Châu- xã Đại Mạch - huyện Đông Anh",
+    "cross": "TMĐT xuyên biên giới",
+    "ecomFulfill": "Dịch vụ Ecommerce Fulfillment",
+    "warehouse": "Dịch vụ Warehouse Fulfillment",
+    "crossborderFfm": "Dịch vụ Fulfillment tại Đông Nam Á",
+    "asiaFulfillmentServ": "Cross-Border Fulfillment"
+  },
+  "discover": {
+    "whoWeAre": "Về IChiba OnePlatform",
+    "behindAStrong": "Đằng sau một doanh nghiệp thành công là một trợ thủ tâm huyết. ",
+    "behindAStrong2": "Tại đây, chúng tôi khai phá tiềm năng của mỗi doanh nghiệp thông qua hệ sinh thái phần mềm hậu cần & Thương mại điện tử với khả năng quản lý thông minh và thuận tiện, bất kể quy mô và mô hình.",
+    "7years": "7+ Năm",
+    "experience": "Kinh nghiệm về Logistic & TMĐT",
+    "customersServiced": "Khách hàng",
+    "worldwide": "Nhân viên",
+    "lastest": "Tin tức mới nhất",
+    "globalPartners": "Đối tác toàn cầu",
+    "ourVision": {
+      "title": "Tầm nhìn",
+      "content": "Trở thành công ty hàng đầu cung cấp giải pháp thương mại điện tử xuyên biên giới dành cho các doanh nghiệp đang phát triển ở Đông Nam Á."
+    },
+    "ourMission": {
+      "title": "Sứ mệnh",
+      "content": "Chúng tôi cam kết xóa bỏ các rào cản của thương mại điện tử xuyên biên giới và hỗ trợ doanh nghiệp trên con đường tiếp cận thị trường toàn cầu."
+    },
+    "ourHistory": {
+      "title": "Lịch sử IChiba",
+      "content": "Nhận thức được sự phát triển của TMĐT và bán hàng trực tuyến đa kênh trở nên phổ biến hơn trên thị trường, IChiba OnePlatform liên tục đầu tư vào các công nghệ và phần mềm (SaaS) mang lại giải pháp chuyển đổi số bền vững cho các doanh nghiệp."
+    },
+    "coreValue": {
+      "title": "Những giá trị cốt lõi",
+      "content": "Các nguyên tắc phục vụ hướng đến quyền lợi khách hàng và nhân viên đã thấm nhuần vào tư tưởng IChiba OnePlatform.",
+      "equality": {
+        "title": "Bình đẳng",
+        "content": "Là một tập đoàn đa quốc gia, IChiba tin rằng mọi người đều xứng đáng có cơ hội bình đẳng để đạt được thành công. Đánh giá cao các quan điểm đa dạng thúc đẩy sự đổi mới, tăng cường kết nối giữa mọi người và giúp IChiba  trở thành một công ty bền vững."
+      },
+      "innovation": {
+        "title": "Sự sáng tạo",
+        "content": "Chúng tôi tin rằng không có thứ gọi là phiên bản tốt nhất. IChiba liên tục và không ngừng đổi mới để thích ứng với sự phát triển của thị trường mỗi ngày cho khách hàng."
+      },
+      "trustComponents": {
+        "title": "Uy tín",
+        "content": "Giành và giữ niềm tin của khách hàng là yếu tố then chốt để xây dựng mối quan hệ phát triển lâu dài. Chúng tôi duy trì sự an toàn của khách hàng bằng những phương pháp bảo mật đã được chứng thực."
+      },
+      "customerCentricity": {
+        "title": "Lấy khách hàng làm trung tâm",
+        "content": "Sự hài lòng của khách hàng là thước đo cho sự phát triển và thành công của chúng tôi. Tại đây, IChiba đánh giá cao phản hồi và đề xuất của khách hàng để nâng cao trải nghiệm của họ."
+      },
+      "integrityCommitment": {
+        "title": "Cam kết chính trực",
+        "content": "Chúng tôi giữ mối quan hệ rõ ràng, minh bạch với người lao động, đối tác, cổ đông và xã hội, đảm bảo hài hòa lợi ích của các bên liên quan, hướng tới phát triển bền vững."
+      }
+    },
+    "toward": {
+      "title": "Cùng nhau hướng tới sự phát triển!",
+      "withTech": "Thời gian là vàng bạc. Với các giải pháp công nghệ từ IChiba OnePlatform, các doanh nghiệp và cá nhân có thể vận hành hoạt động kinh doanh trên tất cả các kênh bán hàng tại một điểm. Giải pháp của IChiba hỗ trợ quản lý hoàn toàn tự động để các doanh nghiệp có thể tập trung vào quá trình phát triển và đổi mới.",
+      "ichibaGlobal": "Đội ngũ chuyên viên của IChiba OnePlatform đồng hành cùng khách hàng trong công việc để giúp vận hành các giải pháp công nghệ một cách trơn tru và thuận tiện. Chúng tôi tập trung vào việc loại bỏ những rắc rối trong chuyển đổi số, từ đó thương hiệu có thể mang lại những trải nghiệm phong phú dựa trên nền tảng dữ liệu và tạo lập văn hóa tư duy tiến bộ."
+    },
+    "ourNetworks": {
+      "title": "Mạng lưới IChiba OnePlatform",
+      "content": "Chúng tôi tự hào là đơn vị đầu tiên cung cấp hệ sinh thái phần mềm hỗ trợ Logistics & Thương mại điện tử với khả năng quản lý thông minh, thuận tiện cho mọi mô hình kinh doanh tại Đông Nam Á."
+    },
+    "ourStrengths": {
+      "title": "Thế mạnh của IChiba OnePlatform",
+      "content": "Giá trị mà IChiba OnePlatform mang lại tới các doanh nghiệp!",
+      "singlePlatform": {
+        "title": "Giải pháp thống nhất trên một nền tảng",
+        "content": "Chúng tôi cung cấp nền tảng tất cả giải pháp trong một, nền tảng của chúng tôi có thể giải quyết rất nhiều nguyên nhân gây ra việc triển khai kéo dài. Cách tiếp cận tích hợp, theo mô-đun góp phần đơn giản hóa các quy trình và giảm đáng kể độ phức tạp của các giải pháp CNTT."
+      },
+      "deepIntegration": {
+        "title": "Các giao diện tích hợp sâu",
+        "content": "Cho dù hoạt động chuỗi cung ứng của bạn phức tạp hay đơn giản, IChiba OnePlatform sẽ giúp tăng cường kiểm soát và khả năng hiển thị thông qua các giao diện tích hợp sâu. Các tích hợp linh hoạt và toàn diện của chúng tôi với Omni-channels, OMS, WMS, hệ thống bên thứ tư và nhiều hơn thế nữa, có thể tăng năng suất và hiệu quả kinh doanh của bạn."
+      },
+      "realTime": {
+        "title": "Hiển thị số liệu theo thời gian thực",
+        "content": "Kiểm soát hoạt động vận hành với các thông tin có thể theo dõi theo thời gian thực. Quản lý tốt các khía cạnh đa dạng của những quy trình phức tạp giúp doanh nghiệp có lợi thế cạnh tranh, nâng cao năng suất, tăng tính minh bạch và sự hài lòng của khách hàng, và giảm chi phí vận chuyển."
+      },
+      "comprehensive": {
+        "title": "Tuân thủ toàn diện",
+        "content": "Lợi ích của khách hàng được đảm bảo thông qua chương trình tuân thủ toàn diện của chúng tôi đối với tất cả các quy tắc, quy định, hợp đồng và chính sách chi phối các hoạt động của tổ chức. Doanh nghiệp có thể yên tâm làm việc trên IChiba OnePlatform mà không cần lo ngại về rủi ro rò rỉ dữ liệu."
+      }
+    },
+    "howWeWork": {
+      "howWeWork": "Cách chúng tôi làm việc",
+      "openToWork": "Văn hóa làm việc cởi mở",
+      "weBelieve": "Chúng tôi tin rằng tất cả mọi người đều có tiềm năng làm nên những điều tuyệt vời.",
+      "openToHas": "IChiba OnePlatform luôn chú trọng tạo ra môi trường cởi mở cho nhân viên. Mỗi một nhân viên đều cố gắng làm việc, giao tiếp và hợp tác với nhau mỗi ngày để phát triển những giá trị vượt trội.",
+      "openUp": "",
+      "meetOurTeam": "Gặp gỡ team iChiba"
+    },
+    "ourData": {
+      "title": "Cam kết bảo mật dữ liệu",
+      "content": "IChiba OnePlatform cam kết bảo mật dữ liệu tuyệt đối cho khách hàng và cung cấp đầy đủ các tài liệu pháp lý. Chúng tôi luôn tuân thủ chặt chẽ các quy định pháp luật để bảo vệ dữ liệu của bạn trong suốt quá trình kinh doanh.",
+      "learnMore": "Tìm hiểu thêm"
+    }
+  },
+  "trust": {
+    "title": "Tin cậy & Bảo mật",
+    "content": "Chúng tôi hiểu rằng niềm tin là #1 để xây dựng một mối quan hệ bền chặt và lâu dài.",
+    "security": {
+      "title": "Bảo mật",
+      "content": "IChiba OnePlatform phát triển các sản phẩm cùng với tính năng bảo mật tích hợp để các doanh nghiệp có thể tập trung vào phát triển và đổi mới."
+    },
+    "availability": {
+      "title": "Khả dụng",
+      "content": "IChiba và khách hàng chia sẻ trách nhiệm đảm bảo rằng dữ liệu có thể được truy cập bởi những người được ủy quyền bất cứ khi nào họ muốn."
+    },
+    "confidentiality": {
+      "title": "Bảo mật",
+      "content": "Các phương thức bảo mật nhiều lớp đảm bảo quyền truy cập được cấp phép bởi các cá nhân hoặc chương trình."
+    },
+    "compliance": {
+      "title": "Tuân thủ",
+      "content": "IChiba OnePlatform duy trì một bộ chứng nhận tuân thủ để xác thực giá trị tin cậy số 1 của chúng tôi."
+    },
+    "privacy": {
+      "title": "Sự riêng tư",
+      "content": "Chúng tôi coi trọng quyền riêng tư của cá nhân và cam kết thực hiện nghĩa vụ bảo vệ dữ liệu cá nhân cao nhất."
+    },
+    "certificates": {
+      "title": "Giấy chứng nhận tuân thủ tiêu chuẩn và quy định bảo mật thông tin",
+      "content": "Chúng tôi có các chứng nhận được ngành chấp nhận và tuân thủ các tiêu chuẩn cũng như quy định hiện hành của ngành, vì vậy bạn có thể yên tâm rằng dữ liệu của công ty và khách hàng của bạn vẫn an toàn và tuân thủ."
+    },
+    "nurture": {
+      "title": "Giá trị tích lũy niềm tin"
+    },
+    "securityPartners": {
+      "title": "Đối tác bảo mật",
+      "content": "Chúng tôi hợp tác với các công ty đi đầu về bảo mật để bảo vệ dữ liệu thông tin một cách tuyệt đối"
+    },
+    "question": {
+      "title": "Hãy liên hệ để được giải đáp ngay hôm nay!",
+      "content": "Liên hệ với một trong những kỹ sư hỗ trợ được đào tạo chuyên sâu của chúng tôi để nhận câu trả lời chi tiết cho các câu hỏi bảo mật cụ thể của bạn.",
+      "support": "Yêu cầu hỗ trợ"
+    }
+  },
+  "careers": {
+    "copySuccess": "Sao chép thành công!",
+    "ichibaCareers": "IChiba tuyển dụng",
+    "title": "Hãy cùng nhau sáng tạo và đổi mới thế giới Logistics!",
+    "content": "Môi trường làm việc năng động và nhiều cơ hội phát triển tại IChiba OnePlatform",
+    "searchJob": "Tìm kiếm công việc",
+    "viewAllJob": "Xem tất cả công việc",
+    "searchTitle": "Tìm kiếm công việc",
+    "ourCulture": {
+      "title": "Văn Hóa Tại IChiba OnePlatform",
+      "content": "Chúng tôi cung cấp một môi trường làm việc linh hoạt, được trang bị đầy đủ các thiết bị cần thiết nhằm thúc đẩy sự sáng tạo và tập trung.",
+      "diversity": {
+        "title": "Đa dạng, Công bằng và Hòa nhập",
+        "content": "Chúng tôi đánh giá cao sự đóng góp của mọi người và tôn vinh sự sáng tạo. Sự đa dạng và đa năng của nhân viên IChiba giúp công việc luôn được hoàn thành một cách xuất sắc.Không chỉ cung cấp cơ hội việc làm, IChiba OnePlatform còn mở rộng cơ hội thăng tiến và khuyến khích những ý tưởng đóng góp của từng nhân viên.",
+        "learnMore": "Tìm hiểu thêm"
+      },
+      "interview": {
+        "title": "Liên tục đổi mới",
+        "content": "Chúng tôi không khuyến khích làm việc theo khuôn mẫu, thay vào đó sự sáng tạo luôn được tôn trọng và trao cơ hội. Việc đổi mới sáng tạo liên tục đã và đang truyền cảm hứng cho IChiba OnePlatform tạo ra và tiếp cận những cơ hội mới.",
+        "learnMore": "Tìm hiểu thêm"
+      },
+      "agile": {
+        "title": "Văn hóa Agile",
+        "content": "Tại iChiba, chúng tôi tạo ra một môi trường mang đến các giá trị thực tiễn giúp mọi cá nhân có thể dễ dàng thích nghi linh hoạt khi đối mặt với khó khăn trong công việc. Điều này cho phép nhân viên của chúng tôi nuôi dưỡng tinh thần cống hiến hết mình và đạt được sự cân bằng giữa công việc và cuộc sống tốt hơn.",
+        "learnMore": "Khám phá thêm"
+      }
+    },
+    "employee": {
+      "title": "Thay đổi tương lai cùng IChiba OnePlatform",
+      "content": "/Không chỉ là lương, người lao động cần nhiều hơn thế/",
+      "recognizing": "Để phát huy tối đa tiềm lực đội ngũ nhân sự, IChiba OnePlatform luôn cố gắng tạo ra một môi trường làm việc lý tưởng, nơi mà nhân viên được đáp ứng đầy đủ các nhu cầu thiết yếu cả về vật chất và tinh thần. Đây là nơi mà bạn được làm việc với những người cộng sự đầy đam mê, chung chí hưởng, đồng thời được thỏa sức thể hiện bản sắc cá nhân.",
+      "atIChiba": "Tại IChiba OnePlatform, bạn sẽ luôn tìm thấy nhiều cơ hội thăng tiến nghề nghiệp để trở thành phiên bản tốt nhất của chính mình.",
+      "atTheEnd": "Chúng tôi luôn mong muốn đồng hành và hỗ trợ các thành viên trong công ty trên con đường phát triển sự nghiệp của mình. Vai trò của chúng tôi là cung cấp tất cả những gì bạn cần để tiến tới đích đến của thành công. Dù là sinh viên mới tốt nghiệp hay một chuyên gia dày dạn kinh nghiệm, bạn sẽ luôn tìm thấy cánh cửa mở ra tương lai sự nghiệp của mình ở IChiba.",
+      "benefits": {
+        "title": "Lợi ích",
+        "content": "Tại IChiba OnePlatform, chúng tôi cung cấp nhiều lợi ích tuyệt vời hỗ trợ nhân viên như thời gian nghỉ có lương và ngày nghỉ có lương, các chuyến du lịch của công ty bên cạnh các lựa chọn chỗ ở y tế khác dành cho các vấn đề về sức khỏe tinh thần và thể chất."
+      },
+      "training": {
+        "title": "Đào tạo & Phát triển",
+        "content": "Chúng tôi thiết lập môi trường làm việc chuyên nghiệp, đào tạo bài bản để nhân viên nâng cao kỹ năng, đảm bảo luôn tuân thủ khối lượng công việc."
+      },
+      "work": {
+        "title": "Môi trường làm việc",
+        "content": "Một môi trường làm việc tích cực thúc đẩy phúc lợi, năng suất và sự phát triển của nhân viên. Văn hóa, giá trị của IChiba OnePlatform và cách chúng tôi làm việc cùng nhau như một nhóm đảm bảo rằng mọi người đều cảm thấy có giá trị và được khen thưởng cho những đóng góp mà họ mang lại."
+      },
+      "equity": {
+        "title": "Chương trình Equity",
+        "content": "Chúng tôi muốn tất cả nhân viên đồng hành và chia sẻ thành công của IChiba OnePlatform. Chương trình vốn chủ sở hữu của chúng tôi cho phép tất cả các thành viên tham gia vào cả việc thuê mới và trợ cấp vốn chủ sở hữu liên tục."
+      },
+      "flexible": {
+        "title": "Công việc linh hoạt",
+        "content": "Chúng tôi cung cấp địa điểm và giờ làm việc linh hoạt cho nhân viên để họ có thể sắp xếp thời gian của mình tốt hơn."
+      },
+      "leadership": {
+        "title": "Chương trình lãnh đạo",
+        "content": "Chúng tôi khuyến khích nhân viên vượt qua những hạn chế của bản thân và phát huy thế mạnh của họ. Tại IChiba OnePlatform, mọi người đều mở ra cơ hội học hỏi và phát triển các kỹ năng lãnh đạo."
+      },
+      "weSave": "Chúng tôi lưu giữ từng kỷ niệm khó quên bên nhau!",
+      "followUs": "Theo dõi ",
+      "Wereglad": "Hãy tham gia cùng IChiba để tạo nên những sản phẩm vươn tầm thế giới !",
+      "seeOpen": "Việc làm mới nhất "
+    },
+    "weHire": {
+      "title": "Quy trình tuyển dụng",
+      "apply": {
+        "title": "Nộp đơn ứng tuyển",
+        "content": "Đừng ngại nộp đơn ứng tuyển vào nhiều vị trí, chúng tôi rất cởi mở với việc ứng viên tìm kiếm nhiều cơ hội một lúc. Tuy nhiên, bạn cũng nên lưu ý đầu tư vào chất lượng CV thay vì số lượng."
+      },
+      "interview": {
+        "title": "Phỏng vấn",
+        "content": "Nếu chúng tôi thấy bạn phù hợp với vị trí công việc, chúng tôi sẽ gửi email và gọi điện xác nhận phỏng vấn. Bạn có thể lựa chọn hình thức phỏng vấn online hoặc tại văn phòng."
+      },
+      "notify": {
+        "title": "Thông báo",
+        "content": "Sau khi kết thúc cuộc phỏng vấn, chúng tôi sẽ đánh giá lại các ứng viên. Nếu bạn phù hợp với vị trí ứng tuyển, chúng tôi sẽ gửi thông báo trúng tuyển."
+      },
+      "confirm": {
+        "title": "Xác nhận",
+        "content": "Sau khi bạn nhận lời mời làm việc, chúng tôi sẽ giải thích chi tiết các cơ chế về lương, thưởng, bảo hiểm, bồi thường và các phúc lợi khác."
+      },
+      "contract": {
+        "title": "Ký hợp đồng",
+        "content": "Chào mừng bạn đến với IChiba OnePlatform!"
+      }
+    },
+    "findJob": "Tìm kiếm công việc bạn",
+    "search": "Tìm kiếm",
+    "location": "Vị trí",
+    "expirationDate": "Ngày hết hạn",
+    "all": "Tất cả",
+    "category": "Danh mục",
+    "engineering": "Engineering & Technology",
+    "sales": "Sales & Marketing",
+    "business": "Business Support & Operations",
+    "relatedJobs": "Related Jobs",
+    "applyNow": "Ứng Tuyển Ngay",
+    "share": "Chia sẻ",
+    "contract": "Loại hợp đồng",
+    "joinUs": "Tham gia IChiba OnePlatform ngay!",
+    "fullName": "Họ và tên",
+    "jobType": "Loại công việc",
+    "phoneNumber": "Số Điện Thoại",
+    "portfolio": "Portfolio",
+    "bySubmit": "Khi gửi CV, bạn đã đồng ý với các chính sách về quyền riêng tư của chúng tôi",
+    "drag": "Kéo và thả tệp của bạn vào đây hoặc duyệt từ máy tính của bạn. Tối đa 3mb, các loại tệp được phép: jpg, jpeg, png, doc, docx, pdf",
+    "submit": "Gửi CV",
+    "ourOffice": "Văn Phòng IChiba OnePlatform",
+    "sortBy": "Sắp xếp theo",
+    "prioritize": "Ưu tiên",
+    "latest": "Mới nhất",
+    "oldest": "Cũ nhất",
+    "validForm": {
+      "name": "Bạn chưa nhập họ tên",
+      "email": "Email không hợp lệ",
+      "phone": "Bạn chưa nhập số điện thoại",
+      "cv": "Bạn chưa tải CV"
+    }
+  },
+  "blog": {
+    "pubicshed": "Ngày tạo",
+    "author": "Tác giả",
+    "category": "Danh mục",
+    "most": "Phổ biến nhất",
+    "dontMiss": "Đừng bỏ lỡ tin mới nhất",
+    "getUpdate": "Nhận cập nhật trong hộp thư đến của bạn",
+    "type": {
+      "news": "Tin tức mới",
+      "promotion": "Khuyến mãi",
+      "aboutIchiba": "Tin tức về IChiba",
+      "engineer": "Kỹ thuật & công nghệ"
+    },
+    "detail": {
+      "takeAtour": "Khám phá IChiba",
+      "seeIChiba": "Tăng trưởng doanh thu hiệu quả với bộ giải pháp phần mềm toàn diện của IChiba OnePlatform.",
+      "request": "Yêu cầu dùng thử"
+    }
+  },
+  "metatitle": {
+    "jobs": "tuyển dụng",
+    "homepage": "IChiba OnePlatform: Cung Cấp Giải Pháp SaaS Hỗ Trợ TMĐT",
+    "ship4pOverview": "Phần Mềm Tích Hợp Hãng Vận Chuyển | Ship4P",
+    "ship4pFeatures": "Phần Mềm Tích Hợp Vận Chuyển Thông Minh Cho Doanh Nghiệp",
+    "crossOverview": "Phần Mềm Quản Lý Đơn Hàng Online Hiệu Quả",
+    "crossFeatures": "Phần Mềm Quản Lý Đơn Hàng Đầy Đủ Tính Năng Nhất",
+    "OMSOverview": "Phần Mềm Quản Lý Bán Hàng Toàn Diện Cho Mọi Doanh Nghiệp",
+    "OMSFeatures": "Phần Mềm Quản Lý Bán Hàng Đa Kênh Hiệu Quả Nhất",
+    "digitalOverview": "Thiết Kế Website Chuyên Nghiệp, Chuẩn SEO",
+    "digitalFeatures": "Dịch Vụ Thiết Kế Website Bán Hàng Từ A-Z",
+    "wmsOverview": "Giải Pháp Quản Lý Kho Hàng Hiệu Quả Cho Doanh Nghiệp",
+    "wmsFeatures": "Phần Mềm Quản Lý Kho Bãi Online Tốt Nhất",
+    "eDistributors": "Giải Pháp Toàn Diện Hỗ Trợ Các Nhà Phân Phối TMĐT",
+    "multi": "Giải Pháp Hoàn Tất Đơn Hàng Đa Kênh Cho Doanh Nghiệp",
+    "omnichannel": "Giải Pháp Bán Lẻ Đa Kênh Hiệu Quả Nhất",
+    "brand": "Brand Commerce: Nâng Tầm Thương Hiệu",
+    "smes": "Phần Mềm Quản Lý SaaS Tốt Nhất Cho Doanh Nghiệp Vừa và Nhỏ",
+    "careers": {
+      "index": {
+        "title": "Khám phá cơ hội việc làm tại IChiba OnePlatform.",
+        "meta": "Với sứ mệnh phát triển thị trường thương mại điện tử toàn cầu, IChiba OnePlatform tạo ra một môi trường làm việc đa dạng và cởi mở, khuyến khích nhân viên phát triển bản thân và sáng tạo để đóng góp cho sự thành công của công ty."
+      },
+      "ourLife": {
+        "title": "Văn Hóa Tại IChiba OnePlatform",
+        "meta": "Chúng tôi cung cấp một môi trường làm việc linh hoạt, được trang bị đầy đủ các thiết bị cần thiết nhằm thúc đẩy sự sáng tạo và tập trung."
+      },
+      "listCareers": {
+        "title": "Trang tuyển dụng | IChiba OnePlatform",
+        "meta": "Trang tuyển dụng cung cấp thông tin chi tiết về các vị trí tuyển dụng, quy trình phỏng vấn và các phúc lợi cho nhân viên. Hãy truy cập trang tuyển dụng của IChiba OnePlatform để khám phá các cơ hội việc làm tuyệt vời và bắt đầu hành trình sự nghiệp của bạn ngay hôm nay!."
+      },
+      "trust": {
+        "title": "An toàn và bảo mật | IChiba OnePlatform",
+        "meta": "Chúng tôi có các chứng nhận được ngành chấp nhận và tuân thủ các tiêu chuẩn cũng như quy định hiện hành của ngành, vì vậy bạn có thể yên tâm rằng dữ liệu của công ty và khách hàng của bạn vẫn an toàn và tuân thủ."
+      },
+      "blog": {
+        "title": "Blog | IChiba OnePlatform",
+        "meta": "Trang thông tin chung và các sự kiện diễn ra tại IChiba OnePlatform."
+      }
+    }
+  }
+}

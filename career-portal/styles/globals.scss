@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    input::placeholder {
+        @apply tw-text-ic-ink-5
+    }
+}
+
+@import "./mixins";
+@import "./Home.module.scss";
+@import "./color";
+@import "./layout/topbar";
+@import "./layout/header";
+@import "./layout/footer";
+@import "./blog/blog.scss";
+@import "./blog/blogDetail.scss";
+@import "./company/discover/discover.scss";
+@import "./company/discover/lastestCompany.scss";
+@import "./company/career/career.scss";
+@import "./company/career/listcareer.scss";
+@import "./company/career/careerlv2.scss";
+@import "./company/trust/trust-security.scss";
+
+
+
+
+
+
+
+
+
+
+
+
+

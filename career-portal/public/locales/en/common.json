@@ -1,0 +1,532 @@
+{
+  "brand": "IChiba OnePlatform",
+  "notCareers": "Not have careers",
+  "freeTrial": "Free Trial",
+  "takeTour": "Take tour",
+  "vietName": "Vietnamese",
+  "global": "Quốc Tế",
+  "titleGEOModal": "Hello, You are accessing the website for {0}, would you like to continue on this website?",
+  "continueGEOModal": "Yes, continue on {0}",
+  "nextGEOModal": "No, go to the website for {0}",
+  "signIn": "Sign In",
+  "userInfo": "User Info",
+  "visit": "Visit",
+  "logOut": "Logout",
+  "hello": "Hello",
+  "language": "Language:",
+  "present": "IChiba OnePlatform is the leading end-to-end e-commerce enabler in Southeast Asia",
+  "here": "here",
+  "share": "Share on",
+  "access": "You are accessing the website for {0}, would you like to continue on this website?",
+  "learnMore": "Learn More",
+  "getStart": "Get started for free",
+  "getStartedFor": "Get started free",
+  "contactSale": "Contact sales",
+  "readMore": "Read More",
+  "bookDemo": "Book Demo",
+  "suscess": "Success!",
+  "false": "Failed!",
+  "customerSay": {
+    "customerSayContent": "Because wholesale orders are in the pipeline for longer than those customers coming to us via a DC channel, it adds an extra layer of complexity to order fulfillment. However, Brightpearl automatically updates each sales channel in realtime with information on what products are available. And its single source of truth means I can dip into the platform at any time to quickly get an overview of our inventory, order fulfillment and sales across channels, which is so important to removing potential bottlenecks in our operation.",
+    "title": "What our customers say",
+    "story": "CUSTOMER SUCCESS STORY",
+    "content": "Our awesome customers have benefited from IChiba's hyper-scalability to connect to some game-changing tools. Check out some examples below – and get inspired about what you could achieve"
+  },
+  "contactsale": {
+    "talk": "Talk to an expert",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "industry": "Industry",
+    "role": "Job Role",
+    "companyName": "Company Name",
+    "companyEmail": "Company Email",
+    "companySize": "Company Size",
+    "country": "Country/Region",
+    "phone": "Telephone",
+    "canHelp": "How can we help?",
+    "signUp": "Sign me up to receive news, event information, and updates from IChiba",
+    "submit": "Submit request",
+    "hereToHelp": "We’re here to help",
+    "ourSale": "Our sales team will give you personalized guidance to help you find the right IChiba solution. We can help:",
+    "design": "Take you through demos, and walk you through the onboarding process",
+    "take": "Take you through demos, and walk you through the onboarding process",
+    "provide": "Provide more information on pricing, the billing process, as well as how to save costs"
+  },
+  "header": {
+    "product": {
+      "title": "Products",
+      "ship4p": {
+        "title": "Ship4P",
+        "content": "Intelligent integration with the world's most renowned carriers"
+      },
+      "crossBorder": {
+        "title": "Cross-border eCommerce",
+        "content": "The most effective e-commerce platform for increasing sales volume and extending market reach."
+      },
+      "oms": {
+        "title": "Order Management System",
+        "content": "Best Omnichannel Management Software for sales growth"
+      },
+      "wms": {
+        "title": "Warehouse Management System",
+        "content": "Optimize warehouse management and operations"
+      },
+      "cdxp": {
+        "title": "CDXP ( Coming soon)",
+        "content": "Coming soon"
+      },
+      "Integrations": {
+        "title": "Integrations",
+        "content": "Explore a comprehensive integrated ecosystem that strengthens businesses"
+      },
+      "digital": {
+        "title": "Digital Commerce Platform",
+        "content": "Create your eCommerce trading website with the most flexible and comprehensive tools."
+      }
+    },
+    "solution": {
+      "title": "Solutions",
+      "eDis": {
+        "title": "ECommerce Distributors",
+        "content": "Comprehensive solution for e-commerce distributors"
+      },
+      "fulfillment": {
+        "title": "Multichannel fulfillment",
+        "content": "Streamlined and effective Multi- channel Fulfillment solutions for every industry"
+      },
+      "oRetailers": {
+        "title": "Omnichannel Retailers",
+        "content": "Digital transformation solutions for omnichannel retailers"
+      },
+
+      "commerce": {
+        "title": "Brand Commerce",
+        "content": "Assist brands in building digital commerce platforms, managing, and enhancing brand integrity."
+      },
+      "sme": {
+        "title": "SMEs",
+        "content": "Unlimited integration with any system scales for SMEs"
+      }
+    },
+    "support": {
+      "title": "Support center",
+      "faq": {
+        "title": "FAQs",
+        "content": "Answer all your questions about us"
+      },
+      "request": {
+        "title": "Support Request",
+        "content": "Not able to discover the answers? Contact us for immediate responses."
+      }
+    },
+    "company": {
+      "title": "Company",
+      "discover": {
+        "title": "Discover IChiba",
+        "content": "Our mission, vision, values, team and networks"
+      },
+      "trust": {
+        "title": "Trust & Security",
+        "content": "Deliver the industry's most trustworthy, secure, and compliant infrastructure."
+      },
+      "careers": {
+        "title": "Our Life",
+        "content": "Commence a new adventure with us - a career at IChiba OnePlatform"
+      },
+      "event": {
+        "title": "Events",
+        "content": "Theo dõi các hội thảo trên web, hội thảo, podcast , livestreams,...."
+      },
+      "job": "Jobs"
+    },
+    "resource": {
+      "title": "Resource Center",
+      "documentation": {
+        "title": "Documentation Centre",
+        "content": "All the assistance you require for IChiba OnePlatform products, counting developer manuals, tutorials,...."
+      },
+      "blog": {
+        "title": "Blog",
+        "content": "Articles, resources, stories, tips, and more"
+      },
+      "events": {
+        "title": "Events",
+        "content": "Follow up our live and on-demand webinars, workshops, podcasts and digital events."
+      },
+      "video": {
+        "title": "Video Library",
+        "content": "Tutorials, reviews, case studies, and more"
+      },
+      "user": {
+        "title": "User guide",
+        "content": "View highlighted playbooks to chart your path to success."
+      },
+      "job": "Jobs"
+    },
+    "suport": "Support",
+    "vie": "Vietnamese",
+    "en": "English"
+  },
+  "needSupport": {
+    "title": "Need support?",
+    "title1": "We are here to help!",
+    "content": "It's about working together for the same goal. Contact one of our highly-trained support experts to get detailed answers to your specific questions.",
+    "btnContact": "Contact Sales",
+    "checkout": "Check out our reliable resources",
+    "discover": "Discover our documentation centre.",
+    "experience": "Experience amazing tools to grow your business with a free account."
+  },
+  "footer": {
+    "IChiba": "IChiba OnePlatform",
+    "product": "Products",
+    "solutions": "Solutions",
+    "resource": "Resource center",
+    "discover": "Discover IChiba",
+    "about": "About Us",
+    "ourStrengths": "Our Strengths",
+    "careers": "Careers",
+    "trust": "Trust & Security",
+    "investors": "Investors",
+    "oms": "Order Management System (OMS)",
+    "wms": "Warehouse Management System (WMS)",
+    "pos": "Point of Sale (POS)",
+    "crossEcom": "Smart Cross-Border",
+    "integration": "Integration",
+    "ship4p": "Ship4P - Multi-carrier Integration ",
+    "pim": "Product Information Management (PIM)",
+    "cdxp": "Customer Data & Experience Platform (CDXP)",
+    "crossForward": "Cross-border forwarding",
+    "orderfulfillment": "Order Fulfillment",
+    "fulfillment": "Fulfillment service",
+    "brand": "Brand Commerce",
+    "ecomDis": "ECommerce Distributors",
+    "omniRetail": "Omnichannel Retailers",
+    "blog": "Blog",
+    "useGuide": "User Guide",
+    "video": "Video Library",
+    "webinars": "Webinars",
+    "contactUs": "Contact Us:",
+    "documentation": "Documentation",
+    "digital": "Digital Commerce Platform",
+    "event": "Events",
+    "weAre": "WE ARE GLOBAL, MEET OUR TEAM",
+    "term": "Terms & Conditions",
+    "subscribe": "Subscribe",
+    "powerGlow": "A power that glows your business",
+    "dontMiss": "Don't miss updates from us!",
+    "privacy": "Privacy Policy",
+    "hoChiMinh": "No. 55 Sam Son, Ward 4, Tan Binh District, Ho Chi Minh City, Vietnam 72517.",
+    "haNoi": "No. 20 Mai Chau village - Dai Mach commune - Dong Anh district.",
+    "cross": "Cross-border ECommerce",
+    "ecomFulfill": "ECommerce Fulfillment",
+    "warehouse": "Warehouse Fulfillment",
+    "crossborderFfm": "Cross-Border Fulfillment",
+    "asiaFulfillmentServ": "Cross-Border Fulfillment"
+  },
+  "discover": {
+    "whoWeAre": "Who we are",
+    "behindAStrong": "Behind a strong business, exist a passionate supporter.",
+    "behindAStrong2": "Here we are to unlock every single individuas potential through a software ecosystem of logistics & e-Commerce with convenient and intelligent management capabilities, regardless of scale and model.",
+    "7years": "7+ Years",
+    "experience": "Experience in Logistic & eCommerce",
+    "customersServiced": "Customers serviced",
+    "worldwide": "Worldwide employees",
+    "globalPartners": "Global partners",
+    "lastest": "Latest Company News",
+    "ourVision": {
+      "title": "Our Vision",
+      "content": "Becoming a leading company that provides cross-border e-commerce platform solutions to support growing businesses in Southeast Asia."
+    },
+    "ourMission": {
+      "title": "Our Mission",
+      "content": "We are committed to removing barriers of cross-border e-commerce and supporting businesses on their way to the global market."
+    },
+    "ourHistory": {
+      "title": "Our history",
+      "content": "IChiba OnePlatform passionately invests in quality training and high technologies to develop the best end-to-end eCommerce solutions that support entrepreneurs scale up sustainably."
+    },
+    "coreValue": {
+      "title": "Core values",
+      "content": "We hold most dear of our deeply ingrained principles to serve employees and customers.",
+      "equality": {
+        "title": "Equality",
+        "content": "As a multinational corporation, we believe everyone deserves equal opportunities to gain success. Valuing diverse perspectives drives innovation, strengthens connections between people, and makes us a better company."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "content": "We believe that there s no such thing as the best version. We continuously and constantly innovate to adapt to market developments every day for our customers."
+      },
+      "trustComponents": {
+        "title": "Trust components",
+        "content": "Earning and keeping the trust of customers are key factors to build a sustainable and strong relationship. We maintain our client’s safety by several security methods that are certificated."
+      },
+      "customerCentricity": {
+        "title": "Customer centricity",
+        "content": "Customer satisfaction is our measure of development and success. Here we value customer feedback and suggestions enhance their experience. "
+      },
+      "integrityCommitment": {
+        "title": "Integrity commitment",
+        "content": "We keep clear and transparent relationships with employees, partners, shareholders and society, ensuring the harmony of interests of stakeholders, towards sustainable development."
+      }
+    },
+    "toward": {
+      "title": "Towards business growth, together!",
+      "withTech": "With technology solutions from IChiba OnePlatform, businesses and individuals can run their business across all sales channels in a single place. It is all automatic that IChiba OnePlatform supports the management, so businesses can focus on growing and innovating.",
+      "IChibaGlobal": "IChiba OnePlatform team of specialists work hand-in-hand with customers to help operate technologies smoothly and conveniently. We focus on removing the complexity from digital transformation, so brands can deliver rich experiences driven by data and create forward-thinking culture."
+    },
+    "ourNetworks": {
+      "title": "Our networks",
+      "content": "We are proud to be the first one who provides a supportive software ecosystem of logistics & eCommerce with convenient and intelligent management capabilities for all business models in South East Asia."
+    },
+    "ourStrengths": {
+      "title": "Our strengths",
+      "content": "How can IChiba OnePlatform drive value to businesses?",
+      "singlePlatform": {
+        "title": "A single platform solution",
+        "content": "We provide an all-in-one platform that directly addresses many of the root causes contributing to lengthy implementation. The integrated, modular approach simplifies procedures, and greatly reduces IT complexity."
+      },
+      "deepIntegration": {
+        "title": "Deep integration interfaces",
+        "content": "No matter how sophisticated or simple your supply chain operations, IChiba OnePlatform helps with increased control and visibility with deep integration interfaces.  Our flexible and comprehensive integrations to Omni-channels, OMS, WMS, fourth-party systems, and more, can increase your business’s productivity and efficiency. "
+      },
+      "realTime": {
+        "title": "Real-time data visibility",
+        "content": "Take control of the operation with trackable information in real-time. Better management of multiple facets of this complex process helps businesses to gain a competitive edge, enhance productivity, increase transparency and customer satisfaction, and also reduce transportation costs."
+      },
+      "comprehensive": {
+        "title": "Comprehensive compliance",
+        "content": "Customer benefits are ensured by our comprehensive compliance program with all applicable rules, regulations, contracts and policies governing the actions of the organization. Businesses can feel safe working on IChiba OnePlatform without mentioning the risks of the data leak."
+      }
+    },
+    "howWeWork": {
+      "howWeWork": "How we work",
+      "openToWork": "Open to work",
+      "weBelieve": "We believe all teams have the potential to do great things when work is open.",
+      "openToHas": "Open to work has always been central to our values. Our teams strive to work, communicate and collaborate openly every day to stay ahead.",
+      "openUp": "Open up new opportunities. Open up new relationships. Open unleash potential.",
+      "meetOurTeam": "Meet our team"
+    },
+    "ourData": {
+      "title": "Our data privacy commitment",
+      "content": "Data protection is non-negotiable at IChiba OnePlatform. All legal documentation is provided to ensure compliance. We meet all legal requirements stipulated by law to protect your data throughout the business process.",
+      "learnMore": "Learn more"
+    }
+  },
+  "trust": {
+    "title": "Trust components",
+    "content": "We understand that trust is the #1 basis to build a strong and durable relationship.",
+    "security": {
+      "title": "Security",
+      "content": "IChiba OnePlatform develops products along with built-in security so that businesses can focus on growing and innovating."
+    },
+    "availability": {
+      "title": "Availability",
+      "content": "We and our customers share the responsibility to ensure that the data can be accessed by authorized people whenever they want."
+    },
+    "confidentiality": {
+      "title": "Confidentiality",
+      "content": "The multi-layer security methods ensure the licensed access by individuals or programs."
+    },
+    "compliance": {
+      "title": "Compliance",
+      "content": "IChiba OnePlatform maintains a set of compliance certifications to validate our #1 value of trust."
+    },
+    "privacy": {
+      "title": "Privacy",
+      "content": "We value individuals privacy and commit to fulfilling the highest obligation personal data protection."
+    },
+    "certificates": {
+      "title": "Compliance Certificates, Standards, and Regulations",
+      "content": "We hold industry-accepted certifications and comply with applicable industry standards and regulations, so you can rest assured that your company and customer data remains safe and compliant."
+    },
+    "nurture": {
+      "title": "Nurture trust with you and your customers"
+    },
+    "securityPartners": {
+      "title": "Security Partners",
+      "content": "We cooperate with industry leaders for security to protect your data from cyber attacks"
+    },
+    "question": {
+      "title": "Questions? Get in touch!",
+      "content": "Contact one of our highly-trained support engineers to get detailed answers to your specific security questions.",
+      "support": "Support Request"
+    }
+  },
+  "careers": {
+    "ichibaCareers": "IChiba careers",
+    "title": "Place for creative to innovate something big together",
+    "content": "We're committed to bringing world-class, passionate professionals together to push new boundaries",
+    "searchJob": "search your job",
+    "viewAllJob": "View all job",
+    "searchTitle": "Type your job title",
+    "copySuccess": "Copy successful!",
+    "ourCulture": {
+      "title": "Our culture",
+      "content": "We provide an enjoyable place to work by building an innovative office space equipped with technology and a flexible work environment that promotes collaborative creativity.",
+      "diversity": {
+        "title": "Diversity, Equity and Inclusion",
+        "content": "We value everyone’s contribution and celebrate the differences. Diverse and inclusive teams serve all of our customers and partners more effectively. We need to make sure that, not only do employees have a job, but they have the same ability to get promoted, to contribute and have the same impact — in the workplace — as their peers.",
+        "learnMore": "More about IChiba"
+      },
+      "interview": {
+        "title": "Constant innovation",
+        "content": "We are not taught “the right way” to do things but are always encouraged to be creative at IChiba. Innovation and creativity always exist in our team, inspiring us to generate new opportunities. We suppose that unexpected chances emerge when the whole company is promoted to innovate.",
+        "learnMore": "Learn more"
+      },
+      "agile": {
+        "title": "Stay Agile",
+        "content": "At IChiba, we create an environment powered by values, behaviors, and practices that help individuals become more adaptive, flexible, innovative, and resilient when dealing with complexity, uncertainty, and change. This allows our employees to foster the idea of transparency and openness and have a better work-life balance.",
+        "learnMore": "Explore our agile culture"
+      }
+    },
+    "employee": {
+      "title": "Because employee matters",
+      "content": "/Your employees need more than just paychecks/",
+      "recognizing": "Recognizing that employees can only perform to their full potential if the appropriate needs are met, IChiba OnePlatform strives to provide the essential necessities both materially and spiritually. It is where you will have the opportunity to work with other passionate, like-minded individuals while also showcasing your true colors.",
+      "atIChiba": "At IChiba OnePlatform, we provide a variety of job search/career advancement opportunities, as well as the motivation to become the best version of yourself. Whether you're a recent graduate, a new professional, or a seasoned professional, your path to reaching your goals begins here.",
+      "atTheEnd": "At the end of the day, our ultimate purpose is to empower you, to accompany and assist you on your path. Our role is to provide you with everything you need to equip and champion yourself in the areas that have been chosen. Whether you're a recent graduate, a new professional, or a seasoned professional, your path to reaching your goals begins here.",
+      "benefits": {
+        "title": "Employee benefits",
+        "content": "At IChiba OnePlatform, we offer a range of great benefits that support employees such as paid time off and paid holidays, company trips in addition to other medical accommodation options that are available for mental and physical health concerns."
+      },
+      "training": {
+        "title": "Training & development",
+        "content": "We establish a professional working environment and provide proper training so that staff can improve their skills, and ensure that the work loads are always followed."
+      },
+      "work": {
+        "title": "Work environment",
+        "content": "A positive work environment promotes employee wellbeing, productivity and growth. Our culture, our values, and the way we work together as a team, ensure that everyone feels valued and rewarded for the contribution they bring."
+      },
+      "equity": {
+        "title": "Equity program",
+        "content": "We want all employees to align with and share in IChiba OnePlatform's success. Our equity program allows for all members to participate in both new hire and ongoing equity grants."
+      },
+      "flexible": {
+        "title": "Flexible working arrangements",
+        "content": "We offer flexible working time & place for employees to improve their physical and mental well-being. When staff members work from home, they are likely to be less tired and better rested, reducing the risks of fatigue, burnout and stress."
+      },
+      "leadership": {
+        "title": "Leadership program",
+        "content": "We encourage employees to work to overcome their own limitations and build on their strengths. Here at IChiba OnePlatform, everyone opens the doors of possibilities to learn and develop leadership skills."
+      },
+      "weSave": "We save every single sweet memories together!",
+      "followUs": "Follow us at ",
+      "Wereglad": "We're glad to have you as a meaningful part of our team!",
+      "seeOpen": "See open jobs "
+    },
+    "weHire": {
+      "title": "How we hire",
+      "apply": {
+        "title": "Apply",
+        "content": "Feel free to apply for more than one job at once. We’re open for candidates to seek multiple opportunities. However, keep in mind that quantity, not quality, is the way to go."
+      },
+      "interview": {
+        "title": "Interview",
+        "content": "Once we believe you might be a perfect match for the job, you'll receive an email and a phone call for interview confirmation. You can choose to take the interview online or offline."
+      },
+      "notify": {
+        "title": "Notify",
+        "content": "After your interviews are completed, we will compile and review everything from your application and interviews. If we determine that you are the best applicant for the position, we will contact you with an offer."
+      },
+      "confirm": {
+        "title": "confirm",
+        "content": "After you accept the offer, our onboarding team will assist you through compensation, benefits, badging, insurance, and other details, and you'll be on your way to being a member of IChiba OnePlatform team!"
+      },
+      "contract": {
+        "title": "contract",
+        "content": "We're glad to have you. Welcome to IChiba OnePlatform!"
+      }
+    },
+    "findJob": "Find your dream job",
+    "search": "Search",
+    "location": "Location",
+    "expirationDate": "Expiration date",
+    "all": "All",
+    "category": "Category",
+    "engineering": "Engineering & Technology",
+    "sales": "Sales & Marketing",
+    "business": "Business Support & Operations",
+    "relatedJobs": "Related Jobs",
+    "applyNow": "Apply Now",
+    "share": "Refer a friend",
+    "contract": "Contract type",
+    "joinUs": "Join Us Now!",
+    "fullName": "Full name",
+    "jobType": "Jobs type",
+    "phoneNumber": "Phone number",
+    "portfolio": "Portfolio",
+    "bySubmit": "By submitting a CV, you agree with our privacy statements.",
+    "drag": "Drag and drop your file here or browse from your computer. Up to 3mb, allowed file types: jpg, jpeg, png, doc, docx, pdf",
+    "submit": "Submit application",
+    "ourOffice": "Our offices",
+    "sortBy": "Sort by",
+    "prioritize": "Prioritize",
+    "latest": "Latest",
+    "oldest": "Oldest",
+    "validForm": {
+      "name": "You have not entered your name",
+      "email": "You have not entered your email",
+      "phone": "You have not entered your phone",
+      "cv": "you haven't uploaded your CV"
+    }
+  },
+  "blog": {
+    "pubicshed": "PUBLICSHED",
+    "author": "author",
+    "category": "Category",
+    "most": "most popular",
+    "dontMiss": "Don’t miss the latest",
+    "getUpdate": "Get updates in your inbox",
+    "type": {
+      "news": "News and Stories",
+      "promotion": "Promotion",
+      "aboutIchiba": "News about ichiba",
+      "engineer": "Engineering"
+    },
+    "detail": {
+      "takeAtour": "Take a tour!",
+      "seeIChiba": "Get more profitable with our comprehensive Software-as-a-Service solutions."
+    }
+  },
+  "metatitle": {
+    "jobs": "recruitment",
+    "homepage": "IChiba OnePlatform: Leading end-to-end eCommerce solution",
+    "ship4pOverview": "Global Shipping Software for eCommerce | Ship4P",
+    "ship4pFeatures": "Automated Shipping Tools for Small Businesses| Ship4P",
+    "crossOverview": "Cross-border eCommerce - Simply Manage Sales Orders",
+    "crossFeatures": "Cross-border eCommerce Features",
+    "OMSOverview": "Maximize Your Warehouse Efficiency | IChiba WMS",
+    "OMSFeatures": "Order Management System Features",
+    "digitalOverview": "Order Management System Features",
+    "digitalFeatures": "Order Management System Features",
+    "wmsOverview": "Maximize Your Warehouse Efficiency | IChiba WMS",
+    "wmsFeatures": "Modern Online Warehouse Management System",
+    "eDistributors": "All-in-one Solutions for eCommerce Distributors",
+    "multi": "Multi-Channel Fulfillment: Fulfill Orders From All Channels",
+    "omnichannel": "Omni-Channel Retail Solution: Sell Across Channels & Markets",
+    "brand": "Brand Commerce: Upping your E-commerce Enablement",
+    "smes": "Best SaaS Management Software for Small Businesses",
+    "careers": {
+      "index": {
+        "title": "Explore job opportunities at IChiba OnePlatform",
+        "meta": "With a mission to develop the global e-commerce market, IChiba OnePlatform creates a diverse and open working environment that encourages employees to develop themselves and be creative in contributing to the company's success."
+      },
+      "ourLife": {
+        "title": "Our culture | IChiba OnePlatform",
+        "meta": "We provide an enjoyable place to work by building an innovative office space equipped with technology and a flexible work environment that promotes collaborative creativity."
+      },
+      "listCareers": {
+        "title": "Career page | IChiba OnePlatform",
+        "meta": "The career page provides detailed information about job positions, interview processes, and employee benefits. Visit IChiba OnePlatform's career page to explore great job opportunities and start your career journey today!."
+      },
+      "trust": {
+        "title": "Trust and security | IChiba OnePlatform",
+        "meta": "We hold industry-accepted certifications and comply with applicable industry standards and regulations, so you can rest assured that your company and customer data remains safe and compliant."
+      },
+      "blog": {
+        "title": "Blog | IChiba OnePlatform",
+        "meta": "The general information page and events happening at IChiba OnePlatform."
+      }
+    }
+  }
+}
