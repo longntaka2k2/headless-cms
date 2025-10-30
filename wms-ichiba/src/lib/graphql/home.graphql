@@ -1,0 +1,92 @@
+fragment homeBanner on HomeBanner{
+  title
+ 	sections: content
+  img{
+    url
+  }
+  buttonFreeTrial
+  buttonTakeTour
+  content1
+  content2
+}
+fragment ourProduct on OurProducts{
+  title
+  content 
+  typeName
+}
+fragment determinedItems on DeterminedItems{
+  title
+  content
+  img{
+    url
+  }
+}
+fragment determined on Determined{
+  title
+  content 
+  titleAudits
+  contentAudits
+  background{
+    url
+  }
+  iconsAuditsCollection(limit:3){
+    items{
+      url
+    }
+  }
+  itemsDeterminedCollection(limit:3){
+    items{
+      ...determinedItems
+    }
+  }
+}
+
+query homeBannerEntry($slug: String ="",$locale: String = ""){
+  pageCollection(where:{slug: $slug},locale:$locale,limit:1){
+    items{
+      componentCollection(limit:6){
+        items{
+          ...homeBanner
+          ...ourProduct
+          ...determined
+        }
+      }
+      
+    }
+  }
+}
+
+
+
+fragment itemsSolution on SolutionItem{
+  title
+  content
+  contentRichText{
+    json
+  }
+}
+
+query solutionEntry($locale: String = ""){
+	componentSolutionCollection(limit:1,locale:$locale){
+    items{
+    	title
+      itemsLeftCollection(limit:5){
+        items{
+      	...itemsSolution
+  
+        }
+      }
+      itemsRightCollection(limit:5){
+        items{
+      ...itemsSolution
+          
+        }
+      }
+      img{
+        url
+      }
+    }
+  }
+}
+
+

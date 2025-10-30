@@ -1,0 +1,43 @@
+query lastestCompanyEntry($locale: String = ""){
+  lastestCompanyCollection(locale:$locale,limit:1){
+    items{
+      title
+      content
+      itemsCollection{
+        items{
+          ...itemsfeild
+        }
+      }
+    }
+  }
+}
+fragment itemsfeild on BlogDetail{
+  date
+  title
+  content
+  img{
+    url
+  }
+  category
+  slug
+}
+
+
+fragment bannerDiscover on HomeBanner{
+  img{
+    url
+  }
+
+}
+query videoDiscoverEntry($slug: String ="discover"){
+  pageCollection(where:{slug: $slug}limit:1){
+    items{
+      componentCollection(limit:1){
+        items{
+          ...homeBanner
+        }
+      }
+      
+    }
+  }
+}

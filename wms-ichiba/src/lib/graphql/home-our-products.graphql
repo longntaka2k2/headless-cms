@@ -1,0 +1,52 @@
+  fragment tabProduct on TabOutProducts{
+    title
+		listProductCollection(limit:6){
+    items{
+      ...listProduct
+    }
+  }
+}
+fragment listProduct on OutProductOfTab{
+  title
+  icon{
+    url
+  }
+  content
+  bio{
+    json
+  }
+  listServices
+  img{
+    url
+  }
+  animation
+  learnMore
+}
+
+query outProductEntry($locale: String = ""){
+  ourProductsCollection(locale:$locale,limit:1){
+    items{
+      tabProductCollection(limit : 5){
+        items{
+          ...tabProduct
+        }
+      }
+    }
+  }
+}
+
+query outCustomerEntry($locale: String = ""){
+	ourCustomersCollection(locale:$locale){
+    items{
+      title
+      content
+      iconsCollection{
+        items{
+          url
+          description
+        }
+      }
+      
+    }
+  }
+}

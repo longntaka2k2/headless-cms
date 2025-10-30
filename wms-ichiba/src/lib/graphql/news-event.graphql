@@ -1,0 +1,36 @@
+fragment eventsitem on BlogDetail{
+  title
+  content
+  img{
+    url
+  }
+  date
+  slug
+}
+query newsEventEntry($locale :String = ""){
+  newsEventsCollection(locale : $locale ,limit:1){
+    items{
+      title
+      content
+      eventsItemsCollection(limit:10){
+        items{
+          ...eventsitem
+        }
+      }
+    }
+  }
+}
+
+query trustBlogEntry($locale :String = ""){
+  newsEventsCollection(locale : $locale ,limit:1){
+    items{
+      title
+      content
+      eventsItemsCollection(limit:2){
+        items{
+          ...eventsitem
+        }
+      }
+    }
+  }
+}

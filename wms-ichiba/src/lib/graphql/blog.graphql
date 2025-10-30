@@ -1,0 +1,44 @@
+fragment blogDetail on BlogDetail{
+  title
+  img{
+    url
+  }
+  content
+  slug
+}
+fragment blogSignUp on SignUpBlog{
+  titleSignUp
+  banner{
+    url
+  }
+}
+query blogEntry($locale: String = ""){
+  blogCollection(locale:$locale){
+    items{
+			newsBlog{
+        ...blogDetail
+      }
+			mostPopularCollection(limit:12){
+        items{
+          ...blogDetail
+        }
+        
+      }
+      browserAllCollection(limit:10){
+         items{
+          ...blogDetail
+        }
+      }
+      blogSideRightCollection(limit:4){
+        items{
+          ...blogDetail
+        }
+        
+      }
+      signUp{
+          ...blogSignUp
+        
+      }
+    }
+  }
+}
