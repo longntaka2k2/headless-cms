@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "home": {
+      "title": "Dịch vụ lưu kho fulfillment tại Mỹ EFEX",
+      "des": " X5 doanh thu với dịch vụ fulfillment của EFEX. Cam kết đạt 100% tiêu chuẩn SLA, lưu kho miễn phí 45 ngày. Việc của bạn là tập trung bán hàng, mọi công đoạn hậu cần hãy để EFEX lo!"
+    },
+    "thankYou": {
+      "title": "Cảm ơn - EFEX",
+      "des": ""
+    }
+  },
+  "efexFulfillment": {
+    "header": {
+      "heading": "Dịch vụ lưu kho fulfillment tại Mỹ",
+      "subHeading": "Miễn phí phần mềm quản lý OMS & WMS",
+      "textBtn": ["Tư vấn", "Nhận tư vấn"]
+    },
+    "committed": {
+      "heading": [
+        "Fulfillment Mỹ chuẩn",
+        " 100%",
+        " SLA -",
+        " Tăng trưởng thần tốc ",
+        " X5 doanh thu"
+      ],
+      "subHeading": "Bằng giải pháp Fulfillment toàn diện của EFEX",
+      "items": [
+        {
+          "title": "2.8$",
+          "subTitle": "Phí xử lý / Đơn hàng"
+        },
+        {
+          "title": "1,000m2",
+          "subTitle": "Diện tích kho tại 6 bang lớn"
+        },
+        {
+          "title": "100%",
+          "subTitle": "Đạt tiêu chuẩn SLA sàn TMĐT"
+        },
+        {
+          "title": "1 giây",
+          "subTitle": "Đơn hàng cập nhật realtime"
+        }
+      ],
+      "form": {
+        "heading": [
+          "Dịch vụ Lưu kho Fulfillment",
+          "chỉ từ 6,000đ/Đơn",
+          "X5 doanh thu, cam kết đạt 100% tiêu chuẩn SLA"
+        ],
+        "inpName": "Họ & tên",
+        "plInpName": "Vd: Nguyen Thuy Duong",
+        "inpMail": "Email",
+        "plInpMail": "Vd: duongnt2@gmail.com",
+        "inpPhone": "Số điện thoại",
+        "plInpPhone": "Số điện thoại",
+        "inpWhere": "Bạn muốn fulfillment ở đâu?",
+        "plInpWhere": "Địa chỉ fulfillment",
+        "textBtn": "Báo giá ngay",
+        "fieldRequired": "Trường bắt buộc.",
+        "toastSuccess": "Submit request success!",
+        "toastFalse": "Submit request false!"
+      }
+    },
+    "freeFulfillment": {
+      "subHeading": "Phí vận chuyển last-mile siêu tiết kiệm từ những deal độc quyền của EFEX với đối tác vận chuyển chiến lược bao thuế và thủ tục thông quan"
+    },
+    "comprehensive": {
+      "heading": "Giải pháp lưu kho - xử lý đơn hàng Fulfillment TMĐT toàn diện",
+      "items": [
+        {
+          "image": "https://strapi-efex.ichiba.net/uploads/image_832_55f71dd1f3.svg",
+          "icon": "https://strapi-efex.ichiba.net/uploads/Group_19287_b004876545.svg",
+          "title": "Giải pháp xử lý đơn hàng chính xác 99.9%",
+          "subTitle": "Quy trình vận hành kho tiêu chuẩn từ Inbound tới Outbound, đảm bảo xử lý tới hơn 10,000 đơn/ngày chính xác 99.9%."
+        },
+        {
+          "image": "https://strapi-efex.ichiba.net/uploads/image_832_1_53f47b5559.svg",
+          "icon": "https://strapi-efex.ichiba.net/uploads/Frame_427318738_f444ddda13.svg",
+          "title": "Mạng lưới kho vận rộng rãi với diện tích lên tới 1,000m2, đủ sức chứa tới 50,000 SKUs",
+          "subTitle": "6 kho chiến lược tại trung tâm và gần các cảng: Texas, California, Chicago, New Jersey"
+        },
+        {
+          "image": "https://strapi-efex.ichiba.net/uploads/shutterstock_2044257446_2_58fd85245e.svg",
+          "icon": "https://strapi-efex.ichiba.net/uploads/Group_19341_2ee107def3.svg",
+          "title": "Miễn phí phần mềm quản lý bán hàng & tồn kho real time, đa kênh, đa thị trường:",
+          "subTitle": "Phần mềm quản lý đơn hàng đa kênh và tồn kho realtime dưới 60s đã đấu nối sẵn với các sàn TMĐT, mở API kết nối website và phần mềm thứ 3."
+        },
+        {
+          "image": "https://strapi-efex.ichiba.net/uploads/Image_9ed19030e4.svg",
+          "icon": "https://strapi-efex.ichiba.net/uploads/Group_19347_3f00b84742.svg",
+          "title": "Ca kíp xử lý đơn hàng liên tục, đảm bảo xử lý đơn hàng chính xác theo mỗi đợt thay đổi quy định SLA của sàn TMĐT",
+          "subTitle": "Đóng gói theo yêu cầu thương hiệu, dán label theo các sàn TMĐT, ca linh hoạt, có khả năng tăng cường trong thời gian cao điểm, khả năng xử lý 10,000 đơn/ngày."
+        }
+      ]
+    },
+    "onlyFor": {
+      "heading": ["Chỉ dành cho", " 100", " khách hàng liên hệ tại đây"],
+      "items": [
+        {
+          "image": "https://strapi-efex.ichiba.net/uploads/image_835_16e8b862f5.svg",
+          "country": "Việt Nam"
+        },
+        {
+          "image": "https://strapi-efex.ichiba.net/uploads/image_836_b403971fd2.svg",
+          "country": "Mỹ"
+        },
+        {
+          "image": "https://strapi-efex.ichiba.net/uploads/image_837_b509656633.svg",
+          "country": "Nhật Bản"
+        }
+      ],
+      "title": ["Hệ thống kho", " 1,000m2 hoàn toàn miễn phí"],
+      "subTitle": "Sẵn sàng giúp bạn mang hàng Việt vươn ra thế giới!",
+      "textBtn": "Liên hệ ngay"
+    },
+    "whyChoose": {
+      "heading": "Vì sao chọn dịch vụ fulfillment của",
+      "subHeading": "EFEX giúp các nhà bán hàng có thêm 5h/ngày tập trung bán hàng, phát triển doanh nghiệp.",
+      "optimize": {
+        "title": "Tối ưu hoá vận hành",
+        "items": [
+          {
+            "content": [
+              "Hệ thống kho bãi rộng rãi ở nhiều quốc gia,",
+              " sức chứa 50,000 SKUs",
+              ""
+            ]
+          },
+          {
+            "content": ["Cho phép lưu kho nhiều loại hàng hóa", ""]
+          },
+          {
+            "content": [
+              "Quản lý & tra cứu hàng tồn kho trên phần mềm real-time",
+              "",
+              ""
+            ]
+          },
+          {
+            "content": [
+              "Xử lý đến",
+              " 10,000+ đơn/ngày",
+              " trên đa kênh bán, đa thị trường"
+            ]
+          },
+          {
+            "content": [
+              "Cam kết xử lý đơn hàng chính xác theo mỗi đợt thay đổi quy định",
+              " SLA của sàn TMĐT",
+              ""
+            ]
+          },
+          {
+            "content": [
+              "Kết nối nhiều hãng vận chuyển hàng đầu, đi được",
+              " 220",
+              " quốc gia và vùng lãnh thổ"
+            ]
+          }
+        ]
+      },
+      "saving": {
+        "title": "Tiết kiệm 70% chi phí vận hành",
+        "percentBox": [
+          {
+            "icon": "https://strapi-efex.ichiba.net/uploads/Frame_427318693_756faf7cb9.svg",
+            "vector": "https://strapi-efex.ichiba.net/uploads/Vector_9_1_d454623ed5.svg",
+            "percent": "69",
+            "label": "Vấn đề về hỗ trợ khách hàng"
+          },
+          {
+            "icon": "https://strapi-efex.ichiba.net/uploads/Frame_427318693_1_79f0ac0317.svg",
+            "vector": "https://strapi-efex.ichiba.net/uploads/Vector_9_edc795b1cc.svg",
+            "percent": "30",
+            "label": "Tỉ lệ chuyển đổi"
+          }
+        ],
+        "items": [
+          {
+            "content": [
+              "Là đối tác của nhiều hãng vận chuyển nên có được",
+              " chiết khấu % chi phí vận chuyển",
+              " cực tốt"
+            ]
+          },
+          {
+            "content": [
+              "",
+              "Dùng bao nhiêu, trả bấy nhiêu,",
+              " dựa trên số lượng đơn hàng được xử lý"
+            ]
+          },
+          {
+            "content": [
+              "",
+              "Miễn phí",
+              " phần mềm quản lý đơn hàng đa kênh trên Tiktok, Shopee, Amazon, Lazada, eBay,.."
+            ]
+          }
+        ]
+      },
+      "textBtn": "Liên hệ nhận báo giá ngay"
+    },
+    "procedure": {
+      "heading": "Quy trình lưu kho, hoàn tất đơn hàng của dịch vụ Fulfillment by",
+      "items": [
+        {
+          "numerical": "01",
+          "title": "Nhận & kiểm tra hàng hoá",
+          "subTitle": "EFEX nhận hàng, kiểm đếm, kiểm tra số lượng, tình trạng hàng,.. theo thông báo nhập kho trong vòng 6h kể từ khi hàng đến."
+        },
+        {
+          "numerical": "02",
+          "title": "Phân loại hàng hoá và lưu kho",
+          "subTitle": "EFEX phân loại và đưa hàng vào nhập kho với các vị trí tối ưu nhất tùy theo lượng hàng bán chạy, hay tần suất xuất-nhập hàng hóa."
+        },
+        {
+          "numerical": "03",
+          "title": "Hệ thống quản lý đơn hàng đa kênh",
+          "subTitle": "EFEX, tích hợp đa kênh bán (TikTok, Shopee, Lazada...) qua API. Đẩy đơn tự động từ các kênh bán."
+        },
+        {
+          "numerical": "04",
+          "title": "Lấy hàng",
+          "subTitle": "Khi có thông báo về đơn hàng mới, EFEX sẽ thực hiện lấy hàng trong thời gian sớm nhất, đảm bảo đạt SLA của mọi sàn TMĐT và nguyên tắc về chiến lược xuất kho (FIFO, FEFO)."
+        },
+        {
+          "numerical": "05",
+          "title": "Đóng gói hàng hoá",
+          "subTitle": "Đóng gói an toàn hàng hóa bằng sử dụng các nguyên vật liệu đóng gói phù hợp. Hỗ trợ đóng gói theo yêu cầu như thêm thiệp thank-you, đóng combo, dán băng dính thương hiệu,.. ."
+        },
+        {
+          "numerical": "06",
+          "title": "Giao hàng chặng cuối (Last-mile delivery)",
+          "subTitle": "EFEX bàn giao cho các ĐVVC để hoàn tất phát hàng chặng cuối nhanh chóng ngay trong ngày."
+        },
+        {
+          "numerical": "07",
+          "title": "Khách hàng nhận hàng",
+          "subTitle": "Khách hàng nhận hàng trong thời gian nhanh nhất với 100% sự hài lòng."
+        },
+        {
+          "numerical": "08",
+          "title": "Quản lý hàng trả lại (Nếu có)",
+          "subTitle": "EFEX tiếp nhận & kiểm tra điều kiện hàng để nhanh chóng cập nhật hàng tồn kho trong vòng 24h."
+        }
+      ]
+    },
+    "realImage": {
+      "heading": "Hình ảnh thực tế"
+    },
+    "ourPartners": {
+      "heading": "Đối tác chiến lược của chúng tôi",
+      "type": [
+        {
+          "title": "Sàn thương mại điện tử",
+          "items": [
+            "https://strapi-efex.ichiba.net/uploads/Group_ab00ce9fb4.svg",
+            "https://strapi-efex.ichiba.net/uploads/layer1_fcb2f305ac.svg",
+            "https://strapi-efex.ichiba.net/uploads/Group_1_a30b23ef0c.svg",
+            "https://strapi-efex.ichiba.net/uploads/ebay_1_f8c07cf94d.svg",
+            "https://strapi-efex.ichiba.net/uploads/Amazon_logo_1_f3b2d64616.svg",
+            "https://strapi-efex.ichiba.net/uploads/Etsy_logo_1_b01786b490.svg",
+            "https://strapi-efex.ichiba.net/uploads/1200px_Rakuten_Global_Brand_Logo_1_5c48fe7855.svg",
+            "https://strapi-efex.ichiba.net/uploads/Group_1171276152_49d6ee19b9.svg"
+          ]
+        },
+        {
+          "title": "Đơn vị vận chuyển",
+          "items": [
+            {
+              "icon": "https://strapi-efex.ichiba.net/uploads/VN_94c1c820e4.svg",
+              "label": "Đơn vị nội địa",
+              "list": [
+                "https://strapi-efex.ichiba.net/uploads/Logo_GHN_Dongphuc_Vina_1_28960ad717.svg",
+                "https://strapi-efex.ichiba.net/uploads/Group_2_d628321bc5.svg",
+                "https://strapi-efex.ichiba.net/uploads/Frame_72b175671e.svg",
+                "https://strapi-efex.ichiba.net/uploads/Logo_Ahamove_Transparent_1_ed1219364f.svg",
+                "https://strapi-efex.ichiba.net/uploads/20230306_o8mc_Ya_Ph_Nt_GF_Or_OY_1_677ff7956f.svg",
+                "https://strapi-efex.ichiba.net/uploads/j_t_express_seeklogo_com_1_e0aeabf640.svg",
+                "https://strapi-efex.ichiba.net/uploads/viettel_post_seeklogo_com_1_8fd74e724a.svg"
+              ]
+            },
+            {
+              "icon": "https://strapi-efex.ichiba.net/uploads/Group_59a098b76a.svg",
+              "label": "Đơn vị quốc tế",
+              "list": [
+                "https://strapi-efex.ichiba.net/uploads/g6_40504257c8.svg",
+                "https://strapi-efex.ichiba.net/uploads/Group_1171276153_421f1efca6.svg",
+                "https://strapi-efex.ichiba.net/uploads/image_8_e887b3e642.svg",
+                "https://strapi-efex.ichiba.net/uploads/Group1_c1bfa597c6.svg",
+                "https://strapi-efex.ichiba.net/uploads/japan_post_service_logo_1_a5d2d3e7f7.svg",
+                "https://strapi-efex.ichiba.net/uploads/Group_1171276154_6901d19839.svg",
+                "https://strapi-efex.ichiba.net/uploads/Group_1_7e4516038f.svg"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "footer": {
+      "title": "Công ty cổ phần dịch vụ hậu cần EFEX ASIA",
+      "address": [
+        "Kho Texas: 11462 Pagemill Rd, Dallas, TX 75243, United States",
+        "Kho Chicago: 5839 W Montrose Ave, Chicago, IL 60634, United States",
+        "Kho California: 1316 John Reed Ct, City of Industry, CA 91745, United States",
+        "Kho New York: 625 Whittier Street, Bronx, NY 10474, United States"
+      ],
+      "connectUs": "Kết nối với chúng tôi",
+      "form": {
+        "heading": [
+          "Dịch vụ Fulfillment & Express an toàn",
+          "chỉ từ 3,000đ/ đơn"
+        ],
+        "inpName": "Họ & tên",
+        "plInpName": "Vd: Nguyen Thuy Duong",
+        "inpMail": "Email",
+        "plInpMail": "Vd: duongnt2@gmail.com",
+        "inpPhone": "Số điện thoại",
+        "plInpPhone": "Số điện thoại",
+        "inpWhere": "Bạn muốn fulfillment ở đâu?",
+        "plInpWhere": "Địa chỉ fulfillment",
+        "textBtn": "Báo giá ngay",
+        "fieldRequired": "Trường bắt buộc.",
+        "toastSuccess": "Gửi yêu cầu thành công!",
+        "toastFalse": "Gửi yêu cầu thất bại!"
+      }
+    },
+    "thankYou": {
+      "title": "Cảm ơn quý khách đã để lại thông tin",
+      "subTitle": "Đội ngũ EFEX sẽ liên hệ với quý khách trong thời gian sớm nhất",
+      "textBtn": "Tìm hiểu thêm về EFEX"
+    }
+  }
+}
