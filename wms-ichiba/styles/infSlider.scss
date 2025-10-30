@@ -1,0 +1,34 @@
+.inf-slider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(calc(-250px * 3));
+  }
+}
+
+.inf-slider .slider {
+  height: auto;
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.inf-slider .slider .slide-track {
+  animation: scroll 40s linear infinite;
+  display: flex;
+  gap: 10px;
+  width: calc(295px * 12);
+}
+
+@media (max-width: 768px) {
+  .inf-slider .slider .slide-track {
+    width: calc(90px * 12);
+  }
+}

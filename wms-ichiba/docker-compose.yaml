@@ -1,0 +1,16 @@
+version: "3"
+
+services:
+  efex:
+    container_name: wms-landing-page
+    image: docker-hub.ichiba.net/ichiba-product/wms-landing-page:$TAG
+    ports:
+      - "8046:3000"
+    logging:
+      options:
+        max-size: "100m"
+    restart: always
+networks:
+  default:
+    external: true
+    name: cms-network

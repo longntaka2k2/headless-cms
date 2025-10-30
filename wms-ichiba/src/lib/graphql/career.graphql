@@ -1,0 +1,12 @@
+query testCareerDetail{
+  careerDetailCollection(limit:4){
+    items{
+      title
+      body{
+      
+        json
+      }
+      slug
+    }
+  }
+}

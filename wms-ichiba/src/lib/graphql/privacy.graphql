@@ -1,0 +1,29 @@
+fragment privacyItem on ContentPrivacy{
+  content{
+    json
+  }
+  title
+}
+query privacy($slug: String = "privacy-policy"){
+  pageCollection(where:{slug : $slug}){
+    items{
+      componentCollection{
+        items{
+          ...privacyItem
+        }
+      }
+    }
+  }
+}
+
+query termsEntry($slug: String = "terms-and-conditions"){
+  pageCollection(where:{slug : $slug}){
+    items{
+      componentCollection{
+        items{
+          ...privacyItem
+        }
+      }
+    }
+  }
+}
