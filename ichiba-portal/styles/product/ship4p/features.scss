@@ -1,0 +1,126 @@
+#features {
+  user-select: none;
+  .features {
+    padding: 40px 0 40px 0;
+    background-color: #e6f3ff;
+  }
+  .seamless {
+    padding: 0 0 40px 0;
+    .seam-items {
+      padding-left: 20px;
+      border-left: 2px solid #e6e6e6;
+    }
+    .title {
+      font-weight: 700;
+      font-size: 36px;
+    }
+    .button {
+      padding: 16px 40px;
+      background-color: #f57c00;
+      border-radius: 8px;
+      color: #ffffff;
+    }
+    .active {
+      color: #f57c00 !important;
+      border-left: 3px solid #f57c00;
+      font-weight: 700;
+    }
+    .seam-title-mobile {
+      div {
+        display: none;
+      }
+    }
+    .tab-pc {
+      position: sticky;
+      top: 100px;
+    }
+  }
+  .companies {
+    padding: 40px 0;
+    background-color: #00194f;
+    color: #ffffff;
+  }
+  .wy-connect {
+    padding-top: 120px;
+    .free-up {
+      margin: 120px 0;
+      padding: 92px 56px 88px 56px;
+      color: #ffffff;
+      border-radius: 8px;
+      .question-title {
+        font-weight: 900;
+        font-size: 36px;
+      }
+      .button {
+        padding: 12px;
+        background-color: #f57c00;
+        border-radius: 8px;
+        max-width: 240px;
+        color: #ffffff;
+      }
+    }
+    .table-left {
+      background: #f2f2f2;
+      border-radius: 12px;
+      padding: 48px 40px;
+      height: 100%;
+      .typeName {
+        position: relative;
+        right: 280px;
+        height: 0px;
+      }
+      .title-left {
+        display: none;
+      }
+    }
+    .table-right {
+      background: #00194f;
+      border-radius: 12px;
+      padding: 48px 40px;
+      color: #ffffff;
+      height: 100%;
+      .title-right {
+        display: none;
+      }
+    }
+    .border-top {
+      border-top: 1px solid #dddddd;
+    }
+    .frequently {
+      padding-bottom: 40px;
+    }
+  }
+  @include respond(tab-port) {
+    .seamless {
+      .title {
+        font-weight: 700;
+        font-size: 36px;
+      }
+    }
+    .companies {
+      .items {
+        text-align: center;
+      }
+    }
+    .wy-connect {
+      .free-up {
+      }
+      .table-left {
+        .typeName {
+          display: none;
+        }
+        .title-left {
+          display: block;
+        }
+      }
+      .table-right {
+        .title-right {
+          display: block;
+        }
+      }
+      .border-top {
+        border-top: 1px solid #dddddd;
+      }
+    }
+  }
+}

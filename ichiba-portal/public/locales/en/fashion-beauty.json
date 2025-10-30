@@ -1,0 +1,86 @@
+{
+  "everythingYouNeed": {
+    "heading": "Everything you need to sell fashion beauty with saas solutions for the fashion industry",
+    "subHeading": "The Fashion and Beauty management solution consolidates vital tools, including digital asset management, sales report, analytics, and more.",
+    "textBtn": "Contact Sales"
+  },
+  "weHelpYou": {
+    "heading": "We help you sell better across your sale channels",
+    "subHeading": "Sell where your customers shop.",
+    "contentItemBox": [
+      "Sell on Website",
+      "Sell on Physical store",
+      "Sell on Social Media (FB, IG, Tiktok, etc.)",
+      "Sell on Ecommerce platform (Shopee, Lazada, TikTokshop, etc.)"
+    ]
+  },
+  "dominating": {
+    "heading": "Dominating the Fashion & Beauty industry wiht IChiba OnePlatform supports",
+    "cardContent": [
+      {
+        "title": "Build your own website in a minute",
+        "subTitle": "Create an online store by yourself with 1000+ free website templates that are available on your system."
+      },
+      {
+        "title": "Upload product on multiple channels ini one place",
+        "subTitle": "Upload & adjust produce lists on e-commerce platforms such as Shopee, Tiki, Lazada, Sendo, Tiktokshop,... in one dashboard."
+      },
+      {
+        "title": "Automatic biling with scan barcode",
+        "subTitle": "Say goodbye to manual calculations, use our POS system and the total bill will be automatically calculated."
+      },
+      {
+        "title": "Print invoice in just 3s",
+        "subTitle": "Print invoices quickly, as evidence to exchange/return products."
+      },
+      {
+        "title": "Manage inventory across channel",
+        "subTitle": "Manage invetory in detail and accurately according to each model, size, material, origin"
+      },
+      {
+        "title": "Provide various convenient payment methods",
+        "subTitle": "We integrate various payment gateways that are convenient for your customers: cash, QR code, credit card, bank card."
+      },
+      {
+        "title": "Run marketing campaigns across channels",
+        "subTitle": "Provide A-Z marketing solution that tailored for beauty & fashion industry, including: social content, social ads, SEO, email marketing,..."
+      }
+    ]
+  },
+  "monitor": {
+    "heading": "Monitor all your business activities in one place",
+    "listManage": [
+      "Manage customer data",
+      "Manage product information",
+      "Manage stock level",
+      "Manage payment/revenue",
+      "Manage shipping"
+    ]
+  },
+  "technology": {
+    "heading": "Leverage the power of technology to enhance your fashion/ beauty business",
+    "learnMore": "Learn more",
+    "items": [
+      {
+        "icon": "svg-icon-storefront",
+        "title": "Commerce Layer",
+        "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data and intelligence.",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icon": "svg-storefront",
+        "title": "StoreFront Layer",
+        "content": "Build your own selling website or marketing landing page with the support of IChiba comprehensive tool set.",
+        "link": "/products/storefront-layer/overview"
+      }
+    ]
+  },
+  "ourCustomers": {
+    "heading": ["Our ", "successful ", "customers"]
+  },
+  "contactSales": {
+    "heading": "Transform your beauty & fashion business today!",
+    "subHeading": "Elevate your online presence, boost sales, and captivate customers with our tailored e-commerce solution.",
+    "textBtn": "Contact Sales"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "kickstart": {
+    "title": "Kickstart your growth journey with IChiba OnePlatform performance marketing solution",
+    "subTitle": [
+      "As a marketing agency, IChiba provides comprehensive performance marketing solution on multi channels for ecommerce businesses.",
+      "We help you reach and convert as more target customers as good."
+    ],
+    "solutionTitle": ["projects", "experts", "partners", "customers"]
+  },
+  "weOffer": {
+    "title": "What we offer?",
+    "buildWeb": {
+      "title": "Build a web/ app",
+      "subTitle": [
+        "Integrate special features or tailor as customer requirement.",
+        "Create visually appealing and user-friendly interfaces that are optimized for user experience."
+      ]
+    },
+    "seoService": {
+      "title": "SEO service",
+      "subTitle": "From strategic keyword research to on-page enhancements, we provide a tailored approach that drives targeted traffic, outshines competitors, and ultimately boosts sales."
+    },
+    "socialMedia": {
+      "title": "Social Media Marketing",
+      "subTitle": "From engaging content creation to implementing targeted ad campaigns, we maximize your online visibility, drive traffic, and boost conversions, ensuring a powerful social media impact for your e-commerce success."
+    },
+    "payPer": {
+      "title": "Pay per click Advertising",
+      "subTitle": [
+        "Monitor and optimize ad performance to refine targeting parameters, adjust bidding strategies, and allocate budgets effectively.",
+        "Our team sets up and manages your campaigns across major platforms such as Google Ads & Facebook Ads."
+      ]
+    },
+    "emailMarketing": {
+      "title": "Email Marketing",
+      "subTitle": [
+        "Plan strategic email campaign, create personalized content, segment targeted audience, and implement email marketing automation.",
+        "Everything is on IChiba OnePlatform marketing services."
+      ]
+    },
+    "influencerMarketing": {
+      "title": "Influencer Marketing",
+      "subTitle": "IChiba has a strong networks of KOLs, KOCs. From identifying key influences to establishing long term partnerships that resonate with your target audience, our team will handle for you."
+    }
+  },
+  "marketingMeasurement": {
+    "title": "Marketing measurement tools",
+    "subTitle": "What we use to track KPIs, measure the effectiveness of our campaigns and make agile adjustments to their strategies based on up-to-the-minute data."
+  },
+  "ourResults": {
+    "title": "Our Results",
+    "results": ["Higher roas", "Inscrease in conversations", "More clicks"]
+  },
+  "helpYou": {
+    "title": "We help you get more customers by",
+    "steps": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Create your brand awareness"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Increase website traffic/ app downloads"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Remarketing your audience"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Generate lead"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Attract engagement"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Sell your products"
+      }
+    ]
+  },
+  "applyinAgile": {
+    "heading": "Applying agile marketing to make a difference",
+    "agencies": {
+      "title": "Traditional Marketing Agencies",
+      "bigStraegy": "Big strategy",
+      "userResearch": [
+        "User research ",
+        "(Focus groups, interviews, desktop research)"
+      ],
+      "adjust": "Adjust",
+      "bigLaunch": ["Big launch", "(Campaigns, ads etc)"],
+      "insights": "Insights",
+      "testNew": "Test new strategy",
+      "newBig": "New big strategy"
+    },
+    "agile": {
+      "title": "IChiba OnePlatform’s Agile Marketing Solution",
+      "micro": "Micro KPI-focused strategy",
+      "iterativeCycle": [
+        "Iterative cycle",
+        "(plan, design, launch, analyze, performance)"
+      ],
+      "insights": "Insights",
+      "test": "Test & learn",
+      "adjust": "Adjust",
+      "continue": "A - Continue",
+      "maintain": "Maintain what’s working & monitor",
+      "optimize": "B - Optimize",
+      "optimization": "Optimization & A/B Testing"
+    }
+  },
+  "successfulCustomers": {
+    "title": "Hear from our successful customers",
+    "items": [
+      {
+        "content": [
+          "Bid4win successfully launched a user-friendly landing page & mobile app at the end of 2023, thanks to IChiba's support. Our customers feedback that they have a smooth experience during the bidding & buying process.",
+          "Bid4win has our first orders thanks to IChiba's advertising solution. They help us drive targeted advertising campaigns, build our customer base, and convert leads into tangible sales."
+        ],
+        "author": "Ms Hoai Thuong",
+        "career": "Revenue Operation Manager at Bid4win"
+      },
+      {
+        "content": [
+          "As a mobile app specializing in proxy shopping from South Korea, we achieved our first milestones with IChiba OnePlatform's marketing solutions",
+          "During our initial stages, we didn't know how to promote our service. This is where IChiba stepped in and transformed our marketing landscape. From designing engaging ads to attract new customers to expertly handling email marketing campaigns, IChiba played a pivotal role in elevating our brand visibility and customer acquisition strategies."
+        ],
+        "author": "Mr Hai",
+        "career": "Founder of Hanhan Order"
+      }
+    ]
+  },
+  "promoteAndSell": "Promote and sell your product betters with our solution.",
+  "contact": "Contact sales"
+}

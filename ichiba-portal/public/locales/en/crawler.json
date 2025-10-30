@@ -1,0 +1,158 @@
+{
+  "crawler": "Crawler",
+  "menu": {
+    "overview": "Overview",
+    "pricing": "Pricing"
+  },
+  "banner": {
+    "heading": ["IChiba Product Data", " Crawler", ""],
+    "subHeading": "Access massive product data from hundreds of international e-commerce platforms and collect product data from leading e-commerce platforms for your selling websites/applications.",
+    "textBtn": "Contact Sales"
+  },
+  "yourOwn": {
+    "heading": "Your own Crawler vs IChiba Crawler",
+    "buildACrawler": {
+      "label": "Many months",
+      "title": "Build a Crawler",
+      "content": [
+        {
+          "title": "Spend much hours to code the selling web data extraction logic."
+        },
+        {
+          "title": "Struggle to code the product catalog & collection manually."
+        },
+        {
+          "title": "Take much time to integrate with each ecommerce platforms."
+        },
+        {
+          "title": "Need to build the crawler code again if your selling website changes or has any problem."
+        }
+      ]
+    },
+    "aFewMinutes": {
+      "label": "A few minutes",
+      "title": "With IChiba Crawler",
+      "content": [
+        {
+          "title": "No coding, automatically crawl and distribute data on your selling website."
+        },
+        {
+          "title": "Generate catalog hierarchy with the data collected."
+        },
+        {
+          "title": "Easily create customized item collections according to customer behaviors."
+        },
+        {
+          "title": "No need to build crawler code again even if your ecommerce website has any change."
+        }
+      ]
+    }
+  },
+  "ecommerceSites": {
+    "heading": [
+      "Crawl products from international ecommerce sites",
+      ""
+    ],
+    "subHeading": "Businesses can choose to connect with any website from multiple markets",
+    "tabs": [
+      {
+        "title": "US",
+        "countryIcon": "https://cms-strapi.ichiba.net/uploads/English_flag_9046acf9b4.svg"
+      },
+      {
+        "title": "Japan",
+        "countryIcon": "https://cms-strapi.ichiba.net/uploads/Japan_flag_150fb3b0fe.svg"
+      },
+      {
+        "title": "Korea",
+        "countryIcon": "https://cms-strapi.ichiba.net/uploads/Korea_flag_76c6f636b2.svg"
+      },
+      {
+        "title": "China",
+        "countryIcon": "https://cms-strapi.ichiba.net/uploads/China_flag_425d90203e.svg"
+      }
+    ]
+  },
+  "empower": {
+    "heading": [
+      "Empower your online store",
+      " with seamless product integration and management"
+    ],
+    "subscribed": {
+      "title": "Subscribed source",
+      "content": "Seamlessly integrate with international ecommerce platforms to import product data directly into your selling websites."
+    },
+    "product": {
+      "title": "Product finder",
+      "content": "Explore and identify products from global markets. Automatically crawl data and populate your website with tailored collection lists."
+    },
+    "sourcePage": {
+      "title": "Source page",
+      "content": "Update deals in real-time from all subscribed source pages. Add/Edit/Delete/Hide collections on your selling website or application. "
+    },
+    "catalog": {
+      "title": "Catalog hierarchy",
+      "content": "Organize your products with ease, managing your catalogs through a user-friendly interface that supports robust catalog structures."
+    },
+    "keywordList": {
+      "title": "Keyword list",
+      "content": "Enhance your SEO and improve product visibility with targeted keyword lists, making your products easier to find and your pages more likely to convert."
+    },
+    "blackList": {
+      "title": "Black list",
+      "content": "Protect your brand integrity by preventing certain products or terms from appearing in your store."
+    },
+    "sellerList": {
+      "title": "Seller list",
+      "content": "View lists of sellers whose products have been viewed by customers on the storefront."
+    },
+    "bidding": {
+      "title": "Bidding management",
+      "content": "Manage everything regarding auctions on international e-commerce websites, from bank account/international cards to the auction accounts allocation, etc. Minimize risks such as accounts being locked, enhancing customer experience."
+    }
+  },
+  "iChibaStoreFront": {
+    "heading": "Create your international selling website with IChiba StoreFront Layer",
+    "subHeading": "Experience our full cross-border solution, from build storefront to manage international orders coherently. Let IChiba build a SEO-standard selling website, landing page, or even application, businesses just need to focus on scaling up.",
+    "textBtn": "Explore More"
+  },
+  "omnichannelSelling": {
+    "label": "IChiba Commerce Layer",
+    "heading": "Omnichannel selling management is now just a piece of cake",
+    "subHeading": "Go global and expand your business without fear of overloading management.",
+    "content": {
+      "title": "Top features:",
+      "list": [
+        "International e-commerce integration",
+        "Trading order management",
+        "Customer data management"
+      ]
+    },
+    "textBtn": "Explore More"
+  },
+  "useCases": {
+    "label": "Use cases",
+    "heading": "Explore use cases where IChiba Crawler can be applied",
+    "textBtn": "Learn More",
+    "contents": [
+      {
+        "title": "Proxy-shopping service",
+        "des": "IChiba Crawler helps proxy purchase business connect best-priced goods sources worldwide, save time and effort for manually updating product information and deals."
+      },
+      {
+        "title": "Dropshipping",
+        "des": "We connect with the most reputable manufacturer partners to deliver abundant goods sources worldwide, from China, Japan, America, etc. for dropshipping businesses. Contact us now to learn more about the all-in-one dropshipping solution."
+      }
+    ]
+  },
+  "caseStudies": {
+    "label": "Case Studies",
+    "heading": "See how IChiba Crawler saves efforts for international businesses on the way to global",
+    "textLink": "Read more"
+  },
+  "contact": {
+    "label": "Contact IChiba OnePlatform",
+    "heading": "Unlock ecommerce excellence with IChiba Crawler",
+    "textBtn": "Contact Sales"
+  }
+}

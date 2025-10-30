@@ -1,0 +1,122 @@
+{
+  "transform": {
+    "heading": "Transform your Mother Baby store with IChiba SaaS solutions for the mother and baby industry",
+    "subHeading": "Tailored solutions for Mother & Baby industry: addressing all your management needs.",
+    "textBtn": ["Try it free", "Contact Sales"]
+  },
+  "challenges": {
+    "heading": ["Challenges", " when managing Mother & Baby store"],
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/note_remove_svgrepo_com_1_68630b6d31.svg",
+        "title": "Complexity in category management"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/money_svgrepo_com_1_888719becd.svg",
+        "title": "Difficulties in managing revenue"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/money_remove_svgrepo_com_1_2283e3d40b.svg",
+        "title": "Lack of debt control"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/warehouse_svgrepo_com_1_0565b2c48f.svg",
+        "title": "Hard to monitor stock level"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/box_remove_svgrepo_com_1_aabcf5314a.svg",
+        "title": "Struggles when managing separate sales order"
+      }
+    ]
+  },
+  "howDoes": {
+    "label": "Suitability",
+    "heading": "How does IChiba OnePlatform's Solution empower your business?",
+    "item": {
+      "title": [
+        "Manage thousand of products on multiples sales channels",
+        "Suggest selling by combo to boost the revenue",
+        "Increase brand recognition & sell on omni channel",
+        "Provide various convenient payment methods",
+        "Manage loyal customer information ",
+        "Provide detailed debt/ revenue reports"
+      ],
+      "subTitle": [
+        "All products are classified by attributes (size, age, color, model,...) and are managed in one place. Automated synchronization of product data occurs between sales channels.",
+        "Automatically suggest grouping products with the same attributes to sell in combos: newborn combos, nutritional combos for pregnant women, weaning combos, birthday combos,... Suggest reasonable discounts when selling combo items to meet customer needs and ensure profit.",
+        "Launch marketing campaign on various channels to attract new customers. Track all orders from multiple channels and manage in one unified dashboard.",
+        "We integrate various payment gateways that are conveninent for your customers: cash, QR code, credit card, bank card.",
+        "Collect customer data, classify customers based on order information and order value. Build a points and discount system for loyal customers to maintain close relationships with them.",
+        "With weekly reports, we empower owners of mother and baby shops to manage their finances efficiently. Easily track your store's debt and revenue from anywhere, on any device."
+      ]
+    }
+  },
+  "whyChoose": {
+    "heading": "Why choose us",
+    "content": [
+      "User-friendly software",
+      "Compatible with multiple devices",
+      "Comparehensive supports"
+    ]
+  },
+  "discoverProducts": {
+    "heading": "Discover products and solutions that match your needs",
+    "learnMore": "Learn more",
+    "items": [
+      {
+        "icon": "svg-storefront",
+        "title": "StoreFront Layer",
+        "content": "Build your own selling website or marketing landing page with the support of IChiba comprehensive tool set.",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "icon": "svg-icon-storefront",
+        "title": "Commerce Layer",
+        "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data and intelligence.",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icon": "svg-icon-ship4p",
+        "title": "Ship4P",
+        "content": "A multi-carrier management software that allows you to purchase official shipping labels at the best rates.",
+        "link": "/products/ship4p/overview"
+      }
+    ]
+  },
+  "weService": {
+    "heading": "We service 100+ businesses & process 10.000+ transactions everyday",
+    "subHeading": "Hear what custommers say about us.",
+    "content": [
+      {
+        "title": "Crochet clothes",
+        "items": [
+          {
+            "contentItem": ["Over 10.000+", "user"]
+          },
+          {
+            "contentItem": ["120+", "items"]
+          }
+        ],
+        "des": "From the initial consultation to the final delivery of the website, Crochet Clothes has experienced a seamless and efficient process. IChiba demonstrated a deep understanding of our business requirements and created a visually appealing and user-friendly website. The design and layout perfectly captured our brand identity and effectively showcased our products to our target audience.",
+        "career": "Founder at Crochet Clothes"
+      },
+      {
+        "title": "Shopforme",
+        "items": [
+          {
+            "contentItem": ["Over 10.000+", "user"]
+          },
+          {
+            "contentItem": ["120+", "items"]
+          }
+        ],
+        "des": "From the initial consultation to the final delivery of the website, Crochet Clothes has experienced a seamless and efficient process. IChiba demonstrated a deep understanding of our business requirements and created a visually appealing and user-friendly website. The design and layout perfectly captured our brand identity and effectively showcased our products to our target audience.",
+        "career": "Founder at Crochet Clothes"
+      }
+    ]
+  },
+  "contactSales": {
+    "heading": "Nurturing your Mother & Baby store & craff your success story today!",
+    "textBtn": "Contact Sales"
+  }
+}

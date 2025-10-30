@@ -1,0 +1,464 @@
+{
+  "banner": {
+    "title": [
+      "StoreFront Layer IChiba OnePlatform",
+      "Build ",
+      "Fast ",
+      "with ",
+      "Flexibility"
+    ],
+    "subtitle": [
+      "Create your online selling website/landing page for ads with the most flexible and comprehensive tools.",
+      "Compatible with all business models and types, regardless of scale!"
+    ],
+    "request": "Request a demo",
+    "getStart": "Get started"
+  },
+  "tailored": {
+    "title": "Tailored template to business requirements",
+    "subtitle": "Explore Theme Library"
+  },
+  "buildStoreFront": {
+    "title": [
+      "StoreFront Layer",
+      "No-code ",
+      "and ",
+      "Low-code ",
+      "frontend builder"
+    ],
+    "tabs": [
+      {
+        "title": "Create a retail website",
+        "subtitle": "Provide more than 400 templates that are suitable for every industry and can be easily customized. All are compatible with multiple devices.",
+        "content": []
+      },
+      {
+        "title": "Build a cross-border proxy-shopping website",
+        "subtitle": "Effortlessly build a cross-border purchasing/auction website with exclusive features:",
+        "content": [
+          "Manage purchase orders/sale orders/bidding.",
+          "Integrate with multilingual translation software.",
+          "Integrate with multiple payment methods with multiple currency options."
+        ]
+      },
+      {
+        "title": "Create a cross-border shipping website",
+        "subtitle": "Fully meet the specific and necessary requirements of a cross-border shipping website:",
+        "content": [
+          "Integrate with 20+ domestic and international carriers.",
+          "Track order status right on the website.",
+          "Include shipping price/time estimate tool."
+        ]
+      },
+      {
+        "title": "Multi-market selling website",
+        "subtitle": "Expand your customer base to multiple markets with multi-language, multi-currency setups. Optimize conversion rates and increase purchasing experience in each market.",
+        "content": []
+      }
+    ],
+    "tryforfree": "Try for Free",
+    "effort": "Effortlessly operate your online store with IChiba OnePlatform SaaS ecosystem"
+  },
+  "createLandingpages": {
+    "title": "Create landing pages for ads",
+    "subtitle": "A comprehensive set of tools to optimize conversion rate when customers visit your marketing landing page.",
+    "tryforfree": "Try for Free",
+    "landingPage": {
+      "title": "Landing page",
+      "content": "Build a marketing landing page easily and quickly with the drag-and-drop tool. You can also choose pre-designed templates from IChiba OnePlatform."
+    },
+    "popup": {
+      "title": "Popup",
+      "content": "Encourage customers to take action on your landing page with popup tool."
+    },
+    "form": {
+      "title": "Form",
+      "content": "Flexibly create many different forms to collect customer data, depending on the purpose of the business."
+    },
+    "stickybar": {
+      "title": "Sticky bar",
+      "content": "Design a pinned banner on the page so customers don't miss important information."
+    },
+    "liveChat": {
+      "title": "Live chat",
+      "content": "Live chat on landing page helps customers easily access the service/products."
+    },
+    "bannerAds": {
+      "title": "Banner ads",
+      "content": "Effortlessly design eye-catching advertising banners without fluency in design."
+    },
+    "email": {
+      "title": "Email template",
+      "content": "Provide pre-designed email templates with optimized titles and images to enhance experience and conversion."
+    },
+    "personal": {
+      "title": "Personalization",
+      "content": "AI-integrated tools display personalized content and images for each customer. Thereby, businesses can target the right audience to increase conversion rates."
+    }
+  },
+  "preDesign": "Pre-designed templates",
+  "flexibly": "Flexibly customized",
+  "whyChoose": {
+    "title": "Why you should choose IChiba StoreFront Layer",
+    "content": [
+      {
+        "title": "Professional, easy-to-use interface design",
+        "icon": "https://cms-strapi.ichiba.net/uploads/5edf093338c61476d6970a0f_feature13_1x_1_1b87f5e148.svg",
+        "link": ""
+      },
+      {
+        "title": "Multi-market selling support",
+        "icon": "https://cms-strapi.ichiba.net/uploads/5edf09331c9b911ffa9d7648_feature12_1x_1_9262470bfa.svg",
+        "link": ""
+      },
+      {
+        "title": "Post-sale operating software integration",
+        "icon": "https://cms-strapi.ichiba.net/uploads/response_1_c063a19304.svg",
+        "link": ""
+      },
+      {
+        "title": "Website design for cross-border purchasing/shipping niche",
+        "icon": "https://cms-strapi.ichiba.net/uploads/5edf0932dc17aa2ea47d3e5b_feature2_1x_1_124da8a10f.svg",
+        "link": ""
+      },
+      {
+        "title": "Multi-device compatibility interface",
+        "icon": "https://cms-strapi.ichiba.net/uploads/5edf0933596e9cb57d128771_feature10_1x_2_aa57a9a348.svg",
+        "link": ""
+      },
+      {
+        "title": "SEO and advertising optimization",
+        "icon": "https://cms-strapi.ichiba.net/uploads/628f4df5940292409a777a89_mtcn_1_a6f2185e25.svg",
+        "link": ""
+      },
+      {
+        "title": "Right customer targeting",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171275770_535150385c.svg",
+        "link": ""
+      }
+    ]
+  },
+  "suitability": {
+    "label": "Suitability",
+    "title": "Support every team, business to achieve outstanding revenue growth",
+    "ecomm": {
+      "label": "Ecommerce site",
+      "title": "For sellers who want to create retailing/cross-border purchasing/shipping websites:",
+      "content": [
+        "Convenient payment function with fully integrated payment options.",
+        "Connect with other sales channels: social media, e-commerce stores, etc.",
+        "All-inclusive sales management, so sellers don't need to integrate with 3rd party software."
+      ]
+    },
+    "landing": {
+      "label": "Landing page",
+      "title": "For marketing teams:",
+      "content": [
+        "Quickly design landing pages to run advertising campaigns.",
+        "Minimize the number of staff, no no code-development required.",
+        "Customize the interface, design, and content to target the right audience."
+      ]
+    },
+    "learnMore": "Learn more",
+    "tryforfree": "Try for Free",
+    "createAnOnline": {
+      "title": "Create an online selling store with just 5 simple steps",
+      "tryforfree": "Try for Free",
+      "items": [
+        {
+          "title": "Step 1: Sign up for a trial",
+          "content": "Sign up to experience StoreFront’s unlimited features on a 14 days free trial",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_260940_25303af0b6.svg"
+        },
+        {
+          "title": "Step 2: Choose a template",
+          "content": "Choose an available template that is most suitable with you from IChiba’s Themes library",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_260938_184f304243.svg"
+        },
+        {
+          "title": "Step 3: Customize your site",
+          "content": "Drag & drop to customize images, text, size...anything you want to personalize your website to be more attractive",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_260937_39840cbdde.svg"
+        },
+        {
+          "title": "Step 4: Register domain name",
+          "content": "Connect with your domain or register new domain",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_260939_feeae5f90f.svg"
+        },
+        {
+          "title": "Step 5: Start selling",
+          "content": "Publish your website, and now you have your own website. You can start selling on this website after that",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/image_154_23758c92ea.png"
+        }
+      ]
+    }
+  },
+  "new": {
+    "label": "FROM OUR BLOG",
+    "title": "Lastest News",
+    "readMore": "Read more"
+  },
+  "dontKnow": {
+    "title": "Don't know where to start building your own website yet? ",
+    "content": "Contact us now for free consultation and detailed instructions.",
+    "contact": "Contact us now"
+  },
+  "commerceSite": {
+    "banner": {
+      "title": [
+        "Professional,",
+        " multi-market ",
+        "ecommerce website development"
+      ],
+      "subtitle": "Expand your sales channels and reach more customers with our digital web/landing page design service.",
+      "start": "Start for free",
+      "contact": "Contact now"
+    },
+    "whatYou": {
+      "title": "What you can do with IChiba StoreFront Layer",
+      "subtitle": "A comprehensive cloud-native platform to power everything regarding e-commerce.",
+      "items": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_a42befa9d5.svg",
+          "img": "https://cms-strapi.ichiba.net/uploads/ewee_5c46551efd.png",
+          "label": "Build website",
+          "title": "Build a new selling or cross-border proxy-buying website",
+          "content": "Customized selling websites are constructed from scratch with the latest technology stack to manage large traffic volumes, as well as a unique and user-friendly interface."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_1_f741a18e0b.svg",
+          "img": "https://cms-strapi.ichiba.net/uploads/ewee_5c46551efd.png",
+          "label": "Multi-market",
+          "title": "Multi-market selling website",
+          "content": "The interface, language and currency are customized to fit the markets that sellers want to target. This helps improve shopping experience and conversion rates."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_1_1_6aa39118c9.svg",
+          "img": "https://cms-strapi.ichiba.net/uploads/ewee_5c46551efd.png",
+          "label": "Cross-border website",
+          "title": "Make a cross-border shipping website",
+          "content": "Create a shipping website with industry-specific features: order status tracking, cost & delivery time estimation tool, etc."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/atomic_molecule_sync_b6bac37c9d.svg",
+          "img": "https://cms-strapi.ichiba.net/uploads/ewee_5c46551efd.png",
+          "label": "Data synchronization",
+          "title": "Data sync across IChiba software ecosystem",
+          "content": "Streamline sales operations as all data is synced across IChiba Global ecosystem in real-time. No more manual updates or missed information."
+        }
+      ]
+    },
+    "effortless": {
+      "title": "Effortless after-sales operation with outstanding features",
+      "integrate": {
+        "title": "Integrate back-end after-sale operation software",
+        "content": "Connect with management software: OMS system, accounting, ERP, CRM, etc. to manage orders, update inventory and interact with customers better."
+      },
+      "getReal": {
+        "title": "Get real time inventory visibility",
+        "content": "Getting accurate stock details & adapting to changing customer demand through inventory management techniques: ABC analysis, batch tracking, bulk shipment, demand forecasting..."
+      },
+      "multi": {
+        "title": "Multi-carrier integration",
+        "content": "Compare prices among shipping companies, and suggest the best one with the most reasonable fees. "
+      },
+      "manage": {
+        "title": "Store and manage product information",
+        "content": "Integrate with Product Information Management (PIM) software, allowing to access all data, handle complex catalogs, and promptly update promotions in real-time."
+      },
+      "multiple": {
+        "title": "Allow multiple payment methods",
+        "content": "Maximize conversion rates by offering a variety of payment methods: credit cards, Visa, internet banking, QR code, etc."
+      }
+    },
+    "boots": {
+      "title": "Boost SEO and optimize advertisements",
+      "google": {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171275874_28d0e5cc71.png",
+        "title": "Google Smart Shopping campaigns",
+        "content": "Support implementing advertisement campaigns on Google Smart Shopping to increase conversion rates."
+      },
+      "create": {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171275875_1_6357e598e8.png",
+        "title": "Create promotion",
+        "content": "Flexibly create promotions on websites for targeted audiences. Enable customer coupons at checkout and automatically apply the best available promotional price."
+      },
+      "increase": {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171275875_2496fcee23.png",
+        "title": "Increase brand awareness With SEO optimized website",
+        "content": "The website structure is optimized to meet Google's algorithms. Effortlessly customize on-page SEO factors."
+      }
+    },
+    "exclusively": {
+      "title": "Exclusively for cross-border purchasing businesses",
+      "crawler": "Crawler products data from other ecommerces",
+      "connect": "Connect to large reputational commerces like Amazon, eBay, Mercari, Yahoo Shopping, and more to automatically update and crawler products in real-time.",
+      "storefrone": "Storefront Services"
+    },
+    "whatispossible": {
+      "title": "What is possible with IChiba StoreFront Layer",
+      "composable": "Composable Commerce",
+      "headless": "Headless Commerce"
+    },
+    "discover": {
+      "label": "Suitability",
+      "title": "Discover why thousands of entrepreneurs choose IChiba StoreFront Layer to build their business",
+      "items": [
+        {
+          "label": "B2B/Wholesale",
+
+          "content": [
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Meet your budget",
+              "subtitle": "The cost of building a B2B selling website is customizable, depending on the business requirements. You'll receive maintenance, managing security, and upgrades"
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Extensive integrations",
+              "subtitle": "Be able to integrate with other software systems, such as OMS, ERP, or CRM, to ensure a seamless purchasing experience."
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Advanced browsing",
+              "subtitle": "Offer multi-faceted search capabilities and AI-powered technology, allowing shoppers to filter by certain product attributes."
+            }
+          ]
+        },
+        {
+          "label": "Direct to Customers",
+          "img": "",
+          "content": [
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Convert more sales",
+              "subtitle": "Effortlessly create promotion landing pages that target the right audiences."
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Simplify ecommerce management",
+              "subtitle": "Integrate all managing functions, including orders, shipping, payment, returns, etc. "
+            }
+          ]
+        },
+        {
+          "label": "International",
+          "img": "",
+          "content": [
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Build an international shopping proxy website",
+              "subtitle": "Create a proxy purchase website that allows customers to buy items from abroad and ship the items to destinations all over the world."
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Manage & display your store in the language of your choice",
+              "subtitle": "Leverage localized content, catalogs and currency to win more sales, boost brand loyalty and gain more market share."
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Advanced browsing",
+              "subtitle": "Offer multi-faceted search capabilities and AI-powered technology, allowing shoppers to filter by certain product attributes."
+            }
+          ]
+        }
+      ]
+    },
+    "mach": {
+      "title": "MACH architecture",
+      "subtitle": "(Microservice-based, API-first, Cloud-native and Headless)",
+      "content": [
+        "MACH technologies accomplish digital transformation, supporting ",
+        "composable businesses to remain agile, nimble, customer-centric, and future-proof. "
+      ],
+      "micro": {
+        "icons": "https://cms-strapi.ichiba.net/uploads/microservice_1_3c7a6aadac.svg",
+        "title": "Microservice-based ",
+        "content": "deployable small components or “services” to compose a single, more complex application. Using microservices, these applications deliver faster responses, are more reliable, and can be deployed more frequently."
+      },
+      "items": [
+        {
+          "icons": "https://cms-strapi.ichiba.net/uploads/response_2_4aec0d5a36.svg",
+          "title": "API-first",
+          "content": "All functionality is exposed through an API, making it possible to tie together two or more applications or services, and retrieve the exact data they want from any source. High API extensibility allows businesses to add functionality and tailor how an API behaves to exact needs."
+        },
+        {
+          "icons": "https://cms-strapi.ichiba.net/uploads/response_3_4897a4fe63.svg",
+          "title": "Cloud-native SaaS",
+          "content": "Software-as-a-Service leverages full capability of cloud to achieve faster development, better scalability and flexibility with cloud-native applications. Free from maintaining servers and on-premise software lock-in. "
+        },
+        {
+          "icons": "https://cms-strapi.ichiba.net/uploads/response_1_92d21ee28f.svg",
+          "title": "Headless",
+          "content": "Separate backend processes from front-end UX to build the seamless, cutting-edge shopping experiences. Update either the content presentation layer or business functional (commerce) layer without impacting the other and waiting weeks to activate a feature or respond to change."
+        }
+      ]
+    },
+    "integration": {
+      "title": "Integration",
+      "viewAll": "View All Integrations"
+    },
+    "findout": {
+      "title": "Find out how these online businesses start their success story with IChiba",
+      "items": [
+        {
+          "brand": "CROCHET CLOTHES",
+          "bioBrand": "Crochet clothes",
+          "numberUser": "Over 10.000 +",
+          "users": "users",
+          "numberItems": "120+",
+          "items": "items",
+          "content": "From the initial consultation to the final delivery of the website, Crochet Clothes has experienced a seamless and efficient process. IChiba demonstrated a deep understanding of our business requirements and created a visually appealing and user-friendly website. The design and layout perfectly captured our brand identity and effectively showcased our products to our target audience. ",
+          "name": "Mr. Nam Tran",
+          "bio": "Founder at Crochet Clothes",
+          "img": "https://cms-strapi.ichiba.net/uploads/2511_6bda166024.webp"
+        },
+        {
+          "brand": "SHOPFORME",
+          "bioBrand": "Selling Japanese and American products",
+          "numberUser": "60.000+",
+          "users": "users",
+          "numberItems": "15+ million",
+          "items": "items",
+          "content": "“IChiba OnePlatform seamlessly integrated essential features such as product catalogs, shopping carts, secure payment gateways, and a robust inventory management system. Additionally, they ensured that the website was responsive, optimizing it for various devices and ensuring a consistent and enjoyable user experience across platforms. They not only incorporated my branding elements but also offered valuable suggestions to enhance the website's functionality and user engagement. Their expertise in search engine optimization (SEO) techniques ensured that Shopforme gained visibility and attracted organic traffic.”",
+          "name": "Ms.Lea",
+          "bio": "Marketing Manager Shopforme",
+          "img": "https://cms-strapi.ichiba.net/uploads/2511_6bda166024.webp"
+        }
+      ]
+    },
+    "why": {
+      "title": "Why IChiba StoreFront Layer",
+      "content": [
+        "We’ve helped thousands of entrepreneurs turn their dreams into reality!",
+        "Unlock endless commerce potential and scale up your business with our comprehensive tools to build a website."
+      ],
+      "items": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_336c83a3a8.svg",
+          "title": "Modern technology",
+          "content": "Modular, API-first, Cloud native, and Headless architecture help you achieve flexibility, scalability, and speed of commerce."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/61770d1df091c77be32f2581_bag_1_d3f565b9a9.svg",
+          "title": "Merchant & developer friendly",
+          "content": "Easy to learn, easy to configure, and easy to operate for non-technical users – all through one powerful UI for merchants."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db534192d180a_Automate_1_df2e93ad41.svg",
+          "title": "Fast & flexible",
+          "content": "Our modular consumption model offers the flexibility to grow your infrastructure piece by piece and provides faster time to value."
+        }
+      ]
+    },
+    "build": {
+      "title": "Build your own merchandise website today!",
+      "button": "Build now"
+    }
+  }
+}

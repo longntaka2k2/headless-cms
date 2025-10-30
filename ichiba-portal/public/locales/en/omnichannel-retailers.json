@@ -1,0 +1,171 @@
+{
+  "pageTitle": "Omnichannel Retailers/SMEs",
+  "getStarted": "Get started for free",
+  "contactSales": "Contact Sales",
+  "speakToExperts": "Speak to Experts",
+  "viewMore": "View More",
+  "introduce": {
+    "title": "Break omnichannel barriers with centralized operations",
+    "content1": "Blur the lines between sales, warehousing and fulfillment operations on omnichannel.",
+    "content2": "Sell everywhere your customers are, and manage everything right in IChiba OnePlatform."
+  },
+  "topBarriers": {
+    "title": "Top barriers of<br />Omni channel retailers/SMEs",
+    "items": [
+      "Complex multi channel management",
+      "Difficulty in selecting suitable carriers & tracking shipment",
+      "The SaaS system available on the market is not easy to use or lacks important features",
+      "Ineffective promotion implementation across channels",
+      "Cost significant time & money to build e-commerce storefront",
+      "Limit to set up multi-channel on multi-market"
+    ]
+  },
+  "insights": {
+    "title": "Insights",
+    "content": "Market trends, insights, and thought leadership helps omnichannel retailers throughout the world in achieving unprecedented success.",
+    "items": []
+  },
+  "multipleChannels": {
+    "title": "Your customers aren’t on one channel - they’re on all of them",
+    "content": "Take it easy for omnichannel retailers to successfully convert more customers on any devices & sales channels.",
+    "items": [
+      {
+        "title": "Order Management System (OMS)",
+        "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data, and intelligence."
+      },
+      {
+        "title": "Ship4P",
+        "content": "Shipping management platform that centralizes multiple carriers to manage, reducing costs, and simplifying shipment management."
+      },
+      {
+        "title": "Digital Web",
+        "content": "Build your own selling website with the support of IChiba comprehensive tool set."
+      }
+    ]
+  },
+  "trustedPartner": {
+    "title": "Go omnichannel by cooperating with a trusted partner",
+    "content": "We'll collaborate closely with businesses to develop the roadmap, put the solution into practice<br />& make sure the system runs without a hitch.",
+    "items": [
+      {
+        "title": "Consultation",
+        "content": "Find out what you need & want for your business."
+      },
+      {
+        "title": "Road map building",
+        "content": "Confirm project milestones to utilize your omnichannel retail solution."
+      },
+      {
+        "title": "Implementation",
+        "content": "Deploy the solution, & provide you an instant update on its development."
+      },
+      {
+        "title": "Confirmation",
+        "content": "Make sure the solution is practical & meets your needs."
+      },
+      {
+        "title": "Maintaining",
+        "content": "Run your omnichannel retail solutions & get assistance as needed."
+      }
+    ]
+  },
+  "madeForScale": {
+    "sectionName": "Made for scale",
+    "title": "Expand your customer base with the most extensive solutions for omnichannel retailers/SMEs.",
+    "content": "Contact us now to get detailed advices and guidance."
+  },
+  "eraseBarriers": {
+    "title": "Erase omnichannel barriers with centralized operations",
+    "content": "The way people shop has changed dramatically. Discover how effective omnichannel tools can help you create a consistent brand experience wherever you sell.",
+    "items": [
+      {
+        "title": "Manage omnichannel from one centralized platform",
+        "contents": [
+          "Manage a consolidated inventory and simplify order management across all retail and e-commerce touchpoints with ease.",
+          "Create and customize product information (including category, price) across all of your channels from one place, rather than performing updates manually."
+        ]
+      },
+      {
+        "title": "Bridge online-offline shopping experience",
+        "contents": [
+          "Maximize the value of your retail stores by building a cohesive purchasing experience, whether your customers are online or offline.",
+          "IChiba OnePlatform transforms disparate data into a unified and seamless data system on both online and offline stores, which helps businesses easily make informed decisions."
+        ]
+      },
+      {
+        "title": "Personalize promotions for diverse product portfolio",
+        "contents": [
+          "Centrally manage multiple complex promotions, offer discounts, pre-booking options, and even omnichannel flash sales for your various product lines.",
+          "Provide relevant recommendations based on what customers search and purchase history."
+        ]
+      },
+      {
+        "title": "Integrate stores and Saas ecosystem for complete retail supply management",
+        "contents": [
+          "Integrate and manage multiple online stores, physical shops, warehouses and a comprehensive ecosystem within a single platform.",
+          "Get anywhere, anytime access to your business data to keep track of the sales and make changes as all data is stored in a single integrated system."
+        ]
+      },
+      {
+        "title": "Provide cross-channel customer support",
+        "contents": [
+          "Give customers various options to reach out, including email, phone, live chat, social media, eCommerce, and so on.",
+          "Gather data to determine how to approach each consumer across channels and provide them with personalized communications throughout the customer journey."
+        ]
+      },
+      {
+        "title": "Understand audience by global insights and reports",
+        "contents": [
+          "Consolidate real-time data from omnichannel so that you can have complete visibility over sales performance and customer behaviors.",
+          "Analysis about competitors and potential threats such as brand recognition, reputation, and overall quality to give better strategy."
+        ]
+      },
+      {
+        "title": "Centralized auto-sync inventory",
+        "contents": [
+          "Avoid over or under-selling products and maintain accurate inventory levels with a centralized inventory system that updates in real-time, free of errors.",
+          "Send automated alerts when inventory levels fall below a certain threshold or to prepare for peak season."
+        ]
+      }
+    ]
+  },
+  "customerStories": {
+    "title": "What our users say",
+    "content": "We’ve helped thousands of people get to the next success chapter.",
+    "items": [
+      {
+        "author": "Feng Zhu",
+        "content": "Dynamic commerce means going omnichannel. IChiba OnePlatform has consistently supported us with a complete toolset across mobile, desktop, and third-party apps to frictionlessly manage all sales channels.",
+        "position": "CEO, Hooga"
+      },
+      {
+        "author": "Lưu Linh",
+        "content": "The adoption of omnichannel retailer solutions provided by Ichiba has allowed us to personalize customer interactions and deliver targeted marketing campaigns, resulting in higher conversion rates."
+      },
+      {
+        "author": "Emily Johnson",
+        "content": "Ichiba's system perfectly aligns with our goal of establishing an omnichannel retail experience."
+      },
+      {
+        "author": "Jessica Martinez",
+        "content": "With omnichannel retailer solutions, we have gained valuable insights into customer behavior and preferences, enabling us to optimize our inventory and product assortment to meet their demands."
+      },
+      {
+        "author": "Li Wei",
+        "content": "Thanks to omnichannel retailer solutions from Ichiba, we have witnessed increased customer loyalty and engagement, as shoppers can effortlessly switch between online and physical stores."
+      },
+      {
+        "author": "Santo",
+        "content": "The seamless integration of online and offline channels through omnichannel solutions has allowed us to create a cohesive brand experience, fostering stronger customer trust and loyalty."
+      },
+      {
+        "author": "Kenji Inoue",
+        "content": "Ichiba have streamlined our operations, enabling us to efficiently manage inventory, orders, and customer data across multiple channels."
+      },
+      {
+        "author": "Samantha Davis",
+        "content": "Ichiba helped us effectively manage inventory across multiple channels, minimizing stockouts and maximizing sales opportunities"
+      }
+    ]
+  }
+}

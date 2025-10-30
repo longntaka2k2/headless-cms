@@ -1,0 +1,174 @@
+{
+  "cta": {
+    "getStarted": "Get started",
+    "requestADemo": "Request a Demo",
+    "viewAllInteg": "View All Integrations",
+    "ready": "Yes, I’m ready!",
+    "startBuild": "Start building for free",
+    "viewMore": "View more"
+  },
+  "banner": {
+    "heading": "StoreFront Layer Features",
+    "heading2": "",
+    "subHeading": "Top features that help effortlessly build online selling sites and boost sales"
+  },
+  "powerful": {
+    "heading": "Powerful toolset to enable commerce websites",
+    "subHeading": "A comprehensive cloud-native platform to power everything regarding eCommerce",
+    "items": [
+      {
+        "label": "Build a new commerce website",
+        "contents": [
+          {
+            "title": "Pre-built interface/application",
+            "des": "The interface is optimized to enhance the user experience when purchasing, making shopping process more convenient than ever."
+          },
+          {
+            "title": "Actively customize the interface easily",
+            "des": "Businesses can adjust the interface easily without knowledge of IT or design. Just some simple steps and you will have a SEO-standard website optimized in shopping experience."
+          },
+          {
+            "title": "Mobile-friendly",
+            "des": "Your website will be optimized to fit mobile devices, thereby providing the best customer experience and increasing conversion rates."
+          }
+        ]
+      },
+      {
+        "label": "Customer information management",
+        "contents": [
+          {
+            "title": "Smart data management tool",
+            "des": "Our AI tools support creating useful filters based on customer information to deliver personalized shopping experience and higher conversion rates."
+          },
+          {
+            "title": "Customer journey tracking",
+            "des": "Categorize and separate each specific audience group to create promotions, offers and send email marketing for better response and increased growth."
+          }
+        ]
+      },
+      {
+        "label": "Oder management system",
+        "contents": [
+          {
+            "title": "Single dashboard to monitor orders ",
+            "des": "Complete one or more orders with just one click, making order management easier than ever."
+          },
+          {
+            "title": "Update order status in real time",
+            "des": "Update order status in real-time, thereby guiding customers throughout their purchase."
+          },
+          {
+            "title": "Products, variants & catalog management",
+            "des": "Follow international standards like GS1 or eClass with our integrated Product Information Management (PIM), which manages complex products in an efficient manner."
+          }
+        ]
+      },
+      {
+        "label": "Automated email notification system",
+        "contents": [
+          {
+            "title": "Effectively keep track of orders",
+            "des": "Automatic email notification journeys proactively notify order routes, avoiding delays or missed scenarios."
+          },
+          {
+            "title": "Customized email structure and content",
+            "des": "You can completely customize these useful email notification templates to suit your needs and the way your business operates easily."
+          },
+          {
+            "title": "Build trusts of customers",
+            "des": "Gain the trusts from customers through detailed payment confirmation, order information update, password update, etc. "
+          }
+        ]
+      },
+      {
+        "label": "Payment management",
+        "contents": [
+          {
+            "title": "Free integration of payment gateways",
+            "des": "IChiba OnePlatform supports free integration of multiple payment gateways to make shopping more convenient for customers."
+          },
+          {
+            "title": "Free SSL Support - Enhanced security",
+            "des": "Your website will come with a free SSL certificate, which secures all pages, credit card and transaction information."
+          }
+        ]
+      },
+      {
+        "label": "Comprehensive reporting",
+        "contents": [
+          {
+            "title": "Product status report",
+            "des": "Collected data provides sellers with a detailed report on inventory levels, best-selling products, and sales trends over time, which will support making right decisions to promote businesses."
+          },
+          {
+            "title": "Advanced commerce reporting with Google Analytics",
+            "des": "With the Enhanced Ecommerce feature on Google Analytics, sellers can effortlessly track where sales, visits, and referrals are coming from, thereby giving a deeper understanding of advertising performance and customer insights."
+          }
+        ]
+      },
+      {
+        "label": "Nationwide carrier integration ",
+        "contents": [
+          {
+            "title": "Synchronizing system with hundreds of carriers",
+            "des": "Integrating popular carriers in your country to manage and process orders quickly and efficiently in just one place."
+          },
+          {
+            "title": "Centralizing & delivering thousands of orders",
+            "des": "The shipping management dashboard ables to process and monitor from a few hundred to thousands of orders easily and centrally in just one place. "
+          },
+          {
+            "title": "Order status report",
+            "des": "Check bills of lading, track the delivery process and update incentives from carriers. Send real-time reports about order status at any time. "
+          }
+        ]
+      },
+      {
+        "label": "Personalization and Recommendations",
+        "contents": [
+          {
+            "title": "Flexible placements of product recommendations",
+            "des": "Collect user-specific data, such as the customer’s most-viewed categories, products, and purchase history to give relevant recommendations for customers through website pages or marketing campaigns."
+          },
+          {
+            "title": "Content-based filtering system",
+            "des": "Suggest similar products that are grouped together based on certain attributes, so shoppers can have more options and quickly drive buying decisions."
+          },
+          {
+            "title": "Collaborative filtering feature",
+            "des": "Using AI models and reports to predict what might interest a person based on the taste of many other users."
+          }
+        ]
+      }
+    ]
+  },
+  "support": {
+    "heading": "Start building your own selling website with IChiba OnePlatform",
+    "cta": "Start building for free",
+    "listPricing": "See complete list of pricing"
+  },
+  "faq": {
+    "heading": "FAQs",
+    "contents": [
+      {
+        "title": "1. What is the cost for a IChiba OnePlatform StoreFront Layer Tool?",
+        "des": [
+          "There is no set amount, as we provide pricing tailored to each merchant’s needs at any stage of growth.",
+          "For more information about pricing, please contact our sales team."
+        ]
+      },
+      {
+        "title": "2. Can I use IChiba OnePlatform StoreFront Layer Tool if I don’t have an IT team?",
+        "des": [
+          "Yes. You can definitely use IChiba OnePlatform StoreFront Layer Tool without having IT knowledge. We have an enthusiastic and well-trained technical team to support and follow your requirements."
+        ]
+      },
+      {
+        "title": "3. What should I do if the website has errors or bugs?",
+        "des": [
+          "IChiba OnePlatform have a global support team who is willing to assist you anytime. Don’t hesitate to contact us if you need help. "
+        ]
+      }
+    ]
+  }
+}

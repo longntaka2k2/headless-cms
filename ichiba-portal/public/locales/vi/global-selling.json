@@ -1,0 +1,197 @@
+{
+  "banner": {
+    "title": "Bán hàng quốc tế đa kênh, đa thị trường cùng giải pháp bán hàng xuyên biên giới IChiba OnePlatform",
+    "conent": [
+      "Phá bỏ rào cản ngôn ngữ và tiền tệ",
+      "Mạng lưới đa kho tại đa quốc gia",
+      "Thực hiện hoàn tất đơn hàng xuyên biên giới"
+    ],
+    "contactSales": "Liên hệ ngay",
+    "watch": "Video giới thiệu"
+  },
+  "globalSelling": {
+    "title": "Những thách thức của bán hàng đa kênh đa thị trường",
+    "different": "Sự khác nhau về quy định hải quan, nhập khẩu giữa các nước",
+    "price": "Cạnh tranh về giá và bão hòa thị trường",
+    "market": "Gia nhập và bao quát thị trường",
+    "diffcutl": "Khó khăn về kỹ thuật và tích hợp",
+    "costly": "Chi phí logistics và vận chuyển tốn kém",
+    "language": "Rào cản về ngôn ngữ và văn hóa",
+    "performance": "Theo dõi hiệu suất trên các kênh và thị trường khác nhau",
+    "complicated": "Tiền tệ và thanh toán phức tạp"
+  },
+  "selling": {
+    "title": "Quy trình bán hàng xuyên biên giới",
+    "buyYourSelf": {
+      "title": "Nhà bán hàng tự xử lý",
+      "sellers": "Nhà bán",
+      "fullfillment": "Fulfillment + giao hàng chặng cuối",
+      "customers": ["Người tiêu dùng cuối", "(trên toàn cầu)"],
+      "items": [
+        {
+          "label": "Đăng sản phẩm",
+          "icon": "https://cms-strapi.ichiba.net/uploads/Illus_1761700e15.svg",
+          "content": "Kênh bán hàng"
+        },
+        {
+          "label": "Xử lý hàng",
+          "icon": "https://cms-strapi.ichiba.net/uploads/Illus_1761700e15.svg",
+          "content": "Thanh toán quốc tế"
+        },
+        {
+          "label": "Vận chuyển quốc tế",
+          "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276460_9ed337917b.svg",
+          "content": "Nhà kho"
+        },
+        {
+          "label": "Dịch thông tin",
+          "icon": "https://cms-strapi.ichiba.net/uploads/Illus_1761700e15.svg",
+          "content": "Ngôn ngữ đích"
+        }
+      ]
+    },
+    "withIChibaOne": {
+      "title": "Với IChiba OnePlatform",
+      "yourProducts": "Sản phẩm của bạn",
+      "iChiba": "Giải pháp của IChiba OnePlatform",
+      "customers": ["Người tiêu dùng cuối", "(trên toàn cầu)"]
+    },
+    "created": "Được tối ưu để thúc đẩy sự phát triển nhanh chóng của các doanh nghiệp thương mại điện tử trên quy mô toàn cầu.",
+    "iChibaOne": "IChiba mang đến một giải pháp toàn diện hỗ trợ các nhà kinh doanh thị trường quốc tế các vấn đề về kênh bán hàng, kho hàng, ngôn ngữ và tiền tệ."
+  },
+  "boost": {
+    "title": "Bứt phá doanh số bán hàng toàn cầu với giải pháp bán hàng xuyên biên giới IChiba",
+    "local": {
+      "title": "20+",
+      "content": "Cổng thanh toán nội địa"
+    },
+    "countries": {
+      "title": "220+",
+      "content": "Quốc gia & Vùng lãnh thổ"
+    },
+    "localized": {
+      "title": "100+",
+      "content": "Nội tệ"
+    }
+  },
+  "how": {
+    "title": "IChiba đồng hành cùng các doanh nghiệp bán hàng xuyên biên giới",
+    "subtitle": "IChiba cung cấp giải pháp thương mại điện tử toàn diện, tất cả trong một dành cho các nhà bán hàng thương mại điện tử xuyên biên giới."
+  },
+  "multiMarket": {
+    "title": "Quản lý đa kênh, đa thị trường",
+    "content": [
+      "Xử lý đơn hàng từ nhiều kênh bán, online và offline, trên một dashboard duy nhất.",
+      "Mang lại trải nghiệm mua sắm được cá nhân hóa cao với các đề xuất sản phẩm phù hợp ở mỗi thị trường khác nhau.",
+      "Tìm kiếm bản địa hóa: Thiết kế website với nội dung được tùy chỉnh phù hợp với từng thị trường mục tiêu.."
+    ]
+  },
+  "smooth": {
+    "title": "Chuyển đổi mượt mà giữa đa ngôn ngữ, đa tiền tệ",
+    "auto": "Tự động dịch thông tin sản phẩm sang một số ngôn ngữ phổ biến.",
+    "automatically": "Tự động chuyển đổi tiền tệ theo quốc gia của người dùng. Người bán có thể chọn cập nhật tỷ giá thị trường theo theo gian thực hoặc chọn ấn định mức tỷ giá mong muốn."
+  },
+  "multi": {
+    "title": "Quản lý đa kho, đa quốc gia",
+    "automatically": "Tự động thu thập đơn hàng từ nhiều kho dựa trên chiến lược phân phối đơn hàng của người bán.",
+    "standar": "Chuẩn hóa việc sắp xếp và xử lý đơn hàng giữa các kho để tăng hiệu quả."
+  },
+  "handle": {
+    "title": "Hoàn tất đơn hàng đa kênh",
+    "receive": "Nhận đơn đặt hàng từ nhiều kênh bán; sau đó đóng gói và vận chuyển cho khách hàng quốc tế của bạn.",
+    "realTime": "Giám sát và phân tích tồn kho theo thời gian thực để ngăn ngừa tình trạng hết hàng hoặc dự trữ quá mức."
+  },
+  "market": {
+    "title": "Gia tăng khả năng thâm nhập và bao quát thị trường",
+    "brand": {
+      "title": "Tăng nhận diện thương hiệu",
+      "content": "Cung cấp dịch vụ marketing automation giúp doanh nghiệp xây dựng nhận diện thương hiệu ở thị trường mới."
+    },
+    "seo": {
+      "title": "SEO và marketing",
+      "content": "Tư vấn chiến lược SEO và marketing cho từng kênh tiếp thị và thị trường."
+    },
+    "viewMore": "Xem thêm"
+  },
+  "interational": {
+    "title": "Vận chuyển quốc tế dễ dàng",
+    "content": [
+      "Ứng dụng công nghệ AI đề xuất lựa chọn vận chuyển với mức giá tốt nhất dựa trên đặc điểm sản phẩm và điểm giao hàng mục tiêu.",
+      "Hiển thị đầy đủ trạng thái đơn hàng đến từ nhiều đơn vị vận chuyển, cập nhật đầy đủ theo thời gian thực, quản lý tập trụng tại một dashboard."
+    ]
+  },
+  "additional": {
+    "title": "Các dịch vụ cộng thêm",
+    "duty": {
+      "title": "Tính thuế",
+      "content": [
+        "Làm các thủ tục hải quan, chuẩn bị các giấy tờ cần thiết, xác định mã HS code giúp các hoạt động xuất nhập khẩu được diễn ra dễ dàng hơn.",
+        "Cho phép doanh nghiệp xem và thanh toán trước tất cả các khoản phí hải quan và thuế.",
+        "Tự động tính thuế chính xác cho mọi giao dịch dựa trên sản phẩm, vị trí người mua, v.v."
+      ]
+    },
+    "customs": {
+      "title": "Thủ tục hải quan",
+      "content": [
+        "Đội ngũ hỗ trợ tận tâm giúp hàng hóa được thông quan nhanh chóng, ngay cả ở những thị trường được coi là khó tính.",
+        "Cập nhật tình hình lô hàng liên tục trong quá trình khai thuê hải quan.",
+        "Sử dụng công nghệ thông quan tiên tiến, trao đổi dữ liệu điện tử, đảm bảo hoạt động thương mại được diễn ra xuyên suốt và nhất quán."
+      ]
+    }
+  },
+  "global": {
+    "title": "Vươn tới cuộc chơi toàn cầu cùng giải pháp bán hàng xuyên biên giới Ichiba",
+    "all": {
+      "title": "Công cụ hỗ trợ toàn diện",
+      "content": "Với cơ sở hạ tầng hoàn chỉnh, chúng tôi có thể giúp bạn quản lý mọi hoạt động logistics, bao gồm vận chuyển xuyên biên giới, các thủ tục hải quan, hàng hoàn, v.v..."
+    },
+    "scale": {
+      "title": "Mở rộng quy mô dễ dàng",
+      "content": "Nắm bắt các cơ hội bán hàng mới tại các thị trường trước đây không thể tiếp cận và định vị doanh nghiệp để lên kế hoạch phát triển."
+    },
+    "support": {
+      "title": "Dịch vụ hỗ trợ 24/7/365",
+      "content": "Dịch vụ hỗ trợ nhanh chóng, toàn diện và dễ tiếp cận nhất, hoạt động 24 giờ một ngày, 7 ngày một tuần, 265 ngày một năm."
+    }
+  },
+  "weAre": {
+    "heading": "Chúng tôi đã giúp hàng trăm thương hiệu vươn ra thị trường quốc tế thành công!",
+    "contact": "Liên hệ ngay",
+    "content": "Với bộ công cụ phần mềm mạnh mẽ, IChiba đã giúp hàng ngàn doanh nghiệp mở rộng quy mô và tối ưu quy trình vận hành. Hãy cùng xem những chia sẻ của các khách hàng về chúng tôi - và rút ra những bài học riêng cho doanh nghiệp của bạn."
+  },
+  "whatAre": {
+    "title": "Sản phẩm/Dịch vụ gợi ý",
+    "viewMore": "Tìm hiểu thêm",
+    "items": [
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_4_b0f7c9c90f.svg",
+        "title": "Phần mềm tích hợp vận chuyển (Ship4P)",
+        "content": "Nền tảng quản lý tập trung các hãng vận chuyển, giúp giảm chi phí và đơn giản hóa việc quản lý lô hàng.",
+        "link": "/products/ship4p/overview"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_3_262f4d0926.svg",
+        "title": "Cross-Border Forwarding",
+        "content": "Quản lý xuất nhập khẩu dễ dàng hơn bao giờ hết, rút ngắn đến 40% thời gian thông quan, đảm bảo 100 SLA và sự hài lòng của khách hàng.",
+        "link": "/products/cross-border-forwarding/overview"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "content": "Bán hàng mọi nơi, quản lý ở một nơi. Tối đa hóa hiệu quả với khả năng tự động hóa, dữ liệu và trí thông minh tốt hơn.",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_43db957090.svg",
+        "title": "Thực hiện đơn hàng (Order Fulfillment)",
+        "content": "Cung cấp các giải pháp thực hiện đơn hàng và logistics hiện đại tùy chỉnh cho khách hàng B2B & B2C với các tính năng quản lý và báo cáo đầy đủ.",
+        "link": "/solutions/order-fulfillment-by-efex"
+      }
+    ]
+  },
+  "goGlobal": {
+    "title": "Khám phá mọi thị trường quốc tế tiềm năng với IChiba",
+    "content": "Bản địa hóa trải nghiệm khách hàng - “xương sống” của thương mại điện tử xuyên biên giới.",
+    "contactSale": "Liên hệ ngay"
+  }
+}

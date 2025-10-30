@@ -1,0 +1,50 @@
+#support-portal{
+    .support{
+        margin-top: 80px;
+        background-color: #ffffff;
+        box-shadow: 0px 12px 24px rgba(0, 0, 0, 0.08);
+        border-radius: 8px;
+        padding: 28px;
+        .type-contact{
+            padding: 12px 14px;
+            background-color: #f2f2f2;
+            border-radius: 12px;
+            border: 1px solid #DDDDDD;
+            .select-sale{
+
+            }
+        }
+        .upLoadFile{
+            padding: 12px;
+            width: 100%;
+            text-align: center;
+            border: 1px dashed #DDDDDD;
+            border-radius: 8px;
+            input{
+              background-color: #ffffff;
+              opacity: 0;
+              pointer-events: none;
+              position: absolute;
+              width: 0;
+              height: 0;
+            }
+          }
+    }
+    @include respond(tab-port){
+        .support{
+            margin-top: 40px;
+            padding: 12px 12px;
+        }
+    }
+}
+.loadding{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+    width: 100%;
+    height: 100%;
+    background-color: #00000085;
+  }

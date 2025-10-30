@@ -1,0 +1,145 @@
+{
+  "banner": {
+    "heading": "Thiết kế landing page chuyển đổi cao",
+    "createProfessional": "Nền tảng thiết kế landing page quảng cáo chuyên nghiệp: ",
+    "preDesigned": "Hơn 100+ mẫu giao diện có sẵn",
+    "simpleDesign": "Thao tác đơn giản với chức năng kéo thả",
+    "hightData": "Bảo mật dữ liệu cao",
+    "freeHosting": "Miễn phí hosting",
+    "buttonText": "Bắt đầu miễn phí"
+  },
+  "templates": {
+    "heading": "Truy cập kho mẫu landing page không giới hạn",
+    "subHeading": "Hơn 100+ mẫu template có sẵn, phù hợp với mọi ngành nghề. Chỉnh sửa dễ dàng, nhanh chóng.",
+    "textButton": "Xem kho giao diện"
+  },
+  "contactUs": {
+    "heading": "Bạn muốn thiết kế riêng landing page?",
+    "subHeading": "Chúng tôi cung cấp dịch vụ chuyên biệt hỗ trợ doanh nghiệp thiết kế riêng một landing page quảng cáo. Độc quyền - Khác biệt.",
+    "textButton": "Liên hệ ngay"
+  },
+  "whyChoose": {
+    "title": "Những tính năng nổi bật của IChiba Landing Page",
+    "subTitle": "Tối ưu hóa hiệu quả quảng cáo, triển khai các chiến dịch marketing nhanh chóng …..",
+    "items": [
+      {
+        "title": "Tính năng kéo - thả",
+        "content": "Tự do sáng tạo trang landing page riêng với trình kéo-thả linh hoạt, dễ sử dụng.",
+        "icon": "/uploads/Frame_1171275808_f2940b8b28.svg",
+        "img": "/uploads/Frame_1171275896_2d49e54bba.png"
+      },
+      {
+        "title": "Kết nối đa nền tảng",
+        "content": "Kết nối trang landing page với đa nền tảng: Google analytics, Google Ads, Website,... để đo lường hiệu quả chuyển đổi.",
+        "icon": "/uploads/60772bcea6d9cc0c90700522_Multi_step_flows_1_449179c9c9.svg",
+        "img": "/uploads/Frame_1171275896_2d49e54bba.png"
+      },
+      {
+        "title": "Tích hợp ecommerce",
+        "content": "Tích hợp các tính năng nổi bật hỗ trợ thương mại điện tử như: giỏ hàng, quản lý sản phẩm, tích hợp các đơn vị vận chuyển,...",
+        "icon": "/uploads/6176f8341f3d2df3fbe9d8ba_shopping_cart_1_df42029909.svg",
+        "img": "/uploads/Frame_1171275896_2d49e54bba.png"
+      },
+      {
+        "title": "Các công cụ giúp tăng chuyển đổi",
+        "content": "Sử dụng một loạt các công cụ giúp thu hút sự chú ý của người dùng, kích thích hành vi: pop up, sticky bar, form, live chat,...",
+        "icon": "/uploads/60e8a11ead3db534192d180a_Automate_1_353bb5191f.svg",
+        "img": "/uploads/Frame_1171275896_2d49e54bba.png"
+      }
+    ]
+  },
+  "flexiblyCustomize": {
+    "heading": "Tuỳ biến linh hoạt theo mục tiêu của doanh nghiệp",
+    "boostSale": {
+      "title": "Tăng trưởng doanh thu",
+      "content": "Thiết kế các landing page chuyên biệt về sản phẩm/dịch vụ, thuyết phục khách hàng ra quyết định mua hàng nhanh chóng. Tối ưu hóa tỷ lệ chuyển đổi từ quảng cáo và đa kênh.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "brandDevelopment": {
+      "title": "Xây dựng thương hiệu",
+      "content": "Việc đầu tư xây dựng các landing page giới thiệu về thương hiệu của bạn sẽ làm gia tăng lòng tin ở khách hàng, và tăng nhận diện.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "leadsGathering": {
+      "title": "Thu thập khách hàng tiềm năng",
+      "content": "Dễ dàng đo lường và thu thập dữ liệu về khách hàng tiềm năng đang quan tâm đến sản phẩm và dịch vụ. Từ đó giúp doanh nghiệp đưa ra những phương thức tiếp cận và chăm sóc tốt hơn.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "ortherGoals": {
+      "title": "Các mục tiêu khác",
+      "content": "Trọn bộ công cụ cho phép doanh nghiệp tạo landing page nhanh chóng, linh hoạt, phục vụ bất cứ mục tiêu nào, từ quảng cáo đến marketing.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "productIntroduction": {
+      "title": "Truyền thông sản phẩm mới",
+      "content": "Nêu bật sản phẩm, dịch vụ mới: giới thiệu thông tin, các tính năng nổi bật, hình ảnh bắt mắt,... Kích thích khách hàng trải nghiệm.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "promotions": {
+      "title": "Chiến dịch khuyến mãi",
+      "content": "Tạo riêng các landing page phục vụ cho chiến dịch khuyến mãi, với nội dung và hình ảnh được tối ưu nhằm nhắm chính xác vào tệp khách hàng, từ đó tăng tỷ lệ chuyển đổi.",
+      "image": "/uploads/Frame_1171275914_9e7d5e1a74.png"
+    },
+    "tryForFree": "Trải nghiệm miễn phí"
+  },
+  "buildOptimized": {
+    "heading": "Xây dựng landing page quảng cáo được tối ưu hóa",
+    "subHeading": "Tự do sáng tạo landing page theo cách của bạn. Tích hợp các công cụ linh hoạt giúp tăng khả năng thu hút khách hàng và tối ưu hóa tỷ lệ chuyển đổi.",
+    "boxGather": {
+      "heading": "Thu thập thông tin khách hàng",
+      "subHeading": "Dễ dàng thu thập thông tin về khách hàng tiềm năng cho các chiến dịch quảng cáo, bán hàng.",
+      "image": "/uploads/60e8a11a46c4f46b330388fa_Group_20429_p_1080_1_003394c6e2.png"
+    },
+    "boxImprove": {
+      "heading": "Tối ưu tốc độ tải trang",
+      "subHeading": "Giao diện tối ưu, công nghệ nén file, JS và CSS được tối ưu giúp đẩy nhanh tốc độ tải trang.",
+      "image": "/uploads/Frame_1171275821_ac3b7f2104.png"
+    },
+    "boxCompatible": {
+      "heading": "Giao diện tối ưu, công nghệ nén file, JS và CSS được tối ưu giúp đẩy nhanh tốc độ tải trang.",
+      "subHeading": "Giao diện tương thích trên nhiều thiết bị: máy tính, laptop, điện thoại,... giúp tăng trải nghiệm người dùng.",
+      "image": "/uploads/Group_1171275894_1_3ae96c3d6e.png"
+    },
+    "boxSEO": {
+      "heading": "Tối ưu SEO",
+      "subHeading": "Tất cả các mẫu giao diện có sẵn đều được thiết kế thân thiện với thuật toán của Google, giúp trang được lên top tìm kiếm nhanh chóng.",
+      "image": "/uploads/651b06e7c4abf7566bd98f72_card_3_1_1_645a3a7726.png"
+    },
+    "boxCustomizable": {
+      "heading": "Bộ widget tùy biến đa dạng",
+      "subHeading": "Thỏa sức thêm các thành phần, công cụ vào landing page tùy theo mục đích của doanh nghiệp.",
+      "image": "/uploads/image_594_1_a73fb1c559.png"
+    }
+  },
+  "helpBuild": {
+    "letIchiBaOne": "Hãy để IChiba OnePlatform",
+    "storeFont": " StoreFront Layer",
+    "helpYouBuild": " giúp bạn xây dựng landing page chuyên nghiệp trong các chiến dịch marketing",
+    "omnichannel": {
+      "icon": "/uploads/60772bcea6d9cc0c90700522_Multi_step_flows_1_25b4065ddc.svg",
+      "title": "Kết nối đa kênh",
+      "content": "Kết nối với các kênh bán hàng của doanh nghiệp (website, sàn TMĐT,...) và các nền tảng đo lường (Google Analytic,...) để cập nhật dữ liệu theo thời gian thực."
+    },
+    "dataSecurity": {
+      "icon": "/uploads/Shield_Protected_5374f0dd3d.svg",
+      "title": "Bảo mật dữ liệu",
+      "content": "Cài đặt SSL miễn phí. Dữ liệu không được lưu trên landing page mà sẽ chuyển hướng trực tiếp về kho lưu trữ của doanh nghiệp."
+    },
+    "optimized": {
+      "icon": "/uploads/60e8a11ead3db534192d180a_Automate_1_1_9c9eea3726.svg",
+      "title": "Tối ưu tốc độ đường truyền",
+      "content": "IChiba OnePlatform kết nối với các đối tác clould server hàng đầu: Google Cloud, Cloudflare,... giúp đường truyền ổn định và nhanh chóng."
+    }
+  },
+  "ourCustomers": {
+    "title": "Khách hàng của chúng tôi",
+    "trusted": "Được tin dùng bởi",
+    "number": " 100+",
+    "customWith": " khách hàng, với 3000+ landing page được thiết kế"
+  },
+  "contact": {
+    "title": "Kết nối ngay với IChiba OnePlatform",
+    "subTitle": "Để sở hữu một landing page chuyên nghiệp, chuẩn SEO",
+    "buttonText": "Kết nối ngay"
+  }
+}

@@ -1,0 +1,29 @@
+.item {
+  @apply tw-p-6 tw-rounded-xl tw-transition-all tw-w-full tw-min-h-full;
+  height: 188px;
+  background: linear-gradient(
+      0deg,
+      rgba(151, 178, 248, 0.3) 0%,
+      rgba(151, 178, 248, 0.3) 100%
+    ),
+    rgba(242, 244, 248, 0);
+  &:hover {
+    @apply tw-scale-105 tw-font-bold;
+    background: linear-gradient(0deg, #ff7400 -0.66%, #ffab52 99.49%);
+    .icon__root {
+      @apply tw-bg-white tw-text-brand-primary;
+      min-height: 80px;
+      min-width: 80px;
+      .icon {
+        @apply tw-h-14 tw-w-14;
+      }
+    }
+  }
+  .icon__root {
+    @apply tw-w-14 tw-h-14 tw-rounded-full tw-border tw-border-white tw-flex tw-items-center tw-justify-center tw-transition-all;
+    .icon {
+      width: 30px;
+      height: 30px;
+    }
+  }
+}

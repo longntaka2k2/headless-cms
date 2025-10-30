@@ -1,0 +1,55 @@
+.root {
+  @apply tw-overflow-auto tw-h-max;
+  &::-webkit-scrollbar {
+    @apply tw-hidden;
+  }
+  .main {
+    @apply tw-h-max tw-relative tw-flex tw-flex-col-reverse lg:tw-flex-row tw-overflow-auto tw-items-stretch tw-w-max tw-min-w-full;
+    .line {
+      @apply lg:tw-flex lg:tw-flex-col tw-justify-between tw-my-1.5 lg:tw-relative tw-overflow-hidden tw-hidden;
+      & .dot {
+        @apply tw-w-3 tw-h-3 tw-rounded-full tw-text-ic-ink-3 tw-bg-current;
+        z-index: 1;
+        &::after {
+          @apply tw-content-empty tw-absolute tw-w-full tw-h-0.5 lg:tw-h-full lg:tw-w-0.5 tw-bg-current lg:tw-left-1.5 -tw-translate-x-1/2 tw-z-0;
+        }
+        &.active {
+          @apply tw-text-brand-primary;
+        }
+      }
+
+      &:last-child .dot::after {
+        @apply tw-bg-white;
+      }
+    }
+
+    .items {
+      @apply tw-flex lg:tw-flex-col tw-justify-between tw-w-max lg:tw-gap-12 tw-flex-1 tw-mb-2 tw-min-w-full lg:tw-min-w-max;
+      .item {
+        @apply tw-flex tw-gap-3 tw-relative tw-px-3 tw-w-full;
+        .text {
+          @apply tw-mb-0 tw-text-sm lg:tw-text-lg lg:tw-leading-6 tw-font-medium tw-whitespace-nowrap;
+        }
+        .dot {
+          @apply tw-w-3 tw-h-3 tw-rounded-full tw-bg-ic-ink-3 lg:tw-hidden tw-absolute tw-left-0 tw-top-5;
+        }
+        &:not(:first-child) .dot {
+          @apply -tw-translate-x-1/2;
+        }
+        @media (max-width: theme("screens[lg]")) {
+          @apply tw-pb-1.5 tw-border-b-2 tw-border-ic-ink-3 tw-justify-center;
+        }
+
+        &.active {
+          @apply tw-border-brand-primary;
+        }
+        &.active .text {
+          @apply tw-text-brand-primary tw-font-bold;
+        }
+        &.active .dot {
+          @apply tw-bg-brand-primary;
+        }
+      }
+    }
+  }
+}

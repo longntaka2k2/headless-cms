@@ -1,0 +1,15 @@
+.book-demo-container{
+    background-color: #F2F4F8;
+    .book-content{
+        padding: 80px 32px 0px 40px;
+        background-color: #ffffff;
+    }
+    .calendly-inline-widget{
+       
+    }
+    @include respond(tab-port) {
+        .book-content{
+            padding: 24px 16px;
+        }
+    }
+}

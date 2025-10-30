@@ -1,0 +1,18 @@
+@keyframes ripple {
+  to {
+    transform: scale(1);
+    opacity: 0;
+  }
+}
+
+.root {
+  @apply tw-absolute tw-inset-0 tw-pointer-events-none tw-overflow-hidden;
+  &.auto__start {
+    @apply tw-pointer-events-auto;
+  }
+  .circle {
+    @apply tw-absolute tw-rounded-full tw-opacity-10 tw-bg-current;
+    transform: scale(0);
+    animation: ripple 200ms linear;
+  }
+}

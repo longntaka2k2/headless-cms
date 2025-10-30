@@ -1,0 +1,138 @@
+{
+  "banner": {
+    "title": [
+      "All-inclusive SaaS solutions for",
+      " online to offline ",
+      "(O2O) retail management"
+    ],
+    "content": "Effortlessly manage thousands of SKUs; automatically print invoices, no matter where you sell - online or offline.",
+    "contact": "Contact Sales"
+  },
+  "weEmpathize": {
+    "title": "We empathize with the pains of O2O retailers",
+    "items": [
+      "Large volume of orders during peak hours or holidays",
+      "Debt management",
+      "Complex product category",
+      "Constant change in product information",
+      "Inventory management"
+    ]
+  },
+  "seamless": {
+    "title": ["Seamless SaaS ecosystem for ", "online to offline retail"],
+    "items": [
+      {
+        "label": "StoreFront Layer",
+        "title": "Elevate Your Online Presence",
+        "content": "Effortlessly build and customize your online selling website with our StoreFront Layer. From stunning designs to intuitive user interfaces, we provide the tools you need to captivate your audience and drive sales.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Developers_For_Whom_Hero_1_115dc63030.png"
+      },
+      {
+        "label": "Order Management",
+        "title": "Efficient Order Management",
+        "content": "Seamlessly manage orders across multiple online channels and physical stores with our intuitive Order Management System (OMS) and Point of Sale (POS) software.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171276448_1_562c40f6da.svg"
+      },
+      {
+        "label": "Fulfillment Service",
+        "title": "Streamlined Fulfillment Services",
+        "content": "Simplify your fulfillment process and exceed customer expectations with our state-of-the-art fulfillment services. From picking, packing to shipping logistics, we do them all.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_1171275975_84edfde99a.png"
+      },
+      {
+        "label": "Marketing Service",
+        "title": "Targeted Marketing Solutions",
+        "content": "Unlock the power of data-driven marketing with our comprehensive suite of marketing services. Whether it's email marketing, social media ads, or SEO, we help you run the campaigns, drive traffic, engage customers, and boost sales.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_1171275970_1_7eb3a6f1f2.png"
+      }
+    ]
+  },
+  "seeHow": {
+    "title": "See how we make your retail life more leisurely",
+    "automatically": {
+      "title": "Automatically categorize products",
+      "content": "We help retailers efficiently handle large quantities of goods, saving valuable time and effort by accurately labeling and organizing products by their attributes.",
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171275769_1_583ee6e8f0.png"
+    },
+    "consistent": {
+      "title": "Consistent product data across channels",
+      "content": "Synchronize product details (pricing, specifications, availability,...) across multiple stores, from online to offline.",
+      "image": "https://cms-strapi.ichiba.net/uploads/6193f8f9ea45b181080c8c23_popup_list_building_c_1_15e2d25234.png"
+    },
+    "manage": {
+      "title": "Manage inventory level",
+      "content": "Manage inventory level",
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318588_3077347c4c.png"
+    },
+    "automatic": {
+      "title": "Automatic payment process",
+      "content": "All order information at checkout is displayed on the screen, no need to note down and calculate prices manually.",
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318588_1_e9223e69ef.png"
+    },
+    "debt": {
+      "title": "Debt management",
+      "content": "Track debt payment history of suppliers for each purchase order so that store owners can have appropriate payment plans.",
+      "image": "https://cms-strapi.ichiba.net/uploads/6193f8f9ea45b181080c8c23_popup_list_building_c_1_1_4c13de68e1.png"
+    },
+    "multiple": {
+      "title": "Multiple payment method support",
+      "content": "Allow buyers make the payment not only by cash, but by many convenient methods such as master cards, bank transfer, QR code, etc.",
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171275769_1_1_f9609098ba.png"
+    }
+  },
+  "take": {
+    "title": "Take your retail to new heights with our products",
+    "learnMore": "Learn more",
+    "items": [
+      {
+        "title": "StoreFront Layer",
+        "content": "Build your own selling website or marketing landing page with the support of IChiba comprehensive tool set.",
+        "icon": "svg-storefront",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "title": "Commerce Layer",
+        "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data and intelligence.",
+        "icon": "svg-icon-storefront",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "title": "Ship4P",
+        "content": "Shipping management platform that centralizes multiple carriers to manage, reducing costs, and simplifying shipment management.",
+        "icon": "svg-icon-ship4p",
+        "link": "/products/ship4p/overview"
+      }
+    ]
+  },
+  "seeWhat": {
+    "title": "See what retailers say about IChiba OnePlatform",
+    "items": [
+      {
+        "avatar": "https://cms-strapi.ichiba.net/uploads/image_120_0e16c49b30.png",
+        "name": "Mrs. Rebecca Henry",
+        "bio": "Store owner Mart K",
+        "content": "\"Using IChiba POS software helps me update daily sales. At the same time, it helps stores manage inventory easily when updating new products.\"",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_96f561d2eb.png"
+      },
+      {
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Frame_427318535_70ba3fe845.png",
+        "name": "Mr. Herry",
+        "bio": "Store owner LaiKa",
+        "content": "\"Using IChiba POS software helps me update daily sales. At the same time, it helps stores manage inventory easily when updating new products.\"",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_96f561d2eb.png"
+      },
+      {
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Frame_427318535_70ba3fe845.png",
+        "name": "Mrs. My Lan",
+        "bio": "Store owner Okelo",
+        "content": "\"Using IChiba POS software helps me update daily sales. At the same time, it helps stores manage inventory easily when updating new products.\"",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_96f561d2eb.png"
+      }
+    ]
+  },
+  "iChiba": {
+    "title": "IChiba OnePlatform will be there whenever you need support",
+    "content": "Contact us now to get free consultation about all-inclusive SaaS solution for your retail store!",
+    "contact": "Contact Sales"
+  }
+}

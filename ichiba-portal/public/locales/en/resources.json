@@ -1,0 +1,49 @@
+{
+  "heading": [
+    "Stay updated with the latest trends and insights in",
+    "E-commerce & Logistics"
+  ],
+  "subHeading": [
+    "Download free ebooks, documents, and reports to optimize your business operations, manage logistics efficiently, and expand your market reach",
+    "Tailored for multi-channel, multi-market sellers, logistics businesses, and dropshipping models."
+  ],
+  "search": "Search",
+  "downloadFree": "Download free resources from IChiba OnePlatform now",
+  "all": "All resources",
+  "ourLatest": "Our latest blog posts",
+  "readMore": "Read More",
+  "viewMore": "View More",
+  "form": {
+    "title": "Get your free ebook here!",
+    "subTitle": "Let us know where to send the ebook, and we'll deliver it shortly!",
+    "fullName": "Full name",
+    "fullNamePlaceholder": "Ex: Nguyen Thuy Duong",
+    "phoneNumber": "Phone number",
+    "companyWebsite": "Company website",
+    "companyPlaceholder": "Ex: https://example.com",
+    "youAre": "You are:",
+    "types": [
+      {
+        "label": "Retailing company",
+        "value": "Retailing company"
+      },
+      {
+        "label": "Dropshipping company",
+        "value": "Dropshipping company"
+      },
+      {
+        "label": "Cross-border selling company",
+        "value": "Cross-border selling company"
+      },
+      {
+        "label": "Logistics",
+        "value": "Logistics"
+      }
+    ],
+    "selectPlaceholder": "Select type of your company",
+    "textBtn": "Get ebook free",
+    "readOnline": "Read online",
+    "required": "Field required"
+  },
+  "whatWill": "What will you get from"
+}

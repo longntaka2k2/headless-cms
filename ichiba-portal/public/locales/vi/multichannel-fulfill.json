@@ -1,0 +1,191 @@
+{
+  "banner": {
+    "title": [
+      "Giải pháp fulfillment đa kênh",
+      " một chạm ",
+      "– phục vụ toàn diện mọi nhu cầu của khách hàng"
+    ],
+    "contact": "Liên hệ ngay",
+    "readCase": "Câu chuyện khách hàng",
+    "items": [
+      {
+        "number": "99.95",
+        "unit": "%",
+        "decimals": "2",
+        "title": "Đơn đặt hàng giao",
+        "subtitle": "đúng thời hạn"
+      },
+      {
+        "number": "99.96",
+        "decimals": "2",
+        "unit": "%",
+        "title": "Độ chính xác",
+        "subtitle": "trong việc xử lý các đơn đặt hàng"
+      },
+      {
+        "number": "49",
+        "decimals": "0",
+        "unit": "%",
+        "title": "Tiết kiệm",
+        "subtitle": "chi phí xử lý đơn hàng"
+      },
+      {
+        "number": "20",
+        "unit": "+",
+        "decimals": "0",
+        "title": "Trung tâm hoàn thiện ",
+        "subtitle": "đơn hàng trên toàn cầu"
+      }
+    ]
+  },
+  "whatProblems": {
+    "title": [
+      "Những vấn đề mà doanh nghiệp có thể phải đối mặt",
+      "nếu không có quy trình fulfillment đa kênh?"
+    ],
+    "fragment": "Quản lý hàng tồn kho rời rạc và không nhất quán",
+    "unconsolidated": "Dữ liệu và báo cáo chưa đồng nhất",
+    "ineffcient": "Xử lý đơn đặt hàng thủ công và không hiệu quả",
+    "timeDelay": "Chậm trễ trong việc đồng bộ hóa sản phẩm và thông tin giữa các kênh",
+    "integration": "Vấn đề về tích hợp",
+    "timeCost": "Tốn thời gian và chi phí trong việc phân bổ/phân phối đơn hàng",
+    "prohibitively": "Chi phí vận chuyển đắt đỏ"
+  },
+  "simplify": {
+    "title": "Xử lý đơn hàng đa kênh hiệu quả với giải pháp IChiba one-stop fulfillment",
+    "subtitle": "Đảm bảo trải nghiệm mua sắm suôn sẻ cho khách hàng, đồng thời duy trì uy tín cho thương hiệu của bạn với dịch vụ fulfillment hàng đầu của chúng tôi, đảm bảo độ chính xác lên đến 100%.",
+    "fulfill": {
+      "title": "1. Hoàn thiện đơn hàng đa kênh",
+      "content": [
+        "Hoàn thiện đơn hàng từ mọi kênh bán, từ các nền tảng thương mại điện tử đến các trang bán hàng online, quản lý trên một nền tảng duy nhất.",
+        "Toàn quyền kiểm soát quy trình fulfillment từ A-Z trên các kênh bán, cập nhật theo thời gian thực."
+      ]
+    },
+    "steamline": {
+      "title": "2. Quản lý hàng tồn kho đa kênh",
+      "manage": "Quản lý và cập nhật lượng tồn kho đa kênh theo thời gian thực trên nhiều nền tảng, đảm bảo các kênh bán hiển thị số lượng chính xác.",
+      "leverage": "Sử dụng dữ liệu tồn kho để đảm bảo đáp ứng kịp thời nhu cầu của người mua và tối đa tiềm năng bán hàng."
+    },
+    "distribution": {
+      "title": "3. Phân bổ đơn hàng",
+      "content": [
+        "Xác định kho hàng hoặc trung tâm phân phối gần nhất, có vị trí thuận lợi, đủ khả năng đáp ứng hoàn tất đơn hàng để giao hàng nhanh chóng cho khách. Từ đó gia tăng sự hài lòng cũng như xây dựng niềm tiên và lòng trung thành.",
+        "Tối ưu hóa tuyến đường vận chuyển, giảm chi phí giao hàng và số lượng đóng gói cho mỗi đơn hàng."
+      ]
+    },
+    "allocate": {
+      "title": "4. Phân bổ tồn kho",
+      "content": [
+        "Phân bổ số lượng sản phẩm cụ thể cho một sự kiện/chương trình khuyến mãi để đảm bảo luôn có sẵn hàng khi sự kiện diễn ra.",
+        "Hỗ trợ nhà bán kiểm soát hoạt động kinh doanh mà không cần lo lắng về nguồn hàng."
+      ]
+    },
+    "sameDay": {
+      "title": "5. Xử lý đơn hàng chính xác, ngay trong ngày",
+      "fulfill": "Hoàn tất đơn hàng nhanh chóng, ngay khi có đơn trên các kênh bán. Giao đúng đơn khách đặt, đúng thời gian cam kết, thậm chí nhanh hơn dự kiến.",
+      "provide": "Cung cấp góc nhìn 360 độ về quy trình hoàn tất đơn hàng, mọi trạng thái được cập nhật trên bảng điều khiển dashboard."
+    },
+    "upTo": {
+      "title": "6. Cập nhật trạng thái đơn hàng từng phút",
+      "getInformed": "Nhận thông báo về hành trình đơn hàng theo thời gian thực. Dù bạn đang có một gói hay một triệu gói hàng, bảng điều khiển của IChiba sẽ giúp bạn sắp xếp và theo dõi tất cả một cách dễ dàng.",
+      "strong": "Kết nối API và Webhook giúp cung cấp các trạng thái một cách chính xác. Doanh nghiệp sẽ không bao giờ bỏ lỡ thông tin cập nhật về lô hàng nữa."
+    },
+    "customized": {
+      "title": "7. Đóng gói theo yêu cầu",
+      "content": [
+        "Đóng gói và tùy chỉnh lại bao bì sản phẩm để không ngừng làm mới hình ảnh thương hiệu của bạn trong mắt khách hàng.",
+        "Cung cấp các dịch vụ đóng gói tùy chỉnh: in logo hãng, thêm tờ rơi quảng cáo, quà tặng, voucher,..."
+      ]
+    },
+    "ecommerce": {
+      "title": "Quá trình hoàn thiện đơn hàng thương mại điện tử",
+      "subtitle": "Khám phá quy trình xử lý đơn thương mại điện tử của IChiba OnePlatform qua từng bước, từ khi phát sinh đơn hàng đến tận khi chúng được trao đến tay người mua.",
+      "items": [
+        {
+          "title": "1. Kết nối với các sàn thương mại điện tử",
+          "subtitle": "Kết nối với tất cả các trang thương mại điện tử của bạn để tiếp nhận và đồng bộ hóa dữ liệu liên quan đến đơn hàng.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_147e9a4de8.svg"
+        },
+        {
+          "title": "2. Xử lý đơn hàng",
+          "subtitle": "Tiếp nhận chi tiếp đơn hàng, xác minh thông tin khách hàng và kiểm tra tình trạng hàng tồn kho.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Layer_1_66e5a9b1b5.svg"
+        },
+        {
+          "title": "3. Quản lý hàng tồn kho",
+          "subtitle": "Liên tục cập nhật dữ liệu tồn kho để đảm bảo có đủ hàng phục vụ cho việc kinh doanh.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_4ec499041b.svg"
+        },
+        {
+          "title": "4. Lấy hàng và đóng gói",
+          "subtitle": "Nhân viên kho lấy hàng dựa trên vị trí mà hệ thống định vị cung cấp. Sau đó sử dụng các vật liệu thích hợp để đóng gói hàng hóa.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_1_0972a890e3.svg"
+        },
+        {
+          "title": "5. Dán nhãn và vận chuyển",
+          "subtitle": "Dán nhãn lên các gói hàng. Nhãn vận chuyển thường chứa thông tin cơ bản như địa chỉ của khách hàng. Gói hàng sau đó được bàn giao cho đơn vị vận chuyển.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_1_a4f22eefd6.svg"
+        },
+        {
+          "title": "6. Cập nhật trạng thái đơn hàng theo thời gian thực",
+          "subtitle": "Khi đơn hàng đang được vận chuyển, khách hàng có thể nhận được email hoặc thông báo trên nhiều nền tảng khác nhau với thông tin chi tiết về trạng thái đơn hàng.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_19784_61ce5708e0.svg"
+        }
+      ]
+    },
+    "ourFulfill": {
+      "title": "Our fulfillment proficiency",
+      "subtitle": "Seamlessly process e-commerce orders with our exceptional capacity, extensive warehousing, robust fulfillment network & strategic partnerships.",
+      "total": {
+        "title": "> 50,000 m2",
+        "subtitle": "Total warehouse area",
+        "img": ""
+      },
+      "global": {
+        "title": "50+",
+        "subtitle": "Global partner carriers",
+        "img": ""
+      },
+      "fulfillment": {
+        "title": "20+",
+        "subtitle": "Fulfillment centers around the world",
+        "img": ""
+      },
+      "api": {
+        "title": "API",
+        "subtitle": "Integration",
+        "img": ""
+      },
+      "onTime": {
+        "title": "> 99%",
+        "subtitle": "On time and accurately",
+        "img": ""
+      }
+    }
+  },
+  "hear": {
+    "title": "Hear from our satisfied customers",
+    "items": [
+      {
+        "title": "Ship60",
+        "content": "With IChiba multi-channel fulfillment solution, we've cut our order processing time by half and have virtually eliminated errors!",
+        "bio":""
+      },
+      {
+        "title": "Janbox",
+        "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets",
+        "bio":""
+      },
+      {
+        "title": "PCS",
+        "content": "The order packaging process has become much easier and more efficient since we're partnering with IChiba OnePlatform. Not only do they ensure that all of our products are securely packaged, but they also offer optimal solutions to minimize loss and enhance shipping performance.",
+        "bio":""
+      }
+    ]
+  },
+  "ready":{
+    "title":"One-stop Fulfillment – giải pháp tối ưu cho đơn hàng đa kênh của bạn!",
+    "content":"Tăng tỷ lệ bán hàng, giảm chi phí và tiết kiệm thời gian với IChiba OnePlatform - đối tác fulfillment đa kênh hàng đầu Đông Nam Á.",
+    "button":"Liên hệ ngay"
+  }
+}

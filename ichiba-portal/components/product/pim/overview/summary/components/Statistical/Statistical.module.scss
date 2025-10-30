@@ -1,0 +1,21 @@
+.root {
+  @apply tw-grid tw-grid-cols-2 lg:tw-flex tw-gap-6 tw-justify-center tw-bg-neutral-1 tw-py-6 tw-px-4;
+  .item {
+    @apply tw-py-4 tw-pl-4 tw-pr-5 tw-flex tw-gap-3 tw-bg-ic-white-6 tw-w-[282px] tw-max-w-full tw-rounded-xl tw-mx-auto xl:tw-mx-0 tw-items-center;
+    .line {
+      @apply tw-rounded tw-w-1.5 tw-h-[70px];
+    }
+    &:nth-child(1) .line {
+      background: linear-gradient(0deg, #ff7400 0%, #ffab52 100%);
+    }
+    &:nth-child(2) .line {
+      background: linear-gradient(180deg, #5e79ff 13.02%, #1d39c4 100%);
+    }
+    &:nth-child(3) .line {
+      @apply tw-bg-violet-5;
+    }
+    &:nth-child(4) .line {
+      @apply tw-bg-green-6;
+    }
+  }
+}

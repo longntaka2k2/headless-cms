@@ -1,0 +1,266 @@
+{
+  "wms": "Phần mềm quản lý kho vận",
+  "textBtn": ["Liên hệ ngay", "Dùng thử miễn phí"],
+  "banner": {
+    "label": "IChiba WMS",
+    "heading": ["Phần mềm", " quản lý", "", " kho hàng", " thông minh"],
+    "content": "Giải phóng tiềm năng kho hàng, nâng tầm hiệu quả với hệ thống quản lý kho thông minh, kiến tạo chuỗi cung ứng hoàn hảo."
+  },
+  "automated": {
+    "heading": "Hệ thống quản lý kho hàng tự động (WMS)",
+    "subHeading": "Quản lý xuất nhập khẩu tồn kho hiệu quả - Gia tăng hiệu suất bán hàng",
+    "textBtn": "Dùng thử miễn phí"
+  },
+  "yourWarehouse": {
+    "heading": "Giải pháp quản lý và vận hành kho hàng - Chìa khóa cho kho vận thông minh, hiệu quả và thành công",
+    "inbound": {
+      "title": "Quản lý nhập kho",
+      "items": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Boxx_9ab4c0fa5f.svg",
+          "title": "Quản lý yêu cầu nhập kho",
+          "content": "Theo dõi và quản lý các yêu cầu nhập hàng từ nhiều nguồn khác nhau. Người dùng có thể tạo, cập nhật và xác nhận các yêu cầu nhập kho, đồng thời kiểm tra tình trạng và lịch trình của từng lô hàng.",
+          "img": "https://cms-strapi.ichiba.net/uploads/shutterstock_2044257446_1_bba0986abc.svg"
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Box_2_befb82dbe7.svg",
+          "title": "Tiếp nhận và khai thác chuyên sâu",
+          "content": "Khi hàng hóa đến kho, hệ thống sẽ hỗ trợ tiếp nhận hàng hóa một cách nhanh chóng và chính xác. Các bước kiểm tra chất lượng, số lượng và tình trạng của hàng hóa được thực hiện ngay tại thời điểm tiếp nhận. Thông tin chi tiết về mỗi mặt hàng sẽ được ghi nhận và lưu trữ, giúp dễ dàng theo dõi và quản lý sau này.",
+          "img": "https://cms-strapi.ichiba.net/uploads/shutterstock_2044257446_12_f7164eb9a3.svg"
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Frame_6392aaf6a4.svg",
+          "title": "Tự động gán thuật toán lưu kho với vị trí tối ưu",
+          "content": "Dựa trên các thông tin về loại hàng, kích thước, trọng lượng và tần suất xuất nhập, WMS sẽ tự động sử dụng các thuật toán thông minh để xác định vị trí lưu kho tối ưu. Điều này giúp tối ưu hóa không gian kho, giảm thiểu thời gian và công sức trong việc sắp xếp và tìm kiếm hàng hóa.",
+          "img": "https://cms-strapi.ichiba.net/uploads/image_826_ad58189c9e.svg"
+        }
+      ]
+    },
+    "outbound": {
+      "title": "Quản lý xuất kho",
+      "items": [
+        {
+          "title": "Quản lý đơn hàng xuất kho",
+          "content": "Quản lý toàn bộ quy trình xử lý đơn hàng từ khi nhận yêu cầu đến khi hàng hóa rời khỏi kho. Dễ dàng theo dõi trạng thái của gói hàng, cập nhật thông tin và kiểm tra lịch sử giao dịch.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_427318776_afa1c45b76.svg"
+        },
+        {
+          "title": "Đóng gói linh hoạt",
+          "content": "Hỗ trợ các tùy chọn đóng gói hàng hóa khác nhau tùy theo phân loại và yêu cầu của khách hàng. Linh hoạt cấu hình các quy tắc đóng gói để tối ưu hóa quy trình và đảm bảo an toàn cho hàng hóa trong quá trình vận chuyển.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_427318777_7ad888463f.svg"
+        },
+        {
+          "title": "Quản lý giao hàng với đa hãng vận chuyển",
+          "content": "Tích hợp và quản lý tập trung nhiều hãng vận chuyển. Lựa chọn hãng vận chuyển phù hợp  và theo dõi tình trạng giao hàng trực tiếp từ WMS.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_427318777_1_8f61377b9a.svg"
+        },
+        {
+          "title": "Đa dạng phương pháp nhặt hàng và xuất kho",
+          "content": "Phần mềm IChiba WMS hỗ trợ áp dụng nhiều chiến lược nhặt hàng và phương pháp xuất kho khác nhau, đảm bảo việc hàng hóa được luân chuyển theo đúng yêu cầu và kế hoạch.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_427318777_2_f8d5c20051.svg"
+        }
+      ]
+    },
+    "warehouse": {
+      "inbound": {
+        "title": "Inbound",
+        "list": [
+          "Single Picking",
+          "Batch Picking",
+          "Zone Picking",
+          "Wave Picking"
+        ]
+      },
+      "outbound": {
+        "title": "Outbound",
+        "list": [
+          "FIFO (First In, First Out)",
+          "LIFO (Last In, First Out)",
+          "FEFO (First Expired, First Out)"
+        ]
+      }
+    }
+  },
+  "inventory": {
+    "heading": "Quản lý tồn kho",
+    "management": {
+      "title": "Quản lý sản phẩm, chứng từ sản phẩm",
+      "subTitle": "Quản lý chi tiết thông tin về từng sản phẩm trong kho, bao gồm mã sản phẩm, tên sản phẩm, mô tả, hình ảnh, và các thuộc tính khác. Hỗ trợ quản lý các chứng từ liên quan đến sản phẩm như hóa đơn, phiếu nhập, phiếu xuất, và các tài liệu khác, giúp dễ dàng tra cứu và theo dõi."
+    },
+    "tracking": {
+      "title": "Quản lý tồn kho chi tiết theo vị trí",
+      "subTitle": "Theo dõi chính xác lượng tồn kho tại từng vị trí cụ thể trong kho. Mỗi mặt hàng được gán vào một vị trí xác định, giúp dễ dàng tìm kiếm và kiểm soát hàng hóa."
+    },
+    "counting": {
+      "title": "Kiểm kho",
+      "subTitle": "Kiểm tra và đối chiếu số liệu thực tế với số liệu trên hệ thống, ghi nhận kết quả kiểm kho và phát hiện các sai lệch. Báo cáo kiểm kho chi tiết giúp người quản lý đưa ra các điều chỉnh kịp thời và chính xác."
+    },
+    "planning": {
+      "title": "Lập kế hoạch tồn kho",
+      "subTitle": "Dự đoán những sản phẩm sẽ bán chạy ở từng thị trường, giúp doanh nghiệp hạn chế tình trạng dư thừa tồn kho, tiết kiệm chi phí lưu trữ và nâng cao năng suất kinh doanh.",
+      "items": [
+        {
+          "title": "Dự báo tồn kho chính xác",
+          "subTitle": "Sử dụng các thuật toán và lịch sử dữ liệu để dự đoán một cách chính xác nhu cầu tồn kho trong tương lai, tránh tình trạng dữ trữ quá mức hoặc thiếu hụt hàng hóa."
+        },
+        {
+          "title": "Lập kế hoạch tồn kho",
+          "subTitle": "Gợi ý nhập thêm hàng tồn kho cho từng mặt hàng, tại từng kho, từng thị trường dựa trên những dự báo đã đưa ra trước đó."
+        },
+        {
+          "title": "Đưa ra quyết định chiến lược",
+          "subTitle": "Người quản lý kho xác định ngân sách nhập kho và tiến hành mua thêm tồn kho."
+        }
+      ]
+    },
+    "multiUnit": {
+      "title": "Quản lý đa đơn vị, đa đặc trưng (Lot, Serial, IMEI…) trên cùng một nền tảng",
+      "contents": [
+        "Theo dõi chính xác từng loại hàng hóa, tránh nhầm lẫn, đặc biệt với hàng điện tử, dược phẩm, mỹ phẩm, hoặc thực phẩm.",
+        "Truy xuất nguồn gốc dễ dàng, đáp ứng yêu cầu của các thị trường khó tính như EU, Mỹ, Nhật.",
+        "Dễ dàng thiết lập quy tắc xuất kho theo FIFO, FEFO, LIFO dựa trên đặc trưng từng sản phẩm."
+      ]
+    },
+    "visualWarehouse": {
+      "title": "Quản lý kho trực quan với Layout 3D",
+      "contents": [
+        "Hình dung kho bãi thực tế một cách trực quan, dễ quản lý, dễ đào tạo.",
+        "Kiểm soát mật độ lưu trữ, tối ưu không gian.",
+        "Cảnh báo tồn sai ngay trên bản đồ tồn kho, kịp thời quản lý, tránh sai sót dây chuyền."
+      ]
+    },
+    "roleBased": {
+      "title": "Dashboard, report đa tầng, theo vai trò nghiệp vụ",
+      "contents": [
+        "Nhà quản lý (manager, giám đốc) được cung cấp góc nhìn chiến lược qua các dashboard tổng quan như xu hướng tồn kho, hiệu suất vận hành, chi phí lưu kho,...",
+        "Nhân viên vận hành được cung cấp giao diện và báo cáo chi tiết phục vụ công việc hàng ngày: số lượng đơn cần xử lý, tồn kho từng SKU, trạng thái lệnh nhập/xuất,..."
+      ]
+    }
+  },
+  "configuration": {
+    "heading": "Cấu hình và tích hợp",
+    "items": [
+      {
+        "title": "Tích hợp với các phần mềm bên thứ 3",
+        "subTitle": "IChiba WMS có khả năng tích hợp với các nền tảng khác như ERP, POS, OMS, các đơn vị vận chuyển, các sàn TMĐT để đồng bộ các dữ liệu về đơn hàng, tồn kho, thông tin khách hàng, giúp quy trình quản lý được mượt mà và hiệu quả hơn."
+      },
+      {
+        "title": "Cấu hình trang thiết bị trong kho",
+        "subTitle": "Định nghĩa các vị trí lưu trữ trong kho, chẳng hạn như kệ hàng, khu vực nhận hàng, khu vực xuất hàng, v.v. Quản lý các thiết bị sử dụng trong kho như xe nâng, máy quét mã vạch, và các thiết bị tự động hóa khác."
+      },
+      {
+        "title": "Phân tích và báo cáo",
+        "subTitle": "IChiba WMS áp dụng các công nghệ phân tích dữ liệu tiên tiến như AI và machine learning, giúp thu thập các dữ liệu chính xác theo thời gian thực, đồng thời tùy chỉnh báo cáo phù hợp với nhu cầu đặc thù của từng doanh nghiệp. Cập nhật các báo cáo tại bất kỳ thời gian nào trong ngày về tồn kho, hiệu suất vận hành, vận chuyển và số lượng từng mặt hàng, bao gồm hàng mới nhập, hàng đang chờ xuất, và hàng sẵn sàng để giao."
+      }
+    ]
+  },
+  "system": {
+    "heading": "Tích hợp"
+  },
+  "suitability": {
+    "heading": "IChiba WMS phù hợp với",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/icon_a474f0e462.svg",
+        "title": "Công ty logistics",
+        "content": "IChiba WMS là một công cụ hữu hiệu để các công ty logistics quản lý vận hành, tăng hiệu quả hoạt động kho hàng.",
+        "list": [
+          "Đơn giản hoá quy trình hoàn tất đơn hàng (fulfillment)",
+          "Quản lý hàng tồn kho hiệu quả hơn",
+          "Cung cấp những phân tích chuyên sâu giúp doanh nghiệp đưa ra quyết định chiến lược"
+        ]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/icon2_cb41560c6a.svg",
+        "title": "Quản lý kho",
+        "content": "IChiba WMS hỗ trợ quản lý kho trong việc kiểm soát và nâng cao năng suất các hoạt động tổng thể.",
+        "list": [
+          "Giám sát tất cả các hoạt động trong kho từ một nền tảng",
+          "Phân công, sắp xếp các công việc cho nhân viên",
+          "Theo dõi tiến độ và năng suất làm việc của nhân viên"
+        ]
+      }
+    ]
+  },
+  "technology": {
+    "heading": "Phần mềm WMS được xây dựng dựa trên những công nghệ mới nhất",
+    "items": [
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318745_153371baa2.svg",
+        "title": "Công nghệ điện toán đám mây",
+        "subTitle": "IChiba WMS là phần mềm SaaS được xây dựng dựa trên nền tảng đám mây. Điều này cho phép phần mềm dễ dàng tích hợp với các nền tảng khác và có thể truy cập mọi nơi."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_4273187451_9d3863b4bf.svg",
+        "title": "Trí tuệ nhân tạo AI và machine learning",
+        "subTitle": "Tự động hóa các tác vụ thủ công, gợi ý lộ trình lấy hàng và vị trí lưu kho để tối ưu độ chính xác, hiệu quả làm việc, đảm bảo quy trình nhất quán."
+      }
+    ]
+  },
+  "successSpotlights": {
+    "heading": [
+      "Câu chuyện thành công:",
+      " Khám phá cách IChiba WMS giúp doanh nghiệp tối ưu vận hành kho"
+    ],
+    "textBtn": "Xem thêm"
+  },
+  "theBenefits": {
+    "heading": ["Doanh nghiệp được lợi gì khi sử dụng", "IChiba WMS"],
+    "subHeading": "Chúng tôi tự hào là đơn vị tiên phong chuyển đổi kỹ thuật số hàng trăm hoạt động kho bãi B2B và B2C tại Việt Nam, Singapore, Trung Quốc, Mỹ, Nhật Bản và nhiều quốc gia khác.",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_bd342fbe9c.svg",
+        "title": "Khả năng mở rộng linh hoạt",
+        "subTitle": "Theo đà phát triển của doanh nghiệp, IChiba WMS có thể đáp ứng được khối lượng đơn hàng gia tăng, sự đa dạng sản phẩm và tính phức tạp của kho hàng. Điều này đảm bảo hoạt động kho có thể linh hoạt thích nghi với những thay đổi về số lượng đơn hàng."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/607732b0a896b11ca4c5f83d_Personalize_1_54ee91b882.svg",
+        "title": "Giảm chi phí kho hàng",
+        "subTitle": "Phần mềm WMS giúp tối ưu hóa việc sử dụng không gian, giảm thiểu lỗi lấy hàng, và tự động hóa các tác vụ thủ công, từ đó tiết kiệm chi phí nhân công, lưu trữ hàng hoá và vận hành tổng thể của kho."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/6081adcc1b5ca002a84fd4f4_icon_5_1_6e76ffc92b.svg",
+        "title": "Tăng tỷ lệ hoàn thành đơn hàng",
+        "subTitle": "IChiba WMS được trang bị tính năng theo dõi quá trình xử lý đơn hàng theo thời gian thực, đề xuất chiến lược lấy hàng hiệu quả và tích hợp với các nhà vận chuyển để đảm bảo hoàn thành đơn hàng đúng hạn."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Liên hệ IChiba OnePlatform",
+    "heading": "Tự động hoá kho hàng của bạn ngày hôm nay với IChiba WMS",
+    "subHeading": "Nâng cao hiệu suất kho hàng với hệ thống quản lý kho tự động IChiba WMS."
+  },
+  "discover": {
+    "heading": "Khám phá nhiều sản phẩm khác",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_Digital_9d638aaceb.svg",
+        "iconActive": "https://cms-strapi.ichiba.net/uploads/Logo_Digital2_8cfdad7d8b.svg",
+        "title": "Commerce Layer",
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_1171275967c_1_3f72bd4cfa.svg",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo9_be82e32a29.svg",
+        "iconActive": "https://cms-strapi.ichiba.net/uploads/Logo_31e9b1c558.svg",
+        "title": "Ship 4P",
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_19619_1_24af8a621d.svg",
+        "link": "/products/ship4p/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_189711_96d8083938.svg",
+        "iconActive": "https://cms-strapi.ichiba.net/uploads/Group_18711_0c69e0ef6e.svg",
+        "title": "Cross-Border Forwarding",
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_19885_1_60333265b4.svg",
+        "link": "/products/cross-border-forwarding/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Shape3_1abe191d4e.svg",
+        "iconActive": "https://cms-strapi.ichiba.net/uploads/Shape_Circle_53d71f2089.svg",
+        "title": "StoreFront Layer",
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_1171275983_819898ab55.svg",
+        "link": "/products/storefront-layer/overview"
+      }
+    ]
+  }
+}

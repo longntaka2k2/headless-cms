@@ -1,0 +1,89 @@
+{
+  "heading": [
+    "Empower Your ",
+    "Electronics Business",
+    " with Electronics Ecommerce Solutions"
+  ],
+  "subHeading": "Elevate your electronics store's potential with seamless intergration and smart management.",
+  "contactSales": "Contact Sales",
+  "youAreRunning": {
+    "heading": "You are running an electronics store and...",
+    "youNeed": "You need...",
+    "listContent": [
+      {
+        "item": {
+          "title": "Rapid Product Obsolescence: ",
+          "subTitle": "Electronics evolve rapidly, with new models and technologies replacing old ones frequently."
+        }
+      },
+      {
+        "item": {
+          "title": "Complex Inventory Management: ",
+          "subTitle": "There are a wide range of products with different specifications."
+        }
+      },
+      {
+        "item": {
+          "title": "Price Volatility: ",
+          "subTitle": "Prices for electronic goods can fluctuate due to various factors."
+        }
+      },
+      {
+        "item": {
+          "title": "You need to continuously update inventory & manage the lifecycle of products.",
+          "subTitle": ""
+        }
+      },
+      {
+        "item": {
+          "title": "You need a solution that can deals with complicate inventory tracking and management.",
+          "subTitle": ""
+        }
+      },
+      {
+        "item": {
+          "title": "You need a software that helps you save all the prices & other information.",
+          "subTitle": ""
+        }
+      }
+    ]
+  },
+  "withIChiba": {
+    "heading": "With IChibaOnne Platform, electronic businesses will be able to...",
+    "listItem": [
+      "Minimmize manual task & errors in goods management",
+      "Save time & costs",
+      "Proactively capture business performance",
+      "Improve customer experience"
+    ]
+  },
+  "addressesYourIssues": {
+    "heading": "How IChiba OnePlatform addresses your issues",
+    "item": {
+      "title": [
+        "Automated order processing",
+        "Real-time inventory sync",
+        "Customer relationship management",
+        "Serial number tracking",
+        "Electronic data interchange (EDI)",
+        "Product information management (PIM)"
+      ],
+      "subTitle": [
+        "Efficiently handle orders from multi-channel (online and offline) with automation that reduces manual entry and errors.",
+        "Keep inventory levels updated across multiple sales channels to avoid overselling and stockouts.",
+        "Enhance customer service with detailed customer profiles and order history.",
+        "Keep track of individual electronic items from purchase to sale, which is crucial for warranty claims and returns.",
+        "Support EDI for standardized communication with suppliers and B2B customers.",
+        "Manage detailed product information, including technical specifications, images, and documentation, in one central place."
+      ]
+    }
+  },
+  "storiesOfElectronics": {
+    "heading": "Stories of electronics businesses that have benefited from IChiba",
+    "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets.",
+    "career": "Omnichannel Retailer"
+  },
+  "contact": {
+    "heading": "Looking for perfect-suited SaaS solution for your electronic business?"
+  }
+}

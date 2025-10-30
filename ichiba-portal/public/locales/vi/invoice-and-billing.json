@@ -1,0 +1,154 @@
+{
+  "invoice": "Invoice & Billing",
+  "banner": {
+    "label": ["IChiba", " Invoice", " &", " Billing"],
+    "heading": "Quản lý hoá đơn, chứng từ, giao dịch và các mô hình giá",
+    "subHeading": "Tối ưu hóa quy trình tài chính với phần mềm quản lý hóa đơn và chứng từ, giúp tự động hóa việc lập hóa đơn, theo dõi thanh toán và báo cáo tài chính nhằm nâng cao hiệu suất kinh doanh.",
+    "items": [
+      {
+        "title": "10+",
+        "subTitle": "Loại tiền tệ"
+      },
+      {
+        "title": "20+",
+        "subTitle": "Cổng thanh toán"
+      },
+      {
+        "title": "Không giới hạn",
+        "subTitle": "Kết nối cửa hàng"
+      }
+    ]
+  },
+  "overview": {
+    "heading": ["Tổng quan về IChiba", " Invoice & Billings", ""],
+    "subHeading": "Tìm hiểu cách IChiba giúp doanh nghiệp quản lý hóa đơn chứng từ, giao dịch và các mô hình giá để tự động hóa quy trình thanh toán."
+  },
+  "smartInvoicing": {
+    "heading": [
+      "Hóa đơn thông minh, thanh toán tức thì,",
+      " kiểm soát tài chính toàn diện"
+    ],
+    "subHeading": "Đồng bộ hóa hóa đơn và giao dịch trên một nền tảng duy nhất để quản lý tập trung dòng tiền và công nợ.",
+    "items": [
+      {
+        "title": "Quản lý hóa đơn và thanh toán",
+        "content": [
+          "Tự động tạo hóa đơn khi người mua thực hiện giao dịch. Tập hợp thông tin thanh toán từ nhiều kênh bán hàng vào một nơi duy nhất.",
+          "Theo dõi trạng thái hóa đơn (đã phát hành, chưa thanh toán, đã hủy) theo thời gian thực.",
+          "Tạo hóa đơn với nhiều loại tiền tệ khác nhau để phục vụ khách hàng quốc tế."
+        ]
+      },
+      {
+        "title": "Quản lý giao dịch",
+        "content": [
+          "Tích hợp với nhiều cổng thanh toán khác nhau (ví điện tử, thẻ tín dụng, tín dụng ngân hàng, v.v.) hỗ trợ giao dịch mượt mà.",
+          "Ghi lại lịch sử chi tiết theo thời gian thực cho tất cả các giao dịch, bao gồm ngày tháng, số tiền, phương thức thanh toán và trạng thái."
+        ]
+      },
+      {
+        "title": "Mô hình giá",
+        "content": [
+          "Định nghĩa và tổ chức các loại giá khác nhau cho sản phẩm hoặc dịch vụ, bao gồm phí dịch vụ, phí vận chuyển và các khoản phụ phí khác, đáp ứng mọi mô hình định giá của nhà bán hàng."
+        ]
+      },
+      {
+        "title": "Cài đặt cổng thanh toán",
+        "content": [
+          "Quản lý các nhà cung cấp thanh toán giúp nhà bán theo dõi dòng tiền từ nhiều nguồn khác nhau.",
+          "Xuất báo cáo doanh thu và các hoạt động kế toán bất cứ lúc nào."
+        ]
+      },
+      {
+        "title": "Quản lý tiền vào, tiền ra",
+        "content": [
+          "Quản lý dòng tiền vào-ra từ tất cả các nguồn thanh toán, với dữ liệu lịch sử theo thời gian thực."
+        ]
+      }
+    ]
+  },
+  "flexible": {
+    "heading": ["Linh hoạt", " cho mọi nhu cầu sử dụng", ""],
+    "items": [
+      {
+        "brand": "https://cms-strapi.ichiba.net/uploads/Group_19762_fad766fc48.svg",
+        "title": "Quản lý kho vận",
+        "content": [
+          "Tự động tạo hóa đơn khi đơn hàng được hoàn tất và xuất kho, đảm bảo việc thanh toán đúng hạn.",
+          "Liên kết đơn hàng với hóa đơn, giúp cả bộ phận kho và bộ phận tài chính theo dõi tình trạng thanh toán của đơn hàng theo thời gian thực."
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_1_9513671011.svg"
+      },
+      {
+        "brand": "https://cms-strapi.ichiba.net/uploads/Group_cf0e8ef23e.svg",
+        "title": "Bán hàng đa kênh",
+        "content": [
+          "Quản lý tập trung hóa đơn các đơn hàng từ nhiều kênh bán (sàn TMĐT, cửa hàng, website,...) tại một nơi duy nhất, đảm bảo tính nhất quán và giảm thiểu rủi ro sai sót.",
+          "Áp dụng phí giao dịch, hoa hồng và các khoản phí dịch vụ một cách linh hoạt."
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_6833b5c364.svg"
+      },
+      {
+        "brand": "https://cms-strapi.ichiba.net/uploads/Group_1_4384db59c3.svg",
+        "title": "Đơn mua (PO)",
+        "content": [
+          "Tạo hóa đơn trực tiếp từ các đơn mua (purchase orders).",
+          "Đảm bảo hóa đơn được xác minh trước khi xử lý thanh toán."
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_2_891fb8ac13.svg"
+      },
+      {
+        "brand": "https://cms-strapi.ichiba.net/uploads/Group_2_1438c86713.svg",
+        "title": "Vận chuyển xuyên biên giới",
+        "content": [
+          "Đồng bộ shipping label từ nhiều đơn vị vận chuyển vào một nền tảng duy nhất.",
+          "Xử lý giao dịch bằng nhiều loại tiền tệ, cập nhật tỷ giá tự động."
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_3_5fa9f90ea6.svg"
+      }
+    ]
+  },
+  "customerStories": {
+    "heading": [
+      "Lắng nghe những khách hàng",
+      " đã trải nghiệm dịch vụ",
+      " IChiba Invoice & Billing của chúng tôi"
+    ],
+    "subHeading": [
+      "Được tin tưởng bởi các doanh nghiệp trong lĩnh vực kho vận, logistics, và bán lẻ đa kênh. Hãy cùng khám",
+      "phá cách IChiba Invoice and Billings chuyển đổi số cách thức quản lý tài chính!"
+    ],
+    "content": [
+      {
+        "company": "Bid4win (dịch vụ mua hộ từ Nhật Bản)",
+        "label": "Một bước ngoặt cho hoạt động bán hàng xuyên biên giới của chúng tôi",
+        "name": "Nguyễn Hoài Thương",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/image_1_a4b181c10c.svg",
+        "image": "https://cms-strapi.ichiba.net/uploads/image_e58b728d9c.svg",
+        "bio": "Giám đốc Tài chính",
+        "content": "Việc quản lý hóa đơn quốc tế trước đây thật sự là cơn ác mộng. Với Invoice & Billing, giờ đây chúng tôi có thể tự động tính thuế và đồng bộ giao dịch qua nhiều nhà cung cấp thanh toán, tiết kiệm hàng giờ làm việc!"
+      },
+      {
+        "company": "FromVietnam",
+        "label": "Thanh toán đa kênh mượt mà trên mọi nền tảng",
+        "name": "Đặng Tuấn Huy",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/image_1_a4b181c10c.svg",
+        "image": "https://cms-strapi.ichiba.net/uploads/image_e58b728d9c.svg",
+        "bio": "Quản lý Thương mại điện tử",
+        "content": "Chúng tôi bán hàng trên nhiều sàn thương mại điện tử, và việc theo dõi hóa đơn từ các kênh khác nhau thực sự rất rối rắm. IChiba Invoice & Billing tích hợp hoàn hảo với hệ thống quản lý đơn hàng (Commerce Layer) của chúng tôi, đảm bảo hóa đơn chính xác và theo dõi thanh toán theo thời gian thực."
+      },
+      {
+        "company": "Kho EFEX Hà Nội",
+        "label": "Quản lý tài chính dễ dàng cho kho hàng của chúng tôi",
+        "name": "Nguyễn Viết Lộc",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/image_1_a4b181c10c.svg",
+        "image": "https://cms-strapi.ichiba.net/uploads/image_e58b728d9c.svg",
+        "bio": "Giám đốc Vận hành",
+        "content": "Chúng tôi từng phải theo dõi thủ công phí lưu kho và hoàn tất đơn hàng cho hàng trăm khách hàng. Giờ đây, mọi giao dịch trong kho đều được đồng bộ tự động, và khả năng kiểm soát dòng tiền của chúng tôi đã được cải thiện rõ rệt!"
+      }
+    ],
+    "view": "Xem thêm"
+  },
+  "getStarted": {
+    "heading": ["Dùng thử IChiba", "Invoice & Billing ngay hôm nay!"]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "banner": {
+    "label": "IChiba dành cho đội marketing",
+    "title": "Xây dựng trải nghiệm mua sắm đa kênh khó quên với giải pháp thương mại điện tử cho marketing",
+    "content": "Tạo cửa hàng online, trang landing page, thu thập dữ liệu khách hàng 360°, và nhiều tác vụ khác. Nâng cao hiệu quả marketing với các công cụ phần mềm của IChiba.",
+    "contact": "Liên hệ ngay"
+  },
+  "byTheNumber": {
+    "label": "IChiba OnePlatform",
+    "title": "Điểm mạnh của giải pháp thương mại điện tử cho marketing qua những con số",
+    "items": [
+      {
+        "bg": "#FFFDEB",
+        "title": "50%",
+        "content": "tỷ lệ chuyển đổi",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_3f2f8ee478.svg"
+      },
+      {
+        "bg": "#E5F1F9",
+        "title": "75%",
+        "content": "hiệu quả SEO",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_1_965efe8a0f.svg"
+      },
+      {
+        "bg": "#F3FFEF",
+        "title": "75%",
+        "content": "chỉ số ROI",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_1_965efe8a0f.svg"
+      },
+      {
+        "bg": "#FFF5EB",
+        "title": "Không giới hạn",
+        "content": "tích hợp",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_3_c6b9683cba.svg"
+      }
+    ]
+  },
+  "takeBack": {
+    "title": "Kiểm soát hoàn toàn hành trình khách hàng",
+    "content": "Cho phép người tiêu dùng trải nghiệm thương hiệu theo cách bạn mong muốn. Tối ưu hóa chuyển đổi mọi lúc mọi nơi, đồng thời nuôi dưỡng lòng trung thành của khách hàng.",
+    "items": [
+      {
+        "title": "Awareness",
+        "content": ["Digital ads", "Share of search", "Social media", "Content"]
+      },
+      {
+        "title": "Consideration",
+        "content": [
+          "Brand website",
+          "Product detail page",
+          "Stock availability",
+          "Pricing analysis",
+          "Rating & Reviews"
+        ]
+      },
+      {
+        "title": "Decision",
+        "content": [
+          "Purchase Enablement",
+          "Seller Optimization",
+          "Content Experience"
+        ]
+      },
+      {
+        "title": "Loyalty",
+        "content": ["Image accuracy", "Emails & promos", "Customer support  "]
+      }
+    ]
+  },
+  "features": {
+    "title": "Những tính năng vượt trội hỗ trợ đội marketing",
+    "marketing": {
+      "title": "Marketing Automation",
+      "content": "Tạo và lên lịch các chiến dịch email, cá nhân hóa nội dung dựa trên hành vi của khách hàng, chạy các chương trình khuyến mãi với tệp người dùng được xác định trước."
+    },
+    "multidevice": {
+      "title": "Tối ưu đa thiết bị",
+      "content": "Dễ dàng tạo website bán hàng, landing page với giao diện được tối ưu trên nhiều thiết bị. Từ đó đội marketing có thể đưa ra các chiến dịch quảng cáo thu hút khách hàng trên nhiều thiết bị một cách hiệu quả."
+    },
+    "campaign": {
+      "title": "Theo dõi hiệu suất chiến dịch quảng cáo",
+      "content": "Đội marketing có thể theo dõi hiệu suất các chiến dịch theo thời gian thực, qua đó điều chỉnh và tối ưu hóa nhanh chóng dựa trên dữ liệu nhận được."
+    },
+    "multiChannel": {
+      "title": "Tích hợp đa kênh",
+      "content": "Nền tảng SaaS IChiba có thể quản lý nhiều kênh bán hàng chỉ trên một dashboard. Chủ shop có thể tích hợp nhiều kênh, từ các sàn thương mại điện tử, website bán hàng và các kênh mạng xã hội. Những hoạt động marketing nhờ đó cũng sẽ trở nên dễ dàng hơn."
+    },
+    "seo": {
+      "title": "SEO và quản lý nội dung",
+      "content": "Phần mềm PIM (quản lý thông tin sản phẩm) của IChiba giúp tối ưu  mô tả sản phẩm, thẻ meta và URL trên trang bán hàng. Từ đó cải thiện thứ hạng SEO và khả năng tiếp cận người mua."
+    },
+    "customer": {
+      "title": "Phân khúc khách hàng và chiến lược cá nhân hóa",
+      "content": "Nền tảng IChiba CDXP phân khúc khách hàng dựa trên hành vi, nhân khẩu học hoặc lịch sử mua hàng. Đội marketing có thể dùng dữ liệu này để tạo các chiến dịch được nhắm mục tiêu chính xác, mang lại trải nghiệm cá nhân hóa cho người mua, từ đó tăng tương tác và tỷ lệ chuyển đổi."
+    }
+  },
+  "offer": {
+    "caseStudies": "CASE STUDY",
+    "title": "Mang đến trải nghiệm mua hàng liền mạch trên tất cả các kênh bán",
+    "content": "Truy cập hơn 100 tính năng thông minh để quản lý các hoạt động Thương mại điện tử. Luân chuyển hàng tồn kho nhanh hơn, xử lý đơn đặt hàng ngay khi có đơn hàng, triển khai khuyến mại và mang đến cho khách hàng một trải nghiệm khó quên sau khi mua hàng."
+  },
+  "saveEffort": {
+    "title": "Việc của đội marketing là sáng tạo các chiến dịch mới. Hãy để IChiba lo phần dữ liệu và vận hành.",
+    "content": "Liên hệ với đội ngũ chuyên gia của chúng tôi để nhận được tư vấn về nền tảng SaaS và các giải pháp thương mại điện tử cho marketing.",
+    "contact": "Liên hệ ngay"
+  },
+  "ichibaGlobal": {
+    "title": "IChiba OnePlatform dành cho các đội nhóm",
+    "items": [
+      {
+        "title": "Dành cho đội Marketing",
+        "content": "Hỗ trợ các công cụ và dữ liệu cần thiết để tạo, thực hiện và tinh chỉnh các chiến dịch Marketing. Chúng tôi cũng cung cấp dịch vụ Marketing với đội ngũ chuyên gia uy tín, giúp thúc đẩy traffic, tăng cường tương tác và cải thiện tỷ lệ chuyển đổi.",
+        "background": "linear-gradient(112deg,#E6F3FF_28.86%,rgba(235,241,254,0.79)_64.16%)"
+      },
+      {
+        "title": "Dành cho đội kỹ thuật",
+        "content": "Các phần mềm SaaS của IChiba được hỗ trợ bởi đội ngũ IT chuyên nghiệp, được bảo trì định kỳ. Vì vậy, đội kỹ thuật của bạn có thể giảm bớt khối lượng công việc và tập trung vào các chuyên môn khác.",
+        "background": "linear-gradient(276deg,#F1F5FE_2.49%,#D7D9FC_104.45%)"
+      },
+      {
+        "title": "Dành cho đội vận hành",
+        "content": "Tự động hóa 100% quy trình, cung cấp dữ liệu về sản phẩm, đơn hàng theo thời gian thực, tối ưu hóa quản lý tồn kho, quản lý bán hàng thương mại điện tử.",
+        "background": "linear-gradient(276deg,#FEF8F1_2.49%,#FAE7DD_104.45%)"
+      }
+    ]
+  },
+  "suggested": {
+    "title": "Sản phẩm gợi ý cho đội marketing",
+    "learnMore": "Xem thêm",
+    "content": "Dễ dàng mở rộng hoạt động kinh doanh với danh mục sản phẩm và dịch vụ của IChiba.",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Shape_Quare_15837be92d.svg",
+        "title": "StoreFront Layer",
+        "link": "/products/storefront-layer/overview",
+        "content": "Xây dựng website/landing page bán hàng của riêng bạn với sự hỗ trợ của bộ công cụ StoreFront Layer IChiba."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "link": "/products/commerce-layer/overview",
+        "content": "Bán hàng ở mọi nơi, quản lý ở cùng một nơi. Tối đa hiệu quả với hệ thống dữ liệu thông minh. "
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_dc1b80f4a0.png",
+        "title": "Nền tảng trải nghiệm dữ liệu khách hàng (CDXP) (Coming soon)",
+        "link": "/",
+        "content": "Phần mềm cơ sở dữ liệu SaaS IChiba CDXP đáp ứng nhu cầu marketing, giúp thu thập, phân khúc và thống kê thông tin chi tiết toàn diện về khách hàng."
+      }
+    ]
+  },
+  "faqs": {
+    "label": "CÂU TRẢ LỜI CHO",
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Giải đáp những thắc mắc thường gặp về bán hàng đa kênh.",
+    "contents": [
+      {
+        "title": "1. Nền tảng SaaS IChiba có dễ dàng tích hợp với các công cụ marketing và hệ thống CRM không?",
+        "content": "Nền tảng của chúng tôi có khả năng tích hợp liền mạch với các công cụ marketing phổ biến và hệ thống CRM thông qua API, đảm bảo luồng dữ liệu thông suốt và sự kết hợp hài hòa giữa các bên."
+      },
+      {
+        "title": "2. Nền tảng có thể xử lý các chiến dịch marketing quy mô lớn và lượng truy cập tăng đột biến trong thời gian cao điểm không?",
+        "content": "Nền tảng CDXP của chúng tôi được thiết kế để xử lý các chiến dịch quy mô lớn, với lượng truy cập cao vào giờ cao điểm, đảm bảo hiệu suất ổn định mà không ảnh hưởng đến tốc độ."
+      },
+      {
+        "title": "3. Nền tảng có thân thiện với các marketer thuộc nhiều vị trí khác nhau không? IChiba có đội ngũ hỗ trợ để đào tạo khách hàng sử dụng nền tảng không?",
+        "content": "Giao diện phần mềm CDXP của chúng tôi có giao diện thân thiện với người dùng, các marketer ở nhiều vị trí khác nhau đều có thể sử dụng và đọc báo cáo. Khi onboarding, đội ngũ hỗ trợ của IChiba sẽ có các buổi hướng dẫn đào tạo về phần mềm. Bạn cũng có thể nhắn tin để được giải đáp bất kỳ thắc mắc nào."
+      }
+    ]
+  }
+}

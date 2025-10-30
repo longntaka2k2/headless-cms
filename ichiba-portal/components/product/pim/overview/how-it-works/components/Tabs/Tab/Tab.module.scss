@@ -1,0 +1,40 @@
+.triangle {
+  @apply tw-w-0 tw-h-0 tw-absolute tw-content-empty tw-inset-y-0;
+  border-top: 26px solid transparent;
+  border-bottom: 26px solid transparent;
+  border-left: 12px solid currentColor;
+}
+
+.root {
+  @apply tw-py-3.5 tw-relative tw-text-ic-ink-1 tw-bg-current tw-w-full tw-text-left;
+  &:first-child {
+    @apply tw-rounded-l tw-pl-5;
+  }
+  &:last-child {
+    @apply tw-rounded-r tw-pr-5;
+  }
+
+  &:not(:last-child) {
+    @apply tw-pr-2;
+    &::before {
+      @apply tw-right-0 tw-translate-x-full triangle;
+    }
+  }
+
+  &:not(:first-child) {
+    @apply tw-pl-9;
+    &::after {
+      @apply tw-left-0 triangle tw-text-bg-light;
+    }
+  }
+  .text {
+    @apply tw-text-ic-ink-6 tw-text-lg tw-leading-6 tw-font-bold tw-whitespace-nowrap;
+  }
+
+  &.selected {
+    @apply tw-text-brand-primary;
+    .text {
+      @apply tw-text-ic-white-6;
+    }
+  }
+}

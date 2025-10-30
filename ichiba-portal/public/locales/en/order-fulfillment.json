@@ -1,0 +1,226 @@
+{
+  "orderFulfillment": "Order fulfillment",
+  "getStarted": "Get started for free",
+  "contactSales": "Contact Sales",
+  "getInTouchNow": "Get in touch now",
+  "readUserGuide": "Read user guide",
+  "viewAllIntegrations": "View All Integrations",
+  "introduce": {
+    "title": "Serve end-to-end customer needs with an agile multi-channel fulfillment solution.",
+    "content": "Deliver modern logistics and eCommerce order fulfillment solutions to B2B & B2C clients with powerful onboarding, management & reporting features."
+  },
+  "moreThan": {
+    "title": "More than just picking, packing, & shipping",
+    "content": "IChiba OnePlatform delivers a tech-enabled multi-channel fulfillment service, with a footprint of 20+ custom&#8722;built fulfillment centers across the world.",
+    "items": [
+      {
+        "title": "Worldwide warehouse network",
+        "content": "Our globally dispersed network of certified warehouses makes it simple to place your products closer to your consumers for expedited shipping."
+      },
+      {
+        "title": "State-of-the-art tools",
+        "content": "Our cloud-based platform collects insights about your sales procedures based on consumer data and provides customized inventory and distribution reports."
+      },
+      {
+        "title": "Integrated technology",
+        "content": "Connect your existing supply chain and eCommerce systems to the IChiba Fulfillment platform to integrate your inventory and order data streams in a seamless manner."
+      }
+    ]
+  },
+  "fulfillmentNetwork": {
+    "title": "Fulfillment Network",
+    "content": "We’re everywhere you need us to be, around the world."
+  },
+  "getInTouch": {
+    "title": "Ready to supercharge your global multi-channel fulfillment?",
+    "content": "Increase your sales potential, lower costs and save time by leveraging IChiba OnePlatform - the leading multi-channel fulfillment partner in South East Asia."
+  },
+  "integrations": {
+    "title": "Integrations for every business need",
+    "content": "A simple API for everything else."
+  },
+  "statistical": {
+    "items": [
+      {
+        "value": 99.95,
+        "unit": "%",
+        "label": "Orders ship<br/>on time within SLA"
+      },
+      {
+        "value": 99.96,
+        "unit": "%",
+        "label": "Accuracy rate<br />in fulfilling orders"
+      },
+      {
+        "value": 49,
+        "unit": "%",
+        "label": "Saving<br />on fulfillment cost"
+      },
+      {
+        "value": 20,
+        "unit": "+",
+        "label": "Fulfillment centers<br />around the world"
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How it works?",
+    "content": "Unleash the power of our Smart Multi-channel Fulfillment Solution with a rigorous process",
+    "items": [
+      {
+        "title": "Consult",
+        "subTitle": "Provide Free Consultation",
+        "content": "Gain deep insights into the current business situation and future demands to offer the right customized logistics solution."
+      },
+      {
+        "title": "Connect",
+        "subTitle": "Connect Your Existing Systems to the IChiba OnePlatform Platform",
+        "content": "Integrate your sales channels, eCommerce platforms, and ERPs with our technology platform."
+      },
+      {
+        "title": "Store",
+        "subTitle": "Store inventory safely in our fulfillment centers",
+        "content": "Send inventory to one of our fulfillment centers. We will store, manage strictly and update every goods moving on IChiba OnePlatform platform for you to track anytime."
+      },
+      {
+        "title": "Fulfill",
+        "subTitle": "Fulfill orders",
+        "content": "We pick pack and ship the right orders to customers right after an order is placed on any sales channel."
+      },
+      {
+        "title": "Ship",
+        "subTitle": "Ship orders",
+        "content": "We process to send orders for our partners to deliver your shipments to the final destination with the best condition and at the right time."
+      },
+      {
+        "title": "Refine",
+        "subTitle": "Ongoingly Review and Refine",
+        "content": "We always assess continuously to make sure that our solution we provide matches your company demands."
+      }
+    ]
+  },
+  "fulfillmentCapability": {
+    "title": "Fulfillment capability",
+    "items": [
+      {
+        "title": "Technical connectivity",
+        "contents": [
+          "All warehouses connected to one technology platform.",
+          "70+ connectors built for Marketplaces, ERPs, shopping cart providers, order management providers.",
+          "EDI fulfillment.",
+          "Open API integration."
+        ]
+      },
+      {
+        "title": "Warehouse connectivity",
+        "contents": [
+          "Advanced product catalog capabilities (better product attribution).",
+          "Order/Inventory management, tracking, alerting, forecasting on a single dashboard.",
+          "Customized & detailed reportin.",
+          "Parcel tracking in real time."
+        ]
+      },
+      {
+        "title": "Transportation management",
+        "contents": [
+          "Coordinate with 50+ global carriers and logistics providers.",
+          "Optimize routing for efficiency and cost reduction.",
+          "Track & monitor goods in real-time.",
+          "Analyze data and performance metrics for improvement.",
+          "Manage inventory levels and supply chain flows.",
+          "Ensure strict compliance with regulations for safe transportation."
+        ]
+      },
+      {
+        "title": "Warehouse capabilities & SLAS",
+        "contents": [
+          "Total warehouse area up to 50,000m2.",
+          "Ensure timely and accurate order fulfilment with advanced WMS.",
+          "Build loyalty by strict SLA compliance.",
+          "Automated picking and packing systems.",
+          "Reduce errors and delays with state-of-the-art inventory tracking system."
+        ]
+      }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why multi-channel fulfillment by IChiba OnePlatform streamline your operations",
+    "content": "Make sure a smooth purchasing experience for your customers, while also maintaining your online reputation with top-notch order fulfillment service including a 100% order accuracy guarantee.",
+    "items": [
+      {
+        "title": "Integrate multiple sales channels and centrally manage eCommerce fulfillment",
+        "contents": [
+          "Fulfill orders for every sales channel, from eCommerce platforms to marketplaces, by connecting stores and retailers to our fulfillment center and managing in a single place.",
+          "Gain real-time visibility and control over fulfillment across all of your sales channels with a single partner who can fulfill your “everything” orders."
+        ]
+      },
+      {
+        "title": "Multi-warehouse fulfilment",
+        "contents": [
+          "Determine the nearest warehouse or fulfillment center, its serviceability, and inventory location for the quick delivery to customers, increasing customer satisfaction and building trust & loyalty with clients.",
+          "Optimize shipping routes, reduce the delivery costs and the number of shipments for each purchase."
+        ]
+      },
+      {
+        "title": "Streamline multichannel inventory management",
+        "contents": [
+          "Manage and update omnichannel stock levels in real time with a tap of a button on multiple platforms, ensuring you're always in sync with your customers' demands across all the sales channels.",
+          "Leverage data-driven inventory to ensure that you always have the right products in stock to satisfy customers' demands and maximize your sales potential."
+        ]
+      },
+      {
+        "title": "Same-day and accurate order processing",
+        "contents": [
+          "Fulfill orders speedily as soon as there is any order on sales channels, deliver the exact items customers place on time as promised, even quicker than expected.",
+          "Provide a 360-degree view of updated order fulfillment process on a personalized dashboard in real-time."
+        ]
+      },
+      {
+        "title": "Up-to-the-minute order tracking",
+        "contents": [
+          "Get informed of the parcel journey from beginning to end in real time. Whether you are monitoring a single package or a million, the Shipment Dashboard keeps all your shipments organized and in view.",
+          "Strong API and Webhook tracking solutions deliver genuine end-to-end location and status events in real time so that businesses will never miss out on a shipment update again."
+        ]
+      },
+      {
+        "title": "Customized packaging",
+        "contents": [
+          "Optimize your return on investment by enhancing and refining your packaging for optimal profitability. By using customized packaging, businesses can keep their products fresh and thrilling each time someone makes a purchase.",
+          "Provide custom packing procedures that encompass a wide range of situations.  Whether it's stripping away bulk packaging, inserting label or logo, adding vouchers, cards, marketing documents, we can do it all."
+        ]
+      },
+      {
+        "title": "Distribution orders",
+        "contents": [
+          "Automatically determine the optimal fulfillment centers which are nearest to customers to reduce shipping costs and time.",
+          "Enhance customer experience as they can receive the orders quicker."
+        ]
+      },
+      {
+        "title": "Reserve inventory",
+        "contents": [
+          "Allocate a specified quantity of a product to a particular event to ensure the availability of inventory for them.",
+          "Assist merchants to control the selling operation without worrying about the goods' resources."
+        ]
+      }
+    ]
+  },
+  "getSupport": {
+    "title": "Support your success every step of the way",
+    "content": "Get immediate assistance from real individuals who understand your specific requirements. We also have on-site representatives at each location to assist with any difficulties.",
+    "items": [
+      {
+        "value": "24/7",
+        "label": "Support anytime,<br />anywhere."
+      },
+      {
+        "value": "Voted #1",
+        "label": "Most loved<br />by customers."
+      },
+      {
+        "value": "1 hour",
+        "label": "Average<br />response time."
+      }
+    ]
+  }
+}

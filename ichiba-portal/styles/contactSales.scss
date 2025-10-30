@@ -1,0 +1,67 @@
+#contact-sales {
+  margin-bottom: 250px;
+  .form {
+    
+    background-color: #ffff;
+    border-radius: 15px;
+    padding: 40px;
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.05);
+    .select{
+      height: 46px !important;
+      color: #333333;
+      width: 100%;
+    }
+    .select-sale{
+      width: 100%;
+    }
+    .type-contact{
+        padding: 14px 16px;
+        background-color: #f2f2f2;
+        border-radius: 12px;
+        border: 1px solid #DDDDDD;
+       
+        
+    }
+    .button {
+      max-height: 50px;
+      min-width: 150px;
+      text-align: center;
+    }
+    .form-input {
+      min-height: 38px;
+      width: 100%;
+      border: 1px solid #dee2e6;
+      border-radius: 6px;
+      
+    }
+  }
+  .help {
+    padding: 40px;
+    color: #fff;
+  }
+  .company{
+    position: relative;
+    top: 120px;
+  }
+
+  @include respond(tab-port){
+    .select-sale{
+      width:  100% !important;
+      margin-left: 0px !important;
+    }
+    .form {
+      padding: 12px 8px !important;
+    }
+    .help {
+      margin-top: 20px;
+      padding: 8px;
+      
+    }
+    .company{
+      top: 40px;
+    }
+  }
+  @include respond(phone){ 
+    background-size: auto 75% !important;
+  }
+}

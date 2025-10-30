@@ -1,0 +1,140 @@
+{
+  "banner": {
+    "title": [
+      "Nền Tảng",
+      " Hỗ Trợ Thương Mại Điện Tử Xuyên Biên Giới ",
+      "Cho Doanh Nghiệp Vừa Và Lớn"
+    ],
+    "content": "Chúng tôi cam kết xoá bỏ rào cản thương mại điện tử xuyên biên giới.",
+    "tag": ["Thương mại điện tử", "Logistics", "Tăng trưởng doanh thu"],
+    "getFree": "Dùng thử miễn phí",
+    "bookADemo": "Đặt lịch tư vấn",
+    "contactSale": "Liên hệ"
+  },
+  "mach": {
+    "title": "Kiến trúc MACH",
+    "subtitle": "(Microservice-based, API-first, Cloud-native and Headless)",
+    "content": [
+      "IChiba OnePlatform áp dụng công nghệ MACH giúp thúc đẩy quá trình chuyển đổi kỹ thuật số, hỗ trợ các doanh nghiệp duy trì sự linh hoạt, đặt khách hàng làm trung tâm và phát triển bền vững.",
+      ""
+    ],
+    "microservice": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/microservice_1_3c7a6aadac.svg",
+      "title": "Microservice-based",
+      "content": "Kết nối các ứng dụng hoặc dịch vụ riêng biệt và hợp nhất thành một ứng dụng lớn duy nhất. Khi kết nối vào với nhau, các ứng dụng này phản hồi nhanh và chính xác hơn."
+    },
+    "items": [
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/response_2_4aec0d5a36.svg",
+        "title": "API-first",
+        "content": "Tất cả chức năng được hiển thị thông qua một API, giúp có thể liên kết hai hoặc nhiều ứng dụng hoặc dịch vụ lại với nhau và truy xuất dữ liệu chính xác từ bất kỳ nguồn nào. Khả năng mở rộng API cao cho phép các doanh nghiệp thêm chức năng và điều chỉnh cách API hoạt động tùy theo nhu cầu."
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/response_3_4897a4fe63.svg",
+        "title": "Cloud-native SaaS",
+        "content": "Phần mềm dưới dạng dịch vụ (SaaS) tận dụng toàn bộ tiềm năng của công nghệ đám mây, giúp phát triển và mở rộng sản phẩm nhanh hơn, tăng tính linh hoạt với các ứng dụng cloud native. Xua tan nỗi lo về bảo trì server và khóa phần mềm lưu trữ dữ liệu tại chỗ (on-premise software lock-in)."
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/response_1_92d21ee28f.svg",
+        "title": "Headless",
+        "content": "Tách backend khỏi UX front-end để xây dựng trải nghiệm mua sắm tiên tiến, liền mạch. Giờ đây bạn có thể cập nhật các tính năng hoặc nội dung trên website mà không ảnh hưởng đến các yếu tố khác hay phải đợi hàng tuần để kích hoạt một tính năng hoặc thay đổi mới."
+      }
+    ]
+  },
+  "forTeam": {
+    "forTeam": {
+      "label": "Đối tượng sử dụng",
+      "content": "IChiba OnePlatform được thiết kế để phù hợp với mục đích sử dụng của nhiều phòng ban. Hãy cùng tìm hiểu mỗi phòng ban trong công ty sử dụng phần mềm của chúng tôi như thế nào nhé!",
+      "business": "Chủ doanh nghiệp",
+      "marketing": "Phòng marketing",
+      "technical": "Phòng kỹ thuật",
+      "operation": "Phòng vận hành"
+    },
+    "useCases": {
+      "label": "Trường hợp sử dụng",
+      "content": "Giải quyết các vấn đề, nhu cầu, yêu cầu và các trường hợp sử dụng của doanh nghiệp thương mại điện tử.",
+      "global": "Bán hàng quốc tế đa kênh, đa thị trường",
+      "omnichannel": "Bán hàng đa kênh",
+      "allInOne": "Quản lý vận chuyển tập trung",
+      "proxy": "Mua hộ/Vận chuyển quốc tế",
+      "multichannel": "Fulfillment đa kênh",
+      "orderFulfillment": "Xử lý hàng bởi EFEX",
+      "boostRevenue": "Giải pháp tăng trưởng và tiếp thị hiệu quả",
+      "performance": "Tăng doanh thu, hiểu khách hàng"
+    },
+    "industries": {
+      "label": "Ngành hàng",
+      "content": "Nền tảng của chúng tôi được sử dụng rộng rãi trong mọi ngành hàng vì các doanh nghiệp có thể điều chỉnh và thiết lập cấu hình cho phù hợp với mô hình vận hành.",
+      "retail": "Bán lẻ",
+      "fashion": "Thời trang & Làm đẹp",
+      "mother": "Mẹ & Bé",
+      "electronics": "Thiết bị điện tử",
+      "logistic": "Công ty logistics",
+      "drop": "Dropshipping"
+    }
+  },
+  "ichibaProduct": {
+    "title": "Hệ sinh thái sản phẩm SaaS IChibaOne",
+    "subtitle": "IChiba mang lại một hệ sinh thái các sản phẩm phần mềm SaaS nơi các doanh nghiệp có thể tối ưu hoạt động quản lý đơn hàng, fulfillment, logistics, marketing, và các hoạt động kinh doanh thương mại điện tử khác.",
+    "viewMore": "Xem thêm",
+    "forSeller": "For Seller",
+    "forOperator": "For Operator",
+    "capabilites": "Capabilites",
+    "commerceLayer": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+      "title": "Commerce Layer",
+      "content": "Phần mềm quản lý bán hàng đa kênh, đa thị trường",
+      "link": "/products/commerce-layer/overview",
+      "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171276232_12b289f6da.png"
+    },
+    "ship4p": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/Logo_4_28d065a5e8.svg",
+      "title": "Ship4P",
+      "content": "Kết nối vận chuyển đa kênh",
+      "link": "/products/ship4p/overview",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_2_e679df3916.png"
+    },
+    "automation": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/Logo_2_80d15ddfb2.svg",
+      "title": "Automation engagement",
+      "content": "Automation engagement",
+      "link": "#",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_1_351e3ec46a.png"
+    },
+    "storeFront": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/Shape_Quare_15837be92d.svg",
+      "title": "StoreFront Layer",
+      "content": "StoreFront Layer",
+      "link": "/products/storefront-layer/overview",
+      "img": "https://cms-strapi.ichiba.net/uploads/Group_1171275933_ec3579f9f4.svg"
+    },
+    "wms": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/WMS_67ccfb67fb.svg",
+      "title": "WMS",
+      "content": "Phần mềm quản lý kho vận",
+      "link": "/products/wms",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_529f32d776.svg"
+    },
+    "smartcb": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/Logo_5_b62e0a8c44.svg",
+      "title": "Cross-Border Forwarding",
+      "content": "Hệ thống quản lý hải quan và xuất nhập khẩu",
+      "link": "/products/cross-border-forwarding/overview",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_3_3985e41519.png"
+    },
+    "invoiceBilling": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/Logo_ce9fbf17de.svg",
+      "title": "Pricing, Invoice & Billings",
+      "content": "Phần mềm quản lý hoá đơn & chứng từ",
+      "link": "/products/invoice-and-billing",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup_cfa75fe310.svg"
+    },
+    "integrations": {
+      "icons": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+      "title": "Integrations",
+      "content": "Integrations",
+      "link": "/products/integrations",
+      "img": "https://cms-strapi.ichiba.net/uploads/Normal_Mockup1_77bbb9c889.svg"
+    }
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "title": "Integrating IChiba Commerce Layer to Fulfillment by EFEX",
+  "subTitle": "IChiba Commerce Layer partners with Fulfillment by EFEX service to deliver a solution, in which businesses enhance the efficiency of multichannel selling and ensure the effectiveness in high-volume picking, packing, and shipping operations.",
+  "contactSale": "Contact Sales",
+  "process": {
+    "title": "Order Fulfillment Process at EFEX",
+    "subTitle": "Power your growth across any sales channel",
+    "step": [
+      "Customers place orders on any sales channels",
+      "EFEX picks, packs and ships the orders",
+      "EFEX deliveries orders to customers"
+    ],
+    "channels": {
+      "web": "Brand websites",
+      "platforms": "eCommerce platforms",
+      "platformsEg": "(Shopee, Lazada, Tiki,..)",
+      "stores": "Social media stores",
+      "storesEg": "(Facebook, Instagram, Tiktok,...)"
+    },
+    "fulfillmentEfex": "Fulfillment by EFEX",
+    "fbe": "(FBE)",
+    "customers": "Customers"
+  },
+  "fulfillmentDifferent": {
+    "title": {
+      "first": "What makes",
+      "second": "special in businesses’ minds?"
+    },
+    "subTitle": "We can help business unrivaled order fulfillment for a new age of ecommerce with the lowest cost as possible",
+    "fbm": {
+      "title": "Fulfillment by Merchant (FBM)",
+      "content": [
+        {
+          "title": "Increasingly high operating fees",
+          "description": "The sellers must pay a variety of fees, including warehouse renting, staff employment, warehouse equipment, etc."
+        },
+        {
+          "title": "Time-consuming and less professional",
+          "description": "Picking, packing, and shipping are not smooth and professional, which wastes so much time, cost, and customer leaving. "
+        },
+        {
+          "title": "Low delivery time",
+          "description": "Shipping time with FBM is frequently long and delayed, which may affect customer satisfaction and order cancellations."
+        }
+      ]
+    },
+    "fbe": {
+      "title": "Fulfillment by EFEX (FBE)",
+      "content": [
+        {
+          "title": "Lower operating fee",
+          "description": {
+            "first": "Sellers can save",
+            "second": " up to 70%",
+            "third": " on expenses for operations,staff, firefighting, and prevention.",
+            "fourth": " Pay as you really go."
+          }
+        },
+        {
+          "title": "Smooth and professional",
+          "description": {
+            "first": "FBE smoothly manages the entire process, from storage to picking, packing, and shipping, meeting the SLA requirement. Increase precise order handling by",
+            "second": " up to 99.9%."
+          }
+        },
+        {
+          "title": "Faster delivery time",
+          "description": {
+            "first": "Swiftly and efficiently handle orders, resulting in a",
+            "second": " 50% improvement",
+            "third": " in delivery speeds. This not only boosts customer satisfaction but also drives increased sales."
+          }
+        }
+      ]
+    }
+  },
+  "fulfillOrders": {
+    "heading": "Why should fulfill orders with EFEX?",
+    "subHeading": "EFEX can optimize operation and save up to 70% operating fee",
+    "sameDay": {
+      "title": "Same-day order processing",
+      "content": [
+        "Fulfill orders speedily as soon as there is any new order on sales channels, deliver the exact items on time as promised.",
+        "Commit to achieve 100% SLA during the process. Be able to fulfill up to 2000 orders/day."
+      ]
+    },
+    "payAs": {
+      "title": "Pay as you really go",
+      "content": [
+        "The fulfill fee is counted based on the number and size of orders processed.",
+        "No extra or hidden fee, many promotions for each sellers annually."
+      ]
+    },
+    "multiple": {
+      "title": "Multiple warehouses at convenient locations",
+      "content": "Our expansive logistics network spans across Southeast Asia, strategically positioned in the heart of key cities for seamless import- export, and distribution of goods."
+    },
+    "delivery": {
+      "title": "Last-mile delivery",
+      "content": "Connect with renowned domestic and international carriers to deliver your orders quickly with the lowest rates while keeping your order safe 100% during order shipping."
+    },
+    "customized": {
+      "title": "Customized packing",
+      "content": [
+        "Optimize and customize packaging for optimal profitability.",
+        "Everything to boost your brand awareness such as inserting label or logo, adding vouchers, cards, marketing documents, we are on it!"
+      ]
+    },
+    "provide": {
+      "title": "Omnichannel, multimarket order management system",
+      "free": "Free",
+      "content": [
+        "Sell everywhere, manage in one place with various advanced features from our proprietary software",
+        "Everything on multiple channels (TikTokShop, Shopee, Lazada,..) is integrated on one..."
+      ]
+    }
+  },
+  "unlocking": {
+    "title": "Unlocking business efficiency: maximizing operations and fulfillment",
+    "subTitle": "Enhance productivity, accuracy & speed with our advanced warehouses."
+  },
+  "fulfillNetwork": {
+    "title": "Fulfillment Network",
+    "subTitle": "We’re everywhere you need us to be, around the world."
+  },
+  "customerSuccess": {
+    "ourSuccess": "Customer success is our success",
+    "title": "Customere Success Stories",
+    "subTitle": "Discover how businesses like yours use Intercom to acquire, engage, and support customers."
+  },
+  "ourPartners": {
+    "title": "Our Partners",
+    "subTitle": "EFEX is always on the lookout to forge strong partnerships with industry leaders to bring the top-notch service for every business",
+    "items": [
+      {
+        "category": "Marketplaces"
+      },
+      {
+        "category": "Carriers",
+        "childCate": ["Domestic shipping in Vietnam", "International shipping"]
+      }
+    ]
+  },
+  "multichannel": {
+    "title": "Multichannel Order Fulfillment",
+    "subTitle": "Fulfill everything for any channel accurately and professionally to increase customer retention and leave unforgettable impression on your brand.",
+    "btnText": "Contact Sales"
+  },
+  "contact": {
+    "title": "Let’s focus on scaling business, EFEX will handle the rest!"
+  },
+  "frequentlyQues": {
+    "getAnswers": "Get answers for",
+    "title": "Frequently asked questions",
+    "subTitle": "Explore our frequently asked questions to learn more about Fulfillment by EFEX (FBE) and more.",
+    "content": [
+      {
+        "title": "What is “Fulfillment”?",
+        "description": "\"Fulfillment\" refers to the procedure of storing, packaging, and sending out orders, along with managing returns and exchanges. While some companies handle fulfillment internally, others utilize services like Fulfillment by EFEX, or a blend of internal and third-party choices. Efficient and dependable fulfillment brings super customer satisfaction."
+      },
+      {
+        "title": "What is FBE (Fulfillment by EFEX)?",
+        "description": "Fulfillment by EFEX (FBE) is a service that allows businesses to warehouse or fulfill orders on multiple sales channels. When your customers make a purchase on any channel, EFEX fulfillment specialists start picking, packing, shipping orders, and managing returns effectively as fast as possible."
+      },
+      {
+        "title": "How EFEX fulfillment works?",
+        "description": "When the seller have a new order, EFEX warehouse specialists pick, pack, and ship the order to your customer on the same day. Moreover, EFEX fulfillment specialists can process returned products. We will quickly perform returned product testing, assessment, sorting, and sellable items back to the active inventory. Always ensure that returns are neither time-consuming, nor costly to provide the best possible client experience."
+      },
+      {
+        "title": "How much does FBE cost per item?",
+        "description": "Expenses differ per the number of products, which encompasses both order processing charges and storage costs. To find out how much Fulfillment by EFEX costs, please refer to our pricing details."
+      }
+    ],
+    "learnMore": {
+      "first": "Learn more about",
+      "second": "eCommerce order fulfillment",
+      "link": "https://ichiba.net/blog/order-fulfillment-services"
+    }
+  }
+}

@@ -1,0 +1,446 @@
+{
+  "banner": {
+    "title": [
+      "Trình tạo website nhanh StoreFront Layer",
+      "Xây dựng ",
+      "nhanh chóng ",
+      "- Điều chỉnh ",
+      "dễ dàng"
+    ],
+    "subtitle": [
+      "Xây dựng website bán hàng/landing page quảng cáo của riêng bạn với đầy đủ các công cụ linh hoạt nhất.",
+      "Tương thích với mọi mô hình doanh nghiệp và loại hình kinh doanh!"
+    ],
+    "request": "Yêu cầu demo",
+    "getStart": "Bắt đầu ngay"
+  },
+  "tailored": {
+    "title": "Giao diện tùy chỉnh theo yêu cầu của doanh nghiệp",
+    "subtitle": "Xem Kho Giao Diện"
+  },
+  "buildStoreFront": {
+    "title": ["StoreFront Layer", "", "Trình tạo website bán hàng nhanh", "", ""],
+    "tabs": [
+      {
+        "title": "Tạo website bán lẻ",
+        "subtitle": "Cung cấp hơn 400 mẫu giao diện, phù hợp với từng ngành nghề, có thể tùy chỉnh dễ dàng. Tất cả đều được đảm bảo hiển thị tương thích với mọi thiết bị.",
+        "content": []
+      },
+      {
+        "title": "Tạo website mua hàng xuyên biên giới",
+        "subtitle": "Dễ dàng xây dựng một website mua hàng/đấu giá xuyên biên giới với các tính năng đặc quyền như:",
+        "content": [
+          "Quản lý đơn mua/đơn bán/đơn đấu giá.",
+          "Tích hợp phần mềm dịch đa ngôn ngữ.",
+          "Tích hợp đa phương thức thanh toán với nhiều lựa chọn tiền tệ."
+        ]
+      },
+      {
+        "title": "Tạo website vận chuyển xuyên biên giới",
+        "subtitle": "Đáp ứng đầy đủ các yêu cầu đặc thù và cần thiết của một website vận chuyển xuyên biên giới:",
+        "content": [
+          "Tích hợp 20+ đơn vị vận chuyển nội địa và quốc tế.",
+          "Theo dõi trạng thái đơn hàng ngay trên website.",
+          "Công cụ ước tính giá và thời gian vận chuyển."
+        ]
+      },
+      {
+        "title": "Website bán hàng đa thị trường",
+        "subtitle": "Mở rộng tệp khách hàng ra nhiều thị trường với tính năng thiết lập đa ngôn ngữ, đa tiền tệ. Tối ưu hóa tỷ lệ chuyển đổi và gia tăng trải nghiệm mua hàng ở từng thị trường.",
+        "content": []
+      }
+    ],
+    "tryforfree": "Trải nghiệm miễn phí",
+    "effort": "Dễ dàng vận hành website bán hàng online với hệ sinh thái của IChiba OnePlatform"
+  },
+  "createLandingpages": {
+    "title": "Xây dựng landing page cá nhân hóa cho các hoạt động quảng cáo",
+    "subtitle": "Trọn bộ công cụ giúp tối ưu hóa chuyển đổi khi khách hàng truy cập vào landing page của bạn.",
+    "tryforfree": "Dùng thử miễn phí",
+    "bookDemo": "Đặt lịch tư vấn",
+    "landingPage": {
+      "title": "Landing page",
+      "content": "Thiết kế landing page dễ dàng, nhanh chóng với công cụ kéo thả. Bạn cũng có thể chọn mẫu thiết kế sẵn trong kho hơn 100+ giao diện của IChiba Global."
+    },
+    "popup": {
+      "title": "Popup",
+      "content": "Kích thích khách hàng thực hiện hành động trên landing page với công cụ tạo popup."
+    },
+    "form": {
+      "title": "Form",
+      "content": "Linh hoạt tạo nhiều dạng form khác nhau để thu thập dữ liệu khách hàng, tùy theo mục đích của doanh nghiệp."
+    },
+    "stickybar": {
+      "title": "Sticky bar",
+      "content": "Thiết kế banner ghim trên trang để khách hàng không bỏ lỡ thông tin quan trọng."
+    },
+    "liveChat": {
+      "title": "Live chat",
+      "content": "Landing page tích hợp live chat giúp khách hàng tiếp cận với dịch vụ/sản phẩm của doanh nghiệp dễ dàng hơn."
+    },
+    "bannerAds": {
+      "title": "Banner ads",
+      "content": "Dễ dàng thiết kế các banner quảng cáo đẹp mắt mà không cần có nhiều kiến thức về design."
+    },
+    "email": {
+      "title": "Email template",
+      "content": "Cung cấp những mẫu email có sẵn với tiêu đề và hình ảnh được tối ưu để gia tăng trải nghiệm và chuyển đổi."
+    },
+    "personal": {
+      "title": "Personalization",
+      "content": "Công cụ tích hợp AI giúp cá nhân hóa nội dung và hình ảnh hiển thị theo từng đối tượng khách hàng, giúp nhắm trúng đối tượng mục tiêu, nâng cao tỷ lệ chuyển đổi."
+    }
+  },
+  "preDesign": "Mẫu có sẵn",
+  "flexibly": "Tuỳ chỉnh linh hoạt",
+  "whyChoose": {
+    "title": "Tại sao bạn nên chọn StoreFront Layer của IChiba OnePlatform",
+    "content": [
+      {
+        "title": "Thiết kế giao diện chuyên nghiệp, dễ dàng",
+        "icon": "https://cms-strapi.ichiba.net/uploads/5edf093338c61476d6970a0f_feature13_1x_1_1b87f5e148.svg",
+        "link": ""
+      },
+      {
+        "title": "Hỗ trợ bán hàng đa thị trường",
+        "icon": "https://cms-strapi.ichiba.net/uploads/5edf09331c9b911ffa9d7648_feature12_1x_1_9262470bfa.svg",
+        "link": ""
+      },
+      {
+        "title": "Tích hợp nhiều phần mềm vận hành sau bán",
+        "icon": "https://cms-strapi.ichiba.net/uploads/response_1_c063a19304.svg",
+        "link": ""
+      },
+      {
+        "title": "Thiết kế website bán hàng/vận chuyển xuyên biên giới",
+        "icon": "https://cms-strapi.ichiba.net/uploads/5edf0932dc17aa2ea47d3e5b_feature2_1x_1_124da8a10f.svg",
+        "link": ""
+      },
+      {
+        "title": "Giao diện tương thích với nhiều thiết bị",
+        "icon": "https://cms-strapi.ichiba.net/uploads/5edf0933596e9cb57d128771_feature10_1x_2_aa57a9a348.svg",
+        "link": ""
+      },
+      {
+        "title": "Tối ưu SEO và hiệu quả quảng cáo",
+        "icon": "https://cms-strapi.ichiba.net/uploads/628f4df5940292409a777a89_mtcn_1_a6f2185e25.svg",
+        "link": ""
+      },
+      {
+        "title": "Nhắm trúng đối tượng khách hàng mục tiêu",
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171275770_535150385c.svg",
+        "link": ""
+      }
+    ]
+  },
+  "suitability": {
+    "label": "Suitability",
+    "title": "Hỗ trợ mọi đội nhóm, doanh nghiệp tăng trưởng doanh thu vượt bậc",
+    "ecomm": {
+      "label": "Ecommerce site",
+      "title": "Dành cho các nhà bán hàng muốn tạo website bán lẻ/mua hàng xuyên biên giới/vận chuyển xuyên biên giới:",
+      "content": [
+        "Chức năng thanh toán thuận tiện, tích hợp đầy đủ các lựa chọn thanh toán.",
+        "Kết nối với mạng lưới các kênh bán hàng khác: mạng xã hội, gian hàng thương mại điện tử.",
+        "Chức năng quản lý bán hàng toàn diện, nhà bán không cần tích hợp với phần mềm thứ 3."
+      ]
+    },
+    "landing": {
+      "label": "Landing page",
+      "title": "Dành cho đội nhóm marketing:",
+      "content": [
+        "Nhanh chóng triển khai landing page để chạy chiến dịch quảng cáo.",
+        "Tối thiểu nhân sự triển khai, không cần lập trình.",
+        "Tuỳ chỉnh giao diện, thiết kế, nội dung để nhắm trúng đối tượng khách hàng mục tiêu."
+      ]
+    },
+    "learnMore": "Tìm hiểu thêm",
+    "tryforfree": "Trải nghiệm miễn phí",
+    "createAnOnline": {
+      "title": "Tạo website bán hàng cực đơn giản chỉ với 5 bước",
+      "tryforfree": "Dùng thử miễn phí",
+      "items": [
+        {
+          "title": "Bước 1: Đăng ký dùng thử",
+          "content": "Sign up to experience StoreFront’s unlimited features on a 14 days free trial",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_260940_25303af0b6.svg"
+        },
+        {
+          "title": "Bước 2: Chọn giao diện",
+          "content": "Choose an available template that is most suitable with you from IChiba’s Themes library",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_260938_184f304243.svg"
+        },
+        {
+          "title": "Bước 3: Tùy chỉnh",
+          "content": "Drag & drop to customize images, text, size...anything you want to personalize your website to be more attractive",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_260937_39840cbdde.svg"
+        },
+        {
+          "title": "Bước 4: Đăng ký tên miền",
+          "content": "Connect with your domain or register new domain",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_260939_feeae5f90f.svg"
+        },
+        {
+          "title": "Bước 5: Bắt đầu bán hàng",
+          "content": "Publish your website, and now you have your own website. You can start selling on this website after that",
+          "time": "2 minutes",
+          "img": "https://cms-strapi.ichiba.net/uploads/image_154_23758c92ea.png"
+        }
+      ]
+    }
+  },
+  "new": {
+    "label": "BLOG",
+    "title": "Tin tức mới",
+    "readMore": "Read more"
+  },
+  "dontKnow": {
+    "title": "Vẫn chưa biết bắt đầu xây dựng website của riêng bạn từ đâu?",
+    "content": "Liên hệ ngay để được tư vấn miễn phí và hướng dẫn chi tiết.",
+    "contact": "Liên hệ ngay"
+  },
+  "commerceSite": {
+    "banner": {
+      "title": ["Thiết kế website bán hàng chuyên nghiệp, ", "đa thị trường"],
+      "subtitle": "Mở rộng kênh bán, tiếp cận nhiều khách hàng hơn với dịch vụ thiết kế website kinh doanh chuyên nghiệp, chuẩn SEO của IChiba Global.",
+      "start": "Bắt đầu miễn phí",
+      "contact": "Liên hệ ngay"
+    },
+    "whatYou": {
+      "title": "Dễ dàng sở hữu Website bán hàng chuyên nghiệp và đầy đủ tính năng",
+      "subtitle": "Nền tảng dựa trên cloud-native tối ưu vận hành website bán hàng và giúp tăng trưởng doanh thu vượt trội.",
+      "items": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_a42befa9d5.svg",
+          "img": "https://cms-strapi.ichiba.net/uploads/ewee_5c46551efd.png",
+          "label": "Thiết kế website",
+          "title": "Xây dựng một website bán lẻ/mua hộ xuyên biên giới",
+          "content": "Các website có thể tùy chỉnh được xây dựng phù hợp với ngành hàng cùng với công nghệ mới nhất để quản lý lưu lượng truy cập lớn, cũng như giao diện độc đáo và thân thiện với người dùng."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_1_f741a18e0b.svg",
+          "img": "https://cms-strapi.ichiba.net/uploads/ewee_5c46551efd.png",
+          "label": "Đa thị trường",
+          "title": "Website bán hàng đa thị trường",
+          "content": "The interface, language and currency are customized to fit the markets that sellers want to target. This helps improve shopping experience and conversion rates."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_1_1_6aa39118c9.svg",
+          "img": "https://cms-strapi.ichiba.net/uploads/ewee_5c46551efd.png",
+          "label": "Vận chuyển xuyên biên giới",
+          "title": "Xây website vận chuyển xuyên biên giới",
+          "content": "Tạo website vận chuyển với những tính năng chuyên biệt của ngành: theo dõi hành trình vận đơn, công cụ ước tính chi phí & thời gian giao hàng,..."
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/atomic_molecule_sync_b6bac37c9d.svg",
+          "img": "https://cms-strapi.ichiba.net/uploads/ewee_5c46551efd.png",
+          "label": "Đồng bộ dữ liệu",
+          "title": "Đồng bộ dữ liệu từ hệ sinh thái phần mềm IChiba",
+          "content": "Việc đồng bộ dữ liệu giúp hoạt động bán hàng được xuyên suốt. Thông tin được tự động cập nhật tự động và liên tục."
+        }
+      ]
+    },
+    "effortless": {
+      "title": "Vận hành sau bán dễ dàng với bộ tính năng vượt trội",
+      "integrate": {
+        "title": "Tích hợp nhiều phần mềm vận hành sau bán",
+        "content": "Kết nối với các phần mềm quản lý: hệ thống OMS, kế toán, ERP, CRM,... để quản lý đơn hàng, cập nhật tồn kho và tương tác với khách hàng tốt hơn."
+      },
+      "getReal": {
+        "title": "Hiển thị hàng tồn kho theo thời gian thực",
+        "content": "Nhận thông tin chi tiết về số lượng tồn kho. Đáp ứng nhu cầu của khách hàng thông qua các kỹ thuật quản lý hàng tồn kho: phân tích ABC, theo dõi lô hàng, vận chuyển số lượng lớn, dự báo nhu cầu, v.v."
+      },
+      "multi": {
+        "title": "Tích hợp đa hãng vận chuyển",
+        "content": "So sánh giá giữa các hãng vận chuyển, gợi ý đơn vị có mức phí hợp lý nhất để tiết kiệm chi phí."
+      },
+      "manage": {
+        "title": "Lưu trữ và quản lý thông tin sản phẩm",
+        "content": "Tích hợp phần mềm quản lý thông tin sản phẩm (PIM), cho phép bạn truy cập tất cả dữ liệu, xử lý các danh mục phức tạp và cập nhật kịp thời các khuyến mãi theo thời gian thực."
+      },
+      "multiple": {
+        "title": "Kết hợp nhiều phương thức thanh toán",
+        "content": "Tối đa hóa chuyển đổi bằng cách cung cấp đa dạng phương thức thanh toán cho khách hàng: thẻ tín dụng, Visa, internet banking, QR code,..."
+      }
+    },
+    "boots": {
+      "title": "Boost SEO and optimize advertisements",
+      "google": {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171275874_28d0e5cc71.png",
+        "title": "Quảng cáo Google Smart Shopping",
+        "content": "Hỗ trợ triển khai các chiến dịch quảng cáo trên Google Smart Shopping để tăng tỷ lệ chuyển đổi. Kết nối trình quản lý của website với Google Merchant Center để đăng sản phẩm và xem báo cáo hàng ngày."
+      },
+      "create": {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171275875_1_6357e598e8.png",
+        "title": "Tạo khuyến mãi",
+        "content": "Linh hoạt tạo các chương trình khuyến mãi trên website cho khách hàng mục tiêu. Kích hoạt phiếu giảm giá khi thanh toán và tự động áp dụng giá khuyến mại tốt nhất hiện có."
+      },
+      "increase": {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171275875_2496fcee23.png",
+        "title": "Tăng nhận diện thương hiệu Với website bán hàng chuẩn SEO",
+        "content": "Cấu trúc website được tối ưu để đáp ứng các thuật toán của Google. Dễ dàng tùy chỉnh các yếu tố SEO onpage."
+      }
+    },
+    "exclusively": {
+      "title": "Dành riêng cho doanh nghiệp mua hộ xuyên biên giới",
+      "crawler": "Kéo dữ liệu sản phẩm từ đa kênh TMĐT",
+      "connect": "Kết nối với các trang thương mại lớn uy tín trong nước và quốc tế như Amazon, eBay, Yahoo Shopping v.v. để tự động cập nhật và thu thập thông tin sản phẩm theo thời gian thực.",
+      "storefrone": "Dịch vụ Storefront"
+    },
+    "whatispossible": {
+      "title": "Thiết kế Website bán hàng tối ưu dành riêng cho bạn",
+      "composable": "Composable Commerce",
+      "headless": "Headless Commerce"
+    },
+    "discover": {
+      "label": "Phù hợp với mọi doanh nghiệp",
+      "title": "Khám phá lý do tại sao hàng ngàn doanh nghiệp chọn IChiba StoreFront Layer để xây dựng Website TMĐT",
+      "items": [
+        {
+          "label": "B2B2C/Bán sỉ",
+          "content": [
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Ngân sách phù hợp",
+              "subtitle": "Chi phí xây dựng website bán hàng cho doanh nghiệp B2B và nhà bán sỉ có thể được thương lượng. Bạn sẽ nhận được dịch vụ bảo hành, quản lý bảo mật và nâng cấp sau khi website hoàn thành."
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Tích hợp không giới hạn",
+              "subtitle": "Website bán hàng có thể được tích hợp với nhiều phần mềm khác, như OMS, ERP hay CRM để mang lại cho khách hàng một trải nghiệm mua sắm liền mạch."
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Chức năng tìm kiếm nâng cao",
+              "subtitle": "Công nghệ AI cho phép lọc sản phẩm theo nhiều tiêu chí và trả về kết quả chính xác."
+            }
+          ]
+        },
+        {
+          "label": "D2C",
+          "content": [
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Chuyển đổi nhiều doanh số hơn",
+              "subtitle": "Tạo website mua hộ giúp khách hàng mua các sản phẩm từ nước ngoài và vận chuyển về tận địa chỉ được chỉ định."
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Đơn giản hóa quản lý thương mại điện tử",
+              "subtitle": "Tích hợp tất cả các chức năng quản lý, bao gồm quản lý đơn hàng, vận chuyển, cổng thanh toán, đổi trả, v.v."
+            }
+          ]
+        },
+        {
+          "label": "Quốc tế",
+          "content": [
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Xây dựng website mua hộ xuyên biên giới",
+              "subtitle": "Create a proxy purchase website that allows customers to buy items from abroad and ship the items to destinations all over the world."
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Website mua hộ đa ngôn ngữ",
+              "subtitle": "Hiển thị ngôn ngữ, danh mục sản phẩm và đơn vị tiền tệ tùy theo từng khu vực/đất nước."
+            },
+            {
+              "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171275810_2_a5ae4210f6.webp",
+              "title": "Kết nối với các cổng thanh toán hàng đầu",
+              "subtitle": "Tích hợp với các cổng thanh toán nội địa và quốc tế để đáp ứng nhu cầu của khách hàng."
+            }
+          ]
+        }
+      ]
+    },
+    "mach":{
+      "title":"Kiến trúc MACH",
+      "subtitle":"(Microservice-based, API-first, Cloud-native and Headless)",
+      "content":["Công nghệ MACH thúc đẩy quá trình chuyển đổi kỹ thuật số, hỗ trợ","các doanh nghiệp duy trì sự linh hoạt, đặt khách hàng làm trung tâm và phát triển bền vững."],
+      "micro":{
+        "icons":"https://cms-strapi.ichiba.net/uploads/microservice_1_3c7a6aadac.svg",
+        "title":"Microservice-based ",
+        "content":"Kết nối các ứng dụng hoặc dịch vụ riêng biệt và hợp nhất thành một ứng dụng lớn duy nhất. Khi kết nối vào với nhau, các ứng dụng này phản hồi nhanh và chính xác hơn."
+      },
+      "items":[
+        {
+          "icons":"https://cms-strapi.ichiba.net/uploads/response_2_4aec0d5a36.svg",
+          "title":"API-first",
+          "content":"Tất cả chức năng được hiển thị thông qua một API, giúp có thể liên kết hai hoặc nhiều ứng dụng hoặc dịch vụ lại với nhau và truy xuất dữ liệu chính xác từ bất kỳ nguồn nào. Khả năng mở rộng API cao cho phép các doanh nghiệp thêm chức năng và điều chỉnh cách API hoạt động tùy theo nhu cầu."
+        },
+        {
+          "icons":"https://cms-strapi.ichiba.net/uploads/response_3_4897a4fe63.svg",
+          "title":"Cloud-native SaaS",
+          "content":"Phần mềm dưới dạng dịch vụ (SaaS) tận dụng toàn bộ tiềm năng của công nghệ đám mây, giúp phát triển và mở rộng sản phẩm nhanh hơn, tăng tính linh hoạt với các ứng dụng cloud native. Xua tan nỗi lo về bảo trì server và khóa phần mềm lưu trữ dữ liệu tại chỗ (on-premise software lock-in)."
+        },
+        {
+          "icons":"https://cms-strapi.ichiba.net/uploads/response_1_92d21ee28f.svg",
+          "title":"Headless",
+          "content":"Tách backend khỏi UX front-end để xây dựng trải nghiệm mua sắm tiên tiến, liền mạch. Giờ đây bạn có thể cập nhật các tính năng hoặc nội dung trên website mà không ảnh hưởng đến các yếu tố khác hay phải đợi hàng tuần để kích hoạt một tính năng hoặc thay đổi mới."
+        }
+      ]
+    },
+    "integration":{
+      "title":"Tích hợp",
+      "viewAll":"Xem Tất Cả Tích Hợp"
+    },
+    "findout":{
+      "title":"Khám phá cách mà các doanh nghiệp bán hàng online bắt đầu câu chuyện thành công của họ với sự hỗ trợ từ IChiba StoreFront Layer",
+      "items":[
+        {
+          "brand":"CROCHET CLOTHES",
+          "bioBrand":"Thời trang đan móc",
+          "numberUser":"10.000 +",
+          "users":"người dùng",
+          "numberItems":"120+",
+          "items":"sản phẩm",
+          "content":"Từ quá trình tư vấn ban đầu cho đến khi trình ra sản phẩm trang web cuối cùng, Crochet Clothes  đã trải qua một quy trình liền mạch và hiệu quả. IChiba đã thể hiện sự chuyên nghiệp, tìm hiểu kỹ càng về các yêu cầu kinh doanh của chúng tôi và thể hiện chúng thành một trang web thân thiện với người dùng, hấp dẫn, trực quan. Thiết kế và bố cục thể hiện một cách hoàn hảo bản sắc thương hiệu của chúng tôi, giúp giới thiệu hiệu quả các sản phẩm thủ công tới khách hàng mục tiêu.",
+          "name":"Ông Trần Nam",
+          "bio":"Nhà sáng lập Crochet Clothes",
+          "img":"https://cms-strapi.ichiba.net/uploads/2511_6bda166024.webp"
+        },
+        {
+          "brand":"SHOPFORME",
+          "bioBrand":"Chuyên hàng Nhật, Mỹ ",
+          "numberUser":"60.000+",
+          "users":"người dùng",
+          "numberItems":"15+ triệu",
+          "items":"sản phẩm",
+          "content":"IChiba Global đã giúp chúng tôi tạo ra một trang web bán hàng tích hợp với tất cả các tính năng thiết yếu như danh mục sản phẩm, giỏ hàng, cổng thanh toán và hệ thống quản lý tồn kho. Ngoài ra, trang web có tốc độ load trang nhanh, được tối ưu cho nhiều thiết bị khác nhau, đảm bảo trải nghiệm mua sắm nhất quán của người tiêu dùng. Website Shopforme cũng được tối ưu hóa SEO, vì vậy lượng truy cập tự nhiên khá cao. ",
+          "name":"Bà Lea",
+          "bio":"Trưởng phòng marketing Shopforme",
+          "img":"https://cms-strapi.ichiba.net/uploads/2511_6bda166024.webp"
+        }
+      ]
+    },
+    "why":{
+      "title":"Tại sao chọn StoreFront Layer của IChiba",
+      "content":["Chúng tôi đã chắp cánh cho hàng ngàn doanh nhân biến ước mơ thành hiện thực!","Mở khóa tiềm năng phát triển TMĐT, mở rộng doanh nghiệp với công cụ xây dựng website toàn diện."],
+      "items":[
+        {
+          "icon":"https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_336c83a3a8.svg",
+          "title":"Công nghệ hiện đại",
+          "content":"Kiến trúc mô-đun, API-first, Cloud native và Headless giúp bạn có được sự linh hoạt, tăng tốc thương mại và mở rộng quy mô nhanh hơn."
+        },
+        {
+          "icon":"https://cms-strapi.ichiba.net/uploads/61770d1df091c77be32f2581_bag_1_d3f565b9a9.svg",
+          "title":"Thân thiện với người bán và nhà phát triển",
+          "content":"Dễ học, dễ định cấu hình và dễ vận hành – Giao diện dashboard quản lý thân thiện với nhà bán hàng."
+        },
+        {
+          "icon":"https://cms-strapi.ichiba.net/uploads/60e8a11ead3db534192d180a_Automate_1_df2e93ad41.svg",
+          "title":"Nhanh chóng & linh hoạt",
+          "content":"Mô hình theo mô-đun mang lại sự linh hoạt để phát triển cơ sở hạ tầng và rút ngắn quá trình nghiệm thu website."
+        }
+      ]
+    },
+    "build":{
+      "title":"Bạn đã sẵn sàng xây dựng trang web bán hàng của riêng mình chưa?",
+      "button":"Làm ngay thôi!"
+    }
+  }
+}

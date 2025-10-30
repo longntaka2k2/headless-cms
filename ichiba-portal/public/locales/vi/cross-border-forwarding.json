@@ -1,0 +1,240 @@
+{
+  "smartCrossBorder": "Cross-Border Forwarding",
+  "menu": {
+    "overview": "Tổng quan",
+    "pricing": "Bảng phí"
+  },
+  "banner": {
+    "heading": "Cross-Border Forwarding",
+    "title": "Phần mềm quản lý thủ tục hải quan, xuất nhập khẩu",
+    "subTitle": [
+      "Chúng tôi cung cấp phần mềm quản lý bán hàng và vận chuyển xuyên biên giới với đa phương thức thanh toán, đa ngôn ngữ, và đa tiền tệ.",
+      "Nhà bán hàng có thể chủ động cài đặt các cấu hình trên giao diện quản lý để việc vận hành và kinh doanh thương mại điện tử xuyên biên giới được linh hoạt hơn."
+    ],
+    "getDemo": "Đặt lịch hẹn",
+    "freeTrial": "Dùng thử miễn phí"
+  },
+  "howItWorks": {
+    "label": "Quy trình vận hành",
+    "heading": "Cross-Border Forwarding",
+    "subHeading": "Số hóa quy trình và quản lý chứng từ xuất nhập khẩu hiệu quả, giúp hàng hóa thông quan nhanh chóng với IChiba Cross-Border Forwarding."
+  },
+  "fourObstacles": {
+    "heading": "4 khó khăn phổ biến khiến quy trình xuất nhập khẩu trì trệ",
+    "items": [
+      "Xử lý chứng từ xuất nhập khẩu phức tạp, dễ sai sót",
+      "Thiếu công cụ số hoá, xử lý thủ công tốn kém thời gian",
+      "Khó khăn trong việc tuân thủ quy định hải quan & pháp lý quốc tế",
+      "Quản lý nhiều nhà cung cấp và đối tác logistics"
+    ]
+  },
+  "process": {
+    "headingLoop": ["Tự động hóa", "Số hóa", "tối ưu"],
+    "heading": " quy trình xuất nhập khẩu",
+    "contents": [
+      {
+        "label": "Quy trình",
+        "items": [
+          {
+            "stt": "01",
+            "title": "Tạo đơn hàng & chuẩn bị chứng từ",
+            "subTitle": [
+              "Nhà bán hàng tạo đơn hàng xuất khẩu.",
+              "Chuẩn bị các chứng từ cần thiết: hóa đơn thương mại, packing list, C/O (chứng nhận xuất xứ), AWB/Bill of Lading, tờ khai hải quan…"
+            ]
+          },
+          {
+            "stt": "02",
+            "title": "Khai báo hải quan xuất khẩu",
+            "subTitle": [
+              "Nộp tờ khai hải quan điện tử hoặc khai báo trực tiếp với cơ quan hải quan.",
+              "Hàng hóa được kiểm tra, đánh giá rủi ro (có thể cần kiểm định thực tế)."
+            ]
+          },
+          {
+            "stt": "03",
+            "title": "Vận chuyển quốc tế",
+            "subTitle": [
+              "Sau khi thông quan, hàng được chuyển đến cảng/sân bay.",
+              "Nhà vận chuyển (carrier) nhận hàng và phát hành Bill of Lading (B/L).",
+              "Hàng lên tàu/máy bay vận chuyển sang nước nhập khẩu."
+            ]
+          },
+          {
+            "stt": "04",
+            "title": "Khai báo hải quan nhập khẩu",
+            "subTitle": [
+              "Doanh nghiệp nhập khẩu khai báo hải quan nước sở tại.",
+              "Tính toán thuế nhập khẩu, kiểm định hàng hóa nếu cần.",
+              "Hoàn tất các thủ tục pháp lý trước khi hàng được giải phóng."
+            ]
+          },
+          {
+            "stt": "05",
+            "title": "Fulfillment & giao hàng chặng cuối",
+            "subTitle": [
+              "Hàng được vận chuyển về kho đích và bàn giao cho người nhận.",
+              "Xử lý công nợ, thanh toán chi phí logistics."
+            ]
+          }
+        ]
+      },
+      {
+        "label": "Phần mềm hỗ trợ",
+        "items": [
+          {
+            "stt": "01",
+            "title": "Phần mềm cross-border forwarding hỗ trợ:",
+            "subTitle": ["", ""]
+          },
+          {
+            "stt": "02",
+            "title": "Phần mềm cross-border forwarding hỗ trợ:",
+            "subTitle": ["", ""]
+          },
+          {
+            "stt": "03",
+            "title": "Phần mềm cross-border forwarding hỗ trợ:",
+            "subTitle": ["", ""]
+          },
+          {
+            "stt": "04",
+            "title": "Phần mềm cross-border forwarding hỗ trợ:",
+            "subTitle": ["", ""]
+          },
+          {
+            "stt": "05",
+            "title": "Phần mềm cross-border forwarding hỗ trợ:",
+            "subTitle": ["", ""]
+          }
+        ]
+      }
+    ]
+  },
+  "management": {
+    "heading": "Quản lý tài liệu vận đơn",
+    "items": [
+      {
+        "title": "Tạo Air waybill (AWB) tự động",
+        "subTitle": "Tự động điền đầy đủ thông tin cần thiết và tạo vận đơn AWB mà không cần nhập tay, giúp tiết kiệm thời gian và hạn chế lỗi nhập liệu."
+      },
+      {
+        "title": "Thư viện mẫu tài liệu tuỳ chỉnh",
+        "subTitle": "Lưu trữ, quản lý và tái sử dụng mẫu tài liệu theo từng loại hàng hóa, tuyến đường và yêu cầu hải quan, giúp giảm thời gian xử lý và hạn chế sai sót."
+      },
+      {
+        "title": "Theo dõi lô hàng theo thời gian thực",
+        "subTitle": "Cập nhật liên tục trạng thái lô hàng, giúp bạn và khách hàng nắm bắt thông tin kịp thời và chính xác."
+      },
+      {
+        "title": "Quản lý vận đơn chủ/vận đơn nhà (HAWB/MAWB)",
+        "subTitle": "Kết nối nhiều HAWB vào một MAWB để theo dõi dễ dàng. Hỗ trợ chia nhỏ lô hàng khi cần gửi đến nhiều điểm nhận."
+      },
+      {
+        "title": "Chữ ký điện tử",
+        "subTitle": "Tích hợp chữ ký số giúp đẩy nhanh quá trình phê duyệt và tối ưu quy trình xử lý chứng từ."
+      }
+    ]
+  },
+  "integration": {
+    "heading": "Tích hợp hải quan và thuế nhập khẩu",
+    "items": [
+      {
+        "title": "Tạo và quản lý chứng từ xuất nhập khẩu",
+        "subTitle": "Nhanh chóng tạo lập và quản lý các chứng từ quan trọng như invoice, packing list và manifest (hóa đơn, danh sách đóng gói và bản lược khai hàng hóa), tiết kiệm tới 90% thời gian xử lý giấy tờ và hạn chế lỗi nhập liệu."
+      },
+      {
+        "title": "Kết nối cổng thông tin hải quan",
+        "subTitle": "Tích hợp trực tiếp với hệ thống hải quan điện tử tại nhiều quốc gia, giúp tự động khai báo và đẩy nhanh quá trình thông quan. Đồng bộ dữ liệu theo thời gian thực."
+      },
+      {
+        "title": "Cập nhật quy định hải quan",
+        "subTitle": "Cơ sở dữ liệu quy định hải quan của các nước được cập nhật liên tục, theo thời gian thực. Tự động thông báo về hàng hóa bị hạn chế hoặc cần giấy phép đặc biệt."
+      },
+      {
+        "title": "Tự động phân loại mã HS",
+        "subTitle": "Gợi ý mã HS code chính xác dựa trên mô tả sản phẩm và dữ liệu lịch sử, giúp giảm sai sót, đẩy nhanh quá trình khai báo hải quan và đảm bảo tuân thủ quy định xuất nhập khẩu."
+      },
+      {
+        "title": "Công cụ ước tính thuế và phí nhập khẩu",
+        "subTitle": "Tự động tính toán thuế, phí hải quan và các chi phí liên quan theo quy định từng quốc gia, giúp doanh nghiệp dự trù chi phí chính xác, tối ưu ngân sách và tránh phát sinh ngoài kế hoạch."
+      },
+      {
+        "title": "Tích hợp khai báo hải quan điện tử",
+        "subTitle": "Dễ dàng thực hiện khai báo hải quan trực tiếp trên phần mềm, đảm bảo tuân thủ quy định và rút ngắn thời gian thông quan."
+      }
+    ]
+  },
+  "freightCost": {
+    "heading": "Quản lý cước phí",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/lets_icons_file_dock_duotone_dee7b26055.svg",
+        "title": "Thiết lập biểu giá linh hoạt",
+        "subTitle": "Tùy chỉnh bảng giá theo điểm đi/đến, trọng lượng, loại hàng và dịch vụ, giúp tối ưu chi phí vận chuyển và tự động tính giá chính xác cho từng lô hàng."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/6176fd192c9aa66ba04117c9_test_1_34c898dc35.svg",
+        "title": "Quản lý phụ phí",
+        "subTitle": "Cập nhật và áp dụng các khoản phụ phí (nhiên liệu, mùa cao điểm, an ninh…) theo thời gian thực, đảm bảo tính chính xác trong báo giá và tối ưu chi phí vận hành."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a1599394e82d62d6d4e5_Conversion_1_c55d4de5ab.svg",
+        "title": "Quy trình phê duyệt giá linh hoạt",
+        "subTitle": "Cho phép thiết lập quy trình phê duyệt cho báo giá đặc biệt hoặc mức giảm giá vượt ngưỡng, đảm bảo kiểm soát chặt chẽ và linh hoạt trong chiến lược giá."
+      }
+    ]
+  },
+  "digitize": {
+    "heading": "Chuyển đổi số xuất nhập khẩu - Nâng cao lợi thế cạnh tranh",
+    "items": [
+      {
+        "title": "Tăng hiệu quả vận hành",
+        "subTitle": "Tự động hóa quy trình giúp giảm thiểu công việc thủ công, tăng năng suất và hiệu quả làm việc."
+      },
+      {
+        "title": "Giảm thiểu rủi ro và sai sót",
+        "subTitle": "Gửi thông báo ngay sau khi phát hiện các lỗi phát sinh trong quá trình xử lý chứng từ và thông quan."
+      },
+      {
+        "title": "Tiết kiệm chi phí",
+        "subTitle": "Tối ưu hóa quy trình và quản lý hiệu quả giúp giảm chi phí vận hành và tăng lợi nhuận cho doanh nghiệp."
+      },
+      {
+        "title": "Nâng cao sự hài lòng của khách hàng",
+        "subTitle": "Cung cấp thông tin kịp thời và chính xác, cải thiện trải nghiệm và xây dựng lòng tin với khách hàng."
+      }
+    ]
+  },
+  "customerSuccess": {
+    "heading": "Câu chuyện khách hàng",
+    "subHeading": "Hơn 100+ doanh nghiệp logistics và doanh nghiệp cung cấp dịch vụ fulfillment đã tối ưu được quy trình xuất nhập khẩu, giúp rút ngắn 40% thời gian thông quan hàng hóa, đảm bảo SLA dịch vụ."
+  },
+  "beforeAfter": [
+    {
+      "icon": "https://cms-strapi.ichiba.net/uploads/Group_531fe0d509.svg",
+      "label": "Trước",
+      "title": "IChiba Cross-Border Forwarding",
+      "contents": [
+        "Xử lý thủ công hàng ngàn chứng từ xuất khẩu, dễ xảy ra sai sót",
+        "Theo dõi trạng thái thông quan khó khăn, ảnh hưởng đến thời gian giao hàng",
+        "Quản lý dữ liệu đơn hàng từ nhiều nguồn khác nhau, tốn kém thời gian đối soát"
+      ]
+    },
+    {
+      "icon": "https://cms-strapi.ichiba.net/uploads/Objects_3b6fe655a5.svg",
+      "label": "Sau",
+      "title": "IChiba Cross-Border Forwarding",
+      "contents": [
+        "Quản lý dữ liệu đơn hàng từ nhiều nguồn khác nhau, tốn kém thời gian đối soát",
+        "Đồng bộ dữ liệu tự động, giúp quản lý chính xác trạng thái hàng hóa",
+        "Giảm 50% chi phí vận hành, tăng hiệu suất xử lý đơn hàng"
+      ]
+    }
+  ],
+  "contact": {
+    "heading": "Quản lý xuất nhập khẩu chưa bao giờ nhanh chóng và dễ dàng đến thế!",
+    "subHeading": "Bạn đã sẵn sàng tối ưu quy trình xuất nhập khẩu của mình? Liên hệ ngay để được hỗ trợ 1-1 với đội ngũ chuyên gia của IChiba!",
+    "textBtn": "Liên hệ ngay"
+  }
+}

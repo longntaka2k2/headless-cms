@@ -1,0 +1,2144 @@
+{
+  "freeTrial": "Free Trial",
+  "takeTour": "Take tour",
+  "vietName": "Vietnamese",
+  "global": "Quốc Tế",
+  "titleGEOModal": "Hello, You are accessing the website for {0}, would you like to continue on this website?",
+  "continueGEOModal": "Yes, continue on {0}",
+  "nextGEOModal": "No, go to the website for {0}",
+  "signIn": "Sign In",
+  "forSeller": "For Seller",
+  "sellerDemo": "Seller Demo Account",
+  "forOperator": "For Operator",
+  "userInfo": "User Info",
+  "visit": "Visit",
+  "logOut": "Logout",
+  "hello": "Hello",
+  "language": "Language:",
+  "present": "IChiba OnePlatform is the leading end-to-end e-commerce enabler in Southeast Asia",
+  "here": "here",
+  "access": "You are accessing the website for {0}, would you like to continue on this website?",
+  "learnMore": "Learn more",
+  "tryItFree": "Try it free",
+  "tryForFree": "Try for free",
+  "getStart": "Get started for free",
+  "getStartedFor": "Get started free",
+  "contactSale": "Contact Sales",
+  "readMore": "Read More",
+  "takeATour": "Take a tour",
+  "all": "All",
+  "suscess": "Success!",
+  "false": "Failed!",
+  "customerSay": {
+    "customerSayContent": "Instead of spending too much time tracking each shipping unit on each website, I can now track my packages right on Ship4P screen with just a few clicks. Thanks to IChiba, I have reduced lots of time and effort in tracking orders to have more time to research and develop products. I hope IChiba OnePlatform can connect more carriers in the world in the future.",
+    "customerSayContent1": "IChiba OnePlatform has helped improve accuracy no end, and it also integrates seamlessly with our shipping provider, so although we have a much higher volume of orders, we’re processing and shipping them at a faster rate than ever before. It's time to say bye to the tracking dashboard of each carrier, as we can track & trace my order status anytime, anywhere on a dashboard now.",
+    "customerSayContent2": "Ship4P has allowed us to grow our carrier network, brought our customers a wide range of shipping options to every corner of the world with the best condition, as well as enabled Toro's customer service team to have full visibility on all customer orders in one easy-to-use platform.",
+    "customerSayContent3": "Because wholesale orders are in the pipeline for longer than those cusomers coming to us via a DC channel, it adds an extra layer of complexity to order fulfillment. However, Brightpearl automatically updates each sales channel in realtime with information on what products are available. And its single source of truth means I can dip into the platform at any time to quickly get an overview of our inventory, order fulfillment and sales across channels, which is so important to removing potential bottlenecks in our operation.",
+    "title": "What our customers say",
+    "story": "CUSTOMER SUCCESS STORY",
+    "content": "Our awesome customers have benefited from IChiba's hyper-scalability to connect to some game-changing tools. Check out some examples below – and get inspired about what you could achieve."
+  },
+  "contactsale": {
+    "ichibaSupport": "IChiba Support",
+    "contact": "Information",
+    "talk": "Talk to an expert",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "industry": "Industry",
+    "role": "Job Role",
+    "companyName": "Company Name",
+    "position": "Position",
+    "companyEmail": "Email",
+    "companyWebsite": "Company Website",
+    "inputCompanyWebsite": "Enter your website",
+    "serviceInterested": "Service You’re Interested In",
+    "companySize": "Company Size",
+    "country": "Country/Region",
+    "phone": "Telephone",
+    "canHelp": "How can we help?",
+    "signUp": "Sign me up to receive news, event information, and updates from IChiba",
+    "submit": "Submit request",
+    "customerType": "Customer type",
+    "hereToHelp": "We’re here to help",
+    "ourSale": "Our sales team will give you personalized guidance to help you find the right IChiba solution. We can help:",
+    "design": "Let's discuss what you need with our experts by filling out the information in the form. ",
+    "take": "Take you through demos, and walk you through the onboarding process",
+    "provide": "Provide more information on pricing, the billing process, as well as how to save costs",
+    "likeToContact": "I'd like to contact sales for",
+    "selectAnOption": "Select an option",
+    "goodCompany": "You're in good company",
+    "goodCompany2": "",
+    "submitThisForm": "By submitting this form, I acknowledge receipt of the IChiba",
+    "shareMore": "Share more details on your project and what you're looking for",
+    "employee": "Employees",
+    "orMore": "500 Employees or more",
+    "requied": "Required field",
+    "industryOptions": {
+      "bank": "Bank",
+      "ecommerce": "Ecommerce",
+      "warehouse": "Warehouse",
+      "transport": "Transport",
+      "orther": "Other"
+    },
+    "productInterest": {
+      "omni": "Omnichannel",
+      "pos": "Point Of Sale (POS)",
+      "tmdt": "Sell on Marketplaces",
+      "social": "Sell on Social Platform",
+      "web": "Sell online",
+      "fulfill": "Fulfillment Service",
+      "cross": "Cross-Border Forwarding"
+    },
+    "jobRole": {
+      "po": "Product-manager",
+      "leader": "Leader",
+      "it": "IT",
+      "ba": "Business Analyst",
+      "marketing": "Marketing",
+      "orther": "Other"
+    },
+    "for": {
+      "demo": "Demo",
+      "ticket": "Ticket",
+      "support": "Support"
+    },
+    "started": "I have’nt started selling yet: no revenue",
+    "just": "Just starting out: <$50K",
+    "building": "Building a business: $50K - $150K",
+    "growing": "Growing business: $250K - $1M",
+    "small": "Small enterprise: $1M - $20M",
+    "middle": "Middle enterprise: $20M - $50M",
+    "large": "Large enterprise: > $100M+",
+    "success": "Success",
+    "false": "False"
+  },
+  "header": {
+    "product": {
+      "title": "Products",
+      "ship4p": {
+        "title": "Ship4P",
+        "content": "Intelligent integration with the world's most renowned carriers"
+      },
+      "crossBorder": {
+        "title": "Cross-Border Forwarding",
+        "content": "The most effective e-commerce platform for increasing sales volume and extending market reach."
+      },
+      "oms": {
+        "title": "Order Management System",
+        "content": "Best Omnichannel Management Software for sales growth"
+      },
+      "wms": {
+        "title": "Warehouse Management System",
+        "content": "Optimize warehouse management and operations"
+      },
+      "cdxp": {
+        "title": "CDXP ( Coming soon)",
+        "content": "Coming soon"
+      },
+      "Integrations": {
+        "title": "Integrations",
+        "content": "Explore a comprehensive integrated ecosystem that strengthens businesses"
+      },
+      "digital": {
+        "title": "StoreFront Layer Tool",
+        "content": "Create your eCommerce trading website with the most flexible and comprehensive tools."
+      }
+    },
+    "solution": {
+      "title": "Solutions",
+      "saas": "Software as a service",
+      "fulfillS": "Fulfillment Services",
+      "eDis": {
+        "title": "ECommerce Distributors",
+        "content": "Comprehensive solution for e-commerce distributors"
+      },
+      "fulfillment": {
+        "title": "Order Fulfillment",
+        "content": "Streamlined and effective Multi- channel Fulfillment solutions for every industry"
+      },
+      "oRetailers": {
+        "title": "Omnichannel Retailers/SMEs",
+        "content": "Digital transformation solutions for omnichannel retailers"
+      },
+      "commerce": {
+        "title": "Brand Commerce",
+        "content": "Assist brands in building store front, managing, and enhancing brand integrity."
+      },
+      "cross": {
+        "title": "Cross-border eCommerce",
+        "content": "Boost your sales worldwide with our end-to-end cross-border solution"
+      },
+      "ecomFulfill": {
+        "title": "ECommerce fulfillment",
+        "content": "Fulfillment built for global eCommerce growth"
+      },
+      "warehouse": {
+        "title": "Warehouse fulfillment",
+        "content": "Strategically split & manage your supply chain and logistics effectively"
+      }
+    },
+    "support": {
+      "title": "Support center",
+      "faq": {
+        "title": "FAQs",
+        "content": "Answer all your questions about us"
+      },
+      "request": {
+        "title": "Support Request",
+        "content": "Not able to discover the answers? Contact us for immediate responses."
+      }
+    },
+    "company": {
+      "title": "Company",
+      "discover": {
+        "title": "Discover IChiba",
+        "content": "Our mission, vision, values, team and networks"
+      },
+      "trust": {
+        "title": "Trust & Security",
+        "content": "Deliver the industry's most trustworthy, secure, and compliant infrastructure."
+      },
+      "careers": {
+        "title": "Careers",
+        "content": "Commence a new adventure with us - a career at IChiba OnePlatform"
+      },
+      "job": "Jobs"
+    },
+    "resource": {
+      "title": "Resource Center",
+      "documentation": {
+        "title": "Documentation",
+        "content": "All the assistance you require for IChiba OnePlatform products, counting developer manuals, tutorials,...."
+      },
+      "blog": {
+        "title": "Blog",
+        "content": "Articles, resources, stories, tips, and more"
+      },
+      "events": {
+        "title": "Events",
+        "content": "Follow up our live and on-demand webinars, workshops, podcasts and digital events."
+      },
+      "video": {
+        "title": "Video Library",
+        "content": "Tutorials, reviews, case studies, and more"
+      },
+      "user": {
+        "title": "User guide",
+        "content": "View highlighted playbooks to chart your path to success."
+      },
+      "job": "Jobs"
+    },
+    "profile": {
+      "profile": "Profile",
+      "login": "Social Login",
+      "address": "Address Book",
+      "security": "Security",
+      "logout": "Log out"
+    },
+    "suport": "Support"
+  },
+  "needSupport": {
+    "title": "Need support? We are here to help!",
+    "content1": "It's About Working Together For The Same Goal. ",
+    "content2": "Contact one of our highly-trained support experts to get detailed answers to your specific questions.",
+    "btnContact": "Contact Sales",
+    "checkout": "Check out our reliable resources",
+    "discover": "Discover our documentation centre",
+    "experience": "Experience amazing tools to grow your business with a free account"
+  },
+  "footer": {
+    "copy": "Copied",
+    "iChiba": "IChiba OnePlatform",
+    "product": "Products",
+    "solutions": "Solutions",
+    "resource": "Resource center",
+    "discover": "Discover IChiba",
+    "about": "About Us",
+    "ourStrengths": "Our Strengths",
+    "careers": "Careers",
+    "trust": "Trust & Security",
+    "investors": "Investors",
+    "oms": "Order Management System (OMS)",
+    "wms": "Warehouse Management System (WMS)",
+    "crossEcom": "Cross-Border Forwarding",
+    "ship4p": "Ship4P - Multi-carrier Integration ",
+    "crossForward": "Cross-border forwarding",
+    "orderfulfillment": "Order Fulfillment",
+    "fulfillment": "Fulfillment service",
+    "brand": "Brand Commerce",
+    "ecomDis": "Ecommerce Distributors",
+    "omniRetail": "Omnichannel Retailers",
+    "blog": "Blog",
+    "useGuide": "User guide",
+    "video": "Video library",
+    "webinars": "Webinars",
+    "contactUs": "Contact Us:",
+    "documentation": "Documentation",
+    "digital": "StoreFront Layer/Landing Page",
+    "event": "Events",
+    "weAre": "WE ARE GLOBAL, MEET OUR TEAM",
+    "term": "Terms & Conditions",
+    "subscribe": "Subscribe",
+    "powerGlow": "A power that glows your business",
+    "dontMiss": "Don't miss updates from us!",
+    "privacy": "Privacy Policy",
+    "hoChiMinh": "No. 55 Sam Son, Ward 4, Tan Binh District, Ho Chi Minh City, Vietnam 72517.",
+    "haNoi": "No. 20 Mai Chau village - Dai Mach commune - Dong Anh district",
+    "cross": "Cross-Border ECommerce",
+    "ecomFulfill": "ECommerce Fulfillment",
+    "warehouse": "Warehouse Fulfillment",
+    "asiaFulfillmentServ": "Cross-Border Fulfillment",
+    "cdxp": "Customer Data & Experience Platform (CDXP)",
+    "integration": "Integrations",
+    "pim": "Product Information Management (PIM)",
+    "pos": "Point Of Sale (POS)",
+    "faq": "FAQs"
+  },
+  "discover": {
+    "whoWeAre": "Who We Are",
+    "behindAStrong": "Behind a strong business, exist a passionate supporter.",
+    "behindAStrong2": "Here we are to unlock every single individuas potential through a software ecosystem of logistics & e-Commerce with convenient and intelligent management capabilities, regardless of scale and model.",
+    "7years": "7+ Years",
+    "experience": "Experience in Logistic & eCommerce",
+    "customersServiced": "Customers serviced",
+    "worldwide": "Worldwide employees",
+    "globalPartners": "Global partners",
+    "ourVision": {
+      "title": "Our Vision",
+      "content": "Becoming a leading company that provides cross-border e-commerce platform solutions to support growing businesses in Southeast Asia."
+    },
+    "ourMission": {
+      "title": "Our Mission",
+      "content": "We are committed to removing barriers of cross-border e-commerce and supporting businesses on their way to the global market."
+    },
+    "ourHistory": {
+      "title": "Our History",
+      "content": "IChiba OnePlatform passionately invests in quality training and high technologies to develop the best end-to-end eCommerce solutions that support entrepreneurs scale up sustainably."
+    },
+    "coreValue": {
+      "title": "Core Values",
+      "content": "We hold most dear of our deeply ingrained principles to serve employees and customers.",
+      "equality": {
+        "title": "Equality",
+        "content": "As a multinational corporation, we believe everyone deserves equal opportunities to gain success. Valuing diverse perspectives drives innovation, strengthens connections between people, and makes us a better company."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "content": "We believe that there s no such thing as the best version. We continuously and constantly innovate to adapt to market developments every day for our customers."
+      },
+      "trustComponents": {
+        "title": "Trust components",
+        "content": "Earning and keeping the trust of customers are key factors to build a sustainable and strong relationship. We maintain our client’s safety by several security methods that are certificated."
+      },
+      "customerCentricity": {
+        "title": "Customer Centricity",
+        "content": "Customer satisfaction is our measure of development and success. Here we value customer feedback and suggestions enhance their experience. "
+      },
+      "integrityCommitment": {
+        "title": "Integrity commitment",
+        "content": "We keep clear and transparent relationships with employees, partners, shareholders and society, ensuring the harmony of interests of stakeholders, towards sustainable development."
+      }
+    },
+    "toward": {
+      "title": "Towards business growth, together!",
+      "withTech": "With technology solutions from IChiba OnePlatform, businesses and individuals can run their business across all sales channels in a single place. It is all automatic that IChiba OnePlatform supports the management, so businesses can focus on growing and innovating.",
+      "IChibaGlobal": "IChiba OnePlatform team of specialists work hand-in-hand with customers to help operate technologies smoothly and conveniently. We focus on removing the complexity from digital transformation, so brands can deliver rich experiences driven by data and create forward-thinking culture."
+    },
+    "ourNetworks": {
+      "title": "Our networks",
+      "content": "We are proud to be the first one who provides a supportive software ecosystem of logistics & eCommerce with convenient and intelligent management capabilities for all business models in South East Asia."
+    },
+    "ourStrengths": {
+      "title": "Our strengths",
+      "content": "How can IChiba OnePlatform drive value to businesses?",
+      "singlePlatform": {
+        "title": "A single platform solution",
+        "content": "We provide an all-in-one platform that directly addresses many of the root causes contributing to lengthy implementation. The integrated, modular approach simplifies procedures, and greatly reduces IT complexity."
+      },
+      "deepIntegration": {
+        "title": "Deep integration interfaces",
+        "content": "No matter how sophisticated or simple your supply chain operations, IChiba OnePlatform helps with increased control and visibility with deep integration interfaces.  Our flexible and comprehensive integrations to Omni-channels, OMS, WMS, fourth-party systems, and more, can increase your business’s productivity and efficiency. "
+      },
+      "realTime": {
+        "title": "Real-time data visibility",
+        "content": "Take control of the operation with trackable information in real-time. Better management of multiple facets of this complex process helps businesses to gain a competitive edge, enhance productivity, increase transparency and customer satisfaction, and also reduce transportation costs."
+      },
+      "comprehensive": {
+        "title": "Comprehensive compliance",
+        "content": "Customer benefits are ensured by our comprehensive compliance program with all applicable rules, regulations, contracts and policies governing the actions of the organization. Businesses can feel safe working on IChiba OnePlatform without mentioning the risks of the data leak."
+      }
+    },
+    "howWeWork": {
+      "howWeWork": "How we work",
+      "openToWork": "Open to work",
+      "weBelieve": "We believe all teams have the potential to do great things when work is open.",
+      "openToHas": "Open to work has always been central to our values. Our teams strive to work, communicate and collaborate openly every day to stay ahead.",
+      "openUp": "Open up new opportunities. Open up new relationships. Open unleash potential.",
+      "meetOurTeam": "Meet our team"
+    },
+    "ourData": {
+      "title": "Our Data Privacy Commitment",
+      "content": "Data protection is non-negotiable at IChiba OnePlatform. All legal documentation is provided to ensure compliance. We meet all legal requirements stipulated by law to protect your data throughout the business process.",
+      "learnMore": "Learn more"
+    }
+  },
+  "careers": {
+    "title": "Place for creative to innovate something big together",
+    "content": "We're committed to bringing world-class, passionate professionals together to push new boundaries",
+    "searchJob": "search your job",
+    "viewAllJob": "View all job",
+    "searchTitle": "Type your job title",
+    "ourCulture": {
+      "title": "Our Culture",
+      "diversity": {
+        "title": "Diversity, Equity and Inclusion",
+        "content": "We value everyone’s contribution and celebrate the differences. Diverse and inclusive teams serve all of our customers and partners more effectively.",
+        "learnMore": "More about IChiba"
+      },
+      "interview": {
+        "title": "Interviewing at IChiba OnePlatform",
+        "content": "Our application and interview procedures differ amongst positions. Read more about our distinctive interviewing methodology, what to anticipate, and how to prepare.",
+        "learnMore": "Learn more"
+      },
+      "agile": {
+        "title": "Agile Culture",
+        "content": "At IChiba, we create an environment powered by values, behaviors and practices that help individuals become more adaptive, flexible, innovative and resilient.",
+        "learnMore": "Explore our agile culture"
+      }
+    },
+    "employee": {
+      "title": "Because employee matters",
+      "benefits": {
+        "title": "Employee Benefits",
+        "content": "At IChiba OnePlatform, we offer a range of great benefits that support employees such as paid time off and paid holidays, company trips in addition to other medical accommodation options that are available for mental and physical health concerns."
+      },
+      "training": {
+        "title": "Training & Development",
+        "content": "We establish a professional working environment and provide proper training so that staff can improve their skills, and ensure that the work loads are always followed."
+      },
+      "work": {
+        "title": "Work Environment",
+        "content": "A positive work environment promotes employee wellbeing, productivity and growth. Our culture, our values, and the way we work together as a team, ensure that everyone feels valued and rewarded for the contribution they bring."
+      },
+      "equity": {
+        "title": "Equity Program",
+        "content": "We want all employees to align with and share in IChiba OnePlatform's success. Our equity program allows for all members to participate in both new hire and ongoing equity grants."
+      },
+      "flexible": {
+        "title": "Flexible working arrangements",
+        "content": "We offer flexible place and hours of working for employees so that they can schedule their time better."
+      },
+      "leadership": {
+        "title": "Leadership program",
+        "content": "We encourage employees to work to overcome their own limitations and build on their strengths. Here at IChiba OnePlatform, everyone opens the doors of possibilities to learn and develop leadership skills."
+      },
+      "weSave": "We save every single sweet memories together!",
+      "followUs": "Follow us at ",
+      "Wereglad": "We're glad to have you as a meaningful part of our team!",
+      "seeOpen": "See open jobs "
+    },
+    "findJob": "Find your dream job",
+    "search": "Search",
+    "location": "Location",
+    "expirationDate": "Expiration date",
+    "all": "All",
+    "category": "Category",
+    "engineering": "Engineering & Technology",
+    "sales": "Sales & Marketing",
+    "business": "Business Support & Operations",
+    "relatedJobs": "Related Jobs",
+    "applyNow": "Apply Now",
+    "share": "Share",
+    "contract": "Contract type",
+    "joinUs": "Join Us Now!",
+    "joinCommunity": "Join our community",
+    "fullName": "Full name",
+    "phoneNumber": "Phone number",
+    "portfolio": "Portfolio",
+    "bySubmit": "By submitting a CV, you agree with our privacy statements.",
+    "drag": "Drag and drop your file here or browse from your computer. Up to 3mb, allowed file types: jpg, jpeg, png, doc, docx, pdf",
+    "submit": "Submit application",
+    "ourOffice": "Our offices"
+  },
+  "ship": {
+    "overview": {
+      "header": {
+        "overView": "Overview",
+        "features": "Features"
+      },
+      "banner": {
+        "title": "A single point connecting businesses to carriers",
+        "content1": "Ship4P helps businesses connect to domestic and international carriers in just one place.",
+        "content2": "A comprehensive supply chain solution and fulfill global orders from Japan, US, China, Korea, Vietnam and more to meet customer expectations.",
+        "getFree": "Get It Free",
+        "number": {
+          "orders": "Orders shipped on time",
+          "accuracy": "Accuracy rate in delivery",
+          "countries": "Countries & territories shipped",
+          "carriers": "Carriers connected"
+        }
+      },
+      "weBuild": {
+        "title": "We build bridges between carriers and businesses",
+        "before": {
+          "title": "Before Ship4P",
+          "must": "Must work on many applications separately",
+          "canNot": "Can not compare shipping rates",
+          "decentralized": "Decentralized order management which leads to errors",
+          "haveTo": "Have to visit each carrier's website to check order journeys",
+          "complicated": "Complicated manual reconciliation",
+          "contact": "Contact each and every single carrier for support"
+        },
+        "after": {
+          "title": "After Ship4P",
+          "access": "Access Ship4P only once for multi-carrier management",
+          "easily": "Easily compare shipping rates and discount programs",
+          "create": "Create bill of lading codes and manage orders centrally",
+          "automatic": "Automatic status update, ALL IN ONE tracking number system",
+          "check": "Check and pay quickly and accurately",
+          "support": "24/7 support service"
+        }
+      },
+      "robust": {
+        "title": "Robust integrations to streamline shipping processes",
+        "simplify": "Simplify shipping process",
+        "manage": "Manage multiple carriers",
+        "increase": "Increase shipping productivity and decrease errors by automating processing with API and plugins. ",
+        "ofTheShipping": "of the shipping process are now automated.",
+        "centralize": "Centralize every shipping company in one place for better and more convenient management.",
+        "timeSaved": "time saved by centrically controlling carriers.",
+        "keyFeatures": "Key features",
+        "theComplete": "The complete multi-carrier shipping software that enhances the journey from expedite shipment to returns - and all touch points in between.",
+        "delivery": {
+          "title": "Delivery options",
+          "content": "Customers can choose the suitable delivery company based on the estimated time and costs of each unit. We also offer add-on services like collect-on-delivery, insurance, signature required, dangerous goods, pickup, and Saturday delivery."
+        },
+        "automatic": {
+          "title": "Automatic shipment sync",
+          "content": "Ship4P system gets the shipment status from multiple carrier channels constantly. You can monitor all shipments from various shipping companies on one screen, which saves time and costs."
+        },
+        "label": {
+          "title": "Label printing & real-time tracking",
+          "content": "We provide a wide range of printing label sizes. Proactive shipment tracking through an API system and sending notifications in real-time, optimize delivery performance and user satisfaction."
+        },
+        "accurate": {
+          "title": "Accurate and fast reconciliation",
+          "content": "Fully automate and standardize the reconciliation process to significantly reduce the time to close daily and period-end reconciliation activities. Data collected from various sources and carriers are systematically controlled in Ship4P."
+        },
+        "advanced": {
+          "title": "Advanced reports",
+          "content": "Easily analyze shipment performance with our reporting tool which easily generates shipping and logistics reports, followed by multiple options to customize by date, shipment type, status, and more."
+        },
+        "complete": {
+          "title": "Complete shipping-API integration",
+          "content": "Shipping APIs and webhooks enable direct integration of the logistic partner with multiple sale channels and order management system, hence automating the process. Powerful shipping APIs of Ship4P can be used to consolidate all expedite shipment and delivery information into a single, complete dashboard."
+        },
+        "shipping": {
+          "title": "Shipping workflow automation",
+          "content": "Our software delivers automation processes including picking items from inventory for delivery, document handling, packing, and getting packages in transit to be delivered."
+        },
+        "interational": {
+          "title": "International shipping",
+          "content": "Ship4P gives businesses instant access to significant shipping information, the ability to save and reuse Harmonized System codes (HS codes), and estimated duties and taxes for international shipments."
+        },
+        "multi": {
+          "title": "Multi-carrier integrations",
+          "content": "Customers can choose the suitable delivery company based on the estimated time and costs of each unit. We also offer add-on services like collect-on-delivery, insurance, signature required, dangerous goods, pickup, and Saturday delivery."
+        },
+        "mangageSingle": {
+          "title": "Manage in a single dashboard",
+          "content": "Ship4P system gets the shipment status from multiple carrier channels constantly. You can monitor all shipments from various shipping companies on one screen, which saves time and costs."
+        }
+      },
+      "integration": {
+        "title": "Integration",
+        "content": "Ship customer orders from any sales channel, using any shipping provider.",
+        "allCountry": "All Countries/ Region",
+        "allCarries": "All Carriers",
+        "viewAll": "View All Integrations",
+        "hide": "Hide",
+        "vietnam": "Vietnamese",
+        "global": "Global",
+        "japan": "Japan",
+        "US": "US",
+        "korean": "korean",
+        "china": "China",
+        "singapore": "Singapore",
+        "myanmar": "Myanmar",
+        "malaysia": "Malaysia",
+        "indonesia": "Indonesia",
+        "thailand": "Thailand",
+        "laos": "Laos",
+        "cambodia": "Cambodia"
+      },
+      "howItWorks": {
+        "title": "How it works",
+        "startFree": "Start For Free",
+        "content": "How Ship4P goes from your online stores to your customer’s doors",
+        "connect": {
+          "title": "1. Connect to carriers",
+          "content": "Eliminate nuisance of making contracts with each carrier. Now you can integrate to all of them with just one click to activate via Ship4P"
+        },
+        "createShipments": {
+          "title": "2. Create shipments",
+          "content": "Create shipments domestically or internationally, wherever you are"
+        },
+        "choseaShipping": {
+          "title": "3. Choose a shipping plan",
+          "content": "Smart technology filters the suitable carriers, compares freight and shipping time"
+        },
+        "export": {
+          "title": "4. Export labels & invoices",
+          "content": "Support exporting labels and invoices. Easily set up hiding information on the label"
+        },
+        "track": {
+          "title": "5. Track the order status",
+          "content": "Follow the order routes in real-time. All-in-one tracking supports viewing bills of lading from multiple shipping units"
+        }
+      },
+      "built": {
+        "title": "Built for online sellers & couriers regardless scales",
+        "available": "Available on desktop & mobile app:",
+        "connect": "Connect appropriate carriers wherever sellers are",
+        "fit": "Fit every sellers’ industries:",
+        "diverse": "Diverse functionalities that suit multiple purposes and scales of businesses",
+        "international": "International logistics companies:",
+        "trustworthy": "A trustworthy partner of foreign carriers that do not have headquarters in a country in South East Asia",
+        "freeUp": "Free up your time monitoring all couriers at once",
+        "connectWith": "Connect with Ship4P and you’ll regret not using our service earlier!",
+        "getStarted": "Get Started Free"
+      }
+    },
+    "features": {
+      "title": "Ship4P Features",
+      "content": "Multi-carrier integrations that simplify eCommerce fulfillment operations",
+      "getStarted": "Start For Free",
+      "shippingKeep": "Shipping Keeps Going, And Going, And Going...",
+      "seamlessBusiness": "Seamless businesses - carriers integration",
+      "connectFirms": "Connect firms with reputable shipping companies worldwide on a single platform.",
+      "easilySwap": "Easily swap from one courier service to another at a moment's notice to suit specific needs.",
+      "enableFast": "Enable fast delivery by automatically select a shipping partner who deliver the most affordable price.",
+      "automatic": "Automatic order sync",
+      "centeredly": "Centeredly manage and sync orders from multiple delivery partners on just one interface to save operation cost and minimize stockout rate.",
+      "automatically": "Automatically updated all integrated channels, going along with shipment tracking information at regular intervals.",
+      "trackAndTrace": "Track and trace real-time",
+      "quickly": "Quickly create bills of lading to track the orders in real time. Even in case the tracking number changes along its route, our API is able to source and deliver the latest tracking information on the packages.",
+      "receive": "Receive notifications about every single journey, avoiding missed or lost orders. It's ready at your fingertips as soon as you need to obtain tracking information.",
+      "flexible": "Flexible shipment management",
+      "easily": "Easily compare rates between carriers: Our Shipping Rate API calculates prices for shipments across different carriers so that business can pick the best-priced service.",
+      "print": "Print & customize bills & labels information: creating labels online and printing multiple labels at once.",
+      "suggest": "Suggest shipping routes and flexibly combine with OMS, WMS, Social Commerce to manage shipments.",
+      "accurate": "Accurate and fast reconciliation",
+      "easilyControl": "Easily control cash flow for each single order to ensure the smooth functioning of your company.",
+      "clearAnd": "Clear and detailed statistics: Data collected from various sources and carriers are systematically managed to help businesses have an overview of every cost type. You can monitor it in just one dashboard of Ship4P.",
+      "CheckWithin": "Check within the day for effortlessly circulating capital, which means the company is using financial resources in the most effective way possible.",
+      "shippingAPI": "Shipping-API integration",
+      "anyPlatform": "Any platform or software that has the needs of shipping or selling can integrate with Ship4P to FREELY create bills of lading number.",
+      "easilyValidate": "Easily validate the addresses of customers or get shipping cost information with a single click.",
+      "ourAdvanced": "Our advanced API offers orders, returns, multi-piece shipment, shipping insurance, along with other basic features.",
+      "realTimeReport": "Real-time reports and analytics",
+      "comprehensive": "Real-time, comprehensive reports and analytics accurately show the stock levels, shipping method’s average cart value, shipping cost, fulfillment cost per order, storage cost per order, and much more.",
+      "suggestSolution": "Suggest solutions and action to support businesses making the right decisions.",
+      "companines": {
+        "title": "Why Companies Trust Us?",
+        "reliability": {
+          "title": "Reliability",
+          "content": "Orders are monitored and updated continuously on the Ship4P dashboard throughout the transportation process, so businesses can keep tracking the whole journey. Now you can feel free from the risk of order loss and customer dissatisfaction. "
+        },
+        "optimized": {
+          "title": "Optimized and smart shipping route",
+          "content": "Using AI techniques to track and evaluate past route data to discover inefficient routes and improve future route efficiency. Use real, on-road traffic pattern information and circumstances such as road closure or slow-moving traffic to determine the optimal alternative route."
+        },
+        "transparency": {
+          "title": "Transparency",
+          "content": "Feel free from extra or hidden fees. All the information and shipping fees are constantly updated and clearly displayed on the Ship4P carrier management screen."
+        },
+        "saveTime": {
+          "title": "Save time and money",
+          "content": "Ship4p connects multiple shipping companies and centralizes them in just one place, helping sellers to save time finding and monitoring various shipping partners, as well as minimizing operation costs."
+        }
+      },
+      "weConnect": {
+        "title": "We connect carriers all over the world",
+        "content": "Our focus on creating unique solutions for your unique challenges sets us apart. Our goal is to create customized & efficient solutions for your company's needs. They form a network that connects practically all coastal countries worldwide with each other.",
+        "cod": "COD returns",
+        "delivery": "Delivery cost",
+        "contracts": "Contracts",
+        "reconciliation": "Reconciliation",
+        "supporting": "Supporting service",
+        "connectBy": "Connect by:",
+        "yourOwn": "Your own carrier account",
+        "ship4pAccount": "Ship4P account",
+        "timeWeek": "times/week",
+        "manually": "Manually find and apply promotions based on each delivery company",
+        "connectTo": "Connect to each carriers and sign contracts to have accounts",
+        "separately": "Separately import excel from the carriers for reconciliation ",
+        "contactTo": "Contact to supporting centres of several carriers on your own",
+        "promotions": "Promotions and vouchers are collected automatically by Ship4P",
+        "onlyConnect": "Only connect to Ship4P and you can use all domestic and international carriers",
+        "automatically": "Automatically check and send the reconciliation files by mail and on the system",
+        "centralized": "A centralized supporting team for all carriers"
+      },
+      "faqs": {
+        "faq": "Frequently asked questions (FAQs)",
+        "canConnect": "Can I connect to use Fedex services?",
+        "ship4pConnect": "Ship4P connects with all reputable domestic and international carriers, including Fedex. If you have any questions regarding shipping companies, do not hesitate to contact us for detailed advice and answers.",
+        "doesShip4p": "Does Ship4P update the promotion of shipping units?",
+        "ship4pUpdate": "Ship4P updates the promotion details of shipping companies in real-time. Moreover, customers also can take advantage of special promotions only available at Ship4P.",
+        "canUseShip4p": "Can I use Ship4P to ship goods from Vietnam to the US and vice versa?",
+        "definitely": "Yes. You can definitely use Ship4P to connect with carriers from Vietnam or anywhere to 200+ countries in the world.",
+        "viewMore": "View More"
+      }
+    }
+  },
+  "crossBorder": {
+    "banner": {
+      "borderless": "Borderless Shopping & Shipping",
+      "stay": "Stay ahead with flexible technology that delivers a local experience on a global scale with multiple currencies and stores.",
+      "international": "IChiba OnePlatform helps international customers purchase more than 15 million products from Japan, US, China, Korea and more.",
+      "explore": "Explore More",
+      "integration": "Integration",
+      "viewAllinte": "View All Integrations"
+    },
+    "globalShopping": {
+      "title": "Global shopping is now at your fingertips",
+      "content": "Enjoy the exhilarating borderless shopping experience through multi-channel, multi-warehouse, multi-language, and multi-currency. All you need wrapping in one fully integrated platform - IChiba Cross-Border Forwarding.",
+      "proxy": {
+        "title": "Proxy buying",
+        "content": "Enjoy hassle-free proxy buying experience from Japan, the US, China, Korea, and more without being able to know those foreign languages. We crawl products from hundreds of international eCommerce websites to deliver a seamless borderless shopping experience."
+      },
+      "bidding": {
+        "title": "Bidding online",
+        "content": "A chance to hunt for everything, especially limited and rare items, they're all available at bargain prices. IChiba allows worldwide customers to join in every auction at international websites such as Yahoo auction."
+      },
+      "complete": {
+        "title": "Complete commerce API",
+        "content": "Automation APIs utilize the REST architecture to enable users to receive emails, notifications, make payments and update shipping prices or taxes in real time while ensuring data security."
+      },
+      "multiWare": {
+        "title": "Multi-warehouse network",
+        "content": "Our global warehouse network allows you to store your products close to the customer and reduce shipping miles. The smart OMS helps to optimize the available space for storage, inventory preparation, and order fulfillment."
+      },
+      "valueAdded": {
+        "title": "Value-added services",
+        "content": "IChiba provide value-added optional services that meet customers needs, including insurance, protective packaging, package consolidation, inspection and photo service. Those would minimize risk of goods damage and maximize customer satisfaction."
+      },
+      "integrated": {
+        "title": "Integrated multiple payment gateways",
+        "content": "We offer various online payment gateways to support customers making cross-border payments from more than 220 countries and territories in 120 currencies, with multi-language and global tax capabilities."
+      },
+      "crossBorder": {
+        "title": "Cross-border shipping",
+        "content": "We cooperate with leading shipping companies to deliver packages internationally. The worldwide shipping network allows IChiba  to support shipping from US, Japan, China, Korea to more than 220 countries in the world. Just a few clicks to get them shipped to your destination."
+      },
+      "multiMarket": {
+        "title": "Multi-market, multi-currency",
+        "content": "Freely buy products from hundreds of stores or marketplaces while paying with your choice of the currency. IChiba OnePlatform borderless eCommerce is a multilateral platform who takes care of cross-border payments, as well as related foreign exchange for customers."
+      },
+      "support": {
+        "title": "24/7 support service",
+        "content": "Contact us to send feedbacks or questions via multiple channels, including live chat, emails, messenger, phone calls, whatsapp, and more. Our supporting team worldwide is available at any time to help you connect to international sellers."
+      }
+    },
+    "howItWork": {
+      "howItWork": "How it works",
+      "crossBorder": "CROSS-BORDER ECOMMERCE",
+      "ichibaFollow": "IChiba OnePlatform follows standard warehouse operation procedures, from when goods are imported to when they are shipped out.",
+      "letsLearn": "Let’s learn how to buy international goods on IChiba and how we take care of goods during your shopping process!"
+    },
+    "suitability": {
+      "title": "Suitability",
+      "businessType": {
+        "tab": "Business Type",
+        "crossBorderB2B": {
+          "title": "Cross-border B2B & Wholesalers",
+          "content": "Directly connect with famous suppliers/brands in the global market to easily and conveniently import wholesale orders with the best price and promotions."
+        },
+        "international": {
+          "title": "International B2C",
+          "content": "Purchase millions of international goods without currency and language barriers. Get the packages shipping to your customer doors in just a couple of days."
+        }
+      },
+      "industry": {
+        "tab": "Industry",
+        "fashion": {
+          "title": "Fashion & Apparel",
+          "content": "Quickly grab the latest fashion trend in the world and approach a massive source of apparel products. Increase the competition ability by importing popular and in-demand fashion items."
+        },
+        "beauty": {
+          "title": "Beauty & Cosmetics",
+          "content": "The market now sees the rise in disposable income and surge in demand for organic & natural cosmetic products. We make the international high-quality beauty products more accessible to shoppers across the world."
+        },
+        "grocery": {
+          "title": "Grocery",
+          "content": "Adapt to exponential shift among consumers by a large quantity and variety of international products, which  present not only better prices but also better quality."
+        },
+        "technical": {
+          "title": "Technical Products",
+          "content": "The global demand for technological goods is sharply increasing. Customers tend to prefer technical equipment from Japan, the US, or China due to high quality and good price. IChiba will be a trusted channel to help you buy those products, no matter whether you are a direct customer or wholesaler."
+        },
+        "mother": {
+          "title": "Mother & Baby Care",
+          "content": "Mother and baby care products are specially formulated to be non-irritating and have mild use ingredients which are selected to make products organic and natural. IChiba cross-border eCommerce meets all demands of high-end baby and mother products."
+        }
+      }
+    },
+    "bestPrice": {
+      "title": "Best priced products on IChiba Cross-border eCommerce",
+      "content": "Suggesting market trends for sellers to quickly import necessary items"
+    },
+    "ourPartner": "Our Partner",
+    "whyChooseCb": {
+      "title": "Why choose IChiba Cross-Border Forwarding",
+      "power": "Powering more than 500,000 orders a month",
+      "certified": "Certified partner of many other international e-commerce platforms from Japan, the US, China, Korea, etc.",
+      "hyper": "Hyper-scalable system that extends to suit your needs",
+      "professional": "Professional support via multiple channels like email, social media, websites, live chat.",
+      "transparent": "Transparent privacy and policy to protect customers’ rights and data."
+    },
+    "globalShipping": {
+      "title": "Global Shipping Network",
+      "content": "IChiba OnePlatform supports shipping from USA, Japan, China, Korea and Europe to 160 countries. Our global warehouse network across 3 continents and 100+ international and domestic carriers supporting first, mid and last mile minimize shipping time and costs."
+    },
+    "areYouReady": {
+      "title": "Are you ready to access abundant international sources of goods?",
+      "content": "Contact us now to get the latest deals worldwide and advice from experts about the current market trends and needs. ",
+      "contact": "Contact Now"
+    },
+    "features": {
+      "banner": {
+        "title": "IChiba Cross-border eCommerce features",
+        "content": "As a pioneer in the development of global e-commerce, IChiba OnePlatform desires to grow faster and stronger to help customers shop across borders most easily.",
+        "exploreNow": "Explore Now"
+      },
+      "contents": [
+        {
+          "title": "Create cross-border shopping websites",
+          "content": [
+            "Build an international website with full functions.",
+            "Reach +7,000,000 products around the world from well-known websites as Amazon, eBay, Yahoo Shopping, etc.",
+            "Update discount codes continuously. We connect real-time promotions of international eCommerce platforms for customers."
+          ]
+        },
+        {
+          "title": "Customized interface",
+          "content": [
+            "Inherently decouples the presentation layer from the central business, using the most front-end-friendly GraphQL API, to manage any number of storefronts from a single backend.",
+            "Customize interface to create beautiful and engaging shopping experiences."
+          ]
+        },
+        {
+          "title": "Online bidding",
+          "content": [
+            "Connect to biggest online auction websites to help buyers get the items they want at a bargain price.",
+            "Keep track of the bidding status real time and change the price at any time.",
+            "VIP auction function allows users to bid on products first and pay later. Only when the customer becomes the winner, will the payment process begin."
+          ]
+        },
+        {
+          "title": "Purchase/Sales order management",
+          "content": [
+            "Keep track of every purchase/sales order and check your order status in just one dashboard.",
+            "Manage your expenditure and assure end-to-end purchase order compliance with reporting."
+          ]
+        },
+        {
+          "title": "Cross-border forwarding",
+          "content": [
+            "Integrate well-known domestic and international shipping companies to ensure the worldwide network.",
+            "Regular flights/voyages to ensure customers receive goods after 10-15 days.",
+            "Supporting A-Z customs procedures to minimize costs and labors."
+          ]
+        },
+        {
+          "title": "Multiple integrated payment gateways",
+          "content": [
+            "Accept payments across any gateway, geography, or currency without any additional integration effort.",
+            "We meet the Payment Card Industry Data Security Standard (PCI DSS) to transmit customer data securely.",
+            "Get automated Instant Payment Notifications (IPN), and validate payment and banking data in real time, reducing payment errors by 99%."
+          ]
+        },
+        {
+          "title": "Professional warehouse services",
+          "content": [
+            "High-quality box protects goods from damage.",
+            "Drive-in racking system offers an optimal solution for storing heavy loads and maximizing warehouse space.",
+            "High technology Warehouse Management System software (WMS) helps monitor orders and operations efficiently and accurately."
+          ]
+        },
+        {
+          "title": "Personalization & recommendation",
+          "content": [
+            "Collect user-specific data, such as the customer’s most-viewed categories, products, and purchase history to give relevant recommendations for customers through website pages or marketing campaigns.",
+            "Suggest similar products that are grouped together based on certain attributes, so shoppers can have more options and quickly drive buying decisions.",
+            "Using AI models and reports to predict what might interest a person based on the taste of many other users."
+          ]
+        }
+      ],
+      "effortless": {
+        "title": "Effortless cross-border shopping",
+        "search": "Search everything from Japan, USA, Korea and China.",
+        "reach": "Reach +7,000,000 products around the world from well-known websites as Amazon, eBay, Yahoo Shopping, etc. Purchase mass things at a lower cost, and access crude materials not found in local markets.",
+        "update": "Update discount codes continuously. We connect real-time promotions of international e-commerce platforms for customers."
+      },
+      "online": {
+        "title": "Online bidding",
+        "connectTo": "Connect to biggest online auction websites to help buyers get the items they want at a bargain price.",
+        "keepTrack": "Keep track of the bidding status real time and change the price at any time. Receive notifications on app and websites about bidding status as well as the results.",
+        "VIP": "VIP auction function allows users to bid on products first and pay later. Only when the customer becomes the winner, will the payment process begin.",
+        "sniper": "Sniper Bid: Simply enter the highest price you're willing to pay for an item, and IChiba will do the rest. Once you set up sniper bid, you can stay ahead of the competition for an item without needing to be on the site."
+      },
+      "corssForward": {
+        "title": "Cross-border forwarding",
+        "integrate": "Integrate well-known domestic and international shipping companies to ensure the worldwide network.",
+        "insurance": "The insurance service to protect your packages from damages, which is available from the seller to the customer's home.",
+        "regular": "Regular flights/voyages to ensure customers receive goods after 10-15 days.",
+        "supporting": "Supporting A-Z customs procedures to minimize costs and labors.",
+        "supportHigh": "Support high volume deliveries for cost-effective and simple distribution management."
+      },
+      "diversity": {
+        "title": "Diversity of promotions and incentives",
+        "cashback": "5-7% cashback on purchases: When making purchases on some major exchanges as Rakuten and Rakuma, customers will receive a 5-7% refund.",
+        "loyalty": "Loyalty program: IChiba organizes a series of loyalty programs for customers. We also offer customized pricing for major customers.",
+        "taxfree": "TAX FREE purchases for those who buy from the US: Our warehouse is located in Oregon state, where goods will be free of domestic tax, according to state law.",
+        "continous": "Continuously update discounts in real-time from international e-Commerce platforms."
+      },
+      "valueAdd": {
+        "title": "Value-added services",
+        "package": "Package Consolidation: Reduce international shipping fees and support to receive multiple packages at once.",
+        "protective": "Protective Packaging: Protect your packages and minimize unexpected risks.",
+        "insurance": "Insurance Service: Commit to indemnifying 100% of the products’ value based on the insurance coverage offered by IChiba in case the packages are lost or damaged.",
+        "photo": "Photo Service: Confirm the quantity and packing status before they are delivered."
+      },
+      "multiple": {
+        "title": "Multiple integrated payment gateways",
+        "accept": "Accept payments across any gateway, geography, or currency without any additional integration effort.",
+        "weMeet": "We meet the Payment Card Industry Data Security Standard (PCI DSS) to transmit customer data securely.",
+        "getAutomated": "Get automated Instant Payment Notifications (IPN), and validate payment and banking data in real time, reducing payment errors by 99%."
+      },
+      "professional": {
+        "title": "Professional warehouse services",
+        "highTechnology": "High technology Warehouse Management System software (WMS) helps monitor orders and operations efficiently and accurately.",
+        "drive": "Drive-in racking system offers an optimal solution for storing heavy loads and maximizing warehouse space.",
+        "high": "High-quality boxes protect goods from damage.",
+        "cubiscan": "CUBISCAN electronic weights measure package weight and dimensions with 100% accuracy."
+      },
+      "fulfillment": {
+        "title": "Fulfillment capacity",
+        "warehouse": "Warehouse system across the world: Our global warehouse network allows you to store your products close to the customer and reduce shipping miles.",
+        "optimized": "Optimized capacity: The smart OMS helps to optimize the available space for storage, inventory preparation, and order fulfillment.",
+        "shipments": "+1000 shipments/day: With potential fulfillment capacity, more than 1,000 shipments are processed and delivered everyday."
+      },
+      "customized": {
+        "title": "Customized interface",
+        "inherently": "Inherently decouples the presentation layer from the central business, using the most front-end-friendly GraphQL API, to manage any number of storefronts from a single backend.",
+        "customize": "Customize interface to create beautiful and engaging shopping experiences."
+      },
+      "diverse": {
+        "title": "Diverse software ecosystem",
+        "connect": "Connect with third-party and custom-built technology as Contentful, quickbooks, OMS systems, ERP, POS, etc.",
+        "choose": "Choose any technology you need to stay relevant and launch fast."
+      },
+      "persional": {
+        "title": "Personalization and Recommendation by IChiba StoreFront Layer Tool",
+        "collect": "Collect user-specific data, such as the customer’s most-viewed categories, products, and purchase history to give relevant recommendations for customers through website pages or marketing campaigns.",
+        "suggest": "Suggest similar products that are grouped together based on certain attributes, so shoppers can have more options and quickly drive buying decisions.",
+        "usingAi": "Using AI models and reports to predict what might interest a person based on the taste of many other users."
+      }
+    },
+    "flexible": {
+      "content": "Flexible management of orders and purchases",
+      "fullControl": {
+        "title": "Full control of order management",
+        "content": "Automate and regulate the end-to-end order lifecycle to ensure that commitments are met, including order capture and validation, order release, shipment confirmation, and more."
+      },
+      "clear": {
+        "title": "Clear and detailed invoices",
+        "content": "Enable the seamless generation of invoice details and tracking of all orders from a specific vendor."
+      },
+      "easily": {
+        "title": "Easily manage suppliers and purchase orders",
+        "content": "Provide accurate purchase information to avoid the case that the purchase information is entered repeatedly."
+      }
+    },
+    "findout": {
+      "find": "Find out more",
+      "tour": "Tour other features",
+      "content": "IChiba OnePlatform affords all-inclusive SaaS (Software as a service) ecosystem which enables business and retailers worldwide to scale up. Find out how we carry out our mission thoughtfully through end-to-end services and solutions."
+    },
+    "realTime": {
+      "title": "Real-time hot deals worldwide",
+      "deals": "Deals everyday",
+      "update": "Update within",
+      "minutes": "minutes",
+      "allDeal": "All Deals "
+    },
+    "committed": {
+      "title": "We are committed to safeguarding your data privacy",
+      "multi": {
+        "title": "Multi-layer security stack",
+        "content": "Rest assured that your data and network are protected completely, from early detection to post-event evaluations."
+      },
+      "monitor": {
+        "title": "24x7x365 monitoring",
+        "content": "We conduct application, infrastructure, and hardware-level penetration testing annually to ensure customer data is protected every step of the way."
+      },
+      "committed": {
+        "title": "Transparency commitment",
+        "content": "Our customers have full control over their data, and we commit to deliver transparency during the cooperation process."
+      },
+      "certi": "Certificates and Compliances ",
+      "learnMore": "Learn more Trust & Security"
+    },
+    "faqs": {
+      "title": "Frequently asked questions (FAQs)",
+      "ifRecive": "If I receive items in a damaged condition, what should I do?",
+      "whenReceive": "When you receive the item in damaged condition, after IChibaconfirms that is qualified for compensation, we will refund you.",
+      "pleaseContact": "Please contact IChibawithin 7 days since receiving day with the following information:",
+      "li1": "2-3 pictures of the outer packaging",
+      "li2": "2-3 pictures of damaged items",
+      "li3": "The order number",
+      "isAction": "Is auctioning on Yahoo Auction safe?",
+      "yahooAution": "Yahoo Auction is an e-commerce platform owned by Yahoo Japan Corporation. It does not sell products but plays the role of a transaction center to ensure exchange, purchase, and payment between buyers and sellers.Thousands of used and new products are auctioned or bought such as watches, Zippos, car accessories, etc.",
+      "onlinePurchases": "Online purchases, especially cross-border purchases from Japan, make many people wonder about the origin of the products, payment, or shipping issues. All transactions on the Yahoo Auction system are committed to confidentiality and strictly controlled by the 3-level security system. Therefore, it is safe to purchase and bid on goods here.",
+      "isItPosible": "Is it possible to use consolidation service for multiple orders from different websites?",
+      "whenYou": "When you buy items from multiple stores or from different sellers, it is possible to use the consolidation service when they arrive at our warehouse.",
+      "however": "However, there are some cases in which we are unable to consolidate certain items, like ones that are difficult to transport due to their irregular shape, fragility, or oversize/weight."
+    }
+  },
+  "oms": {
+    "banner": {
+      "allInOne": "All-in-one Order management system",
+      "built": "Built on MACH principles (Microservice-based, API-first, Cloud-native and Headless), IChiba OnePlatform allows you to customize your commerce solution to tailor experiences to the exact needs of each business.",
+      "integrated": "Integrated with sales and social channels",
+      "findAll": "Find all orders quickly in one place",
+      "manage": "Manage inventory easily and effectively",
+      "useOmni": "Use omnichannel order management system (OMS) for free",
+      "connect": "Connect with ecommerce ecosystem for better management: shipping carriers, ERP & Accounting, point of sale system"
+    },
+    "system": {
+      "title": "System Integration",
+      "content": "Easy to seamlessly connect with the most popular eCommerce, social platforms, and supporting ecosystem.",
+      "viewAll": "View All Integrations"
+    },
+    "effortless": {
+      "title": "The effortless omnichannel order management",
+      "workLess": {
+        "title": "Work less, achieve more",
+        "content": "All-in-one powerful platform to manage sales across all social channels",
+        "bio": "Selling products directly via social media is on the rise globally. Our social commerce management system provides a frictionless and focused customer experience, enabling customers to make a purchase without leaving social media, thereby increasing your sales."
+      },
+      "enjoy": {
+        "title": "Enjoy full control of every channel",
+        "content": "By integrating omnichannel, all at once",
+        "bio": "Selling products directly via social media is on the rise globally. Our social commerce management system provides a frictionless and focused customer experience, enabling customers to make a purchase without leaving social media, thereby increasing your sales."
+      },
+      "systematization": {
+        "title": "Systematization in every step",
+        "content": "With multi-channel fulfillment solutions",
+        "bio": "Using dedicated fulfillment facilities for each sales channel makes it difficult for omnichannel sellers to manage orders and inventory. Our multi-channel fulfillment solution enables merchants to manage order fulfillment, reduce risks of backorders and stockouts, and eliminate the confusion arising from listing products on multiple platforms."
+      },
+      "putCustomer": {
+        "title": "Put customers’ concern priority",
+        "content": "With our end-to-end return management",
+        "bio": "Automatically plan efficient routes that include both deliveries and return pickups. Cloud-Based Portals make information about RMAs, shipments, and product values more accessible in real-time."
+      },
+      "saveTime": {
+        "title": "Save time and money",
+        "content": "By connecting and managing all carriers in one dashboard",
+        "bio": "Save you from logistic nightmare by our multi-carrier shipping API. Now businesses can completely automate shipping tasks, including retrieving accurate real-time shipping rates, creating shipping labels, following updated tracking information, and more."
+      },
+      "moreConversion": {
+        "title": "More conversions, less work",
+        "content": "With smart and advanced reports",
+        "bio": "Real-time reports and analytics help manage business operations and give visibility into orders, inventory, fulfillment, labor, and production. Our streaming cloud integration for real-time operation visibility allow sellers to draw future sale strategy."
+      },
+      "crack": {
+        "title": "Crack complicated processes",
+        "content": "By ERP/Accounting integration",
+        "bio": "Connecting and syncing ERP or accounting software to create a streamlined experience for capturing, tracking, and analyzing real-time data. With ERP integration, your business can be free from complicated functions, from billing, transactions to reports for accounting, which can save a lot of time and costs."
+      },
+      "cutsOrder": {
+        "title": "Cuts order complexity completely",
+        "content": "With Catalog, product and order management",
+        "bio": "Centralized catalog and product management automate product-related details like title, description, image,  and so on in no time so that users can stay up-to-date with the pricing standard set for all marketplaces. Our OMS ensures seamless processing, shipping, and fulfilling of orders."
+      }
+    },
+    "howitwork": {
+      "howItWork": "How it works",
+      "intelligent": "Intelligent order management",
+      "experience": "Experience all features of the best-in-class order management system in a single platform",
+      "freeTrial": "Free Trial",
+      "companyType": "Company type",
+      "specific": "Specific industry",
+      "omnichannel": {
+        "title": "Omnichannel",
+        "content": "Optimize order processing and distribution on omni-sale channels by tracking and recording data. Automatically post products on multiple ecommerces at the same time."
+      },
+      "fourth": {
+        "title": "Fourth-party logistics",
+        "content": "Intelligently route orders to the warehouse geographically closest to the delivery address, ensuring the fastest delivery at the lowest cost."
+      },
+      "b2b": {
+        "title": "B2B & Wholesalers",
+        "content": "Manage multiple suppliers, price lists, web stores and more with ease, and give businesses the flexibility they need to grow."
+      },
+      "direct": {
+        "title": "Direct to Customers (D2C)",
+        "content": "Overcome challenges of single-handedly managing the hassle of sales channel expansion and distribution operations."
+      },
+      "ecommerce": {
+        "title": "Ecommerce",
+        "content": "Rapidly curate new services and deploy better online shopping experiences to take your business to the next level by making data-driven decisions."
+      },
+      "fashion": {
+        "title": "Fashion & Apparel",
+        "content": "Achieve full integration of inventory handling and exchange your eCommerce data with manufacturers and retailers for full supply chain visibility."
+      },
+      "beauty": {
+        "title": "Beauty & Cosmetics",
+        "content": "Shorten go-to-market time by preparing and managing product catalogs as per marketplace recommendations. That way, cosmetic products are accepted quickly and can go live on markets."
+      },
+      "pharmaceutical": {
+        "title": "Pharmaceutical",
+        "content": "Meet the complex order fulfillment requirements for pharmaceutical wholesalers and retailers, and enjoy controlled access to inventory, automatic replenishment, improved responsiveness, real-time product tracking & traceability."
+      },
+      "fast": {
+        "title": "Fast Moving Consumer Goods (FMCG)",
+        "content": "Adapt quickly to the changing needs of diverse stakeholders, with systems that keep fixed and variable costs to a minimum and maintain good customer service."
+      }
+    },
+    "features": {
+      "title": "IChiba OMS Features",
+      "content": "How our Order Management System boosts and optimizes businesses sales",
+      "getItFree": "Get It Free",
+      "social": {
+        "tab": "Social commerce",
+        "title": "One platform for sales across all social commerce",
+        "create": "Create orders on quickly right on the livestream and chat screen and send order confirmation invoice.",
+        "automatically": "Automatically notify customers of the latest sales or livestream, and reply to comments/messages 24/7.",
+        "filter": "Filter comments containing phone numbers & emails for immediate consultation.",
+        "creatOrder": "Create orders automatically based on keywords you have set up, save time checking each comment and making orders manually."
+      },
+      "integration": {
+        "tab": "Multichannel integrations",
+        "title": "Every channel is under full control",
+        "oms": "OMS integrates with all sales channels (eCommerce platforms, web stores, etc.) and point-of-sale devices without compatibility requirements, receives and consolidates information from all points of sale in real-time with security data.",
+        "orchestrate": "Orchestrate, monitor, and administer all orders from a centralized dashboard, whether online or offline.",
+        "erp": "Integrated ERP softwares organize all accounting data systematically, create and send invoices, and get an overview of business activities at all times.",
+        "integrate": "Integrate microservices to deliver faster responses and deploy as fast as you can."
+      },
+      "catalog": {
+        "tab": "Catalog, product and order management",
+        "title": "Digitally manage the lifecycle of orders",
+        "effect": "Effectively manage, store, retrieve, perform, and optimize catalogs on omnichannel while structuring them according to a range of factors such as product names, descriptions, or prices.",
+        "automatically": "Automatically capture orders and customer requests, and update the exact status of every order in real-time to make sure that orders are fulfilled on time."
+      },
+      "fulfillment": {
+        "tab": "Multi-channel fulfillment management",
+        "title": "Systematization in every steps",
+        "mangage": "Manage, track, and count stock in multi-warehouses, all in one spot, which helps businesses in forecasting and decision-making, fasten fulfillment process for any of your sales channels.",
+        "automatically": "Automatically sync stock levels in warehouse with status updates 24/7.",
+        "store": "Store inventory near customers helps reduce the shipping zones and costs associated with shipping orders to faraway destinations.",
+        "fasten": "Fasten the fulfillment process by integrating several delivery units worldwide and automate procedures."
+      },
+      "return": {
+        "tab": "Returns management",
+        "title": "Deliver personalised experiences",
+        "regardless": "Regardless of the sales channels, we allow managing and keeping track of all returns scenarios including returning date, returned items, reasons for returns, etc.",
+        "manage": "Manage and control the quality of returned products efficiently to increase revenues, lower costs, improve profitability, and enhance levels of customer service.",
+        "api": "API cloud-based portals allow users to access real-time data to take necessary action, drive better customer experience."
+      },
+      "shipping": {
+        "tab": "Shipping integration",
+        "title": "Save time and money",
+        "ship": "Ship orders fasters from all channels and control in just one place.",
+        "integrates": "Integrates with the most famous carriers to push orders automatically.",
+        "saveTime": "Save time with shipping rates that are automatically chosen to optimize the best value for orders.",
+        "update": "Update and allow tracking order status in real-time."
+      },
+      "accounting": {
+        "tab": "ERP/Accounting Integrations",
+        "title": "All financial information in a single database",
+        "integrated": "Integrated ERP softwares organize all accounting data systematically, create and send invoices, and get an overview of business activities at all times.",
+        "once": "Once the integration is up and running, you can access to tools like expense tracking, tax information, and more. That means more time for accounting teams, no duplicate data input, and 100% data correctness."
+      },
+      "detailed": {
+        "tab": "Detailed report in real-time",
+        "title": "Get more conversions with less work using AI",
+        "oms": "OMS dashboard highlighting sales revenue, KPIs and forecasting sales daily which is divided by channels.",
+        "automatically": "Automatically send reports with detailed analysis allowing business to make forecasting, sales strategies and right decisions.",
+        "api": "API-first allow developers to retrieve the exact data they want from any source to tailor exact needs."
+      }
+    },
+    "whyChoose": {
+      "title": "Why choose IChiba OnePlatform OMS",
+      "content": "Trusted by more than 1,000 organizations from South East Asia, IChiba OnePlatform OMS comes out-of-the-box with the comprehensive built-in features and resources needed, which contributes to businesses' smooth and effective omnichannel order management.",
+      "user": {
+        "title": "User guidance",
+        "content": "Summary of news, tips, guidelines for users.",
+        "learn": "Learn user guidance "
+      },
+      "product": {
+        "title": "Product update",
+        "content": "Latest updates about products and services.",
+        "learn": "Product updates"
+      },
+      "ichiba": {
+        "title": "IChiba OnePlatform community",
+        "content": "Daily stories and inspirations from our customers and team.",
+        "learn": "IChiba OnePlatform community "
+      },
+      "resource": {
+        "title": "Resource centre",
+        "content": "iChiba's open sources for developers.",
+        "learn": "Discover resource centre "
+      }
+    },
+    "moreReading": {
+      "title": "More Reading",
+      "content": "Events, News and Tips to take full advantage of our OMS"
+    },
+    "getStarted": {
+      "title": "Get started with IChiba OnePlatform OMS",
+      "getFree": "Get It Free",
+      "completed": "See complete list of Pricing"
+    },
+    "FAQ": {
+      "title": "Frequently asked questions (FAQs)",
+      "isIchiba": {
+        "title": "Is IChiba OnePlatform’s OMS expensive?",
+        "content": "Our OMS system has customized pricing to fit every business’s needs. There is no extra fee as the outlines of cost are clear and agreed by both parties."
+      },
+      "canIUse": {
+        "title": "Can I use IChiba OnePlatform if I don’t want to sell on the eCommerce platforms?",
+        "content": "Yes, iChiba’s mission is to help sellers get steps ahead, wherever they sell."
+      },
+      "doesIchiba": {
+        "title": "Does IChiba OnePlatform’s OMS have support?",
+        "content": "We are available 24/7 to support customers around the world. Fill in the form ",
+        "content1": "Support Request ",
+        "content2": "now to get immediate advice for every industry and business."
+      },
+      "viewMore": "View More"
+    },
+    "pricing": {
+      "month": "/ Month",
+      "title": "Pricing",
+      "optimized": "Optimized plans for your business",
+      "ichiba": "IChiba OMS plans are designed to be affordable, flexible, and tailored to your unique needs.",
+      "free": {
+        "title": "Free",
+        "content": "For small teams."
+      },
+      "standard": {
+        "title": "Standard",
+        "content": "For growing teams."
+      },
+      "premium": {
+        "title": "Premium",
+        "content": "For organizations that need to scale."
+      },
+      "enterprise": {
+        "title": "Enterprise",
+        "content": "For enterprises with global scale, security."
+      },
+      "suitable": "Suitable for",
+      "time": "*Duration: monthly/ yearly.",
+      "tab": {
+        "features": "Features",
+        "admin": "Admin Controls",
+        "security": "Security & Compliance",
+        "storage": "Storage, Support & Invoicing"
+      },
+      "mainFeatures": "Main Features",
+      "funtions": "Functions",
+      "dataTable": {
+        "workspace": "Workspace",
+        "multiWork": "Multi-workspace",
+        "store": "Store",
+        "multiStore": "Multi-store",
+        "integration": "Integration Ecommerce",
+        "integrationWith": "Integration with Ecommerce sites",
+        "product": "Product",
+        "productMana": "Product management",
+        "upload": "Upload product into Ecommerce sites",
+        "sync": "Sync product from Ecommerce sites",
+        "productMap": "Product mapping",
+        "salesOrder": "Sales Order",
+        "monthly": "Monthly quantity",
+        "automatically": "Automatically approve",
+        "returnOrder": "Return order management",
+        "invent": "Inventory",
+        "inventUpdate": "Inventory update & interface",
+        "purchase": "Purchase Order",
+        "purchaseMana": "Purchase order management",
+        "intergration": "Integration WMS",
+        "wareHouse": "Warehouse Integration",
+        "integrationCarrier": "Integration Carrier",
+        "carrier": "Carrier Integration",
+        "notification": "Notification",
+        "viaEmail": "Via email",
+        "onApp": "On app",
+        "chat": "Chat",
+        "publicApi": "Public API",
+        "analytics": "Report/Analytics",
+        "dashboard": "Dashboard",
+        "basic": "Basic Report",
+        "advance": "Advance report",
+        "schedulling": "Report Schedulling",
+        "domain": "Domain verification & account capture",
+        "roles": "Roles",
+        "advanced": "Advanced permissions",
+        "account": "Account Security",
+        "multiFactor": "Multi Factor Authentication",
+        "singerSign": "Single Sign On",
+        "mobile": "mobile",
+        "anonymous": "Anonymous access",
+        "certifications": "Certifications",
+        "commu": "Community support",
+        "email": "Email Support",
+        "customer": "Customer Support",
+        "csm": "Customer Success Manager",
+        "enhanced": "Enhanced Onboarding/ Video/ Documentation / Proposals",
+        "professional": "24/7 Professional Service",
+        "uptime": "Uptime SLA",
+        "seat": "Seat",
+        "payment": "Payment method",
+        "billings": "Billings",
+        "conttract": "Contract length",
+        "separated": "Separated DB",
+        "annualAnd": "Annual (save up to 20%) or Monthly",
+        "annual": "Annual",
+        "unlimited": "Unlimited",
+        "orders": "Orders"
+      }
+    }
+  },
+  "smartCrossBorder": {
+    "banner": {
+      "title": "Cross-Border Forwarding",
+      "subtitle": "Borderless purchase & shipping management",
+      "content": "We provide cross-border purchasing and shipping management software with multiple payment methods, languages and currencies. ",
+      "subcontent": "Sellers can proactively set up configurations on the dashboard for flexible business operation of cross-border ecommerce.",
+
+      "freeTrial": "Start Free Trial"
+    },
+    "howItWorks": {
+      "label": "How it works",
+      "title": "Cross-Border Forwarding",
+      "content": "Let's learn how our purchase/sales order management works and what benefits you can gain from our tools!",
+      "learnMore": "Learn More"
+    },
+    "beyond": {
+      "title": "Go beyond the barrier of cross-border purchase & shipping management",
+      "content": "IChiba Cross-Border Forwarding provides an all-in-one service that helps sellers manage international purchasing and shipping with functions of multi-warehouse, multi-language and multi-currency.",
+      "shipping": {
+        "label": "Cross-border shipping ",
+        "title": "Cross-border shipping management",
+        "content": "We cooperate with leading shipping companies to deliver packages internationally. Just a few clicks to get them shipped to your destination."
+      },
+      "creation": {
+        "label": "Pricing table creation",
+        "title": "Pricing table creation",
+        "content": "Allow businesses to themselves create their own fee tables for proxy-buying service, value-added services, and delivery. The price lists can vary in each market and be divided into 2 types: Public and Personalized table."
+      },
+      "bidding": {
+        "label": "Proxy-buying/Bidding",
+        "title": "Proxy-buying/Bidding management",
+        "content": "Easily manage all your sales and purchase orders from our management dashboard. Control input purchasing costs and distribute orders to desired warehouse."
+      }
+    },
+    "ortherBenefit": {
+      "label": "There’s even more",
+      "title": "Other benefits",
+      "items": {
+        "integrated": {
+          "title": "Integrated multiple payment gateways",
+          "content": "We offer various online payment gateways to support customers making cross-border payments from more than 220 countries and territories in 120 currencies, with multi-language and global tax capabilities."
+        },
+        "multiMarket": {
+          "title": "Multi-market configuration",
+          "content": "Cross-Border Forwarding software allows flexible customization of operations to suit each business. The data may vary by market."
+        },
+        "sale": {
+          "title": "Sales policy configuration",
+          "content": "Companies can customize sales policy information and data to ensure the proxy-buying service's  profitability and smooth running."
+        },
+        "package": {
+          "title": "Package consolidation/separation",
+          "content": "With this function, selles can separate a large package or consolidate small ones to save time in handling as well as shipping costs."
+        },
+        "multiCurrency": {
+          "title": "Multi-market, multi-currency",
+          "content": "Manage cross-border proxy-buying and shipping from hundreds of stores or marketplaces while paying with your choice of the currency. Businesses can set up the suitable payment gateways for each market. "
+        },
+        "product": {
+          "title": "Product crawler",
+          "content": "Automatically crawl product data from multiple international selling websites. Every vouchers, promotions and information are updated in real time."
+        }
+      }
+    },
+    "CreateCross": {
+      "title": "Create cross-border website with StoreFront Layer Tool",
+      "content": "We help sellers create an international proxy-buying website with full features of buying, bidding, payment, shipping, and so on. Buyers can visit your website and buy anything they desire from abroad.",
+      "subcontent": "Now image how our powerful StoreFront Layer Tool can help you:",
+      "local": "Local currencies",
+      "multilang": "Multi-language",
+      "multipayment": "Multi-payment methods",
+      "customized": "Customized options",
+      "export": "Explore more"
+    },
+    "connectBesst": {
+      "label": "How it works",
+      "title": "Connect best-priced goods sources worldwide",
+      "content": "Suggesting market trends for sellers to quickly import necessary items.",
+      "contactSale": "Contact Sales"
+    }
+  },
+
+  "support": {
+    "ichibaSupport": "IChiba Support",
+    "submitSupport": "Submit a support request",
+    "idlike": "I'd like to contact sales for",
+    "issue": "Issue Information",
+    "subject": "Subject",
+    "briefly": "Briefly describe the topic of your request",
+    "description": "Description",
+    "elaborate": "Elaborate more on your request for us to better assist you",
+    "anySupport": "Any supporting documents for your request",
+    "upload": "Upload your file here with PDF format",
+    "onlyPDF": "Only PDF, JPG, PNG types are accepted",
+    "theMax": "The maximum file size is 10 MB.",
+    "contactInfo": "Contact Information",
+    "bySubmit": "By submitting this form, I acknowledge receipt of the IChiba",
+    "firstName": "Full Name",
+    "lastName": "Last Name"
+  },
+  "blog": {
+    "heading": "IChiba Blog",
+    "pubicshed": "PUBLICSHED",
+    "author": "author",
+    "topic": "Topic",
+    "category": "Category",
+    "most": "most popular",
+    "dontMiss": "Don’t miss the latest",
+    "getUpdate": "Get updates in your inbox",
+    "all": "All",
+    "relatedBlogs": "Related blogs",
+    "type": {
+      "home": "Blog Home",
+      "news": "News and Stories",
+      "promotion": "Promotion",
+      "aboutIchiba": "News about ichiba",
+      "engineer": "Engineering"
+    },
+    "detail": {
+      "article": "In this article",
+      "takeAtour": "Take a tour!",
+      "seeIChiba": "Get more profitable with our comprehensive Software-as-a-Service solutions.",
+      "request": "Request demo"
+    },
+    "viewMore": "View more",
+    "readMore": "Read more",
+    "learnMore": "Learn more"
+  },
+  "crossFulfill": {
+    "banner": {
+      "title": "Cross-border fulfillment",
+      "content": "Make the supply chain becomes your competitiveness"
+    },
+    "benefit": {
+      "title": "How you benefit from IChiba OnePlatform's Fulfillment",
+      "content": "One cross-border fulfillment solution – various benefits",
+      "sameAday": {
+        "title": "Same-day order processing",
+        "content": "Orders are guaranteed to fulfill on the same day as soon as the customer places an order, leading to faster delivery times, improving customer satisfaction and loyalty even further."
+      },
+      "fulfillment": {
+        "title": "Fulfillment capability up to 5000+ orders/day",
+        "content": "With the flexible Warehouse Management System, picking automation tool, and setting up zone picking for each industry, IChiba can handle orders up to 5000+ orders/day accurately in any market."
+      },
+      "cross-border": {
+        "title": "Cross-border fulfillment",
+        "content": "Fulfillment centers around Asia empower you to reach more potential customers in any corner worldwide at the best conditions."
+      },
+      "expedited": {
+        "title": "Expedited & ground delivery",
+        "content": "Connect with the most renowned carriers around the world to bring a variety of shipping options and deliver shipments to the destinations on time at the most competitive rate. "
+      },
+      "tight": {
+        "title": "Tight inventory control",
+        "content": "Kiss cumbersome spreadsheet goodbye, remove the risk of miscalculating stock with controlling inventory by barcode and have a 360-degree view of inventory in real time on various platforms. "
+      },
+      "fulfillmentAutomation": {
+        "title": "Fulfillment automation",
+        "content": "Combine automation with our best-in-class fulfilment software to achieve lightning-fast fulfilment while maintaining the greatest quality control requirements and significantly saving you money."
+      },
+      "cutdown": {
+        "title": "Cut down outsourced warehouse costs",
+        "content": "Warehouse area (up to 6000m2) is large enough for all types of goods with flexible storage solutions for each season. You just have to pay as you really go without minimum order volumes."
+      },
+      "surprise": {
+        "title": "Surprise customers during unboxing",
+        "content": "Delight your customer by keeping the flexibility to fulfil your vision whether it's gift message, promotional inserts, customised stickers, unique presentation or everything else you may think of."
+      },
+      "return": {
+        "title": "Return management",
+        "content": "Quickly perform returned product testing, assessment, sort & add sellable items back to the active inventory. Always ensure that returns are neither time-consuming, nor costly to provide the best possible client experience."
+      }
+    },
+    "oneTop": {
+      "title": "One-stop global fulfillment service",
+      "content": "Discover how our coast-to-coast fulfillment facilities receive and package your products for international shipping, then deliver them straight to the end consumer's door.",
+      "sync": {
+        "title": "1. Sync your stores",
+        "content": "It just takes a few clicks to sync your stores (both physical and online) to our fulfillment system. Local and oversea orders will be automatically imported to the dashboard when customers make purchases."
+      },
+      "store": {
+        "title": "2. Store your goods",
+        "content": "All-around monitoring assures safety in both local and overseas warehouses. When products enter the warehouse, we scan and check them, then upload data to the system for viewing at any time."
+      },
+      "warehouse": {
+        "title": "3. Warehouse operation",
+        "content": "IChiba OnePlatform self-built WMS can be integrated with customer platforms to provide inventory and logistics information, lowering mistake rates significantly."
+      },
+      "picking": {
+        "title": "4. Picking & packing",
+        "content": "Picking and packing the exact packages based on the barcode or QR code. Save time in picking goods with the suggested-route feature."
+      },
+      "value": {
+        "title": "5. Value-added services",
+        "content": "Provide personalized services, including consolidation, protective packaging, taking photos, and insurance."
+      },
+      "strategize": {
+        "title": "6. Strategize global shipments",
+        "content": "IChiba OnePlatform fulfillment system automatically estimates prices and gives you options for tailor-made fulfillment plans. Just choose the one that fits your business best."
+      },
+      "international": {
+        "title": "7. International shipping and customs",
+        "content": "International delivery, taxes, duties, and custom documentation are all covered by IChiba OnePlatform fulfillment service."
+      },
+      "lastMile": {
+        "title": "8. Last-mile delivery",
+        "content": "Distribute goods to customers with our trusted local post and courier partners."
+      },
+      "return": {
+        "title": "9. Return management",
+        "content": "We could serve as your regular designated product return location, lowering the cost of return handling."
+      }
+    },
+    "getCustomized": "Get customized solutions for your logistics needs & optimized delivery performance on every market",
+    "talkToOur": "Talk to our fulfillment experts",
+    "thePower": {
+      "title": "The powerful platform that handles worldwide shipments",
+      "api": {
+        "tab": "API integration",
+        "title": "API Integration connects with e-commerce platforms",
+        "content": "Seamlessly integrate with all sales channels to automatically import & sync all orders, allowing merchants to control large order volumes right on a single board."
+      },
+      "order": {
+        "tab": "Order management system",
+        "title": "All-in-one dashboard",
+        "content": "Manage everything regarding orders, including item information, outbound deliveries, storage, and so on."
+      },
+      "inventory": {
+        "tab": "Inventory tracking",
+        "title": "Demand forecasting for inventory planner",
+        "content": "Sync and track inventory levels across warehouses. Set safety stock reminders so that merchants can ensure enough resources to serve multichannel and global selling."
+      },
+      "multi": {
+        "tab": "Multi-market management",
+        "title": "Manage multiple sales channels",
+        "content": "Detailed statistics and dashboard to monitor sales performance across channels and countries."
+      },
+      "detailed": {
+        "tab": "Detailed reports & analytics",
+        "title": "Detailed reports & analytics",
+        "content": "Stay on top of your business operation with accurate, actionable insights on business performance, inventory or selling forecast to make informed decisions on where & when to replenish or allocate inventory and business strategy."
+      }
+    },
+    "ourWareHouse": {
+      "title": "Our warehouse network",
+      "content": "Connect to a worldwide network of fulfillment centers that grow with your company or any of your current sites to meet your logistical demands."
+    },
+    "whatMakes": {
+      "title": "What makes IChiba OnePlatform cross-border fulfillment service stand out",
+      "trust": {
+        "title": "Trustworthy local fulfillment centers",
+        "content": "Our international in-house and partner facilities commit to speed and consistency with competitive delivery rates and consonant quality."
+      },
+      "optional": {
+        "title": "Optional services",
+        "content": "Add-on services including consolidation, taking photos, protective packaging, and insurance provide customers with a hassle-free experience."
+      },
+      "custome": {
+        "title": "Custom branding service",
+        "content": "We offer branding services such as gift cards or custom-printed branded packaging tape to raise the brand awareness of customers."
+      },
+      "automation": {
+        "title": "Automation operation",
+        "content": "Every single step in our fulfillment service is automated, so companies can focus on developing other aspects of business."
+      },
+      "reliable": {
+        "title": "Reliable quality",
+        "content": "Increase customer satisfaction by up to 99% with premium packing material and industry-leading technology."
+      },
+      "noOrde": {
+        "title": "No order minimums",
+        "content": "No requirement for minimum order numbers or values. We fulfill even when there is just one order."
+      }
+    },
+    "notSure": {
+      "title": "Not sure which product suits you most?  Our experts will help!",
+      "content": "Contact our experts to get recommendations on how to effectively expand your business globally as well as the best tools to support that process.",
+      "advice": "Get advice"
+    }
+  },
+  "metatitle": {
+    "blog": "Blog IChiba OnePlatform: Leading end-to-end eCommerce solution",
+    "contactSale": "Contact sales IChiba OnePlatform: Leading end-to-end eCommerce solution",
+    "suport": "Support portal IChiba OnePlatform: Leading end-to-end eCommerce solution",
+    "ship4p": "Multi-carrier Shipping Software | Ship4P",
+    "crossborder": "Cross-Border Ecommerce: Global Growth Without Growing Pains",
+    "OMSOverview": "All-in-one Order Management System Overview",
+    "OMSFeatures": "All-in-one Order Management System Features",
+    "OMSPricing": "All-in-one Order Management System: Pricing",
+    "digitalOverview": "Order Management System Features",
+    "digitalFeatures": "Order Management System Features",
+    "digitalLandingPage": "Landing page",
+    "wmsOverview": "Maximize Your Warehouse Efficiency | IChiba WMS",
+    "wmsFeatures": "Modern Online Warehouse Management System",
+    "eDistributors": "All-in-one Solutions for eCommerce Distributors",
+    "orderFulfillment": "Agile Multi-channel Order Fulfillment Solution | IChiba OnePlatform",
+    "ecomFulfill": "Effortless Ecommerce Fulfillment For Your Business | IChiba OnePlatform",
+    "warehouseFulfillment": "Empowering Your Business With Flawless Warehouse Fulfillment",
+    "multi": "Multi-Channel Fulfillment: Fulfill Orders From All Channels",
+    "omnichannel": "Digital Transformation Solutions For Omnichannel Retailers & SMEs",
+    "brandCommerce": "Brand Commerce: The New Frontier in Ecommerce",
+    "smes": "Digital Transformation Solutions For Omnichannel Retailers & SMEs",
+    "pimOverview": "Product Information Management: PIM Overview",
+    "pimFeatures": "Product Information Management: PIM Features",
+    "smartCBOverview": "Smart Cross Border Ecommerce Software Solution | IChiba OnePlatform",
+    "smartCBFeatures": "Cross-Border Forwarding: Borderless Purchase & Shipping Management | Features",
+    "wareHouse": "Empowering Your Business with Flawless Warehouse Fulfillment | IChiba OnePlatform",
+    "crossFulfillment": "Cross-Border Fulfillment Solution | IChiba OnePlatform",
+    "careers": {
+      "index": {
+        "title": "Explore job opportunities at IChiba OnePlatform",
+        "meta": "With a mission to develop the global e-commerce market, IChiba OnePlatform creates a diverse and open working environment that encourages employees to develop themselves and be creative in contributing to the company's success."
+      },
+      "ourLife": {
+        "title": "Our culture | IChiba OnePlatform",
+        "meta": "We provide an enjoyable place to work by building an innovative office space equipped with technology and a flexible work environment that promotes collaborative creativity."
+      },
+      "listCareers": {
+        "title": "Career page | IChiba OnePlatform",
+        "meta": "The career page provides detailed information about job positions, interview processes, and employee benefits. Visit IChiba OnePlatform's career page to explore great job opportunities and start your career journey today!."
+      },
+      "trust": {
+        "title": "Trust and security | IChiba OnePlatform",
+        "meta": "We hold industry-accepted certifications and comply with applicable industry standards and regulations, so you can rest assured that your company and customer data remains safe and compliant."
+      },
+      "blog": {
+        "title": "Blog | IChiba OnePlatform",
+        "meta": "The general information page and events happening at IChiba OnePlatform."
+      }
+    },
+    "orderFulfillmentPage": {
+      "title": "Integrating IChiba OMS to Fulfillment by EFEX",
+      "subTitle": "IChiba OMS partners with Fulfillment by EFEX service to deliver a solution, in which businesses enhance the efficiency of multichannel selling and ensure the effectiveness in high-volume picking, packing, and shipping operations.",
+      "contactSale": "Contact Sales",
+      "process": {
+        "title": "Order Fulfillment Process at EFEX",
+        "subTitle": "Power your growth across any sales channel",
+        "step": [
+          "Customers place orders on any sales channels",
+          "EFEX picks, packs and ships the orders",
+          "EFEX deliveries orders to customers"
+        ],
+        "channels": {
+          "web": "Brand websites",
+          "platforms": "eCommerce platforms",
+          "platformsEg": "(Shopee, Lazada, Tiki,..)",
+          "stores": "Social media stores",
+          "storesEg": "(Facebook, Instagram, Tiktok,...)"
+        },
+        "fulfillmentEfex": "Fulfillment by EFEX",
+        "fbe": "(FBE)",
+        "customers": "Customers"
+      },
+      "fulfillmentDifferent": {
+        "title": {
+          "first": "What makes",
+          "second": "special in businesses’ minds?"
+        },
+        "subTitle": "We can help business unrivaled order fulfillment for a new age of ecommerce with the lowest cost as possible",
+        "fbm": {
+          "title": "Fulfillment by Merchant (FBM)",
+          "content": [
+            {
+              "title": "Increasingly high operating fees",
+              "description": "The sellers must pay a variety of fees, including warehouse renting, staff employment, warehouse equipment, etc."
+            },
+            {
+              "title": "Time-consuming and less professional",
+              "description": "Picking, packing, and shipping are not smooth and professional, which wastes so much time, cost, and customer leaving. "
+            },
+            {
+              "title": "Low delivery time",
+              "description": "Shipping time with FBM is frequently long and delayed, which may affect customer satisfaction and order cancellations."
+            }
+          ]
+        },
+        "fbe": {
+          "title": "Fulfillment by EFEX (FBE)",
+          "content": [
+            {
+              "title": "Lower operating fee",
+              "description": {
+                "first": "Sellers can save",
+                "second": " up to 70%",
+                "third": " on expenses for operations,staff, firefighting, and prevention.",
+                "fourth": " Pay as you really go."
+              }
+            },
+            {
+              "title": "Smooth and professional",
+              "description": {
+                "first": "FBE smoothly manages the entire process, from storage to picking, packing, and shipping, meeting the SLA requirement. Increase precise order handling by",
+                "second": " up to 99.9%."
+              }
+            },
+            {
+              "title": "Faster delivery time",
+              "description": {
+                "first": "Swiftly and efficiently handle orders, resulting in a",
+                "second": " 50% improvement",
+                "third": " in delivery speeds. This not only boosts customer satisfaction but also drives increased sales."
+              }
+            }
+          ]
+        }
+      },
+      "fulfillOrders": {
+        "heading": "Why should fulfill orders with EFEX?",
+        "subHeading": "EFEX can optimize operation and save up to 70% operating fee",
+        "sameDay": {
+          "title": "Same-day order processing",
+          "content": [
+            "Fulfill orders speedily as soon as there is any new order on sales channels, deliver the exact items on time as promised.",
+            "Commit to achieve 100% SLA during the process. Be able to fulfill up to 2000 orders/day."
+          ]
+        },
+        "payAs": {
+          "title": "Pay as you really go",
+          "content": [
+            "The fulfill fee is counted based on the number and size of orders processed.",
+            "No extra or hidden fee, many promotions for each sellers annually."
+          ]
+        },
+        "multiple": {
+          "title": "Multiple warehouses at convenient locations",
+          "content": "Our expansive logistics network spans across Southeast Asia, strategically positioned in the heart of key cities for seamless import- export, and distribution of goods."
+        },
+        "delivery": {
+          "title": "Last-mile delivery",
+          "content": "Connect with renowned domestic and international carriers to deliver your orders quickly with the lowest rates while keeping your order safe 100% during order shipping."
+        },
+        "customized": {
+          "title": "Customized packing",
+          "content": [
+            "Optimize and customize packaging for optimal profitability.",
+            "Everything to boost your brand awareness such as inserting label or logo, adding vouchers, cards, marketing documents, we are on it!"
+          ]
+        },
+        "provide": {
+          "title": "Provide Multichannel Order Management System (OMS)",
+          "free": "Free",
+          "content": [
+            "Sell everywhere, manage in one place with various advanced features from our proprietary software",
+            "Everything on multiple channels (TikTokShop, Shopee, Lazada,..) is integrated on one..."
+          ]
+        }
+      },
+      "unlocking": {
+        "title": "Unlocking business efficiency: maximizing operations and fulfillment",
+        "subTitle": "Enhance productivity, accuracy & speed with our advanced warehouses."
+      },
+      "fulfillNetwork": {
+        "title": "Fulfillment Network",
+        "subTitle": "We’re everywhere you need us to be, around the world."
+      },
+      "customerSuccess": {
+        "ourSuccess": "Customer success is our success",
+        "title": "Customere Success Stories",
+        "subTitle": "Discover how businesses like yours use Intercom to acquire, engage, and support customers."
+      },
+      "ourPartners": {
+        "title": "Our Partners",
+        "subTitle": "EFEX is always on the lookout to forge strong partnerships with industry leaders to bring the top-notch service for every business"
+      },
+      "multichannel": {
+        "title": "Multichannel Order Fulfillment",
+        "subTitle": "Fulfill everything for any channel accurately and professionally to increase customer retention and leave unforgettable impression on your brand.",
+        "btnText": "Contact Sales"
+      },
+      "contact": {
+        "title": "Let’s focus on scaling business, EFEX will handle the rest!"
+      },
+      "frequentlyQues": {
+        "getAnswers": "Get answers for",
+        "title": "Frequently asked questions",
+        "subTitle": "Explore our frequently asked questions to learn more about Fulfillment by EFEX (FBE) and more.",
+        "content": [
+          {
+            "title": "What is “Fulfillment”?",
+            "description": "\"Fulfillment\" refers to the procedure of storing, packaging, and sending out orders, along with managing returns and exchanges. While some companies handle fulfillment internally, others utilize services like Fulfillment by EFEX, or a blend of internal and third-party choices. Efficient and dependable fulfillment brings super customer satisfaction."
+          },
+          {
+            "title": "What is FBE (Fulfillment by EFEX)?",
+            "description": "Fulfillment by EFEX (FBE) is a service that allows businesses to warehouse or fulfill orders on multiple sales channels. When your customers make a purchase on any channel, EFEX fulfillment specialists start picking, packing, shipping orders, and managing returns effectively as fast as possible."
+          },
+          {
+            "title": "How EFEX fulfillment works?",
+            "description": "When sellers have a new order, EFEX warehouse specialists pick, pack, and ship the order to your customer on the same day. Moreover, EFEX fulfillment specialists can process returned products. We will quickly perform returned product testing, assessment, sorting, and sellable items back to the active inventory. Always ensure that returns are neither time-consuming, nor costly to provide the best possible client experience."
+          },
+          {
+            "title": "How much does FBE cost per item?",
+            "description": {
+              "first": "Expenses differ per the number of products, which encompasses both order processing charges and storage costs. To find out how much Fulfillment by EFEX costs, please refer to our",
+              "second": "pricing details."
+            }
+          }
+        ],
+        "learnMore": {
+          "first": "Learn more about",
+          "second": "eCommerce order fulfillment"
+        }
+      }
+    },
+    "businessOwner": "IChiba For Business Owners: Boost Efficiency with Multichannel Solutions",
+    "marketingTeams": "IChiba for Marketing Teams: Create unforgettable shopping experiences across channels",
+    "globalSelling": "Global Selling On Multi-channels And Multi-markets",
+    "allInOne": "All-in-one Shipping Management Software | IChiba OnePlatform",
+    "proxy": "Revolutionize Your Proxy-Shopping and International Shipping",
+    "multichannelFulfillment": "eCommerce Order Fulfillment Software | IChiba OnePlatform",
+    "orderFulfillmentByEfex": "Integrating IChiba Commerce Layer To Fulfillment By EFEX",
+    "performance": "Performance Marketing & Growth Solution | IChiba OnePlatform",
+    "posOverview": "Point of Sale (POS) System for Every Retailer from IChiba OnePlatform",
+    "posFeature": "Point of Sale (POS) System for Every Retailer Features",
+    "buildStoreFrontLandingPage": "StoreFront Layer Landing Page: IChiba StoreFront Layer",
+    "buildStoreFrontOverview": "StoreFront Layer IChiba OnePlatform: Build Fast with Flexibility",
+    "buildStoreFrontCommerceSites": "Professional, Multi-Market Ecommerce Website Development",
+    "buildStoreFrontThemesLibrary": "StoreFront Layer Themes Library: IChiba",
+    "omnichannelSelling": "IChiba OnePlatform Omnichannel Selling Solution",
+    "retail": "All-Inclusive SaaS Solutions For Online To Offline Retail Management",
+    "motherBaby": "Transform Your Mother & Baby Store With SaaS solutions for the mother and baby industry",
+    "logistic": "Transform Logistics Operations to Digital with Precision & Efficiency",
+    "fashionBeauty": "Sell Fashion & Beauty with SaaS Solutions for the Fashion Industry",
+    "electronic": "Empower Your Electronics Business with Electronics Ecommerce Solutions",
+    "dropshipping": "All-in-one Automation Dropship Management Software| IChiba OnePlatform",
+    "caseStudies": "Case Studies: IChiba Customer Stories",
+    "omnichannelRetailers": "Omni-Channel Retail Solution: Sell Across Channels & Markets",
+    "ecommerceFulfillment": "Effortless Ecommerce Fulfillment For Your Business | IChiba Global",
+    "products": "IChiba SaaS Products Ecosystem",
+    "wms": "eCommerce Warehouse Management System | IChiba OnePlatform",
+    "crawlerOverview": "IChiba OnePlatform Product Data Crawler: Streamline Global E-Commerce Data",
+    "commerceLayer": "Omnichannel order management on multiple markets with Commerce Layer",
+    "commerceLayerPricing": "Commerce Layer: Flexible pricing plans for businesses of all sizes",
+    "integrations": "Integration Ecosystem for Logistics & E-commerce Software",
+    "operationTeams": "IChiba for operation teams: Optimize operations to adapt of e-commerceLayer",
+    "technicalTeams": "IChiba for it and technical teams: Implement your commerce in your way, faster than ever",
+    "thankYou": "Thank You",
+    "pod": "Seamlessly run your Print-on-Demand business from sourcing to delivery!"
+  },
+  "metaDescription": {
+    "ship4p": "The multi-carrier shipping software Ship4P helps manage multiple shipping companies, both last-mile and international ones, so that sellers can save a lot of time and costs.",
+    "crossborder": "For those who are doing cross-border ecommerce, we have developed an end-to-end cross-border solution so that businesses can boost sales effortlessly.",
+    "OMSOverview": "IChiba OnePlatform’s omnichannel order management system enables businesses to monitor orders on multiple sales channels, manage inventory and connect with ecommerce ecosystem for better performance.",
+    "OMSFeatures": "Our all-in-one order management system (OMS) consists of comprehensive features like order management, distribution order, multichannel integration, etc. to optimize business sales.",
+    "digitalOverview": "Order Management System Features",
+    "digitalFeatures": "Order Management System Features",
+    "wmsOverview": "Maximize Your Warehouse Efficiency | IChiba WMS",
+    "wmsFeatures": "Modern Online Warehouse Management System",
+    "eDistributors": "All-in-one Solutions for eCommerce Distributors",
+    "multi": "Multi-Channel Fulfillment: Fulfill Orders From All Channels",
+    "omnichannel": "Omni-Channel Retail Solution: Sell Across Channels & Markets",
+    "brand": "Brand Commerce: Upping your E-commerce Enablement",
+    "smes": "Best SaaS Management Software for Small Businesses",
+    "pimOverview": "Deliver product data to multi-channels, synchronize it across systems, and optimize it for more sales with IChiba OnePlatform’s Product Information Management (PIM).",
+    "pimFeatures": "Our PIM (product information managment) solution helps you to increase your overall business productivity enabling you to earn more profits through several outstanding features.",
+    "smartCBOverview": "We help you to build international selling websites with multiple payment methods, languages & currencies while ensuring borderless selling & shipping management.",
+    "smartCBFeatures": "IChiba OnePlatform’s Cross-Border Forwarding delivers outstanding features that support sellers, from building international selling websites to managing sales orders and purchase orders, and so on.",
+    "wareHouse": "Empowering Your Business with Flawless Warehouse Fulfillment | IChiba OnePlatform",
+    "crossFulfillment": "Discover how our cross-border fulfillment facilities receive and package your products for international shipping, then deliver them straight to the end consumer's door.",
+    "buildStoreOverview": "",
+    "omnichannelRetailers": "",
+    "crossBorderEcommerce": "",
+    "brandCommerce": "",
+    "orderFulfillment": "",
+    "ecommerceFulfillment": "",
+    "warehouseFulfillment": "",
+    "posOverview": "IChiba OnePlatform Point of Sale standardizes retailers' operation and delivers seamless shopping experience for customers. Sellers can config our software to fit their requirements...",
+    "posFeature": "With outstanding features, sellers can take advantages of IChiba POS to manage customers & product data, integrate multiple payment methods, monitor employees, and so on.",
+    "buildStoreFrontLandingPage": "Create professional landing pages for ads/marketing. With more than 100 pre-designed templates, simple design with drag-and-drop function and high data security.",
+    "buildStoreFrontOverview": "StoreFront Layer IChiba OnePlatform provides you with the most flexible and comprehensive tool to create online selling website/landing pages. Compatible with all business models and types.",
+    "buildStoreFrontCommerceSites": "Expand your sales channels and reach more customers with our digital web/landing page design service.",
+    "buildStoreFrontThemesLibrary": "Get access to hundreds of storefront and landing page themes that fit every industry. We also provide customized templates for businesses if required.",
+    "businessOwner": "Solve every problem that gives business owners headaches: customer acquisition and retention, technology and platform management, logistics and shipping, scaling challenges, etc.",
+    "marketingTeams": "Create unforgettable shopping experiences across channels. Build online stores, create marketing landing pages, gather 360 customer data, and many more.",
+    "globalSelling": "Enable global selling on multi-channels and multi-markets by breaking language & currency barriers, offering multi-warehouse solutions, and fulfilling cross-border orders",
+    "allInOne": "We help you to build international selling websites with multiple payment methods, languages & currencies while ensuring borderless selling & shipping management.",
+    "proxy": "The leading SaaS solution designed for proxy-shopping and international shipping services. From creating new website to managing cross-border orders, we handle it all.",
+    "omnichannelSelling": "Boom your sale on multiple channels with IChiba OnePlatform omnichannel selling solution. Sell everywhere your customers are, manage everything right in one platform.",
+    "multichannelFulfillment": "We help you to build international selling websites with multiple payment methods, languages & currencies while ensuring borderless selling & shipping management.",
+    "orderFulfillmentByEfex": "IChiba OMS partners with Fulfillment by EFEX service to deliver a solution, in which businesses ensure the effectiveness in picking, packing, and shipping operations.",
+    "performance": "Kickstart your growth journey with IChiba OnePlatform performance marketing solution. We help you reach and convert as more target customers as good.",
+    "retail": "Effortlessly manage thousands of SKUs with online to offline retail management; automatically print invoices, no matter where you sell - online or offline.",
+    "motherBaby": "Tailored SaaS solutions for the mother and baby industry: addressing all your management needs. Nurture your store and craft your success story today!",
+    "logistic": "Unlock the full potential of your logistics network with our SaaS software – designed to transform logistics operations to digital, with seamless integration and optimized performance.",
+    "fashionBeauty": "The fashion & beauty management solution with SaaS solutions for the fashion industry consolidates vital tools, including digital asset management, sales reports, and more.",
+    "electronic": "Elevate your electronics store's potential with seamless intergration and smart management. Accurately manage products and inventory by serial and imei.",
+    "dropshipping": "We help you to build international selling websites with multiple payment methods, languages & currencies while ensuring borderless selling & shipping management.",
+    "caseStudies": "Explore inspiring customer stories and witness their remarkable journeys and achievement by using IChiba SaaS e-commerce enablement platform.",
+    "products": "IChiba SaaS product ecosystem consists of outstanding software that enables ecommerce and online-ofline selling, dividing into three main categories: ecommerce, logistics and boost revenue.",
+    "wms": "We help you to build international selling websites with multiple payment methods, languages & currencies while ensuring borderless selling & shipping management.",
+    "crawlerOverview": "IChiba Product Data Crawler – a powerful e-commerce tool that offers significant benefits for buyers and auction managers. Enhance your data collection and management with ease",
+    "commerceLayer": "We help you to build international selling websites with multiple payment methods, languages & currencies while ensuring borderless selling & shipping management.",
+    "integrations": "Connect your software with IChiba OnePlatform's Integration Ecosystem, offering over 200 integrations to seamlessly synchronize data across logistics and e-commerce platforms",
+    "operationTeams": "",
+    "technicalTeams": "",
+    "thankYou": "",
+    "commerceLayerPricing": "",
+    "bookDemo": "",
+    "pod": ""
+  },
+  "viewMore": "View More",
+  "requestSupport": "Request a support",
+  "solutions": {
+    "cbe": {
+      "crossBorderEcommerce": "Cross-border Ecommerce",
+      "banner": {
+        "heading": "Global growth without growing pains",
+        "subHeading": "Thrive in international sales and build your global growth strategies with end-to-end cross-border solutions."
+      },
+      "boost": {
+        "heading": "Boost your international sales with specialized capabilities designed to help you exceed your goals",
+        "label1": "Local payment gateways",
+        "label2": "Countries & territories",
+        "label3": "Localized currencies"
+      },
+      "globalExpansion": {
+        "heading": "Everything you need for smart Global expansion",
+        "subHeading": "Unlock your international potential by localizing customer experience.",
+        "tab1": {
+          "title": "Multi-markets",
+          "content1": "All Cross-border eCommerce functions are consolidated in your admin, allowing you to handle translation, shipping, duties, and compliance from a single location.",
+          "content2": "Gain buyer trust and enhance customer experiences suited to each region, involving translation, localized web browsers, and multi-currencies."
+        },
+        "tab2": {
+          "title": "Localized checkout & payments",
+          "content1": "Multiple localized currencies: Support over 100 local currencies.",
+          "content2": "Streamlined international checkout process provides a variety of local and alternative payment methods in multiple languages and currencies."
+        },
+        "tab3": {
+          "title": "Custom markets",
+          "content1": "Localized browsing: Content and site structure have been translated to ensure that they are adequately fitted to the target area.",
+          "content2": "Deliver highly personalized shopping experiences with customized product suggestions in each market."
+        }
+      },
+      "globalExpansion1": {
+        "heading": "Handle fulfillment & international forwarding at the drop of a hat",
+        "subHeading": "Easily fulfill the orders and send them internationally without any delay or restrictions.",
+        "tab1": {
+          "title": "International fulfillment",
+          "content1": "Use compatible third-party shipping apps to diversify options, optimize shipping times & costs.",
+          "content2": "Integrate commercial invoices with payment features to benefit from customs document management and quick clearance.",
+          "content3": "Inform exact product stock levels based on inventory at fulfillment locations."
+        },
+        "tab2": {
+          "title": "Cross-border shipping",
+          "content1": "Provide various attractively-priced global shipping rates and multiple service levels.",
+          "content2": "AI powerful technology automatically suggests the best carrier rates, based on the nature of the product and the target delivery destination.",
+          "content3": "Maintain full visibility of order status with real-time updates from all couriers on a single dashboard."
+        },
+        "tab3": {
+          "title": "Advanced duty and tax calculation",
+          "content1": "Remove the guesswork from international trade by determining your shipment's Harmonised Code, locating essential customs paperwork, and more.",
+          "content2": "Allow consumers to view and prepay all customs and taxes at checkout to avoid unpleasant surprises upon delivery.",
+          "content3": "Automatically calculate and charge the correct tax exactly on every transaction, based on the product you sell, the buyers' location, and more."
+        },
+        "tab4": {
+          "title": "Customs clearance",
+          "content1": "Get goods cleared quickly and reliably even in markets considered to be difficult in challenging regions with various dedicated teams.",
+          "content2": "Continuously update shipment during customs declaration processing in real-time on a united platform.",
+          "content3": "Utilize cutting-edge customs clearance technologies and EDI capabilities to ensure consistent and compliant trade activity."
+        }
+      },
+      "service": {
+        "heading": "What are the right products/services for you?",
+        "prod1": {
+          "label": "Ship4P",
+          "description": "Shipping management platform that centralizes multiple carriers to manage, reducing costs, and simplifying shipment management."
+        },
+        "prod2": {
+          "label": "Warehouse Management System (WMS)",
+          "description": "Warehouse enhancement solution to drive more efficiency, reduce costs, and create a hyperconnected processes across your warehouse."
+        },
+        "prod3": {
+          "label": "Cross-Border Forwarding",
+          "description": "Enjoy the exhilarating borderless shopping experience through multi-channel, multi-warehouse, multi-language, and multi-currency."
+        },
+        "prod4": {
+          "label": "Order Fulfillment",
+          "description": "Deliver modern logistics and customized eCommerce order fulfillment solutions to B2B & B2C clients with powerful onboarding, management & reporting features."
+        },
+        "prod5": {
+          "label": "Product Information Management (PIM)",
+          "description": "A centralized place to collect, manage, and enrich product data, generate product catalogs, and distribute them to your sales channels."
+        }
+      },
+      "globalSelling": {
+        "heading": "Global selling is just a piece of cake",
+        "item1": {
+          "title": "All-executive supporting tools",
+          "description": "Take advantage of our optimized operations. We can help you manage your international logistics, including cross-border forwarding, customs, returns, and more."
+        },
+        "item2": {
+          "title": "Scale effortlessly",
+          "description": "Capture new sales opportunities in formerly inaccessible markets and position your business for growth."
+        },
+        "item3": {
+          "title": "24/7/365 support service",
+          "description": "Get the most accessible and comprehensive support service, available 24 hours a day, 7 days a week, 365 days a year."
+        }
+      },
+      "goGlobal": {
+        "heading": "Go Global Like A Pro",
+        "subHeading": "Don't just internationalize - localize."
+      },
+      "slider": "We help hundreds of brands expand to global markets!",
+      "contactNow": {
+        "heading": "Save time and effort on borderless business management",
+        "subHeading": "Contact us now to get the latest deals worldwide and advice from experts about the current market trends and needs."
+      }
+    },
+    "warehouseFulfillment": {
+      "banner": {
+        "heading": "Empowering your business with flawless warehouse fulfillment",
+        "subHeading": "Bring tech-driven warehouse fulfillment solutions to optimize your supply chain and revolution your business."
+      },
+      "classification": {
+        "heading": "Warehouse fulfillment classification",
+        "subHeading": "To ensure meeting all customer requirements, our warehouse systems are divided into 3 distinct types based on their specific purposes.",
+        "title1": "Bonded warehouse",
+        "title2": "Finished goods warehouses",
+        "title3": "Cross-dock warehouses",
+        "tab1": "Storing imported goods under customs control without paying duties and taxes until they are ready for export or released for domestic consumption.",
+        "tab2": "Managing inventory, picking, packing, logistics coordination and timely delivery for goods.",
+        "tab3": "Facilitating direct transfer, sorting shipments and coordinating efficient loading/unloading without long-term storage."
+      },
+      "businessSolution": {
+        "heading": "Discover how warehouse fulfillment empowers your business",
+        "subHeading": "Our solution streamlines and optimizes your fulfillment, ensuring smooth operations and helping your business thrive in today's competitive market.",
+        "t1": {
+          "title": "#1. Fulfill orders from multi-channel",
+          "content1": "Utilize barcode scanning and automated sorting systems to accurately pick and pack items from different channels in a single warehouse.",
+          "content2": "Integrate inventory management systems to provide real-time visibility of stock levels across all channels, preventing overselling or stockouts.",
+          "content3": "Optimize warehouse layout and storage strategies to accommodate inventory from multiple channels, maximizing space utilization and minimizing handling time."
+        },
+        "t2": {
+          "title": "#2. Set up multi-warehouse in multi-markets",
+          "content1": "Offer multiple warehouse locations strategically positioned in different markets to facilitate faster and cost-effective order fulfillment.",
+          "content2": "Utilize intelligent order routing algorithms to automatically allocate orders to the most suitable warehouse based on proximity, stock availability, and customer location."
+        },
+        "t3": {
+          "title": "#3. Technology integration",
+          "content1": "Implement a robust Warehouse Management System (WMS) to streamline and automate various warehouse processes, including inventory management, order processing and fulfillment.",
+          "content2": "Integrate with shipping carriers' systems to automate shipping label generation, tracking updates and rate calculations, simplifying the shipping process."
+        },
+        "t4": {
+          "title": "#4 Detailed reports & analytics",
+          "content1": "Monitor & analyze order fulfillment metrics, such as on-time delivery, order fill rate, and customer satisfaction, to ensure high-quality service and identify areas for improvement.",
+          "content2": "Utilize data-driven insights to optimize warehouse layout and organization, product placement, and picking routes to minimize travel time, improve order accuracy & enhance overall efficiency."
+        },
+        "t5": {
+          "title": "#5 Value-added services",
+          "content1": "Pack the orders with promotional materials, such as coupons, samples or marketing collateral to encourage repeat purchases or cross-selling",
+          "content2": "Provide insurance for goods stored in the warehouse, protecting against possible loss or damage during the proces"
+        }
+      },
+      "process": {
+        "heading": "Warehouse fulfillment process",
+        "subHeading": "With a well-organized inventory and streamlined operations, we guarantee a smooth journey from receiving to sending out, ensuring that products reach their intended recipients precisely and efficiently."
+      },
+      "efficiency": {
+        "heading": "Unlocking warehouse efficiency: ",
+        "heading2": "maximizing operations and fulfillment",
+        "subHeading": "Enhance productivity, accuracy and speed with our advanced warehouse."
+      },
+      "support": {
+        "heading": "Customized service & support",
+        "subHeading1": "By tailoring our solutions to fit your business, we ensure seamless warehouse fulfillment, optimized workflows and enhanced operational efficiency.",
+        "subHeading2": "Our dedicated team commits to providing personalized guidance and assistance every step of the way, empowering you to achieve exceptional warehouse fulfillment results."
+      }
+    }
+  },
+  "contactNow": "Contact now",
+  "trust": {
+    "heading": "Trust and Security",
+    "title": "Trust components",
+    "content": "We understand that trust is the #1 basis to build a strong and durable relationship.",
+    "security": {
+      "title": "Security",
+      "content": "IChiba OnePlatform develops products along with built-in security so that businesses can focus on growing and innovating."
+    },
+    "availability": {
+      "title": "Availability",
+      "content": "We and our customers share the responsibility to ensure that the data can be accessed by authorized people whenever they want."
+    },
+    "confidentiality": {
+      "title": "Confidentiality",
+      "content": "The multi-layer security methods ensure the licensed access by individuals or programs."
+    },
+    "compliance": {
+      "title": "Compliance",
+      "content": "IChiba OnePlatform maintains a set of compliance certifications to validate our #1 value of trust."
+    },
+    "privacy": {
+      "title": "Privacy",
+      "content": "We value individuals privacy and commit to fulfilling the highest obligation personal data protection."
+    },
+    "certificates": {
+      "title": "Compliance Certificates, Standards, and Regulations",
+      "content": "We hold industry-accepted certifications and comply with applicable industry standards and regulations, so you can rest assured that your company and customer data remains safe and compliant."
+    },
+    "nurture": {
+      "title": "Nurture trust with you and your customers"
+    },
+    "securityPartners": {
+      "title": "Security Partners",
+      "content": "We cooperate with industry leaders for security to protect your data from cyber attacks"
+    },
+    "question": {
+      "title": "Questions? Get in touch!",
+      "content": "Contact one of our highly-trained support engineers to get detailed answers to your specific security questions.",
+      "support": "Support Request"
+    }
+  },
+  "myProduct": "My product",
+  "switchTo": "Switch to",
+  "organization": "Organization",
+  "getStartWithYourOwnWorkspace": "Get started with your own workspace",
+  "tryProductToStartGrowthWithYourBusiness": "Try a product to start growth with your business",
+  "createWorkspace": "Create workspace",
+  "workspaces": "Workspaces",
+  "seeMore": "See more",
+  "workspaceInformation": "Workspace information",
+  "application": "Application",
+  "userAccessManagement": "User Access Management",
+  "configuration": "Configuration",
+  "multiChannelFulfillment": "Multi channel fulfillment",
+  "mainContent": "Main content"
+}

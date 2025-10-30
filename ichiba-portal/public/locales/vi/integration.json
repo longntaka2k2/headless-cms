@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Kết Nối Phần Mềm Của Bạn Với Hệ Sinh Thái Tích Hợp Của IChiba"
+  },
+  "textBtn": ["Dùng thử miễn phí", "Liên hệ ngay"],
+  "metaDescription": {
+    "intergrations": "Kết nối phần mềm của bạn với hệ sinh thái tích hợp của IChiba OnePlatform với hơn 200 tiện ích giúp đồng bộ hóa dữ liệu một cách liền mạch"
+  },
+  "banner": {
+    "heading": "Kết nối phần mềm của bạn với hệ sinh thái tích hợp của IChiba",
+    "heading2": "",
+    "subHeading": "Khám phá hơn 200 tiện ích tích hợp giúp bạn đồng bộ hóa các dữ liệu một cách liền mạch.",
+    "cta": "Đến màn hình tích hợp"
+  },
+  "explore": {
+    "heading": "Khám phá tất cả tích hợp",
+    "categories": [
+      "Sàn thương mại điện tử",
+      "Nền tảng thương mại điện tử",
+      "Mạng xã hội",
+      "Đơn vị vận chuyển",
+      "3PL Fulfillment",
+      "Phần mềm kế toán",
+      "Marketing Automations",
+      "Helpdesk CRM",
+      "Other"
+    ],
+    "cta": {
+      "moreInfo": "Tìm hiểu thêm"
+    }
+  },
+  "ichibaGlobal": "IChiba OnePlatform",
+  "aPower": "Đặt nền móng cho tăng trưởng bền vững",
+  "contactNow": {
+    "heading": "Sẵn sàng nâng cấp hệ thống quản lý vận chuyển đa hãng của bạn",
+    "subHeading": "Tạo tài khoản và kết nối API vận chuyển miễn phí ngay hôm nay!",
+    "textBtn": "Liên hệ ngay"
+  },
+  "ourAPI": {
+    "connect": "Kết nối"
+  },
+  "iChiba": ["IChiba Global", "Sức mạnh làm bừng sáng doanh nghiệp của bạn"]
+}

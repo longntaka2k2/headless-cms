@@ -1,0 +1,253 @@
+{
+  "banner": {
+    "title": "Tạm biệt nỗi lo quản lý quá nhiều hãng vận chuyển với giải pháp phần mềm của IChiba",
+    "subtitle": "IChiba kết nối các đơn vị chuyển phát trong nước và quốc tế, giúp nhà bán hàng quản lý nhiều hãng vận chuyển trên một dashboard duy nhất."
+  },
+  "allInOne": {
+    "title": ["Quản lý vận chuyển tập trung ",
+    "Xử lý tất cả các đơn hàng tại một màn hình dashboard"],
+    "items": [
+      {
+        "title": "25+",
+        "content": "đối tác vận chuyển"
+      },
+      {
+        "title": "10+",
+        "content": "kênh bán được tích hợp"
+      },
+      {
+        "title": "30%",
+        "content": "tiết kiệm chi phí vận chuyển"
+      }
+    ]
+  },
+  "shipping": {
+    "title": "Những vấn đề về vận chuyển mà nhà bán hàng thường gặp phải",
+    "confusion": "Không biết đơn vị vận chuyển nào tối ưu nhất (về mức giá, thời gian,...)",
+    "difficulty": "Khó khăn trong việc theo dõi tất cả các đơn vận chuyển từ nhiều kênh bán hàng và hãng chuyển phát khác nhau",
+    "incident": "Các sự cố về lô hàng bị thất lạc, hư hỏng trong quá trình vận chuyển",
+    "shipping": "Giao hàng chậm trễ khiến khách hàng không hài lòng"
+  },
+  "iChibaBring": {
+    "title": "IChiba mang lại giải pháp quản lý đa hãng vận chuyển toàn diện cho nhà bán hàng",
+    "offer": {
+      "title": "1. Kết nối nhiều đơn vị vận chuyển",
+      "subtitle": "IChiba hợp tác với các công ty vận chuyển nổi tiếng cung cấp giá cả hợp lý và giao hàng nhanh chóng.",
+      "content": "Bên cạnh đó, chúng tôi cũng tích hợp tất cả các nhà cung cấp dịch vụ vận chuyển vào một bảng điều khiển duy nhất. Người bán có thể so sánh cước phí và thời gian giao hàng giữa các đơn vị và đưa ra quyết định tối ưu nhất."
+    },
+    "print": {
+      "title": "2. In vận đơn cho nhiều đơn hàng cùng lúc",
+      "content": [
+        "Tinh giản quy trình làm việc bằng cách in vận đơn cho nhiều đơn hàng cùng lúc, nâng cao hiệu quả và tiết kiệm thời gian.",
+        "IChiba sẵn sàng hỗ trợ chủ shop in một hoặc nhiều vận đơn số lượng lớn."
+      ]
+    },
+    "allow": {
+      "title": "3. Theo dõi đơn hàng từ nhiều hãng chuyển phát khác nhau",
+      "items": [
+        {
+          "icons": "https://cms-strapi.ichiba.net/uploads/PART_Handling_v2_1_869101aa5c.png",
+          "title": "Cho phép người dùng dễ dàng theo dõi trạng thái đơn hàng trong thời gian thực từ nhiều đơn vị vận chuyển khác nhau."
+        },
+        {
+          "icons": "https://cms-strapi.ichiba.net/uploads/Frame_1171275989_40930dfaf9.png",
+          "title": "Đảm bảo trải nghiệm minh bạch và thuận tiện cho cả người bán và người mua."
+        }
+      ]
+    },
+    "automatic": {
+      "title": "4. Tự động đồng bộ hóa lô hàng và quy trình vận chuyển",
+      "content": [
+        "Tự động cập nhật trạng thái của các lô hàng trong suốt quá trình vận chuyển. Điều này giúp đảm bảo sự phối hợp hiệu quả giữa các phòng ban và giảm thiểu sai sót.",
+        "Việc đồng bộ hóa tự động này giúp nâng cao hiệu quả tổng thể và góp phần mang lại trải nghiệm vận chuyển mượt mà hơn."
+      ]
+    },
+    "provideFlexible": {
+      "title": "5. Cung cấp các phương thức thanh toán linh hoạt",
+      "byOffer": "IChiba cho phép thanh toán linh hoạt, giúp doanh nghiệp đáp ứng được nhu cầu đa dạng của khách hàng, đảm bảo trải nghiệm mua sắm liền mạch và thuận tiện.",
+      "addition": "Ngoài ra, giải pháp của IChiba OnePlatform tập trung vào thanh toán bảo mật, bảo vệ giao dịch của khách hàng và giảm thiểu rủi ro cho người bán,..."
+    },
+    "provideData": {
+      "title": "6. Phân tích dữ liệu và báo cáo chi tiết",
+      "content": [
+        "Phần mềm IChiba có thể thu thập và phân tích dữ liệu về hoạt động vận chuyển, từ đó doanh nghiệp có cái nhìn tổng quát về hiệu quả và xu hướng vận tải.",
+        "Điều này giúp các chủ shop xác định những yếu tố cần cải thiện và tối ưu hóa chiến lược gửi hàng."
+      ]
+    },
+    "integration": {
+      "title": "50+ đối tác. Không phí ẩn",
+      "dosmetic": {
+        "title": "Hãng vận chuyển nội địa",
+        "items": [
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17486_562ffcbe55.png",
+            "title": "Bamboo Airways",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17486_562ffcbe55.png",
+            "title": "GHN",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276261_f22518ad30.png",
+            "title": "Giaohangtietkiem HL",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_1_5b01bbf889.png",
+            "title": "Vietnam Airlines",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17483_8c54596692.png",
+            "title": "Vietnam Post",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_e1ebe7426a.png",
+            "title": "Viettel Post",
+            "link": ""
+          }
+        ]
+      }
+    },
+    "internatonal": {
+      "title": "Hãng vận chuyển quốc tế",
+      "items": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Rectangle_6687_5cda3011a7.png",
+          "title": "EMS",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17474_c61f020891.png",
+          "title": "DHL",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/image_26_378f35ab22.png",
+          "title": "Fedex",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Rectangle_6687_1_6a53244b44.png",
+          "title": "Gojek",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Rectangle_6687_2_643f1c8d59.png",
+          "title": "Grab",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Rectangle_6687_3_8170b4d530.png",
+          "title": "J&T",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17479_a61521b61a.png",
+          "title": "Blue Dart",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_4885b58334.png",
+          "title": "Japan Post",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17478_259d4f7366.png",
+          "title": "Nippon Express",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17477_853982da31.png",
+          "title": "Sagawa",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_1_a5850baa3e.png",
+          "title": "Yamato",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17482_cdd7032304.png",
+          "title": "China Post",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17481_fd7fb9503e.png",
+          "title": "TNT",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17485_4cd2fdf2de.png",
+          "title": "SF Express",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17484_d362adfa54.png",
+          "title": "Sino Shipping",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_2_64744d7333.png",
+          "title": "ZTO Express",
+          "link": ""
+        }
+      ]
+    }
+  },
+  "ship4p": {
+    "title": "Ship4P",
+    "subtitle": "Giải pháp phần mềm kết nối vận chuyển đa kênh",
+    "explore": "Tìm hiểu thêm",
+    "content": [
+      "Quản lý đa hãng vận chuyển, chỉ trên Ship4P",
+      "Dễ dàng so sánh cước phí và các chương trình giảm giá",
+      "Tạo mã vận đơn và quản lý tập trung trên một dashboard",
+      "Tự động cập nhật trạng thái vận chuyển, với hệ thống tracking ALL-IN-ONE",
+      "Đối soát và thanh toán nhanh chóng, chính xác",
+      "Dịch vụ hỗ trợ 24/7"
+    ]
+  },
+  "whyChoose": {
+    "title": "Tại sao chọn giải pháp của chúng tôi",
+    "compatibility": {
+      "title": "Tương thích tốt",
+      "content": "Phần mềm Ship4P của Nền tảng IChiba tương thích với hầu hết các hệ thống và quy trình hiện có của doanh nghiệp để tránh gián đoạn và đảm bảo quá trình tích hợp suôn sẻ."
+    },
+    "userFiend": {
+      "title": "Thân thiện với người dùng",
+      "content": "Ship4P rất dễ sử dụng, thiết kế trực quan, điều hướng đơn giản và gồm đầy đủ tính năng hữu ích. Bạn có thể quản lý việc vận chuyển của mình mà không bị nhầm lẫn giữa các đơn vị chuyển phát."
+    },
+    "costEffect": {
+      "title": "Tiết kiệm chi phí",
+      "content": "Giải pháp Ship4P của Nền tảng IChiba mang lại giá trị xứng đáng với chi phí bỏ ra. Chúng tôi luôn cố gắng cung cấp giải pháp chất lượng cao phù hợp với ngân sách của doanh nghiệp."
+    },
+    "functional": {
+      "title": "Đầy đủ chức năng",
+      "content": "Ship4P cung cấp đầy đủ chức năng mà doanh nghiệp cần để cải thiện quy trình quản lý vận chuyển. Bao gồm theo dõi vận đơn theo thời gian thực, đồng bộ hóa tự động lô hàng và tối ưu vận chuyển."
+    }
+  },
+  "hear": {
+    "title": "Lắng nghe câu chuyện thành công của khách hàng",
+    "subtitle": "Những đóng góp của IChiba trong câu chuyện về vận chuyển của các doanh nghiệp",
+    "items": [
+      {
+        "content": "The most you can expect in a fulfillment partner is for them to handle your items as if they were their own. IChiba accomplishes just that. We value the customer experience and brand consistency, so receiving that kind of assistance from IChiba means a lot to us.",
+        "name":"Mr. Jarosima",
+        "bio":"Supply Chain at Cars101"
+      }
+    ]
+  },
+  "discover":{
+    "title":"Tìm hiểu thêm về quản lý vận chuyển đa kênh tập trung"
+  },
+  "allInOneShipping":{
+    "title":"Giải pháp vận chuyển all-in-one",
+    "subtitle":"Dễ dàng tạo vận đơn đa hãng vận chuyển chỉ trên một màn hình quản lý duy nhất!",
+    "getStarted":"Bắt đầu ngay",
+    "bookAdemo":"Đặt lịch hẹn"
+  }
+}

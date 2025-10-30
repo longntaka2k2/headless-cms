@@ -1,0 +1,88 @@
+{
+  "banner": {
+    "title": [
+      "Digitize Your Logistics End-to-End with Our",
+      " One-Stop Solution",
+      ""
+    ],
+    "content": "Unlock the full potential of your logistics network with our SaaS cutting-edge software – designed for seamless integration, real-time tracking, and optimized performance at every turn.",
+    "contact": "Contact Sales",
+    "items": [
+      { "title": "50%", "content": ["Increased Number", "of Deliveries"] },
+      { "title": "20%", "content": ["Decreased", "Turnaround Time"] },
+      {
+        "title": "15%",
+        "content": ["Increased Reverse", "Channel Efficiency"]
+      },
+      { "title": "15%", "content": ["Decreased", "Overall Delay"] }
+    ]
+  },
+  "whyChoose": {
+    "title": "Why choose IChiba",
+    "instant": "Instant deployment",
+    "route": "Route Optimization",
+    "actionable": "Actionable analytics"
+  },
+  "suitability": {
+    "label": "Suitability",
+    "title": "Transform your logistics operations to digital with IChiba SaaS solutions",
+    "multi": {
+      "title": "Multi-carrier integration management",
+      "content": "Centralize and manage various carriers on one single place. Evaluate their performance through detailed reports and scorecards."
+    },
+    "realTime": {
+      "title": "Real-time GPS tracking",
+      "content": "Gain unparalleled visibility into your fleet operations with real-time GPS tracking, leading to enhanced route planning, reduced fuel consumption, and on-time deliveries."
+    },
+    "analysis": {
+      "title": "Analysis and suggestion",
+      "content": "Analyze and suggest the use of shipping units according to some criteria: route, price, performance, successful delivery rate by region, etc."
+    },
+    "inventory": {
+      "title": "Inventory management system",
+      "content": "Maintain optimal inventory levels with an intelligent system that predicts demand, prevents stockouts, and reduces excess inventory, ensuring a lean and responsive supply chain."
+    },
+    "seamless": {
+      "title": "Seamless integration capabilities",
+      "content": "Easily integrate with existing ERP, CRM, and accounting systems, allowing for a unified platform that reduces administrative work and eliminates data silos."
+    },
+    "scalable": {
+      "title": "Scalable cloud infrastructure",
+      "content": "Grow your business without the worry of IT infrastructure limitations, thanks to a scalable cloud platform that handles increased demand effortlessly and securely."
+    }
+  },
+  "product": {
+    "title": "Products & solution specially designed for logistics companies",
+    "learnMore": "Learn more",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_61153e6c16.png",
+        "title": "Warehouse Management System (WMS)",
+        "content": "Warehouse enhancement solution to drive more efficiency, reduce costs, and create a hyperconnected processes across your warehouse.",
+        "link": "/products/wms"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_1_5ba028ab4d.png",
+        "title": "Ship4P",
+        "content": "Shipping management platform that centralizes multiple carriers to manage, reducing costs, and simplifying shipment management.",
+        "link": "/products/ship4p/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_2_b448f6d568.png",
+        "title": "Cross-Border Forwarding",
+        "content": "Managing imports and exports has never been easier - reduce customs clearance time by up to 40%, ensure 100% SLA, and maximize customer satisfaction.",
+        "link": "/products/cross-border-forwarding/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/EFEX_1da738d1fa.png",
+        "title": "Fulfillment by EFEX",
+        "content": "IChiba partners with EFEX - a fulfillment service provider, to offer dropship businesses the best multi-channel, multi-market fulfillment process.",
+        "link": "/solutions/order-fulfillment-by-efex"
+      }
+    ]
+  },
+  "enhance": {
+    "title": "Simplify Your Supply Chain today with Our One-Stop Logistics Solution",
+    "contact": "Contact Sales"
+  }
+}

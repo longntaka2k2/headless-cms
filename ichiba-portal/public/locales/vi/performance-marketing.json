@@ -1,0 +1,138 @@
+{
+  "kickstart": {
+    "title": "Khởi đầu hành trình kinh doanh với giải pháp Marketing của IChiba OnePlatform",
+    "subTitle": [
+      "IChiba cung cấp các giải pháp Marketing toàn diện trên nhiều kênh cho các nhà kinh doanh thương mại điện tử.",
+      "Đích đến của chúng tôi là giúp bạn tiếp cận và chuyển đổi nhiều khách hàng nhất có  thể"
+    ],
+    "solutionTitle": ["dự án", "nhân viên", "đối tác", "khách hàng"]
+  },
+  "weOffer": {
+    "title": "Chúng tôi mang điều gì đến cho bạn?",
+    "buildWeb": {
+      "title": "Xây dựng trang web và app",
+      "subTitle": [
+        "Tích hợp các tính năng tùy chỉnh theo yêu cầu của khách hàng.",
+        "Thiết kế giao diện bắt mắt, thân thiện, tối ưu hóa trải nghiệm người dùng."
+      ]
+    },
+    "seoService": {
+      "title": "SEO website",
+      "subTitle": "Từ việc nghiên cứu từ khóa đến việc tối ưu trang, chúng tôi đều thực thi bài bản theo chiến lược vạch ra trừ trước nhằm thúc đẩy traffic, vượt qua đối thủ và chuyển đổi thành doanh số bán hàng."
+    },
+    "socialMedia": {
+      "title": "Mạng xã hội",
+      "subTitle": "Bằng việc xây dựng content chất lượng và triển khai các chiến dịch quảng cáo nhắm trúng mục tiêu, chúng tôi tối đa hóa mức độ hiển thị của doanh nghiệp trên các nền tảng trực tuyến."
+    },
+    "payPer": {
+      "title": "Chạy quảng cáo",
+      "subTitle": [
+        "Liên tục theo dõi và tối ưu hóa hiệu suất quảng cáo để điều chỉnh thông số và phân bổ ngân sách hợp lý.",
+        "Chúng tôi khởi tạo và quản lý các chiến dịch quảng cáo của bạn trên Google và Facebook."
+      ]
+    },
+    "emailMarketing": {
+      "title": "Email Marketing",
+      "subTitle": [
+        "Lên kế hoạch gửi email, tạo nội dung email được cá nhân hóa, phân khúc đối tượng khách hàng mục tiêu và tự động gửi email marketing.",
+        ""
+      ]
+    },
+    "influencerMarketing": {
+      "title": "Influencer Marketing",
+      "subTitle": "IChiba có sẵn mạng lưới KOL, KOC ở nhiều lĩnh vực. Từ việc xác định đúng những người có ảnh hưởng phù hợp với khách hàng mục tiêu đến thiết lập mối quan hệ đối tác lâu dài, chúng tôi sẽ lo liệu giúp bạn."
+    }
+  },
+  "marketingMeasurement": {
+    "title": "Các công cụ đo lường Marketing",
+    "subTitle": "Các công cụ mà chúng tôi sử dụng để theo dõi KPI, đo lường hiệu quả và điều chỉnh linh hoạt cho từng chiến dịch."
+  },
+  "ourResults": {
+    "title": "Kết quả",
+    "results": [
+      "Tỉ lệ ROAS",
+      "Gia tăng tỷ lệ chuyển đổi",
+      "Tăng lên lượt click"
+    ]
+  },
+  "helpYou": {
+    "title": "Chúng tôi giúp bạn tiếp cận được nhiều khách hàng hơn bằng cách",
+    "steps": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Tạo lập nhận diện thương hiệu"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Gia tăng lưu lượng truy cập trang web/ lượt tải ứng dụng"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Re-marketing khách hàng mục tiêu"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Tạp lead (khách hàng tiềm năng)"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Thu hút khách hàng"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_8a17f1d8e5.svg",
+        "title": "Bán sản phẩm"
+      }
+    ]
+  },
+  "applyinAgile": {
+    "heading": "Ứng dụng Agile Marketing để tạo ra sự khác biệt",
+    "agencies": {
+      "title": "Giải pháp Marketing truyền thống",
+      "bigStraegy": "Chiến lược lớn",
+      "userResearch": ["Nghiên cứu người dùng", ""],
+      "adjust": "Điều chỉnh",
+      "bigLaunch": ["Chạy chiến dịch lớn", ""],
+      "insights": "Insights",
+      "testNew": "Thử nghiệm chiến dịch mới",
+      "newBig": "Chiến lược lớn mới"
+    },
+    "agile": {
+      "title": "Giải pháp Agile Marketing của IChiba OnePlatform",
+      "micro": "Chiến lược vi mô tập trung vào KPI",
+      "iterativeCycle": [
+        "Vòng tròn lặp lại",
+        "(lên kế hoạch, thiết kế, triển khai, phân tích, thực thi)"
+      ],
+      "insights": "Insights",
+      "test": "Thử nghiệm & học hỏi",
+      "adjust": "Điều chỉnh",
+      "continue": "A - Tiếp tục",
+      "maintain": "Duy trì những gì có hiệu quả & tiếp tục theo dõi",
+      "optimize": "B - Tối ưu",
+      "optimization": "Tối ưu hoá & A/B Testing"
+    }
+  },
+  "successfulCustomers": {
+    "title": "Lắng nghe từ những khách hàng thành công của chúng tôi",
+    "items": [
+      {
+        "content": [
+          "Bid4win đã ra mắt thành công trang web va ứng dụng mua hộ & đấu giá hàng Nhật vào cuối năm 2023 khi hợp tác với IChiba. Các khách hàng của chúng tôi đều phản hồi rằng họ có trải nghiệm mượt mà trong suốt quá trình mua hàng và đấu giá",
+          "Bid4win đã có những đơn hàng đầu tiên nhờ giải pháp Marketing của IChiba. Công ty đã giúp chúng tôi lên các chiến dịch quảng cáo, từ đó xây dựng tệp khách hàng đầu tiên và chúng tôi đã chuyển đổi lead thành những khách hàng thực thụ"
+        ],
+        "author": "Bà Hoài Thương",
+        "career": "Giám đốc kinh doanh của Bid4win"
+      },
+      {
+        "content": [
+          "Là một ứng dụng mua hộ chuyên hàng Hàn, Hanhan Order đã gặt hái được những trái ngọt đầu tiên nhờ vào giải pháp Marketing của IChiba OnePlatform",
+          "Từ việc sáng tạo các mẫu quảng cáo hấp dẫn để thu hút khách hàng mới đến việc lên kế hoạch tiếp thị qua email, IChiba đã giúp chúng tôi xây dựng thương hiệu ở giai đoạn đầu thành lập."
+        ],
+        "author": "Ông Hải",
+        "career": "Người sáng lập của Hanhan Order"
+      }
+    ]
+  },
+  "promoteAndSell": "Quảng bá và bán hàng tốt hơn với giải pháp Marketing của chúng tôi.",
+  "contact": "Liên hệ ngay"
+}

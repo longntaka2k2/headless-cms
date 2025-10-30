@@ -1,0 +1,157 @@
+{
+  "banner": {
+    "label": "IChiba dành cho chủ doanh nghiệp",
+    "title": "Mở rộng quy mô bán hàng dễ dàng hơn với giải pháp thương mại điện tử cho chủ doanh nghiệp của IChiba",
+    "content": [
+      "Làm cách nào để thu hút và giữ chân khách hàng? Quản lý đơn hàng quá phức tạp? Đau đầu tìm giải pháp tinh giản logistics và vận chuyển? Và một loạt các vấn đề nhức nhối khác.",
+      "",
+      "Nếu bạn cũng đang gặp phải vấn đề này…"
+    ]
+  },
+  "weFeel": {
+    "title": "Đã có IChiba đồng hành cùng bạn",
+    "content": "IChiba OnePlatform là nền tảng hỗ trợ giải pháp thương mại điện tử cho chủ doanh nghiệp vừa và lớn."
+  },
+  "noMore": {
+    "title": "Tạm biệt công việc quản lý nặng nhọc và phức tạp",
+    "content": "Hãy tìm cho mình một giải pháp hỗ trợ thương mại điện tử toàn diện, trong đó các hoạt động quản lý được tập trung và tối ưu hóa.",
+    "contactSale": "Liên hệ ngay"
+  },
+  "global": {
+    "title": "Mở rộng bán hàng ra quy mô quốc tế chưa bao giờ là dễ dàng hơn",
+    "content": "Dễ dàng mở rộng hoạt động kinh doanh của bạn ra quy mô quốc tế với sự hỗ trợ từ các phần mềm của IChiba. Quản lý tập trung mọi thứ trên một dashboard duy nhất.",
+    "markets": {
+      "title": "Đa thị trường",
+      "content": "Mở rộng kinh doanh ra các thị trường khác với sự hỗ trợ từ các phần mềm của IChiba."
+    },
+    "warehouse": {
+      "title": "Quản lý đa kho",
+      "content": "Quản lý đa kho trên một dashboard duy nhất, giúp việc phân phối đơn hàng, tối ưu hóa chi phí và thời gian trở nên dễ dàng hơn."
+    },
+    "currencies": {
+      "title": "Đa tiền tệ",
+      "content": "Tích hợp nhiều phương thức thanh toán với khả năng xử lý nhiều loại tiền tệ để phù hợp với mọi thị trường mà doanh nghiệp hướng tới."
+    },
+    "channels": {
+      "title": "Bán hàng đa kênh",
+      "content": "Quản lý đơn bán trên đa kênh, giúp việc chuyển đổi giữa các kênh trở nên thuận tiện và tiết kiệm thời gian hơn."
+    }
+  },
+  "comprehensive": {
+    "title": "Quản lý bán hàng toàn diện",
+    "content": "Kiểm soát 100% hoạt động bán hàng với bộ phần mềm SaaS của IChiba: từ việc tùy chỉnh giao diện gian hàng để phù hợp với từng thị trường, đến quản lý đơn hàng từ đa kênh bán.",
+    "items": [
+      {
+        "img": "https://cms-strapi.ichiba.net/uploads/6517249a46a706e8fb423947_1_digital_physical_goods_1_d80b6ab489.png",
+        "title": "Xây dựng website bán hàng độc đáo",
+        "content": "Nền tảng SaaS IChiba cung cấp dịch vụ tạo website bán hàng và landing page được tối ưu SEO, thân thiện với người dùng. Các mẫu giao diện hút mắt, dễ dàng tùy chỉnh để mang lại nhận diện thương hiệu độc đáo cho cửa hàng."
+      },
+      {
+        "img": "https://cms-strapi.ichiba.net/uploads/6517249a46a706e8fb423947_1_digital_physical_goods_1_d80b6ab489.png",
+        "title": "Mở rộng quy mô kinh doanh",
+        "content": "Nền tảng SaaS của chúng tôi có thể đáp ứng nhu cầu mở rộng quy mô kinh doanh của doanh nghiệp mà không cần bất cứ nâng cấp hay thay đổi nào."
+      },
+      {
+        "img": "https://cms-strapi.ichiba.net/uploads/6517249a46a706e8fb423947_1_digital_physical_goods_1_d80b6ab489.png",
+        "title": "Logistics và vận chuyển",
+        "content": "Tích hợp với các dịch vụ vận chuyển và logistics, cập nhật giá vận chuyển, tình trạng đơn hàng và trạng thái tồn kho theo thời gian thực."
+      }
+    ]
+  },
+  "opportunities": {
+    "label": "Cơ hội cho lãnh đạo doanh nghiệp",
+    "title": "Thúc đẩy doanh số, đánh bật đối thủ cạnh tranh",
+    "content": "Với bộ giải pháp phần mềm hỗ trợ thương mại điện tử SaaS của IChiba, các shop bán hàng có thể dễ dàng gia tăng nhận diện trên thị trường, đơn giản hóa quản lý bán hàng đa kênh, giảm chi phí vận hành. Từ đó chủ doanh nghiệp có thời gian để tập trung vào phát triển chiến lược bán hàng.",
+    "items": [
+      {
+        "title": "Mở rộng không giới hạn",
+        "content": "Nền tảng SaaS IChiba có khả năng mở rộng theo việc phát triển buôn bán kinh doanh của chủ shop ra các thị trường và kênh bán mới.",
+        "icons": "https://cms-strapi.ichiba.net/uploads/6081adcc1b5ca002a84fd4f4_icon_5_1_0e13d8a0be.svg"
+      },
+      {
+        "title": "Tính linh hoạt",
+        "content": "Tùy chỉnh cài đặt để thích ứng linh hoạt với mọi yêu cầu và hoạt động kinh doanh của nhà bán.",
+        "icons": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_4ab775bf77.svg"
+      },
+      {
+        "title": "Chi phí hợp lý",
+        "content": "Tiết kiệm tới 70% chi phí vận hành và nhân sự, giảm gánh nặng tài chính cho công ty.",
+        "icons": "https://cms-strapi.ichiba.net/uploads/607732b0a896b11ca4c5f83d_Personalize_1_28d4d6890a.svg"
+      }
+    ]
+  },
+  "dontJust": {
+    "title": "Lắng nghe câu chuyện khách hàng thành công",
+    "content": "Tìm hiểu cách mà IChiba OnePlatform hỗ trợ các chủ shop, từ quy mô nhỏ đến các công ty lớn.",
+    "read": "Xem câu chuyện khách hàng"
+  },
+  "power": {
+    "title": "Mở rộng kinh doanh với IChiba OnePlatform",
+    "content": "Liên hệ ngay để nhận được tư vấn miễn phí về các giải pháp thương mại điện tử cho doanh nghiệp - SaaS của IChiba giúp chủ shop, nhà bán hàng online và offline quản lý bán hàng và mở rộng quy mô.",
+    "contact": "Liên hệ ngay"
+  },
+  "iChiba": {
+    "title": "IChiba OnePlatform dành cho các đội nhóm",
+    "items": [
+      {
+        "title": "Dành cho đội Marketing",
+        "content": "Hỗ trợ các công cụ và dữ liệu cần thiết để tạo, thực hiện và tinh chỉnh các chiến dịch Marketing. Chúng tôi cũng cung cấp dịch vụ Marketing với đội ngũ chuyên gia uy tín, giúp thúc đẩy traffic, tăng cường tương tác và cải thiện tỷ lệ chuyển đổi.",
+        "background": "linear-gradient(112deg,#E6F3FF_28.86%,rgba(235,_241,_254,_0.79)_64.16%)"
+      },
+      {
+        "title": "Dành cho đội kỹ thuật",
+        "content": "Các phần mềm SaaS của IChiba được hỗ trợ bởi đội ngũ IT chuyên nghiệp, được bảo trì định kỳ. Vì vậy, đội kỹ thuật của bạn có thể giảm bớt khối lượng công việc và tập trung vào các chuyên môn khác.",
+        "background": "linear-gradient(276deg,_#F1F5FE_2.49%,_#D7D9FC_104.45%)"
+      },
+      {
+        "title": "Dành cho đội vận hành",
+        "content": "Tự động hóa 100% quy trình, cung cấp dữ liệu về sản phẩm, đơn hàng theo thời gian thực, tối ưu hóa quản lý tồn kho, quản lý bán hàng thương mại điện tử.",
+        "background": "linear-gradient(276deg,_#FEF8F1_2.49%,_#FAE7DD_104.45%)"
+      }
+    ]
+  },
+  "suggested": {
+    "title": "Phần mềm gợi ý cho chủ doanh nghiệp",
+    "learnMore": "Xem thêm",
+    "content": "Dễ dàng mở rộng hoạt động kinh doanh với danh mục sản phẩm và dịch vụ của IChiba.",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Shape_Quare_15837be92d.svg",
+        "title": "StoreFront Layer",
+        "link": "/products/storefront-layer/overview",
+        "content": "Xây dựng website/landing page bán hàng của riêng bạn với sự hỗ trợ của bộ công cụ StoreFront Layer IChiba."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "link": "/products/commerce-layer/overview",
+        "content": "Bán hàng ở mọi nơi, quản lý ở cùng một nơi. Tối đa hiệu quả với hệ thống dữ liệu thông minh. "
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_dc1b80f4a0.png",
+        "title": "Nền tảng trải nghiệm dữ liệu khách hàng (CDXP) (Coming soon)",
+        "link": "/",
+        "content": "Phần mềm cơ sở dữ liệu SaaS IChiba CDXP đáp ứng nhu cầu marketing, giúp thu thập, phân khúc và thống kê thông tin chi tiết toàn diện về khách hàng."
+      }
+    ]
+  },
+  "faqs": {
+    "label": "CÂU TRẢ LỜI CHO",
+    "title": "Câu hỏi thường gặp",
+    "subtitle": "Giải đáp những thắc mắc thường gặp về bán hàng đa kênh.",
+    "contents": [
+      {
+        "title": "Phần mềm OMS có phù hợp với các chủ shop nhỏ không?",
+        "content": "Có, phần mềm OMS của IChiba được thiết kế để xử lý lượng đơn hàng từ ít đến nhiều, không giới hạn số lượng. Với nhiều lựa chọn tương ứng với quy mô kinh doanh, các chủ shop nhỏ có thể chọn các gói phù hợp với chi phí và nhu cầu sử dụng."
+      },
+      {
+        "title": "Nền tảng hỗ trợ thương mại điện tử SaaS là gì?",
+        "content": "Nền tảng hỗ trợ thương mại điện tử SaaS là một giải pháp phần mềm được cung cấp dưới dạng dịch vụ, trang bị cho các doanh nghiệp bán hàng online và offline các công cụ và tính năng cần thiết để cài đặt, quản lý và tối ưu hóa việc bán hàng."
+      },
+      {
+        "title": "Giải pháp thương mại điện tử SaaS khác với các giải pháp truyền thống khác như thế nào?",
+        "content": "Nền tảng hỗ trợ thương mại điện tử SaaS là các phần mềm được xây dựng dựa trên công nghệ điện toán đám mây, có khả năng mở rộng theo sự phát triển của doanh nghiệp, được cập nhật thường xuyên và không cần yêu cầu chuyên môn kỹ thuật cao để sử dụng. Các phần mềm SaaS có thể kết nối linh hoạt với cơ sở hạ tầng sẵn có của các chủ shop, doanh nghiệp."
+      }
+    ]
+  }
+}

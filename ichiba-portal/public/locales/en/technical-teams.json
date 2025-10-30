@@ -1,0 +1,186 @@
+{
+  "implement": {
+    "label": "IChiba for it and technical teams",
+    "heading": "Implement your commerce in your way, faster than ever",
+    "subHeading": "Faster deployment, enhanced flexibility and customization, and frequent updates Reduce pressure on the IT team so that they can create innovative business solutions.",
+    "contactSales": "Contact Sales",
+    "seeSolution": "See our solution",
+    "iChiba": "IChiba OnePlatform",
+    "byTheNumbers": "By the Numbers",
+    "items": [
+      {
+        "title": "3x",
+        "subTitle": "Faster deployment time"
+      },
+      {
+        "title": "0%",
+        "subTitle": "Downtime during peak seasons"
+      },
+      {
+        "title": "99.99%",
+        "subTitle": "Uptime with premium support"
+      },
+      {
+        "title": "50%",
+        "subTitle": "Maintenance hours saved"
+      }
+    ]
+  },
+  "powerUp": {
+    "title": "Power up your tech team for the best implementation and scale innovation",
+    "content": "Say farewell to the constraints of outdated technology! SaaS is designed to swiftly transform new ideas into applications. Easily test and launch new features, seamlessly adjust online capacity using cloud-based and multi-tenant architecture, and enhance performance for both customer experience and your DevOps team."
+  },
+  "buildStorefront": {
+    "title": "Build storefront with no/little code",
+    "subTitle": "Adopt the latest commerce technology that powers your team to introduce new features up to 8 times quicker without any interruptions and with lowered total costs of ownership (TCO).",
+    "items": [
+      {
+        "title": "Digital web",
+        "content": "Build modern storefronts or ads landing pages at lightning speed."
+      },
+      {
+        "title": "No more tech debt",
+        "content": "Free tech team from tech debt. Updates and upgrades are seamlessly managed by IChiba OnePlatform."
+      },
+      {
+        "title": "Headless commerce",
+        "content": "Digitize commerce using headless architecture, allowing business to deliver breakthrough buying experience."
+      }
+    ]
+  },
+  "machArchitecture": {
+    "title": "MACH architecture",
+    "content": "IChiba OnePlatform applies MACH architecture (Microservice-based, API-first, Cloud-native and Headless) to implement and separate components. Therefore, ecommerce businesses can evolve their system more easily and go omnichannel. "
+  },
+  "scalability": {
+    "title": "Scalability and Performance",
+    "content": "Handle infrastructure concerns, providing scalable and high-performance servers, databases, and networks. Technical teams can focus on development and optimization rather than managing hardware and server maintenance."
+  },
+  "security": {
+    "title": "Security and Compliance",
+    "content": "IChiba e-commerce SaaS solutions come with robust security measures and compliance standards already in place. This relieves technical teams of the burden of building security protocols from scratch, allowing them to focus on developing and enhancing features."
+  },
+  "dataCentralization": {
+    "title": "Data centralization management",
+    "content": [
+      "Manage omnichannel from one centralized platform with ease.",
+      "Create and customize product information (including category, price) across all of your channels from one place, rather than performing updates manually."
+    ]
+  },
+  "updateAndMaintenance": {
+    "title": "Update and Maintenance",
+    "content": "Free technical teams from routine maintenance tasks, allowing them to concentrate on innovation. We handle software updates and maintenance, ensuring that the platform is up-to-date with the latest features and security patches."
+  },
+  "integrations": {
+    "title": "APIs and Integrations",
+    "content": [
+      "Integrate and manage multiple online stores, physical shops, warehouses and a comprehensive ecosystem within a single platform.",
+      "Get anywhere, anytime access to your business data to keep track of the sales and make changes as all data is stored in a single integrated system."
+    ]
+  },
+  "improveSystem": {
+    "title": "Improve system performance with IChiba OnePlatform",
+    "subTitle": "Experience the freedom to expand your e-commerce ecosystem using the most flexible SaaS platforms.",
+    "items": [
+      {
+        "icon": "svg-chart-lines",
+        "content": "Unlimited access to our SaaS ecosystem."
+      },
+      {
+        "icon": "svg-chart-lines",
+        "content": "Explore our full API catalog and business tools."
+      },
+      {
+        "icon": "svg-chart-lines",
+        "content": "Centralize your data to make it powerful source of enhancing buyer experience."
+      }
+    ]
+  },
+  "integrateAndUtilize": {
+    "heading": "How technical teams can integrate and utilize IChiba within your existing systems",
+    "step": "Step",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Integration and Onboarding",
+        "content": [
+          "Registration and Account Creation.",
+          "Choose integration Options (API, SDKs, plugins, etc.)"
+        ]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Configuration and Setup",
+        "content": [
+          "Familiarize dashboard.",
+          "Customize the platform (set up data structures, configure API endpoints, or define workflows, etc.)"
+        ]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Testing and Deployment",
+        "content": [
+          "Set up a sandbox or testing environment.",
+          "Offer best practices or guidance on deploying IChiba OnePlatform within your existing infrastructure or systems."
+        ]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Monitoring and Optimization",
+        "content": ["Monitor performance.", "Optimize Strategies."]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Ongoing Support and Updates",
+        "content": [""]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Resources and Further Assistance",
+        "content": ["Provide additional resources if necessary."]
+      }
+    ]
+  },
+  "iChiba": {
+    "title": "IChiba OnePlatform for the whole team",
+    "items": [
+      {
+        "title": "For Business owners",
+        "content": "Empower business owners by providing an accessible, scalable, and efficient infrastructure to run and grow their online businesses while reducing complexities and operational overheads.",
+        "background": "linear-gradient(112deg,#E6F3FF_28.86%,rgba(235,_241,_254,_0.79)_64.16%)"
+      },
+      {
+        "title": "For Marketing teams",
+        "content": "Empower marketing teams with the tools and data necessary to create, execute, and refine marketing strategies, ultimately driving traffic, improving conversions, and enhancing customer engagement in the e-commerce space.",
+        "background": "linear-gradient(276deg,_#F1F5FE_2.49%,_#D7D9FC_104.45%)"
+      },
+      {
+        "title": "For Operation teams",
+        "content": "Empower operations teams by automating processes, providing real-time data and insights, optimizing inventory and order management, and improving overall operational efficiency in the e-commerce environment.",
+        "background": "linear-gradient(276deg,_#FEF8F1_2.49%,_#FAE7DD_104.45%)"
+      }
+    ]
+  },
+  "reimagineDigital": {
+    "title": "Reimagine digital commerce and backend operation with IChiba OnePlatform",
+    "contactSales": "Contact Sales"
+  },
+  "faqs": {
+    "label": "GET ANSWERS FOR",
+    "title": "Frequently asked questions",
+    "contents": [
+      {
+        "title": "How easily can our existing systems (e.g., CRM, ERP) integrate with this SaaS platform?",
+        "content": "Our platform offers a robust set of APIs, allowing seamless integration with various systems such as CRM, ERP, and more. We support RESTful APIs for easy connectivity and offer extensive documentation for hassle-free integration."
+      },
+      {
+        "title": "How does the platform handle increased traffic during peak times or sales events?",
+        "content": "Our platform is designed to handle high traffic loads during peak times, utilizing cloud infrastructure to scale resources on-demand. We have a track record of maintaining high performance even during significant sales events, ensuring a smooth customer experience."
+      },
+      {
+        "title": "What level of technical support is provided? Is it 24/7?",
+        "content": "We provide round-the-clock technical support and regular updates to the platform. There are no additional costs for ongoing maintenance or support, and our team is dedicated to ensuring your platform runs smoothly."
+      }
+    ]
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "banner": {
+    "title": "Solve all your shipping headaches with all-in-one shipping management solutions",
+    "subtitle": "We connect domestic and international couriers then help you manage them on one single dashboard. "
+  },
+  "allInOne": {
+    "title": [
+      "All-in-one shipping management process all your orders in one place",
+      ""
+    ],
+    "items": [
+      {
+        "title": "25+",
+        "content": "courier partners"
+      },
+      {
+        "title": "10+",
+        "content": "sale channel integration"
+      },
+      {
+        "title": "30%",
+        "content": "lower shipping cost"
+      }
+    ]
+  },
+  "shipping": {
+    "title": "Shipping problems that the seller is often stuck with",
+    "confusion": "Confusion in choosing the most optimal shipping company (about rate, time,...)",
+    "difficulty": "Difficulty in tracking all shipments from various sales channels and couriers",
+    "incident": "Incidents of lost or damaged shipments during the shipping process",
+    "shipping": "Shipping delays leading to customer dissatisfaction"
+  },
+  "iChibaBring": {
+    "title": "IChiba brings innovative all-in-one shipping management solution for merchants",
+    "offer": {
+      "title": "1. Offer multiple courier selections for the seller",
+      "subtitle": "We partner with well-known shipping companies that offer reasonable prices and fast delivery.",
+      "content": "Next, we integrate all couriers into one single dashboard. Merchants can compare the shipping fees and delivery times among these companies and make an informed decision."
+    },
+    "print": {
+      "title": "2. Print labels for multiple orders at the same time",
+      "content": [
+        "Streamline your workflow by effortlessly printing labels for multiple orders concurrently, enhancing efficiency and saving time in the process.",
+        "Whether printing for one label or bulk shipping, we've got you covered."
+      ]
+    },
+    "allow": {
+      "title": "3. Allow order tracking from various couriers during shipping process",
+      "items": [
+        {
+          "icons": "https://cms-strapi.ichiba.net/uploads/PART_Handling_v2_1_869101aa5c.png",
+          "title": "Enable users to effortlessly monitor the status of their orders in real-time by providing the flexibility to track shipments through different couriers throughout the shipping process."
+        },
+        {
+          "icons": "https://cms-strapi.ichiba.net/uploads/Frame_1171275989_40930dfaf9.png",
+          "title": "It ensures a transparent and convenient experience for both merchants and customers alike."
+        }
+      ]
+    },
+    "automatic": {
+      "title": "4. Automatically synchronize shipments and shipping workflows",
+      "content": [
+        "Streamlines the shipping process by automatically syncing shipments. This helps ensure efficient coordination between various stages of shipping and minimizing errors. ",
+        "The automated synchronization enhances overall operational efficiency and contributes to a smoother shipping experience."
+      ]
+    },
+    "provideFlexible": {
+      "title": "5. Provide flexible payment methods",
+      "byOffer": "By offering flexible payment methods, businesses can cater to diverse customer preferences, ensuring a seamless and convenient shopping experience.",
+      "addition": "Additionally, IChiba Platfom's solution focuses on security payment, which safeguards customer transactions and helps mitigate debt risks for sellers,.."
+    },
+    "provideData": {
+      "title": "6. Provide data analysis and detailed reporting",
+      "content": [
+        "IChiba OnePlatform's software can collect and analyze data on shipping operations, offering valuable insights into performance and trends. ",
+        "Thist helps businesses identify areas for improvement, optimize their shipping strategies, and make informed decisions based on data."
+      ]
+    },
+    "integration": {
+      "title": "50+ Integrations. No extra cost",
+      "dosmetic": {
+        "title": "Dosmetic couriers",
+        "items": [
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17486_562ffcbe55.png",
+            "title": "Bamboo Airways",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17486_562ffcbe55.png",
+            "title": "GHN",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276261_f22518ad30.png",
+            "title": "Giaohangtietkiem HL",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_1_5b01bbf889.png",
+            "title": "Vietnam Airlines",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17483_8c54596692.png",
+            "title": "Vietnam Post",
+            "link": ""
+          },
+          {
+            "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_e1ebe7426a.png",
+            "title": "Viettel Post",
+            "link": ""
+          }
+        ]
+      }
+    },
+    "internatonal": {
+      "title": "International couriers",
+      "items": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Rectangle_6687_5cda3011a7.png",
+          "title": "EMS",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17474_c61f020891.png",
+          "title": "DHL",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/image_26_378f35ab22.png",
+          "title": "Fedex",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Rectangle_6687_1_6a53244b44.png",
+          "title": "Gojek",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Rectangle_6687_2_643f1c8d59.png",
+          "title": "Grab",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Rectangle_6687_3_8170b4d530.png",
+          "title": "J&T",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17479_a61521b61a.png",
+          "title": "Blue Dart",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_4885b58334.png",
+          "title": "Japan Post",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17478_259d4f7366.png",
+          "title": "Nippon Express",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17477_853982da31.png",
+          "title": "Sagawa",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_1_a5850baa3e.png",
+          "title": "Yamato",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17482_cdd7032304.png",
+          "title": "China Post",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17481_fd7fb9503e.png",
+          "title": "TNT",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17485_4cd2fdf2de.png",
+          "title": "SF Express",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17484_d362adfa54.png",
+          "title": "Sino Shipping",
+          "link": ""
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Group_17476_2_64744d7333.png",
+          "title": "ZTO Express",
+          "link": ""
+        }
+      ]
+    }
+  },
+  "ship4p": {
+    "title": "Ship4P",
+    "subtitle": "A product specially made for your shipping needs.",
+    "explore": "Explore more",
+    "content": [
+      "Access Ship4P only once for multi-carrier management",
+      "Easily compare shipping rates and discount programs",
+      "Create bill of lading codes and manage orders centrally",
+      "Automatic status update, ALL IN ONE tracking number system",
+      "ACheck and pay quickly and accurately",
+      "24/7 support service"
+    ]
+  },
+  "whyChoose": {
+    "title": "Why choose our solution",
+    "compatibility": {
+      "title": "Compatibility",
+      "content": "IChiba OnePlatform's software is compatible with almost every business’s existing systems and processes to avoid disruptions and ensure a smooth transition. "
+    },
+    "userFiend": {
+      "title": "User-friendliness",
+      "content": "Our products are designed for ease of use, intuitive design, straightforward navigation and helpful features. You can manage your shipping without confusion. "
+    },
+    "costEffect": {
+      "title": "Cost-effective",
+      "content": "IChiba OnePlatform's solution offers good value for money, with competitive pricing in the market. We strive to provide a high-quality solution that aligns with your budgets."
+    },
+    "functional": {
+      "title": "Functionality",
+      "content": "Our solutions offer the functionality that the business needs to improve shipping management processes. It includes real-time tracking, automated synchronized shipments and shipping optimization. "
+    }
+  },
+  "hear": {
+    "title": "Hear what our customers are saying",
+    "subtitle": "Take a sneak peek into how your fellow brands are shipping their dream with us",
+    "items": [
+      {
+        "content": "The most you can expect in a fulfillment partner is for them to handle your items as if they were their own. IChiba accomplishes just that. We value the customer experience and brand consistency, so receiving that kind of assistance from IChiba means a lot to us.",
+        "name": "Mr. Jarosima",
+        "bio": "Supply Chain at Cars101"
+      }
+    ]
+  },
+  "discover": {
+    "title": "Discover our blog to learn more about shipping management"
+  },
+  "allInOneShipping": {
+    "title": "All-in-one shipping solution",
+    "subtitle": "Create your next shipment with confident!",
+    "getStarted": "Get started"
+  }
+}

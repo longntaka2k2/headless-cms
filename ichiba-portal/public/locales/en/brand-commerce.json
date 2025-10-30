@@ -1,0 +1,101 @@
+{
+  "brandCommerce": "Brand Commerce",
+  "getStarted": "Get started for free",
+  "getStartedNow": "Get started now",
+  "contactSales": "Contact Sales",
+  "banner": {
+    "title": "The new frontier in eCommerce",
+    "subtitle": "Brand commerce tools that offer a consistent purchasing experience across all touchpoints, dealerships, online and offline channels.",
+    "learn": "Learn More",
+    "contact": "Contact Sales"
+  },
+  "take": {
+    "title": "Take back control of the customer journey",
+    "subtitle": "Allow consumers to experience your brand as you intend. Optimize their conversion path wherever they go while nurturing customer loyalty."
+  },
+  "globalBrand": {
+    "title": "IChiba OnePlatform brand commerce solution & its cores",
+    "subtitle": "Ensure your customer experience your brand the way you want them to by taking full visibility from discovery to purchase and everything in between.",
+    "steamline": {
+      "title": "#1. Streamline management of your omnichannel selling",
+      "content": {
+        "take": "Take full control of the customer journey and optimize it by understanding consumer shopping behavior and offering full-cart visibility and insights.",
+        "make": "Make all channels shoppable and centrally manage them on a single platform. Monitor a consolidated inventory, and unify order management with global visibility and control.",
+        "quick": "Quickly and precisely manage product catalog across channels: Update the product catalog, campaign creatives, and content from a single source and enhance the purchasing experience for customers."
+      }
+    },
+    "brand": {
+      "title": "#2. Brand Monitor Solutions",
+      "content": {
+        "monitor": "Monitor the brands to have a complete visibility of products, placements, pricing and promotions across all channels where your brand is sold.",
+        "keep": "Keep an eye on all information on product detail pages and optimise your promotional dollars and search share.",
+        "track": "Track and analyze various types of data to enhance digital shelf optimization."
+      }
+    },
+    "orderFulfill": {
+      "title": "#3. Order fulfillment management at a single dashboard",
+      "subtitle": "#3. Order fulfillment management at a single dashboard",
+      "content": {
+        "detailedly": "Detailedly and strictly oversee eCommerce order fulfillment process from picking, packing and shipping on a 360° visibility platform.",
+        "get": "Get your sellers' multiple marketplace/sales channel data, such as inventory and orders, synced directly with the warehouse processes.",
+        "align": "Align warehouse, logistics operation and fulfillment process with multichannel selling to offer a smooth post-purchase experience."
+      }
+    },
+    "seamless": {
+      "title": "#4. Seamless integration with 3rd party applications",
+      "content": {
+        "connect": "Connect your multi-channel selling with your third party enterprise systems such as accounting tools & SAP system for D2C.",
+        "integrate": "Integrate your online channels in a few steps, and start to centrally manage everything in one place."
+      }
+    },
+    "build": {
+      "title": "#5. Build business intelligence with real-time consolidated report daily",
+      "content": {
+        "track": "Track & measure your success with customizable reports for your inventory, orders, promotions, sales, and more.",
+        "access": "Access real-time insights to understand business performance, capture time-sensitive opportunities, and make instant decisions on whether to adjust or double down on a strategy."
+      }
+    },
+    "customized": {
+      "title": "#6. Customized customer journey & experience through multi-market",
+      "content": {
+        "custom": "Customize a region-specific domain simply by automatically creating subfolders.",
+        "gather": "Gather information from omnichannel to explore what customers do along their journey, thereby using our tools to optimize it, and drive brand loyalty."
+      }
+    }
+  },
+  "offer": {
+    "title": "Offer consumers a unified purchase experience across all channels",
+    "subtitle": "Get access to 100+ smart capabilities to administer eCommerce operations. Rotate inventory more quickly and without error, process orders as soon as they are received, conduct promotional offers & provide your customers with an exceptional post-purchase experience.",
+    "case": {
+      "tag": "case study",
+      "title": "Deliver a holistic buying experience to your shoppers across channels..."
+    }
+  },
+  "explore": {
+    "title": "Explore more to boost your business to the next level",
+    "subtitle": "Optimize all sales touch points and deliver a smooth omnichannel experience to shoppers through our all-inclusive powerful tools.",
+    "oms": {
+      "title": "Order Management System (OMS)",
+      "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data, and intelligence."
+    },
+    "ship": {
+      "title": "Ship4P",
+      "content": "Shipping management platform that centralize multiple carriers to manage, reducing costs, and simplifying shipment management."
+    },
+    "wms": {
+      "title": "Warehouse Management System (WMS)",
+      "content": "Drive efficiency, reduce costs, and create a hyperconnected business that links people, data, and processes across your warehouse."
+    },
+    "digital": {
+      "title": "Digital Web",
+      "content": "Build your own selling website with the support of IChiba comprehensive tool set."
+    },
+    "viewMore": "View More"
+  },
+  "theSecret": {
+    "tag": "EMPOWER YOUR BRAND",
+    "title": "The secret to increasing conversions & preserving brand integrity is a frictionless customer experience",
+    "subtitle": "Let's contact our experts to get useful advice on how to optimize the entire eCommerce enablement ecosystem & drive customer loyalty.",
+    "contact": "Contact Sales"
+  }
+}

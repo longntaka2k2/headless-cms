@@ -1,0 +1,138 @@
+{
+  "banner": {
+    "title": [
+      "Giải pháp SaaS toàn diện dành cho",
+      " doanh nghiệp bán lẻ ",
+      "online và offline (O2O)"
+    ],
+    "content": "Dễ dàng quản lý hàng nghìn SKU sản phẩm, tự động in hóa đơn. Dù bạn bán hàng online hay offline, chúng tôi đều có giải pháp hỗ trợ quản lý.",
+    "contact": "Liên hệ ngay"
+  },
+  "weEmpathize": {
+    "title": "Chúng tôi thấu hiểu những trăn trở của các nhà bán lẻ O2O",
+    "items": [
+      "Số lượng đơn hàng lớn vào mùa cao điểm hoặc ngày lễ",
+      "Quản lý công nợ",
+      "Danh mục sản phẩm phức tạp",
+      "Thông tin sản phẩm thay đổi liên tục",
+      "Quản lý hàng tồn kho"
+    ]
+  },
+  "seamless": {
+    "title": ["Hệ sinh thái phần mềm SaaS dành riêng cho các ", "nhà bán lẻ online và offline"],
+    "items": [
+      {
+        "label": "Xây Website/App bán hàng",
+        "title": "Xây Website/App bán Hàng",
+        "content": "Dễ dàng tạo website/app bán hàng cho riêng bạn với phần mềm StoreFront của IChiba. Với hàng trăm mẫu giao diện đẹp mắt và được tối ưu SEO, đây sẽ là công cụ tuyệt vời giúp bạn thu hút khách hàng và thúc đẩy doanh số.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Developers_For_Whom_Hero_1_115dc63030.png"
+      },
+      {
+        "label": "Quản lý đơn hàng",
+        "title": "Quản lý đơn hàng hiệu quả",
+        "content": "Quản lý tập trung tất cả các đơn hàng từ đa kênh bán trên phần mềm OMS. Quản lý điểm bán hàng với phần mềm POS.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Frame_1171276448_1_562c40f6da.svg"
+      },
+      {
+        "label": "Dịch vụ Fulfillment",
+        "title": "Dịch vụ Fulfillment",
+        "content": "Đơn giản hoá quy trình xử lý đơn hàng và đáp ứng được mong đợi của khách hàng. Từ khâu lấy hàng, đóng gói đến vận chuyển, IChiba sẽ thay mặt doanh nghiệp hoàn tất quá trình này.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_1171275975_84edfde99a.png"
+      },
+      {
+        "label": "Dịch vụ Marketing",
+        "title": "Dịch Vụ Marketing",
+        "content": "IChiba cung cấp dịch vụ marketing toàn diện, từ email marketing, đến chạy các quảng cáo trên mạng xã hội và SEO. Các chiến dịch được đo hiệu quả dựa trên dữ liệu thu thập, từ đó đưa ra các phương án tối ưu phù hợp.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_1171275970_1_7eb3a6f1f2.png"
+      }
+    ]
+  },
+  "seeHow": {
+    "title": "Trình giản quản lý bán lẻ O2O với trọn bộ phần mềm SaaS và dịch vụ của IChiba OnePlatform",
+    "automatically": {
+      "title": "Tự động phân loại sản phẩm",
+      "content": "Phần mềm OMS và POS có khả năng xử lý hiệu quả số lượng lớn hàng hoá, phân loại sản phẩm theo thuộc tính giúp dễ dàng tìm kiếm và tra cứu.",
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171275769_1_583ee6e8f0.png"
+    },
+    "consistent": {
+      "title": "Dữ liệu sản phẩm nhất quán trên các kênh",
+      "content": "Đồng bộ hoá thông tin sản phẩm (giá, thông số kỹ thuật, tình trạng còn hàng,...) trên nhiều kênh bán, từ online đến offline.",
+      "image": "https://cms-strapi.ichiba.net/uploads/6193f8f9ea45b181080c8c23_popup_list_building_c_1_15e2d25234.png"
+    },
+    "manage": {
+      "title": "Quản lý tồn kho",
+      "content": "Các nhà bán có thể quản lý mức tồn kho theo thời gian thực, đảm bảo hàng luôn trong tình trạng có sẵn và được phân bổ một cách hợp lý đến các kênh bán.",
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318588_3077347c4c.png"
+    },
+    "automatic": {
+      "title": "Thanh toán tự động",
+      "content": "Mọi thông tin đơn hàng khi thanh toán đều được hiển thị và tính toán tự động. Nhân viên bán hàng không cần ghi chú và tính giá thru công.",
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318588_1_e9223e69ef.png"
+    },
+    "debt": {
+      "title": "Hỗ trợ nhiều phương thức thanh toán",
+      "content": "Cho phép người mua thanh toán không chỉ bằng tiền mặt mà bằng nhiều phương thức tiện lợi khác như thẻ mastercard, chuyển khoản ngân hàng, QR code, v.v.",
+      "image": "https://cms-strapi.ichiba.net/uploads/6193f8f9ea45b181080c8c23_popup_list_building_c_1_1_4c13de68e1.png"
+    },
+    "multiple": {
+      "title": "Quản lý công nợ",
+      "content": "Theo dõi lịch sử công nợ của các nhà cung cấp để chủ shop có kế hoạch thanh toán phù hợp.",
+      "image": "https://cms-strapi.ichiba.net/uploads/Frame_1171275769_1_1_f9609098ba.png"
+    }
+  },
+  "take": {
+    "title": "Nâng tầm hoạt động bán lẻ với bộ phần mềm từ IChiba",
+    "learnMore": "Xem thêm",
+    "items": [
+      {
+        "title": "StoreFront Layer",
+        "content": "Xây dựng website/ứng dụng order xuyên biên giới của riêng bạn với bộ công cụ phần mềm toàn diện của IChiba.",
+        "icon": "svg-storefront",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "title": "Commerce Layer",
+        "content": "Bán hàng ở mọi nơi, quản lý ở cùng một nơi. Tối đa hiệu quả với hệ thống dữ liệu thông minh.",
+        "icon": "svg-icon-storefront",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "title": "Ship4P",
+        "content": "Tập hợp các hãng vận chuyển trên cùng một bảng điều khiển duy nhất để dẽ dàng quản lý, theo dõi hành trình đơn hàng tiện lợi và nhanh chóng.",
+        "icon": "svg-icon-ship4p",
+        "link": "/products/ship4p/overview"
+      }
+    ]
+  },
+  "seeWhat": {
+    "title": "Lắng nghe những chia sẻ của các nhà bán lẻ nói về IChiba OnePlatform",
+    "items": [
+      {
+        "avatar": "https://cms-strapi.ichiba.net/uploads/image_120_0e16c49b30.png",
+        "name": "Mrs. Rebecca Henry",
+        "bio": "Store owner Mart K",
+        "content": "\"Using IChiba POS software helps me update daily sales. At the same time, it helps stores manage inventory easily when updating new products.\"",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_96f561d2eb.png"
+      },
+      {
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Frame_427318535_70ba3fe845.png",
+        "name": "Mr. Herry",
+        "bio": "Store owner LaiKa",
+        "content": "\"Using IChiba POS software helps me update daily sales. At the same time, it helps stores manage inventory easily when updating new products.\"",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_96f561d2eb.png"
+      },
+      {
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Frame_427318535_70ba3fe845.png",
+        "name": "Mrs. My Lan",
+        "bio": "Store owner Okelo",
+        "content": "\"Using IChiba POS software helps me update daily sales. At the same time, it helps stores manage inventory easily when updating new products.\"",
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318604_96f561d2eb.png"
+      }
+    ]
+  },
+  "iChiba": {
+    "title": "IChiba OnePlatform luôn sẵn sàng hỗ trợ bạn",
+    "content": "Liên hệ ngay với đội ngũ hỗ trợ của chúng tôi để được giải đáp những thắc mắc về giải pháp SaaS dành cho cửa hàng bán lẻ của bạn!",
+    "contact": "Liên hệ ngay"
+  }
+}

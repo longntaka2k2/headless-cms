@@ -1,0 +1,194 @@
+{
+  "menu": {
+    "overview": "Overview",
+    "features": "Features",
+    "pricing": "Pricing",
+    "landingpage": "Landing page"
+  },
+  "title": "Manage everything about your products",
+  "subTitle": "Deliver product data to multi-channels, synchronize it across systems, and optimize it for more sales with IChiba OnePlatform’s Product Information Management (PIM).",
+  "getDemo": "Get a Demo",
+  "freeTrial": "Free Trial",
+  "keyBenefits.title": "Key benefits",
+  "keyBenefits.subTitle": "An all-in-one PIM solution makes it faster and easier to create and deliver compelling product experiences.",
+  "pimCanDo": {
+    "title": "See what our PIM can do for you",
+    "subTitle": "All the features you need to take your product information management to the next level with our simple, yet powerful PIM."
+  },
+  "viewAllIntegrations": "View All Integrations",
+  "supportDesc": "Our global team of feed specialists provide ongoing, 24/7 support that’s unrivaled in the industry",
+  "howItWorks": "How it works",
+  "collect": "Collect",
+  "manage": "Manage",
+  "enrich": "Enrich",
+  "distribute": "Distribute",
+  "howPimHelpTitle": "How PIM helps the entire team",
+  "sellingMoreTitle": "Selling more shouldn’t be hard",
+  "sellingMoreDesc": "Transform your data into product intelligence",
+  "contactSales": "Contact Sales",
+  "benefits": [
+    "Easier to locate product data",
+    "Reduced operational costs",
+    "Faster Time-to-market",
+    "Enhanced customer experience & ROI",
+    "Unified Omni-channel experience",
+    "Better overall SEO",
+    "Expand to new markets faster",
+    "Simpified operations"
+  ],
+  "collectSteps": [
+    {
+      "title": "Collect data",
+      "content": "Gather data from all platforms - ERP, PLM, and more."
+    },
+    {
+      "title": "Import",
+      "content": "Extract data and import through CSV and XLSX files and pre-built correctors."
+    },
+    {
+      "title": "Onboard product",
+      "content": "Obtain product information in your format straight from vendors."
+    },
+    {
+      "title": "Connect",
+      "content": "Connect to DAM (Digital Asset Management) platforms for documents, videos, and photos."
+    }
+  ],
+  "manageSteps": [
+    {
+      "title": "Classify",
+      "content": "Classify products according to families, categories, or channels."
+    },
+    {
+      "title": "Measure",
+      "content": "Analyse, regulate, and monitor the product data quality."
+    },
+    {
+      "title": "Govern",
+      "content": "Manage processes using validation procedures, and users with roles and permissions."
+    },
+    {
+      "title": "Manage",
+      "content": "Control publishing, versions, and catalogue completeness."
+    }
+  ],
+  "enrichSteps": [
+    {
+      "title": "Enrich",
+      "content": "Use data and technology to enrich product description, manage the import of product images and improve the conversion."
+    },
+    {
+      "title": "Associate",
+      "content": "Associate relevant images, videos, and documents with each product to attacting customers with engaging visual and multimedia content."
+    },
+    {
+      "title": "Leverage",
+      "content": "Use a rules engine to automate the enrichment of standard characteristics."
+    },
+    {
+      "title": "Localize",
+      "content": "Automatically localize and translate product information according to each region and market."
+    }
+  ],
+  "distributeSteps": [
+    {
+      "title": "Manage",
+      "content": "Manage product catalogs for every sales channels on a single platfrom - IChiba OnePlatform’s PIM."
+    },
+    {
+      "title": "Select",
+      "content": "Select channel-specific attributes for each channel for the most relevant experience."
+    },
+    {
+      "title": "Integrate",
+      "content": "Integrate multi-channel sales via powerful API-based connectors."
+    },
+    {
+      "title": "Syndicate catalogs",
+      "content": "Syndicate catalogs to third-party retail platforms and marketplaces."
+    }
+  ],
+  "canDoList": [
+    {
+      "title": "Centralized product data",
+      "description": "Distribute product data of any number of SKUs within a minute to multiple marketplaces. Manage multiple product variants from one convenient digital location."
+    },
+    {
+      "title": "Categorize products",
+      "description": "Create collections based on any combination of attributes: product families, best-sellers, seasonal presents, and so on."
+    },
+    {
+      "title": "Product data syndication",
+      "description": "Meticulously synchronizing product data across a board range of distinct sales portals with its own specialized set of data and product listing standards allows you to tap into the amazing marketing power of those unowned channels."
+    },
+    {
+      "title": "Unlimited product attributes",
+      "description": "Offer a wide range of product types without limitation. Rich product information drives the customer decision-making process and enhances their satisfaction."
+    },
+    {
+      "title": "Multi-warehouses/multi-channel inventory",
+      "description": "Track stock levels across multiples locations. Edit multiple products simultaneously. Check all out-of-stock items in seconds."
+    },
+    {
+      "title": "Enrich product data ",
+      "description": "Optimize product content for webshops with unlimited images & video links, improve data quality and relevance, boost SEO and create customer satisfaction."
+    },
+    {
+      "title": "Seamless integration",
+      "description": "Cloud-first, API-centric appoarch allows connecting your PIM with both new and existing ecosystems, from eCommerce, DAM, print, and more."
+    },
+    {
+      "title": "Omnichannel experience",
+      "description": "Manage product information across all selling channels, procurement systems while ensuring that data & digital assets are consistent across all touchpoints."
+    },
+    {
+      "title": "AI-based analytics",
+      "description": "Powerful AI-based analytics enables tracking of user reviews, ratings, competitor assortment, and advertised prices."
+    }
+  ],
+  "integrationTitle": "Integration and Partnership",
+  "integrationSubtitle": "We tightly integrate with leading e-commerce platforms and marketplaces, allowing you to synchronize your product data across multiple sales channels effectively.",
+  "howPimHelp": {
+    "marketing": {
+      "title": "Marketing",
+      "shortTitle": "Marketing",
+      "content": "Eliminate spreadsheets and repeat work to increase productivity, and efficiency, contributing to the development of amazing product experiences."
+    },
+    "customerSuccess": {
+      "title": "Customer Success",
+      "shortTitle": "Customer success",
+      "content": "Bring products to market faster. Quickly adapt to changing assortments and buyer demands. Create appealing product experiences to increase brand loyalty with IChiba OnePlatform's PIM."
+    },
+    "informationTechnology": {
+      "title": "Information Technology",
+      "shortTitle": "Information Technology",
+      "content": "Our cloud-based PIM integrates an all-inclusive ecosystem of partners to help manage scalability, lower infreasture costs, and give developers the resources they require."
+    },
+    "theCsuite": {
+      "title": "The C-suite",
+      "shortTitle": "The C-suite",
+      "content": "Grow business and increase market share with a larger catalog sold in multiple markets. Enhance conversions, reduce returns and save costs as PIM helps simplify operations and improve productivity."
+    }
+  },
+  "pimFeaturesTitle": "IChiba PIM Features",
+  "pimFeaturesSubtitle": "Our PIM solution helps you to increase your overall business productivity enabling you to earn more profits",
+  "exploreNow": "Explore now",
+  "categorizeProducts": "Categorize products",
+  "centralizedProductData": "Centralized product data",
+  "automaticDataEnrichment": "Automatic data enrichment",
+  "multiMerchantManagement": "Multi-merchant management",
+  "productDataSyndication": "Product-data syndication",
+  "unlimitedProductAttributes": "Unlimited product attributes",
+  "multiWarehouseChannel": "Multi-warehouse/Multi-channel inventory",
+  "realtimeAnalyticsDashboards": "Real-time analytics dashboards",
+  "deepIntegrationWithMultiplePlatforms": "Deep integration with multiple platforms",
+  "omniChannelExperience": "Omni-channel experience",
+  "readMoreSuccessStories": "Read more success stories",
+  "storyTitle": "IChiba OnePlatform’s PIM is suited for businesses of all sizes",
+  "sourceOfTrustTitle": "A source of trust to manage everything about your products",
+  "sourceOfTrustSubtitle": "A single source of truth in product information management",
+  "sourceOfTrustDesc": "Remove the need for time-consuming product data sheet modification, stop worrying about launch delays, and boost ROI with best-in-class PIM solution",
+  "startFreeTrial": "Start free trial",
+  "faqsTitle": "Frequently asked questions (FAQs)",
+  "viewMore": "View more"
+}

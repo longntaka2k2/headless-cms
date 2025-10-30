@@ -1,0 +1,6 @@
+.scroll {
+  @apply tw-mt-6 tw-overflow-auto;
+  &::-webkit-scrollbar {
+    @apply tw-hidden;
+  }
+}

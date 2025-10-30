@@ -1,0 +1,26 @@
+{
+    "heading": [
+        "Câu chuyện ",
+        "khách hàng"
+    ],
+    "subHeading": " Khám phá những câu chuyện truyền cảm hứng về hành trình và những thành tựu đạt được của các doanh nghiệp đã và đang sử dụng nền tảng SaaS hỗ trợ thương mại điện tử IChiba.",
+    "contentSider": "Được tin tưởng bởi 1000+ doanh nghiệp tại 220+ quốc gia",
+    "caseStudies": "Case Studies",
+    "products": "Products",
+    "tag": "Tag",
+    "readStory": "Xem câu chuyện",
+    "contact": {
+        "title": "Mở khóa tiềm năng kinh doanh không giới hạn với nền tảng SaaS hỗ trợ thương mại điện tử toàn diện!",
+        "btnText": "Liên hệ ngay"
+    },
+    "discover": {
+        "heading": "Khám phá thêm",
+        "list": [
+            { "title": "Khám phá tiềm năng dành cho", "textLink": "Chủ doanh nghiệp"}, 
+            { "title": "Khám phá tiềm năng dành cho", "textLink": "Phòng marketing"}, 
+            { "title": "Khám phá tiềm năng dành cho", "textLink": "Phòng kỹ thuật"}, 
+            { "title": "Khám phá tiềm năng dành cho", "textLink": "Phòng vận hành"} 
+        ]
+    },
+    "relatedStories": "Những câu chuyện liên quan"
+}

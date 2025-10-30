@@ -1,0 +1,191 @@
+{
+  "banner": {
+    "title": [
+      "Serve end-to-end customer needs with",
+      " one-stop ",
+      "multi-channel fulfillment solution"
+    ],
+    "contact": "Contact Sales",
+    "readCase": "Read case study",
+    "items": [
+      {
+        "number": "99.95",
+        "unit": "%",
+        "decimals": "2",
+        "title": "Orders ship on time",
+        "subtitle": "within SLA"
+      },
+      {
+        "number": "99.96",
+        "unit": "%",
+        "decimals": "2",
+        "title": "Accuracy rate",
+        "subtitle": "in fulfilling orders"
+      },
+      {
+        "number": "49",
+        "unit": "%",
+        "decimals": "0",
+        "title": "Saving",
+        "subtitle": "on fulfilling cost"
+      },
+      {
+        "number": "20",
+        "unit": "+",
+        "decimals": "0",
+        "title": "Fulfillment centers",
+        "subtitle": "around the world"
+      }
+    ]
+  },
+  "whatProblems": {
+    "title": [
+      "What problems are faced by",
+      "businesses without multi-channel fulfillment?"
+    ],
+    "fragment": "Fragmented and inconsistent inventory management",
+    "unconsolidated": "Unconsolidated data and reports",
+    "ineffcient": "Inefficient & manual processing orders",
+    "timeDelay": "Time delays in syncing products and information across channels",
+    "integration": "Integration issues",
+    "timeCost": "Time & cost consuming in order allocation/distribution",
+    "prohibitively": "Prohibitively expensive shipping options"
+  },
+  "simplify": {
+    "title": "Handle multli-channel order with IChiba one-stop fulfillment solution",
+    "subtitle": "Make sure a smooth purchasing experience for your customers, while also maintaining your online reputation with top-notch order fulfillment service including a 100% order accuracy guarantee.",
+    "fulfill": {
+      "title": "1. Fulfill orders from multi-channel",
+      "content": [
+        "Fulfill orders for every sales channel, from eCommerce platforms to marketplaces, by connecting stores and retailers to our fulfillment center and managing in a single place.",
+        "Gain real-time visibility and control over fulfillment across all of your sales channels with a single partner who can fulfill your “everything” orders."
+      ]
+    },
+    "steamline": {
+      "title": "2. Streamline multichannel inventory management",
+      "manage": "Manage and update omnichannel stock levels in real time with a tap of a button on multiple platforms, ensuring you're always in sync with your customers' demands across all the sales channels.",
+      "leverage": "Leverage data-driven inventory to ensure that you always have the right products in stock to satisfy customers' demands and maximize your sales potential."
+    },
+    "distribution": {
+      "title": "3. Distribution orders",
+      "content": [
+        "Determine the nearest warehouse or fulfillment center, its serviceability, and inventory location for the quick delivery to customers, increasing customer satisfaction and building trust & loyalty with clients.",
+        "Optimize shipping routes, reduce the delivery costs and the number of shipments for each purchase."
+      ]
+    },
+    "allocate": {
+      "title": "4. Allocate inventory",
+      "content": [
+        "Allocate a specified quantity of a product to a particular event to ensure the availability of inventory for them.",
+        "Assist merchants to control the selling operation without worrying about the goods' resources."
+      ]
+    },
+    "sameDay": {
+      "title": "5. Same-day and accurate order processing",
+      "fulfill": "Fulfill orders speedily as soon as there is any order on sales channels, deliver the exact items customers place on time as promised, even quicker than expected.",
+      "provide": "Provide a 360-degree view of updated order fulfillment process on a personalized dashboard in real-time."
+    },
+    "upTo": {
+      "title": "6. Up-to-the-minute order tracking",
+      "getInformed": "Get informed of the parcel journey from beginning to end in real time. Whether you are monitoring a single package or a million, the Shipment Dashboard keeps all your shipments organized and in view.",
+      "strong": "Strong API and Webhook tracking solutions deliver genuine end-to-end location and status events in real time so that businesses will never miss out on a shipment update again."
+    },
+    "customized": {
+      "title": "7. Customized packaging",
+      "content": [
+        "Optimize your return on investment by enhancing and refining your packaging for optimal profitability. By using customized packaging, businesses can keep their products fresh and thrilling each time someone makes a purchase.",
+        "Provide custom packing procedures that encompass a wide range of situations. Whether it's stripping away bulk packaging, inserting label or logo, adding vouchers, cards, marketing documents, we can do it all."
+      ]
+    },
+    "ecommerce": {
+      "title": "eCommerce fulfillment process",
+      "subtitle": "Discover the fascinating world of e-commerce fulfillment at each step. We will unveil the behind-the-scenes journey that brings your products to your customer’s hands.",
+      "items": [
+        {
+          "title": "1. Connect with eCommerce sites",
+          "subtitle": "Connect with all your eCommerce platforms to synchronize the order-related data.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_2608987_147e9a4de8.svg"
+        },
+        {
+          "title": "2. Order processing",
+          "subtitle": "Receiving order details, verifying the customer’s information and checking inventory availability.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Layer_1_66e5a9b1b5.svg"
+        },
+        {
+          "title": "3. Inventory management",
+          "subtitle": "Staff check the availability of the ordered items in the inventory. They update the inventory records to ensure accurate stock levels.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_4ec499041b.svg"
+        },
+        {
+          "title": "4. Picking & packing",
+          "subtitle": "Automated systems pick the items from the warehouse  shelves based on the order details. Then pack the item securely with appropriate packing materials.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_1_0972a890e3.svg"
+        },
+        {
+          "title": "5. Labeling & shipping",
+          "subtitle": "Labeling the order with the shipping label that includes the customer’s address. The package is then handed over to the shipping carrier.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_1_a4f22eefd6.svg"
+        },
+        {
+          "title": "6. Update order status in real-time",
+          "subtitle": "Once the package is in transit, the customer may receive an email or notification on various platforms with order status details. This allows them to monitor the shipment's progress and estimated delivery date.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Group_19784_61ce5708e0.svg"
+        }
+      ]
+    },
+    "ourFulfill": {
+      "title": "Our fulfillment proficiency",
+      "subtitle": "Seamlessly process e-commerce orders with our exceptional capacity, extensive warehousing, robust fulfillment network & strategic partnerships.",
+      "total": {
+        "title": "> 50,000 m2",
+        "subtitle": "Total warehouse area",
+        "img": ""
+      },
+      "global": {
+        "title": "50+",
+        "subtitle": "Global partner carriers",
+        "img": ""
+      },
+      "fulfillment": {
+        "title": "20+",
+        "subtitle": "Fulfillment centers around the world",
+        "img": ""
+      },
+      "api": {
+        "title": "API",
+        "subtitle": "Integration",
+        "img": ""
+      },
+      "onTime": {
+        "title": "> 99%",
+        "subtitle": "On time and accurately",
+        "img": ""
+      }
+    }
+  },
+  "hear": {
+    "title": "Hear from our satisfied customers",
+    "items": [
+      {
+        "title": "Ship60",
+        "content": "With IChiba multi-channel fulfillment solution, we've cut our order processing time by half and have virtually eliminated errors!",
+        "bio":""
+      },
+      {
+        "title": "Janbox",
+        "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets",
+        "bio":""
+      },
+      {
+        "title": "PCS",
+        "content": "The order packaging process has become much easier and more efficient since we're partnering with IChiba OnePlatform. Not only do they ensure that all of our products are securely packaged, but they also offer optimal solutions to minimize loss and enhance shipping performance.",
+        "bio":""
+      }
+    ]
+  },
+  "ready":{
+    "title":"Use one-stop fulfillment solution now to transform multi-channel order fulfillment into a simple process!",
+    "content":"Increase your sales potential, lower costs and save time by leveraging IChiba Global - the leading multi-channel fulfillment partner in South East Asia.",
+    "button":"Get in touch now"
+  }
+}

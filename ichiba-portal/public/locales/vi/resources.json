@@ -1,0 +1,49 @@
+{
+  "heading": [
+    "Cập nhật xu hướng và kiến thức mới nhẩt về",
+    "thương mại điện tử và logistics"
+  ],
+  "subHeading": [
+    "Tải ngay ebook, tài liệu chuyên sâu và báo cáo miễn phí để tối ưu hoá hoạt động kinh doanh, quản lý logistics hiệu quả và mở rộng thị trường nhanh chóng.",
+    "Dành riêng cho nhà bán hàng đa kênh - đa thị trường, doanh nghiệp logistics và dropshipping."
+  ],
+  "search": "Tìm kiếm",
+  "downloadFree": "Tải ngay tài liệu miễn phí từ IChiba-OnePlatform",
+  "all": "Tất cả",
+  "ourLatest": "Khám phá kiến thức mới nhất về TMĐT từ blog của chúng tôi",
+  "readMore": "Đọc thêm",
+  "viewMore": "Xem thêm",
+  "form": {
+    "title": "Ebook miễn phí đang chờ bạn - Tải ngay!",
+    "subTitle": "Hãy cho chúng tôi biết nơi có thể gửi ebook đến cho bạn nhé!",
+    "fullName": "Họ và tên",
+    "fullNamePlaceholder": "Ex: Nguyen Thuy Duong",
+    "phoneNumber": "Số điện thoại",
+    "companyWebsite": "Website công ty",
+    "companyPlaceholder": "Ex: https://example.com",
+    "youAre": "Lĩnh vực bạn đang kinh doanh:",
+    "types": [
+      {
+        "label": "Bán lẻ",
+        "value": "Bán lẻ"
+      },
+      {
+        "label": "Dropshipping",
+        "value": "Dropshipping"
+      },
+      {
+        "label": "Bán hàng xuyên biên giới",
+        "value": "Bán hàng xuyên biên giới"
+      },
+      {
+        "label": "Logistics",
+        "value": "Logistics"
+      }
+    ],
+    "selectPlaceholder": "Chọn loại công ty của bạn",
+    "textBtn": "Nhận ebook miễn phí",
+    "readOnline": "Đọc trực tuyến",
+    "required": "Trường bắt buộc"
+  },
+  "whatWill": "Tóm tắt nội dung cuốn ebook"
+}

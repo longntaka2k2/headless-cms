@@ -1,0 +1,122 @@
+{
+  "transform": {
+    "heading": "IChiba cung cấp giải pháp SaaS cho ngành mẹ và bé với hệ thống quản lý toàn diện",
+    "subHeading": "Giải pháp SaaS thiểt kế riêng cho ngành hàng Mẹ & Bé: Giải quyết mọi nhu cầu về quản lý bán hàng",
+    "textBtn": ["Dùng thử miễn phí", "Liên hệ ngay"]
+  },
+  "challenges": {
+    "heading": ["Những thách thức", " trong việc quản lý của hàng Mẹ Bé"],
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/note_remove_svgrepo_com_1_68630b6d31.svg",
+        "title": "Danh mục sản phẩm phức tạp"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/money_svgrepo_com_1_888719becd.svg",
+        "title": "Khó khăn trong quản lý doanh thu"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/money_remove_svgrepo_com_1_2283e3d40b.svg",
+        "title": "Thiếu kiểm soát công nợ"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/warehouse_svgrepo_com_1_0565b2c48f.svg",
+        "title": "Khó khăn trong quản lý tồn kho"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/box_remove_svgrepo_com_1_aabcf5314a.svg",
+        "title": "Khó khăn trong quản lý các đơn hàng"
+      }
+    ]
+  },
+  "howDoes": {
+    "label": "Suitability",
+    "heading": "Giải pháp SaaS cho ngành mẹ và bé của IChiba OnePlatform giúp các doanh nghiệp Mẹ & Bé giải quyết mọi khó khăn",
+    "item": {
+      "title": [
+        "Quản lý hàng nghìn sản phẩm từ đa kênh bán",
+        "Tạo combo sản phẩm để tăng doanh thu",
+        "Tăng nhận diện thương hiệu và bán hàng đa kênh",
+        "Đa dạng phương thức thanh toán",
+        "Quản lý thông tin khách hàng",
+        "Báo cáo doanh thu, công nợ"
+      ],
+      "subTitle": [
+        "Quản lý tất cả các sản phẩm theo thuộc tính (kích thước, ngày sản xuất, màu sắc, mẫu mã,...). Tự động đồng bộ dữ liệu sản phẩm trên đa kênh bán hàng.",
+        "Phần mềm PIM IChiba giúp nhà bán hàng tạo bộ sưu tập các sản phẩm như: Đồ trẻ sơ sinh, dinh dưỡng bà bầu, combo ăn dặm, sinh nhật,... Đề xuất gợi ý lên trên website/app bán hàng giúp tăng doanh thu.",
+        "Tạo các chiến dịch marketing trên nhiều kênh để thu hút khách hàng mới. Theo dõi đơn đặt hàng từ đa kênh và quản lý trên một dashboard.",
+        "IChiba cho phép nhà bán hàng nhiều phương thức thanh toán: tiền mặt, mã QR, thẻ tín dụng, thẻ ngân hàng,...",
+        "Thu thập, phân loại dữ liệu khách hàng dựa trên thông tin và giá trị đơn hàng. Xây dựng hệ thống tích điểm và giảm giá cho khách hàng trung thành để duy trì mối quan hệ thân thiết.",
+        "Báo cáo cập nhật dữ liệu theo thời gian thực. Dễ dàng theo dõi công nợ và doanh thu của từng cửa hàng mọi lúc mọi nơi, trên mọi thiết bị."
+      ]
+    }
+  },
+  "whyChoose": {
+    "heading": "Tại sao chọn chúng tôi",
+    "content": [
+      "Giao diện thân thiện với người dùng",
+      "Tương thích với nhiều thiết bị",
+      "Hỗ trợ 24/7"
+    ]
+  },
+  "discoverProducts": {
+    "heading": "Gợi ý phần mềm/dịch vụ phù hợp với ngành hàng Mẹ & Bé",
+    "learnMore": "Xem thêm",
+    "items": [
+      {
+        "icon": "svg-storefront",
+        "title": "StoreFront Layer",
+        "content": "Xây dựng website/ứng dụng order xuyên biên giới của riêng bạn với bộ công cụ phần mềm toàn diện của IChiba.",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "icon": "svg-icon-storefront",
+        "title": "Commerce Layer",
+        "content": "Bán hàng ở mọi nơi, quản lý ở cùng một nơi. Tối đa hiệu quả với hệ thống dữ liệu thông minh.",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icon": "svg-icon-ship4p",
+        "title": "Ship4P",
+        "content": "Phần mềm quản lý đa hãng vận chuyển, mua label vận chuyển chính hãng với giá tốt.",
+        "link": "/products/ship4p/overview"
+      }
+    ]
+  },
+  "weService": {
+    "heading": "IChiba hỗ trợ 100+ doanh nghiệp và xử lý 10,000+ đơn hàng mỗi ngày",
+    "subHeading": "Lắng nghe khách hàng nói gì về chúng tôi.",
+    "content": [
+      {
+        "title": "Crochet clothes",
+        "items": [
+          {
+            "contentItem": ["Over 10.000+", "user"]
+          },
+          {
+            "contentItem": ["120+", "items"]
+          }
+        ],
+        "des": "From the initial consultation to the final delivery of the website, Crochet Clothes has experienced a seamless and efficient process. IChiba demonstrated a deep understanding of our business requirements and created a visually appealing and user-friendly website. The design and layout perfectly captured our brand identity and effectively showcased our products to our target audience.",
+        "career": "Founder at Crochet Clothes"
+      },
+      {
+        "title": "Shopforme",
+        "items": [
+          {
+            "contentItem": ["Over 10.000+", "user"]
+          },
+          {
+            "contentItem": ["120+", "items"]
+          }
+        ],
+        "des": "From the initial consultation to the final delivery of the website, Crochet Clothes has experienced a seamless and efficient process. IChiba demonstrated a deep understanding of our business requirements and created a visually appealing and user-friendly website. The design and layout perfectly captured our brand identity and effectively showcased our products to our target audience.",
+        "career": "Founder at Crochet Clothes"
+      }
+    ]
+  },
+  "contactSales": {
+    "heading": "Liên hệ ngay để tìm hiểu thêm về giải pháp TMĐT toàn diện quản lý cửa hàng Mẹ Bé",
+    "textBtn": "Liên hệ ngay"
+  }
+}

@@ -1,0 +1,23 @@
+.root {
+  @apply tw-relative tw-flex tw-flex-col xl:tw-flex-row tw-justify-center tw-m-auto tw-py-6 xl:tw-py-20 tw-rounded-[20px] tw-bg-neutral-1;
+  @apply tw-gap-6 xl:tw-gap-0 tw-px-3 xl:tw-px-0;
+  .group {
+    @apply tw-grid tw-grid-cols-2 xl:tw-flex xl:tw-flex-col tw-gap-y-6 tw-gap-x-3;
+    .item {
+      @apply tw-border tw-border-ic-ink-2 tw-py-5 tw-px-4 tw-rounded-xl tw-text-center tw-shadow-10 tw-bg-white;
+      @apply xl:tw-min-w-[324px] tw-flex tw-items-center tw-justify-center tw-relative;
+      &:nth-child(1) {
+        @apply xl:tw-translate-y-3;
+      }
+      &:nth-child(2) {
+        @apply xl:tw-translate-y-5;
+      }
+      &:nth-child(3) {
+        @apply xl:tw-translate-y-6;
+      }
+      &:nth-child(4) {
+        @apply xl:tw-translate-y-7;
+      }
+    }
+  }
+}

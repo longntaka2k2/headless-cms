@@ -1,0 +1,124 @@
+{
+  "optimize": {
+    "label": "IChiba OnePlatform dành cho đội vận hành",
+    "heading": [
+      "Giải pháp thương mại điện tử ",
+      "cho vận hành trong bối cảnh thương mại điện tử không ngừng phát triển"
+    ],
+    "content": "Xử lý đơn hàng, quản lý tồn kho không còn là một việc quá tải với đội ngũ vận hành nữa. Tự động hóa hoạt động quản lý bán hàng thương mại điện tử với nền tảng SaaS IChiba OnePlatform.",
+    "contactSales": "Liên hệ ngay",
+    "seeSolution": "Xem giải pháp của chúng tôi"
+  },
+  "conquer": {
+    "heading": "Vượt qua thách thức quản lý hoạt động thương mại điện tử với sức mạnh của phần mềm tự động hoá!",
+    "multiple": {
+      "title": "Quản lý vận hành đa kênh",
+      "subTitle": "Tích hợp với đa kênh bán hàng như Tiki, Lazada, TikTok Shop, Facebook,.... Quản lý tập trung dữ liệu tại một nơi, giúp các thành viên dễ dàng truy cập và theo dõi trạng thái xử lý đơn hàng, số lượng tồn kho."
+    },
+    "orderfulfillment": {
+      "title": "Quản lý order fulfillment",
+      "content": [
+        "Đội ngũ vận hành có thể quản lý quy trình lấy hàng, đóng gói và vận chuyển trên nền tảng IChiba.",
+        "Giám sát chỉ số KPI như số lượng đơn hàng, độ chính xác khi lấy hàng và thời gian vận chuyển."
+      ]
+    },
+    "supplier": {
+      "title": "Quản lý nguồn cung",
+      "subTitle": "Kiểm soát tập trung nguồn cung và đơn đặt hàng. Đội ngũ vận hành sẽ tiết kiệm được thời gian kiểm tra từng thông tin trên các nguồn khác nhau, từ đó giảm thiểu sai sót."
+    },
+    "integration": {
+      "title": "Khả năng tích hợp",
+      "subTitle": "Nền tảng IChiba có khả năng tích hợp với đa dạng các công cụ và phần mềm khác như CRM, kết toán và đơn vị vận chuyển. Đội vận hành có thể giảm các tác vụ nhập dữ liệu thủ công và đảm bảo tính nhất quán của các thông tin trên nhiều nền tảng khác nhau."
+    },
+    "analytics": {
+      "title": "Phân tích và báo cáo",
+      "subTitle": "Nền tảng IChiba cung cấp những phân tích và báo cáo chi tiết về tình hình kinh doanh, hành vi khách hàng và hiệu suất tồn kho. Những dữ liệu này giúp đội vận hành đưa ra những quyết định chiến lược để tối ưu hóa bán hàng."
+    }
+  },
+  "stillUnsure": {
+    "heading": "Lắng nghe câu chuyện thành công của khách hàng",
+    "subHeading": "Khám phá những câu chuyện thành công của các doanh nghiệp đã chuyển đổi hoạt động kinh doanh với IChiba OnePlatform.",
+    "items": [
+      {
+        "content": "“The IChiba implementation team made getting started extremely simple, and their support team is always available to answer any questions. We are very pleased about the accuracy and speed with which orders are processed. We wish we had worked with IChiba sooner”. ",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Avatar_93ed058a39.svg",
+        "name": "Mr.Jan Knap",
+        "career": "Business Manager at IZONIL"
+      },
+      {
+        "content": "“The IChiba implementation team made getting started extremely simple, and their support team is always available to answer any questions. We are very pleased about the accuracy and speed with which orders are processed. We wish we had worked with IChiba sooner”. ",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Avatar_93ed058a39.svg",
+        "name": "Mr.Jan Knap",
+        "career": "Business Manager at IZONIL"
+      },
+      {
+        "content": "“The IChiba implementation team made getting started extremely simple, and their support team is always available to answer any questions. We are very pleased about the accuracy and speed with which orders are processed. We wish we had worked with IChiba sooner”. ",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Avatar_93ed058a39.svg",
+        "name": "Mr.Jan Knap",
+        "career": "Business Manager at IZONIL"
+      },
+      {
+        "content": "“The IChiba implementation team made getting started extremely simple, and their support team is always available to answer any questions. We are very pleased about the accuracy and speed with which orders are processed. We wish we had worked with IChiba sooner”. ",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/Avatar_93ed058a39.svg",
+        "name": "Mr.Jan Knap",
+        "career": "Business Manager at IZONIL"
+      }
+    ]
+  },
+  "suggested": {
+    "title": "Sản phẩm gợi ý dành cho đội vận hành",
+    "subTitle": "",
+    "learnMore": "Xem thêm",
+    "items": [
+      {
+        "icon": "svg-icon-ship4p",
+        "title": "Phần mềm tích hợp vận chuyển (Ship4P)",
+        "link": "#",
+        "content": "Nền tảng quản lý tập trung các hãng vận chuyển, giúp giảm chi phí và đơn giản hóa việc quản lý lô hàng."
+      }
+    ]
+  },
+  "iChiba": {
+    "title": "IChiba OnePlatform dành cho đội vận hành",
+    "items": [
+      {
+        "title": "Dành cho chủ doanh nghiệp",
+        "content": "Nền tảng IChiba cung cấp các phần mềm SaaS giúp chủ doanh nghiệp, cửa hàng online và offline dễ dàng mở rộng quy mô kinh doanh và tiếp cận nhiều khách hàng hơn mà vẫn tiết kiệm được chi phí vận hành.",
+        "background": "linear-gradient(112deg,#E6F3FF_28.86%,rgba(235,_241,_254,_0.79)_64.16%)"
+      },
+      {
+        "title": "Dành cho đội Marketing",
+        "content": "Hỗ trợ các công cụ và dữ liệu cần thiết để tạo, thực hiện và tinh chỉnh các chiến dịch Marketing. Chúng tôi cũng cung cấp dịch vụ Marketing với đội ngũ chuyên gia uy tín, giúp thúc đẩy traffic, tăng cường tương tác và cải thiện tỷ lệ chuyển đổi.",
+        "background": "linear-gradient(276deg,_#F1F5FE_2.49%,_#D7D9FC_104.45%)"
+      },
+      {
+        "title": "Dành cho đội kỹ thuật",
+        "content": "Các phần mềm SaaS của IChiba được hỗ trợ bởi đội ngũ IT chuyên nghiệp, được bảo trì định kỳ. Vì vậy, đội kỹ thuật của bạn có thể giảm bớt khối lượng công việc và tập trung vào các chuyên môn khác.",
+        "background": "linear-gradient(276deg,_#FEF8F1_2.49%,_#FAE7DD_104.45%)"
+      }
+    ]
+  },
+  "joinTheRanks": {
+    "title": "Kinh doanh online và offline thành công với sự đồng hành của IChiba OnePlatform",
+    "subTitle": "Liên hệ ngay với chúng tôi để đặt lịch hẹn demo. Đội ngũ của IChiba sẽ dựa vào nhu cầu của doanh nghiệp mà đưa ra các gợi ý phần mềm Saas được cá nhân hóa, với mục tiêu tối ưu hoạt động thương mại điện tử.",
+    "contactSales": "Liên hệ ngay"
+  },
+  "faqs": {
+    "label": "Câu trả lời cho",
+    "title": "Các câu hỏi thường gặp",
+    "contents": [
+      {
+        "title": "Phần mềm của IChiba quản lý hàng tồn kho như thế nào?",
+        "content": "Phần mềm quản lý bán hàng đa kênh OMS của IChiba tập trung dữ liệu về tồn kho của từng loại mặt hàng, cập nhật theo thời gian thực, theo dõi và quản lý mức tồn kho trên nhiều kênh bán."
+      },
+      {
+        "title": "Nền tảng có cung cấp tính năng tự động hóa cho các tác vụ lặp lại hàng ngày không?",
+        "content": "Có. Nền tảng IChiba giúp tự động hóa các tác vụ hàng ngày như cập nhật trạng thái xử lý đơn hàng, mức tồn kho và hỗ trợ khách hàng thông qua AI chatbox, từ đó tiết kiệm thời gian cho chủ shop và nhân viên."
+      },
+      {
+        "title": "IChiba OnePlatform giúp tối ưu hóa logistics và order fulfillment như thế nào?",
+        "content": "Nền tảng của chúng tôi giúp doanh nghiệp tự động hóa khâu quản lý, giúp việc xử lý đơn hàng và vận chuyển nhanh hơn, cải thiện sự hài lòng của người mua."
+      }
+    ]
+  }
+}

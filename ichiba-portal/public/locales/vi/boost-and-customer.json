@@ -1,0 +1,112 @@
+{
+  "banner": {
+    "heading": "Thúc đẩy doanh thu bằng cách xây dựng hành trình khách hàng đa điểm chạm dựa trên dữ liệu",
+    "subHeading": "Với công cụ phân tích và góc nhìn 360°, việc chinh phục lòng trung thành và thúc đẩy khách hàng quay trở lại chưa bao giờ dễ dàng hơn.",
+    "textBtn": "Liên hệ ngay"
+  },
+  "leveraging": {
+    "label": "Giải pháp không nằm ở việc tăng ngân sách quảng cáo",
+    "heading": [
+      "Mà ở xây dựng một ",
+      "Customer 360° toàn diện ",
+      "và ",
+      "data-driven marketing."
+    ],
+    "title": "Những khó khăn mà nhà bán đa kênh phải đối mặt",
+    "items": [
+      "Không biết ai là khách hàng trung thành thực sự.",
+      "Không thể cá nhân hoá trải nghiệm do dữ liệu bị phân mảnh.",
+      "Không biết chiến dịch nào mang lại đơn hàng thật.",
+      "Dữ liệu khách hàng nằm rải rác ở nhiều kênh (online, offline, social, marketplace)."
+    ]
+  },
+  "fromTo": {
+    "heading": [
+      "Từ phân tán tới tập trúng",
+      "Hành trình tạo ra giá trị với Customer 360°"
+    ],
+    "contents": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_cd7aae84de.svg",
+        "value": "Tập trung mọi dữ liệu về khách hàng (hành vi, lịch sử mua hàng, phản hồi, mức chi tiêu) trên một nền tảng."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group1_3070ac1dd9.svg",
+        "value": "Sử dụng data-driven workflows để kích hoạt các chiến dịch marketing đúng người – đúng thời điểm – đúng nội dung."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_e4f153d215.svg",
+        "value": "Phân loại khách hàng trung thành dựa trên hành vi mua hàng thực tế, không chỉ dựa vào điểm tích lũy."
+      }
+    ]
+  },
+  "onePlatform": {
+    "heading": [
+      "Một nền tảng, ba tác động lớn:",
+      "Doanh thu - Hiểu khách - Giữ chân"
+    ],
+    "items": [
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318825_f405c6f4c5.svg",
+        "title": "Customer 360º",
+        "content": "Lưu trữ dữ liệu 360º về khách hàng, giúp dễ dàng truy xuất insight khách hàng và tạo các chiến dịch personalized."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_1171276362_8deeae1080.svg",
+        "title": "Tạo segment phân chia nhóm khách hàng",
+        "content": "Phân loại khách hàng theo nhóm, giúp dễ dàng tạo các chiến dịch tiếp cận riêng tới từng nhóm, nâng cao tỷ lệ mua hàng."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318825_1_a812e9bbe2.svg",
+        "title": "Xây dựng chương trình cho khách hàng thân thiết",
+        "content": "Tạo các chương trình customer loyalty, tích điểm, voucher,...cá nhân hóa trải nghiệm mua sắm dựa trên hành vi và lịch sử dữ liệu của khách hàng."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Main_Content_6682788266.svg",
+        "title": "Các chiến dịch data-driven",
+        "content": "Dựa vào phân tích dữ liệu và tạo ra các chiến dịch quảng cáo, khuyến mãi đúng với nhu cầu thực tế của khách hàng."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318825_2_e19cc72a39.svg",
+        "title": "Báo cáo theo thời gian thực",
+        "content": "Phân tích hiệu suất từng chiến dịch & vòng đời khách hàng, giúp nhà bán đưa ra quyết định chiến lược kịp thời."
+      }
+    ]
+  },
+  "unlock": {
+    "heading": "Khai phá tiềm năng tăng trưởng từ dữ liệu khách hàng",
+    "items": [
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52826_5f34b32bd3.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52826_2_7a9ef08775.svg",
+        "title": "Gia tăng CLV (Customer Lifetime Value)."
+      },
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52826_1_77af033690.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52826_3_1ab6f8e296.svg",
+        "title": "Tự động hoá quy trình marketing - tiết kiệm thời gian, giảm lỗi."
+      },
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52827_b565ed2538.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52827_1_8e38f7b0ac.svg",
+        "title": "Tăng tỷ lệ mua lại và lòng trung thành của khách hàng."
+      },
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52825_e82f978908.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52825_2_6ebe60ea0a.svg",
+        "title": "Tăng doanh thu từ khách hàng hiện tại thông qua upsell/cross-sell."
+      },
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52825_1_4f54299b27.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52825_3_337d9708d0.svg",
+        "title": "Giảm chi phí quảng cáo nhờ nhắm đúng tệp khách hàng."
+      }
+    ]
+  },
+  "contactSales": {
+    "label": "Liên hệ IChiba Platform",
+    "heading": "Bán hàng thông minh bắt đầu từ việc hiểu khách hàng",
+    "subHeading": "Liên hệ đội ngũ chuyên gia của IChiba ngay để được tư vấn về bộ giải pháp tăng doanh thu và hiểu khách hàng!",
+    "textBtn": "Liên hệ ngay"
+  }
+}

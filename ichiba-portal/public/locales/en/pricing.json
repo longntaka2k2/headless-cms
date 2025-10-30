@@ -1,0 +1,1678 @@
+{
+  "heading": "Optimized plans for your business",
+  "subHeading": "IChiba Commerce Layers plans are designed to be affordable, flexible, and tailored to your unique needs.",
+  "contact": "Contact us",
+  "contactSales": "Contact Sales",
+  "listTablePrice": [
+    {
+      "title": "Commerce Layer",
+      "subHeader": [
+        {
+          "title": "Free",
+          "itemContent": {
+            "title": "Free",
+            "priceMonth": {
+              "value": "$0",
+              "image": ""
+            },
+            "priceYear": {
+              "value": "$0",
+              "image": ""
+            },
+            "userManagement": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "markets": {
+              "value": "1 market",
+              "image": ""
+            },
+            "inventoryLocation": {
+              "value": "3",
+              "image": ""
+            },
+            "inventoryAllocation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "network": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inventoryForecasting": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "suppliers": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundProcessing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cost": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "purchasing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximum": {
+              "value": "3000",
+              "image": ""
+            },
+            "return": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "single": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "catalog": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "documentation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "standard": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "advanced": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "integration": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximumStores": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "munberOfIntegrated": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "product": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "storefront": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "broadcast": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "campaign": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "integrationCDP": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "pointWallet": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "discount": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "voucher": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "cashback": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "customerData": {
+              "value": "$500/month + Pay-as-you-go based on data request volume",
+              "image": ""
+            },
+            "support": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "recommendation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            }
+          }
+        },
+        {
+          "title": "Grow",
+          "itemContent": {
+            "title": "Grow",
+            "priceMonth": {
+              "value": "$199",
+              "image": ""
+            },
+            "priceYear": {
+              "value": "$1.791",
+              "image": ""
+            },
+            "userManagement": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "markets": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "inventoryLocation": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "inventoryAllocation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "network": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inventoryForecasting": {
+              "value": "$500/month",
+              "image": ""
+            },
+            "suppliers": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundProcessing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cost": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "purchasing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximum": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "return": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "single": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "catalog": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "documentation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "standard": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "advanced": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integration": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximumStores": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "munberOfIntegrated": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "product": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "storefront": {
+              "value": "(1% GMV)",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "broadcast": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "campaign": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integrationCDP": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "pointWallet": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "discount": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "voucher": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cashback": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "customerData": {
+              "value": "",
+              "image": ""
+            },
+            "support": {
+              "value": "24/7",
+              "image": ""
+            },
+            "recommendation": {
+              "value": "$500/month",
+              "image": ""
+            }
+          }
+        },
+        {
+          "title": "Enterprise",
+          "itemContent": {
+            "title": "Enterprise",
+            "priceMonth": {
+              "value": "Contact us",
+              "image": ""
+            },
+            "priceYear": {
+              "value": "Contact us",
+              "image": ""
+            },
+            "userManagement": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "markets": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "inventoryLocation": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "inventoryAllocation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "network": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inventoryForecasting": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "suppliers": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundProcessing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cost": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "purchasing": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inboundReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximum": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "return": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "single": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "catalog": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "documentation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "standard": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "advanced": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integration": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "maximumStores": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "munberOfIntegrated": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "product": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "storefront": {
+              "value": "(1% GMV)",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "broadcast": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "campaign": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integrationCDP": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "pointWallet": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "discount": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "voucher": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "cashback": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "customerData": {
+              "value": "",
+              "image": ""
+            },
+            "support": {
+              "value": "24/7",
+              "image": ""
+            },
+            "recommendation": {
+              "value": "$500/month",
+              "image": ""
+            }
+          }
+        }
+      ],
+      "titleLeft": {
+        "heading": "Main features",
+        "userManagement": "User management",
+        "iChiba": "IChiba Multi-market",
+        "inventory": "Inventory management",
+        "purchaseOrder": "Purchase Order (PO) Management",
+        "saleOrder": "Sale Order (SO) management",
+        "product": "Product management",
+        "reportAnalytics": "Report & Analytics",
+        "systemIntegration": "System integration",
+        "salesChannelIntegration": "Sales channel integration",
+        "marketingAutomation": "Marketing Automation",
+        "loyaltyProgram": "Loyalty program",
+        "cdp": "CDP",
+        "support": "24/7 Support"
+      },
+      "functions": {
+        "heading": "Functions",
+        "priceMonth": {
+          "title": "Monthly fee"
+        },
+        "priceYear": {
+          "title": "Recurring fee/Year (25% discount when paying 1 year in advance)"
+        },
+        "userManagement": {
+          "title": "User management & access control"
+        },
+        "markets": {
+          "title": "Market management"
+        },
+        "inventoryLocation": {
+          "title": "Inventory Location"
+        },
+        "inventoryAllocation": {
+          "title": "Inventory allocation strategy"
+        },
+        "network": {
+          "title": "Network"
+        },
+        "inventoryForecasting": {
+          "title": "Inventory forecasting"
+        },
+        "suppliers": {
+          "title": "Suppliers management"
+        },
+        "inboundProcessing": {
+          "title": "Inbound package management"
+        },
+        "cost": {
+          "title": "Cost center Management"
+        },
+        "purchasing": {
+          "title": "Purchasing role permissions"
+        },
+        "inboundReports": {
+          "title": "Inbound order reports"
+        },
+        "maximum": {
+          "title": "Maximum Sales Orders per month"
+        },
+        "return": {
+          "title": "Return & complain management"
+        },
+        "single": {
+          "title": "Single & combo product management"
+        },
+        "catalog": {
+          "title": "Catalog & attribute management"
+        },
+        "documentation": {
+          "title": "Documentation and records management"
+        },
+        "standard": {
+          "title": "Standard analytic report"
+        },
+        "advanced": {
+          "title": "Advanced analytic report"
+        },
+        "integration": {
+          "title": "Integration"
+        },
+        "maximumStores": {
+          "title": "Maximum stores per channel"
+        },
+        "munberOfIntegrated": {
+          "title": "Number of integrated Facebook fanpages & Instagram "
+        },
+        "product": {
+          "title": " Product listing on Google Shopping"
+        },
+        "storefront": {
+          "title": "Storefront website integration"
+        },
+        "broadcast": {
+          "title": "Broadcast"
+        },
+        "campaign": {
+          "title": "Campaign & Journey Builders"
+        },
+        "integrationCDP": {
+          "title": "CDP integration"
+        },
+        "pointWallet": {
+          "title": "Point wallet management"
+        },
+        "discount": {
+          "title": "Discount management"
+        },
+        "voucher": {
+          "title": "Voucher management"
+        },
+        "cashback": {
+          "title": "Cashback management"
+        },
+        "customerData": {
+          "title": "Customer data management & analytics"
+        },
+        "support": {
+          "title": "Support"
+        },
+        "recommendation": {
+          "title": [
+            "AI recommendation:",
+            " Recommend suitable items for each buyer based on their search, view, and report history data"
+          ]
+        }
+      }
+    },
+    {
+      "title": "WMS",
+      "unit": "1 time",
+      "uom": ["UOM/month", "USD/UOM"],
+      "subHeader": [
+        {
+          "title": "Unit",
+          "itemContent": {
+            "title": "Unit",
+            "solution": {
+              "value": "",
+              "image": ""
+            },
+            "trainning": {
+              "value": "",
+              "image": ""
+            },
+            "system": {
+              "value": "",
+              "image": ""
+            },
+            "warehouse": {
+              "value": "",
+              "image": ""
+            },
+            "user": {
+              "value": "",
+              "image": ""
+            },
+            "inboundRequest": {
+              "value": "",
+              "image": ""
+            },
+            "inboundReceiving": {
+              "value": "",
+              "image": ""
+            },
+            "autoSuggestion": {
+              "value": "",
+              "image": ""
+            },
+            "outbound": {
+              "value": [
+                "0-50,000",
+                "50,001 - 90,000",
+                "90,001 - 180,000",
+                ">= 180,001"
+              ],
+              "image": ""
+            },
+            "multiplePicking": {
+              "value": "",
+              "image": ""
+            },
+            "multipleOutbound": {
+              "value": "",
+              "image": ""
+            },
+            "flexible": {
+              "value": "",
+              "image": ""
+            },
+            "automated": {
+              "value": "",
+              "image": ""
+            },
+            "multiCarrier": {
+              "value": "",
+              "image": ""
+            },
+            "product": {
+              "value": "",
+              "image": ""
+            },
+            "location": {
+              "value": "",
+              "image": ""
+            },
+            "stocktaking": {
+              "value": "",
+              "image": ""
+            },
+            "warehouseFacilities": {
+              "value": "",
+              "image": ""
+            },
+            "operational": {
+              "value": "",
+              "image": ""
+            },
+            "integrationSales": {
+              "value": "",
+              "image": ""
+            },
+            "integrationLogistics": {
+              "value": "",
+              "image": ""
+            },
+            "inventoryReports": {
+              "value": "",
+              "image": ""
+            },
+            "operationalPerformance": {
+              "value": "",
+              "image": ""
+            },
+            "shipping": {
+              "value": "",
+              "image": ""
+            },
+            "onSite": {
+              "value": "Working day",
+              "image": ""
+            },
+            "outOfScope": {
+              "value": "",
+              "image": ""
+            }
+          }
+        },
+        {
+          "title": "Fee (USD)",
+          "itemContent": {
+            "title": "Fee (USD)",
+            "solution": {
+              "value": "$1200",
+              "image": ""
+            },
+            "trainning": {
+              "value": "$1200",
+              "image": ""
+            },
+            "system": {
+              "value": "$1200",
+              "image": ""
+            },
+            "warehouse": {
+              "value": "$200/Month/Warehouse",
+              "image": ""
+            },
+            "user": {
+              "value": "Unlimited users",
+              "image": ""
+            },
+            "inboundRequest": {
+              "value": "Unlimited",
+              "image": ""
+            },
+            "inboundReceiving": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "autoSuggestion": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "outbound": {
+              "value": ["$0,02", "$0,18", "$0,015", "$0,012"],
+              "image": ""
+            },
+            "multiplePicking": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "multipleOutbound": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "flexible": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "automated": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "multiCarrier": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "product": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "location": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "stocktaking": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "warehouseFacilities": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "operational": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integrationSales": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "integrationLogistics": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "inventoryReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "operationalPerformance": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipping": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "onSite": {
+              "value": "$100",
+              "image": ""
+            },
+            "outOfScope": {
+              "value": "Separate agreement",
+              "image": ""
+            }
+          }
+        }
+      ],
+      "titleLeft": {
+        "heading": "Main features",
+        "deploymentCosts": "Deployment Costs",
+        "warehouseLocation": "Warehouse Location Management",
+        "userManagement": "User Management",
+        "inboundManagement": "Inbound Management",
+        "outboundManagement": "Outbound Management",
+        "inventory": "Inventory Management",
+        "report": "Report",
+        "additionalServices": "Additional services"
+      },
+      "functions": {
+        "heading": "Features",
+        "solution": {
+          "title": "Solution consulting (Integration model, customer-specific)"
+        },
+        "trainning": {
+          "title": "Training fee (includes user manual)"
+        },
+        "system": {
+          "title": "System setup and configuration"
+        },
+        "warehouse": {
+          "title": "Warehouse location management"
+        },
+        "user": {
+          "title": "User license management for WMS usage"
+        },
+        "inboundRequest": {
+          "title": "Inbound request management"
+        },
+        "inboundReceiving": {
+          "title": "Inbound receiving & advanced processing"
+        },
+        "autoSuggestion": {
+          "title": "Auto-suggestion of putaway locations using optimization algorithms"
+        },
+        "outbound": {
+          "title": "Outbound order management (outbound request)"
+        },
+        "multiplePicking": {
+          "title": "Multiple picking strategies (single, batch, zone, wave picking)"
+        },
+        "multipleOutbound": {
+          "title": "Multiple outbound strategies (eg: FIFO, FEFO, LIFO,...)"
+        },
+        "flexible": {
+          "title": "Flexible packing logic"
+        },
+        "automated": {
+          "title": "Automated packing video recording per order"
+        },
+        "multiCarrier": {
+          "title": "Multi-carrier shipping management"
+        },
+        "product": {
+          "title": "Product & document management"
+        },
+        "location": {
+          "title": "Location-based inventory management"
+        },
+        "stocktaking": {
+          "title": "Stocktaking & inventory audit"
+        },
+        "warehouseFacilities": {
+          "title": "Warehouse facilities management (equipment, zones, materials, etc.)"
+        },
+        "operational": {
+          "title": "Operational performance management"
+        },
+        "integrationSales": {
+          "title": "Integration with sales systems"
+        },
+        "integrationLogistics": {
+          "title": "Integration with logistics/shipping providers"
+        },
+        "inventoryReports": {
+          "title": "Inventory reports"
+        },
+        "operationalPerformance": {
+          "title": "Operational performance reports"
+        },
+        "shipping": {
+          "title": "Shipping/transportation reports"
+        },
+        "onSite": {
+          "title": "On-site deployment support fee"
+        },
+        "outOfScope": {
+          "title": "Out-of-scope service costs (evaluated and agreed separately between ICHIBA and the customer)"
+        }
+      }
+    },
+    {
+      "title": "Ship4P",
+      "subHeader": [
+        {
+          "title": "Free",
+          "itemContent": {
+            "title": "Free",
+            "recurringMonth": {
+              "value": "$0",
+              "image": ""
+            },
+            "recurringYear": {
+              "value": "$0",
+              "image": ""
+            },
+            "packageManagement": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageMannula": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageConsolidation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipmentDomestic": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipmentInternational": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "carrier": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "generate": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipment": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "create": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "storefront": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "packageBased": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "multiRoute": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "custom": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "connectMerchant": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "connectShip4p": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "tax": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "document": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_ea580dfb2f.svg"
+            },
+            "shippingReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            }
+          }
+        },
+        {
+          "title": "Grow",
+          "itemContent": {
+            "title": "Grow",
+            "recurringMonth": {
+              "value": "$49",
+              "image": ""
+            },
+            "recurringYear": {
+              "value": "$441",
+              "image": ""
+            },
+            "packageManagement": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageMannula": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageConsolidation": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipmentDomestic": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipmentInternational": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "carrier": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "generate": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shipment": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "create": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "storefront": {
+              "value": "(1% GMV)",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "packageBased": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "multiRoute": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "custom": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "connectMerchant": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "connectShip4p": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "tax": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "document": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "shippingReports": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            }
+          }
+        }
+      ],
+      "titleLeft": {
+        "heading": "Main features",
+        "packageManagement": "Package Management",
+        "shipmentManagement": "Shipment management",
+        "createPersonalCarrier": "Create personal carrier",
+        "storefrontIntegration": "Storefront integration",
+        "fareManagement": "Fare Management",
+        "carrierConnection": "Carrier connection management",
+        "taxDocument": "Tax & Document Management",
+        "reports": "Reports"
+      },
+      "functions": {
+        "heading": "Functions",
+        "recurringMonth": {
+          "title": "Recurring fee/month"
+        },
+        "recurringYear": {
+          "title": "Recurring fee/year (25% discount for upfront payment)"
+        },
+        "packageManagement": {
+          "title": "Package management (Warehouse packages)"
+        },
+        "packageMannula": {
+          "title": "Package mannula operation & handling"
+        },
+        "packageConsolidation": {
+          "title": "Package consolidation & separation (Advanced feature)"
+        },
+        "shipmentDomestic": {
+          "title": "Shipment management (domestic)"
+        },
+        "shipmentInternational": {
+          "title": "Shipment management ( international)"
+        },
+        "carrier": {
+          "title": "Carrier integration"
+        },
+        "generate": {
+          "title": "Generate last-mile waybills via carriers"
+        },
+        "shipment": {
+          "title": "Shipment tracking status updates"
+        },
+        "create": {
+          "title": "Create custom carrier (My Carrier setup)"
+        },
+        "storefront": {
+          "title": "Storefront integration & shipping web/app creation"
+        },
+        "packageBased": {
+          "title": "Package-based shipping rate management"
+        },
+        "multiRoute": {
+          "title": "Multi-route shipping rate management"
+        },
+        "custom": {
+          "title": "Custom rate table management"
+        },
+        "connectMerchant": {
+          "title": "Connect carriers via merchant account"
+        },
+        "connectShip4p": {
+          "title": "Connect carriers via Ship4P account"
+        },
+        "tax": {
+          "title": "Import/export tax management"
+        },
+        "document": {
+          "title": "Import/export document management"
+        },
+        "shippingReports": {
+          "title": "Shipping reports"
+        }
+      }
+    },
+    {
+      "title": "Storefront Layer",
+      "items": [
+        {
+          "title": "1. Website:",
+          "subHeader": [
+            {
+              "title": "Unit",
+              "itemContent": {
+                "usingFree": {
+                  "value": "Theme",
+                  "image": ""
+                },
+                "usingPro": {
+                  "value": "Theme",
+                  "image": ""
+                },
+                "landingPage": {
+                  "value": "Month/Landing page",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "Year",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "Trading",
+                  "image": ""
+                },
+                "managing": {
+                  "value": ["Proxyshopping service", "Dropship", "POD"],
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Time",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+                },
+                "additional": {
+                  "value": "Download times",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Cost(USD)",
+              "itemContent": {
+                "usingFree": {
+                  "value": "Free",
+                  "image": ""
+                },
+                "usingPro": {
+                  "value": "$400",
+                  "image": ""
+                },
+                "landingPage": {
+                  "value": "$8",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "$400/year",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "",
+                  "image": ""
+                },
+                "managing": {
+                  "value": "1%* GMV",
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Quoted per design",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": ""
+                },
+                "additional": {
+                  "value": "$80 - $120",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Cost(VND)",
+              "itemContent": {
+                "usingFree": {
+                  "value": "Free",
+                  "image": ""
+                },
+                "usingPro": {
+                  "value": "10.000.000",
+                  "image": ""
+                },
+                "landingPage": {
+                  "value": "200.000",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "10.000.000",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "",
+                  "image": ""
+                },
+                "managing": {
+                  "value": "1% GMV",
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Quoted per design",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": ""
+                },
+                "additional": {
+                  "value": "2.000.000 - 3.000.000",
+                  "image": ""
+                }
+              }
+            }
+          ],
+          "titleLeft": {
+            "heading": "Services",
+            "buildingWebsite": "Building website",
+            "landingPage": "Landing Page setup (includes hosting, excludes domain)",
+            "annual": "Annual website maintenance fee",
+            "managing": "Managing successful orders on storefront",
+            "custom": "Custom UI/UX design: Per order page design (or: Per request)",
+            "product": "Product crawler integration",
+            "additionalServices": "Additional theme download fee: Based on the seller's pricing"
+          },
+          "functions": {
+            "usingFree": {
+              "title": "Using free available theme (Powered by IChiba)"
+            },
+            "usingPro": {
+              "title": "Using IChiba's Pro theme"
+            }
+          }
+        },
+        {
+          "title": "2. Mobile Application:",
+          "subHeader": [
+            {
+              "title": "Unit",
+              "itemContent": {
+                "development": {
+                  "value": "One-time",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "Trading",
+                  "image": ""
+                },
+                "managing": {
+                  "value": ["Proxyshopping service", "Dropship", "POD"],
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Time",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+                },
+                "annual": {
+                  "value": "Year",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Cost(USD)",
+              "itemContent": {
+                "development": {
+                  "value": "$2000",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "",
+                  "image": ""
+                },
+                "managing": {
+                  "value": "1%* GMV",
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Quoted per design",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "$2000",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Cost(VND)",
+              "itemContent": {
+                "development": {
+                  "value": "50.000.000",
+                  "image": ""
+                },
+                "managingTrading": {
+                  "value": "",
+                  "image": ""
+                },
+                "managing": {
+                  "value": "1%* GMV",
+                  "image": ""
+                },
+                "custom": {
+                  "value": "Quoted per design ",
+                  "image": ""
+                },
+                "product": {
+                  "value": "",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "50.000.000",
+                  "image": ""
+                }
+              }
+            }
+          ],
+          "titleLeft": {
+            "heading": "Feature",
+            "development": "Development & deployment (to App Store, Google Play) using IChiba's standard template",
+            "managing": "Managing successful orders on storefront",
+            "custom": "Custom UI/UX design",
+            "product": "Product crawler integration",
+            "annual": "Annual maintenance & support (from the first year)"
+          }
+        },
+        {
+          "title": "3. Crawler service & Bidding:",
+          "subHeader": [
+            {
+              "title": "Standard monthly fee",
+              "valueCommon": "",
+              "itemContent": {
+                "mercari": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "yahoo": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "amazon": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "ponpareMall": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "ebay": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "macy": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "gmarket": {
+                  "value": "$29",
+                  "image": ""
+                },
+                "taobao": {
+                  "value": "$29",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Standard request volume",
+              "valueCommon": "17.000 requests/day",
+              "itemContent": {
+                "mercari": {
+                  "value": "17.000 requests/day",
+                  "image": ""
+                },
+                "yahoo": {
+                  "value": "17.000 requests/day",
+                  "image": ""
+                },
+                "amazon": {
+                  "value": "17.000 requests/day",
+                  "image": ""
+                },
+                "ponpareMall": {
+                  "value": "17.000 requests/day",
+                  "image": ""
+                },
+                "ebay": {
+                  "value": "17.000 requests/day",
+                  "image": ""
+                },
+                "macy": {
+                  "value": "17.000 requests/day",
+                  "image": ""
+                },
+                "gmarket": {
+                  "value": "17.000 requests/day",
+                  "image": ""
+                },
+                "taobao": {
+                  "value": "17.000 requests/day",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Value-added service fee",
+              "valueCommon": "$5 per 1,000  additional requests/day",
+              "itemContent": {
+                "mercari": {
+                  "value": "$5 per 1,000  additional requests/day",
+                  "image": ""
+                },
+                "yahoo": {
+                  "value": "$5 per 1,000  additional requests/day",
+                  "image": ""
+                },
+                "amazon": {
+                  "value": "$5 per 1,000  additional requests/day",
+                  "image": ""
+                },
+                "ponpareMall": {
+                  "value": "$5 per 1,000  additional requests/day",
+                  "image": ""
+                },
+                "ebay": {
+                  "value": "$5 per 1,000  additional requests/day",
+                  "image": ""
+                },
+                "macy": {
+                  "value": "$5 per 1,000  additional requests/day",
+                  "image": ""
+                },
+                "gmarket": {
+                  "value": "$5 per 1,000  additional requests/day",
+                  "image": ""
+                },
+                "taobao": {
+                  "value": "$5 per 1,000  additional requests/day",
+                  "image": ""
+                }
+              }
+            }
+          ],
+          "titleLeft": {
+            "heading": "Export Country",
+            "japan": "Japan",
+            "us": "US",
+            "korea": "Korea",
+            "china": "China"
+          },
+          "functions": {
+            "heading": "Marketplace (Full Site)",
+            "mercari": {
+              "title": "Mercari"
+            },
+            "yahoo": {
+              "title": "Yahoo Auction"
+            },
+            "amazon": {
+              "title": "Amazon JP, Rakuten, Yahoo, Paypay, rakuma"
+            },
+            "ponpareMall": {
+              "title": "PonpareMall, Reclo, surugaya, zozotown"
+            },
+            "ebay": {
+              "title": "Ebay"
+            },
+            "macy": {
+              "title": "Macy’s, Amazon US"
+            },
+            "gmarket": {
+              "title": "Gmarket, coupang, Tmon"
+            },
+            "taobao": {
+              "title": "Taobao, 1688, Tmall, Pindoudou, Global jd"
+            }
+          }
+        },
+        {
+          "title": "Note: If you cut half site, there is no charge.",
+          "subHeader": [
+            {
+              "title": "Standard fee/month",
+              "itemContent": {
+                "monthly": {
+                  "value": "$200",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "$1.800",
+                  "image": ""
+                },
+                "auctionManagement": {
+                  "value": "",
+                  "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+                },
+                "auctionOrderManagement": {
+                  "value": "",
+                  "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+                }
+              }
+            },
+            {
+              "title": "Standard bidding volume",
+              "itemContent": {
+                "monthly": {
+                  "value": "",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "",
+                  "image": ""
+                },
+                "auctionManagement": {
+                  "value": "600 lượt/ngày",
+                  "image": ""
+                },
+                "auctionOrderManagement": {
+                  "value": "",
+                  "image": ""
+                }
+              }
+            },
+            {
+              "title": "Value-added service",
+              "itemContent": {
+                "monthly": {
+                  "value": "",
+                  "image": ""
+                },
+                "annual": {
+                  "value": "",
+                  "image": ""
+                },
+                "auctionManagement": {
+                  "value": "$3/100 lượt tăng thêm - tính phí theo ngày",
+                  "image": ""
+                },
+                "auctionOrderManagement": {
+                  "value": "",
+                  "image": ""
+                }
+              }
+            }
+          ],
+          "titleLeft": {
+            "heading": "Main features",
+            "monthly": "Monthly recurring fee",
+            "annual": "Annual recurring fee (25% discount for upfront annual payment)",
+            "auctionManagement": "Auction management",
+            "auctionOrderManagement": "Auction order management"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Pricing, Invoice & Billing management",
+      "subHeader": [
+        {
+          "title": "Free",
+          "itemContent": {
+            "title": "Free",
+            "monthly": {
+              "value": "$0",
+              "image": ""
+            },
+            "annual": {
+              "value": "$0",
+              "image": ""
+            },
+            "invoice": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            },
+            "transaction": {
+              "value": "",
+              "image": "https://cms-strapi.ichiba.net/uploads/Objects_86d3bc77b9.svg"
+            }
+          }
+        }
+      ],
+      "titleLeft": {
+        "heading": "Main features",
+        "invoice": "Invoice & Billing Management"
+      },
+      "functions": {
+        "heading": "Functions",
+        "monthly": {
+          "title": "Monthly recurring fee"
+        },
+        "annual": {
+          "title": "Annual recurring fee (25% discount if paid upfront)"
+        },
+        "invoice": {
+          "title": "Invoice management"
+        },
+        "transaction": {
+          "title": "Transaction management"
+        }
+      }
+    }
+  ]
+}

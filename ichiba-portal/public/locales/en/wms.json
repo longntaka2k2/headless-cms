@@ -1,0 +1,266 @@
+{
+  "wms": "Warehouse management system",
+  "textBtn": ["Contact Sales", "Start Free Trial"],
+  "banner": {
+    "label": "IChiba Warehouse Management System",
+    "heading": ["IChiba warehouse management system (WMS)", " solution", " for", " warehouse", " enhancement"],
+    "content": "Supercharge your warehouse with our Smart Warehouse Management System, built to deliver improved warehouse efficiency and a seamlessly optimized supply chain."
+  },
+  "automated": {
+    "heading": "Automated warehouse management system",
+    "subHeading": "Stay agile. Do more with less.",
+    "textBtn": "Start Free Trial"
+  },
+  "yourWarehouse": {
+    "heading": "Enjoy managing and running your warehouse with ease",
+    "inbound": {
+      "title": "Inbound management",
+      "items": [
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Boxx_9ab4c0fa5f.svg",
+          "title": "Inbound request management",
+          "content": "Track and manage inbound orders from multiple sources. Users can create, update, and approve inbound orders, as well as track the status and schedule of each shipment.",
+          "img": "https://cms-strapi.ichiba.net/uploads/shutterstock_2044257446_1_bba0986abc.svg"
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Box_2_befb82dbe7.svg",
+          "title": "Receiving and processing goods",
+          "content": "Upon arrival, the system enables quick and accurate receiving of goods, including information on quality, quantity, and conditions. Detailed data on each item is captured and stored for effortless tracking and management.",
+          "img": "https://cms-strapi.ichiba.net/uploads/shutterstock_2044257446_12_f7164eb9a3.svg"
+        },
+        {
+          "icon": "https://cms-strapi.ichiba.net/uploads/Frame_6392aaf6a4.svg",
+          "title": "Automated warehouse slotting allocation",
+          "content": "Based on product type, size, weight, and in-out frequency data, IChiba WMS intelligently assigns optimal storage slots. This optimizes warehouse space utilization, saves time and effort for storage.",
+          "img": "https://cms-strapi.ichiba.net/uploads/image_826_ad58189c9e.svg"
+        }
+      ]
+    },
+    "outbound": {
+      "title": "Outbound management",
+      "items": [
+        {
+          "title": "Outbound request management",
+          "content": "Manage the entire order fulfillment process from request to dispatch. Easily track package status, update information, and review transaction history.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_427318776_afa1c45b76.svg"
+        },
+        {
+          "title": "Flexible packaging",
+          "content": "Support various packaging options based on product category and customer requirements. Configure packing rules flexibly to optimize the process and ensure product safety during transit.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_427318777_7ad888463f.svg"
+        },
+        {
+          "title": "Multi-carrier shipping management",
+          "content": "Integrate and centrally manage multiple delivery service providers. Select the most suitable carrier and track shipment status directly from IChiba WMS.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_427318777_1_8f61377b9a.svg"
+        },
+        {
+          "title": "Diverse picking and exporting methods",
+          "content": " IChiba WMS supports various picking strategies and exporting methods to ensure that goods are moved as requirements and plans.",
+          "img": "https://cms-strapi.ichiba.net/uploads/Frame_427318777_2_f8d5c20051.svg"
+        }
+      ]
+    },
+    "warehouse": {
+      "inbound": {
+        "title": "Inbound",
+        "list": [
+          "Single Picking",
+          "Batch Picking",
+          "Zone Picking",
+          "Wave Picking"
+        ]
+      },
+      "outbound": {
+        "title": "Outbound",
+        "list": [
+          "FIFO (First In, First Out)",
+          "LIFO (Last In, First Out)",
+          "FEFO (First Expired, First Out)"
+        ]
+      }
+    }
+  },
+  "inventory": {
+    "heading": "Inventory management",
+    "management": {
+      "title": "Product and document management",
+      "subTitle": "Manage comprehensive details for each product in the warehouse, including product code, name, description, images, and other attributes. Monitor product-related documents such as invoices, inbound and outbound receipts, and other documentation for easy retrieval and tracking."
+    },
+    "tracking": {
+      "title": "Inventory tracking by location",
+      "subTitle": "Precisely track inventory levels for each specific location in the warehouse. Each item is assigned to a defined location for easy retrieval and control."
+    },
+    "counting": {
+      "title": "Inventory counting",
+      "subTitle": "Verify and reconcile physical inventory counts with system data, record inventory counting results, and identify discrepancies. Generate detailed reports to enable timely and accurate adjustments."
+    },
+    "planning": {
+      "title": "Easy inventory planning on multiple locations",
+      "subTitle": "Make sure businesses know what are the best products to sell in which market . Reduce excess inventory, minimize storage costs, and improve overall operational efficiency.",
+      "items": [
+        {
+          "title": "Accurate inventory forecasting",
+          "subTitle": "Leverage advanced algorithms and historical data to predict future inventory demand precisely, avoiding stockouts and overstock situations."
+        },
+        {
+          "title": "Strategic inventory planning",
+          "subTitle": "Deliver smart inventory purchasing recommendations for each warehouse location, each market based on previous forecasts."
+        },
+        {
+          "title": "Make data-driven decisions",
+          "subTitle": "Warehouse managers plan the purchasing budgets and make inventory purchases."
+        }
+      ]
+    },
+    "multiUnit": {
+      "title": "Multi-unit and multi-attribute management (Lot, Serial, IMEI, etc.) on a single platform",
+      "contents": [
+         "Accurately track each type of product to avoid confusion—especially important for electronics, pharmaceuticals, cosmetics, or food items.",
+         "Easily trace product origins to meet the strict requirements of markets such as the EU, the US, and Japan.",
+         "Easily set outbound rules like FIFO, FEFO, or LIFO based on each product’s specific attributes."
+      ]
+    },
+    "visualWarehouse": {
+      "title": "Visual Warehouse Management with 3D Layout",
+      "contents": [
+         "Visualize your warehouse layout in a realistic and intuitive way—making it easier to manage and train staff.",
+         "Monitor storage density and optimize space utilization.",
+         "Get real-time alerts for inventory discrepancies directly on the warehouse map to enable timely management and prevent downstream errors."
+      ]
+    },
+    "roleBased": {
+      "title": "Role-based, multi-level dashboards and reports",
+      "contents": [
+         "Managers and directors gain strategic insights through overview dashboards displaying inventory trends, operational performance, storage costs, and more.",
+         "Operations staff are provided with detailed interfaces and reports to support daily tasks—such as the number of orders to process, inventory by SKU, and the status of inbound/outbound orders."
+      ]
+    }
+  },
+  "configuration": {
+    "heading": "WMS configuration and integration",
+    "items": [
+      {
+        "title": "Third-party software integration",
+        "subTitle": "IChiba WMS seamlessly integrates with ERP, POS, OMS, shipping carriers, and e-commerce marketplaces to synchronize data of orders, inventory, customers, and other relevant ones for streamlined and efficient management."
+      },
+      {
+        "title": "Warehouse facility configuration",
+        "subTitle": "Define and configure warehouse storage locations, including shelves, inbound areas, outbound areas, and more. Manage warehouse equipment such as forklifts, barcode scanners, and other items."
+      },
+      {
+        "title": "WMS Report",
+        "subTitle": "Leveraging cutting-edge technologies such as AI and machine learning, IChiba WMS empowers businesses with real-time data accuracy and customizable reports tailored to their specific needs. Access real-time reports of inventory, operational performance, shipping, and packages (new arrivals, pending shipments, and ready-to-ship items) anytime."
+      }
+    ]
+  },
+  "system": {
+    "heading": "System integration"
+  },
+  "suitability": {
+    "heading": "Suitability",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/icon_a474f0e462.svg",
+        "title": "Logistics companies",
+        "content": "IChiba WMS is an essential tool for logistics companies, offering a robust suite of functionalities designed to streamline warehouse operations, enhance efficiency, and improve overall logistics performance.",
+        "list": [
+          "Streamline the order fulfillment process",
+          "Manage stock more effectively",
+          "Deliver data-driven insights for strategic decision-making"
+        ]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/icon2_cb41560c6a.svg",
+        "title": "Warehouse managers",
+        "content": "For warehouse managers, IChiba WMS provides extensive support for daily tasks and overall operational control.",
+        "list": [
+          "Oversee all warehouse activities from a single platform",
+          "Allocate and schedule tasks for employees",
+          "Track the performance and productivity of warehouse staff"
+        ]
+      }
+    ]
+  },
+  "technology": {
+    "heading": "A WMS powered by technology",
+    "items": [
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318745_153371baa2.svg",
+        "title": "Cloud computing",
+        "subTitle": "IChiba WMS is a SaaS software which is build on cloud-based. It allows easy integration and accessibility."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_4273187451_9d3863b4bf.svg",
+        "title": "Artificial intelligence (AI) and machine learning",
+        "subTitle": "Automate every process, suggest picking routes and storage locations to maximize accuracy, and efficiency, ensuring consistent outcomes."
+      }
+    ]
+  },
+  "successSpotlights": {
+    "heading": [
+      "Success spotlights:",
+      " How IChiba WMS streamlines business warehouse operation"
+    ],
+    "textBtn": "Read More"
+  },
+  "theBenefits": {
+    "heading": ["The benefits of choosing", "IChiba WMS"],
+    "subHeading": "We are proud to digitally transform hundreds of B2B and B2C warehouse operations in Vietnam, Singapore, China, the US, Japan, and many more countries.",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60e8a11ead3db538e72d180b_Launch_1_bd342fbe9c.svg",
+        "title": "Scalability and flexibility",
+        "subTitle": "As your business grows, IChiba WMS can accommodate increased order volume, product variety, and warehouse complexity. This ensures your warehouse operations can adapt to changing demands."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/607732b0a896b11ca4c5f83d_Personalize_1_54ee91b882.svg",
+        "title": "Reduced warehouse costs",
+        "subTitle": "Our system optimizes space utilization, minimizes picking errors, and automates manual tasks, leading to significant cost reductions in labor, storage, and overall warehouse management."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/6081adcc1b5ca002a84fd4f4_icon_5_1_6e76ffc92b.svg",
+        "title": "Increased order fulfillment rates",
+        "subTitle": "IChiba WMS delivers real-time inventory tracking, efficient picking strategies, and seamless integration with shipping carriers to ensure on-time order fulfillment, boosting customer satisfaction and loyalty."
+      }
+    ]
+  },
+  "contact": {
+    "label": "Contact IChiba OnePlatform",
+    "heading": "Unleash Warehouse Automation: Try IChiba WMS Today!",
+    "subHeading": "Are you prepared to revolutionize your company's warehouse management?"
+  },
+  "discover": {
+    "heading": "Discover more products",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo_Digital_9d638aaceb.svg",
+        "iconActive": "https://cms-strapi.ichiba.net/uploads/Logo_Digital2_8cfdad7d8b.svg",
+        "title": "Commerce Layer",
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_1171275967c_1_3f72bd4cfa.svg",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Logo9_be82e32a29.svg",
+        "iconActive": "https://cms-strapi.ichiba.net/uploads/Logo_31e9b1c558.svg",
+        "title": "Ship 4P",
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_19619_1_24af8a621d.svg",
+        "link": "/products/ship4p/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_189711_96d8083938.svg",
+        "iconActive": "https://cms-strapi.ichiba.net/uploads/Group_18711_0c69e0ef6e.svg",
+        "title": "Cross-Border Forwarding",
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_19885_1_60333265b4.svg",
+        "link": "/products/cross-border-forwarding/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Shape3_1abe191d4e.svg",
+        "iconActive": "https://cms-strapi.ichiba.net/uploads/Shape_Circle_53d71f2089.svg",
+        "title": "StoreFront Layer",
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_1171275983_819898ab55.svg",
+        "link": "/products/storefront-layer/overview"
+      }
+    ]
+  }
+}

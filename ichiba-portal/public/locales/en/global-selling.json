@@ -1,0 +1,197 @@
+{
+  "banner": {
+    "title": "Global selling on multi-channels and multi-markets",
+    "conent": [
+      "Break languages & currencies barrier",
+      "Provide multi-warehouse in various countries",
+      "Fulfill cross-border"
+    ],
+    "contactSales": "Contact Sales",
+    "watch": "Watch solution"
+  },
+  "globalSelling": {
+    "title": "Global selling pains on multiple channels and markets",
+    "different": "Different regulations/customs and import rules",
+    "price": "Price competition and market saturation",
+    "market": "Market entry and visibility",
+    "diffcutl": "Difficulties in technical and integration",
+    "costly": "Costly logistics and shipping",
+    "language": "Language and cultural barriers",
+    "performance": "Performance tracking across different channels & markets",
+    "complicated": "Complicated currency and payment processing"
+  },
+  "selling": {
+    "title": "Selling cross border process",
+    "buyYourSelf": {
+      "title": "By yourself",
+      "sellers": "Sellers",
+      "fullfillment": "Fulfillment + last-mile delivery",
+      "customers": ["Customers", "(On global)"],
+      "items": [
+        {
+          "label": "Post products",
+          "icon": "https://cms-strapi.ichiba.net/uploads/Illus_1761700e15.svg",
+          "content": "Marketplaces"
+        },
+        {
+          "label": "Process",
+          "icon": "https://cms-strapi.ichiba.net/uploads/Illus_1761700e15.svg",
+          "content": "International payment"
+        },
+        {
+          "label": "Oversea shipping ",
+          "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1171276460_9ed337917b.svg",
+          "content": "Warehouse"
+        },
+        {
+          "label": "Translate information",
+          "icon": "https://cms-strapi.ichiba.net/uploads/Illus_1761700e15.svg",
+          "content": "Local language"
+        }
+      ]
+    },
+    "withIChibaOne": {
+      "title": "With IChiba OnePlatform",
+      "yourProducts": "Your products",
+      "iChiba": "IChiba OnePlatform Solution",
+      "customers": ["Customers", "(On global)"]
+    },
+    "created": "Created for fueling the rapid growth of e-commerce brands on a global scale.",
+    "iChibaOne": "IChiba solution facilitates seamless expansion and adaptability through our support for multiple channels, warehouses, languages, and currencies."
+  },
+  "boost": {
+    "title": "Boost your international sales with specialized capabilities designed to help you exceed your goals",
+    "local": {
+      "title": "20+",
+      "content": "Local payment gateways"
+    },
+    "countries": {
+      "title": "220+",
+      "content": "Countries & territories"
+    },
+    "localized": {
+      "title": "100+",
+      "content": "Localized currencies"
+    }
+  },
+  "how": {
+    "title": "How we assist businesses selling cross border?",
+    "subtitle": "For merchants selling cross-border, we provide robust all-in-one ecommerce solution"
+  },
+  "multiMarket": {
+    "title": "Multi-market, multi-channel management",
+    "content": [
+      "Handle orders from multiple channels, online to offline, on a single location.",
+      "Deliver highly personalized shopping experiences with customized product suggestions in each market.",
+      "Localized browsing: Content and site structure have been translated to ensure that they are adequately fitted to the target area."
+    ]
+  },
+  "smooth": {
+    "title": "Smooth switch between multi-language, multi-currencies",
+    "auto": "Auto-translate your products into some popularly available languages.",
+    "automatically": "Automatically convert to the currency of the selected country. Sellers can choose update market exchange rates immediately or fix the desired price."
+  },
+  "multi": {
+    "title": "Multi warehouse in multi countries",
+    "automatically": "Automatically collect orders from multiple warehouses based on the seller's order distribution strategy.",
+    "standar": "Standardize order placement and processing across warehouses to increase efficiency."
+  },
+  "handle": {
+    "title": "Handle multi-channel fulfillment on global scale",
+    "receive": "Receive orders placed on your multiple sales channels and then pick, pack ship to your international customers.",
+    "realTime": "Real-time monitoring and analysis to prevent stockouts or overstock situations."
+  },
+  "market": {
+    "title": "Market entry and visibility",
+    "brand": {
+      "title": "Brand Recognition",
+      "content": "Provide marketing automation service to build brand recognition in a new market where the brand is not well known."
+    },
+    "seo": {
+      "title": "SEO and Marketing",
+      "content": "Consult SEO and marketing strategies for each channel and market."
+    },
+    "viewMore": "View more"
+  },
+  "interational": {
+    "title": "International shipping without hassle",
+    "content": [
+      "AI powerful technology automatically suggests the best carrier rates, based on the nature of the product and the target delivery destination.",
+      "Maintain full visibility of order status with real-time updates from all couriers on a single dashboard."
+    ]
+  },
+  "additional": {
+    "title": "Additional services",
+    "duty": {
+      "title": "Duty and tax calculation",
+      "content": [
+        "Remove the guesswork from international trade by determining your shipment's Harmonised Code, locating essential customs paperwork, and more.",
+        "Allow consumers to view and prepay all customs and taxes at checkout to avoid unpleasant surprises upon delivery.",
+        "Automatically calculate and charge the correct tax exactly on every transaction, based on the product you sell, the buyers' location, and more."
+      ]
+    },
+    "customs": {
+      "title": "Customs clearance",
+      "content": [
+        "Get goods cleared quickly and reliably even in markets considered to be difficult in challenging regions with various dedicated teams.",
+        "Continuously update shipment during customs declaration processing in real-time on a united platform.",
+        "Utilize cutting-edge customs clearance technologies and EDI capabilities to ensure consistent and compliant trade activity."
+      ]
+    }
+  },
+  "global": {
+    "title": "Global selling is just a piece of cake",
+    "all": {
+      "title": "All-excutive supporting tools",
+      "content": "Take advantage of our optimized operations. We can help you manage your international logistics, including cross-border forwarding, customs, returns, and more."
+    },
+    "scale": {
+      "title": "Scale Effortlessly",
+      "content": "Capture new sales opportunities in formerly inaccessible markets and position your business for growth."
+    },
+    "support": {
+      "title": "24/7/365 support service",
+      "content": "Get the most accessible and comprehensive support service, available 24 hours a day, 7 days a week, 365 days a year."
+    }
+  },
+  "weAre": {
+    "heading": "We’ve helped hundreds of brands expand to global markets!",
+    "contact": "Contact Sales",
+    "content": "Our awesome customers have benefited from IChiba's hyper-scalability to connect to some game-changing tools. Check out some examples below – and get inspired about what you could achieve."
+  },
+  "whatAre": {
+    "title": "What are the right products/services for you?",
+    "viewMore": "Learn more",
+    "items": [
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_4_b0f7c9c90f.svg",
+        "title": "Ship4P",
+        "content": "Shipping management platform that centralizes multiple carriers to manage, reducing costs, and simplifying shipment management.",
+        "link": "/products/ship4p/overview"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_3_262f4d0926.svg",
+        "title": "Cross-Border Forwarding",
+        "content": "Managing imports and exports has never been easier - reduce customs clearance time by up to 40%, ensure 100% SLA, and maximize customer satisfaction.",
+        "link": "/products/cross-border-forwarding/overview"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "content": "Sell everywhere, manage orders in one place. Maximize effectiveness with better automation, data and intelligence.",
+        "link": "/products/commerce-layer/overview"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_43db957090.svg",
+        "title": "Order fulfillment service",
+        "content": "Deliver modern logistics and customized eCommerce order fulfillment solutions to B2B & B2C clients with powerful onboarding, management & reporting features.",
+        "link": "/solutions/order-fulfillment-by-efex"
+      }
+    ]
+  },
+  "goGlobal": {
+    "title": "Go global like a pro",
+    "content": "Don’t just internationalize - localize.",
+    "contactSale": "Contact Sales"
+  }
+}

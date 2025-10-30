@@ -1,0 +1,182 @@
+{
+  "banner": {
+    "title": [
+      "Boom your sale on multiple channels with",
+      " IChiba OnePlatform ",
+      "omnichannel selling solution"
+    ],
+    "subtitle": "Sell everywhere your customers are, and manage everything right in one platform. "
+  },
+  "according": "According to Harvard Business Review, 73% of customers use a variety of channels for shopping, so omni channel selling is always a top effective way to boost revenue.",
+  "troubles": {
+    "title": "Troubles when selling on omni-channel",
+    "subtitle": "But mange multi channel sale not simple, sellers may exhausted when dealing with abundant complexity",
+    "complex": "Complex multi channel management",
+    "limited": "Limited inventory visibility",
+    "difficulty": "Difficulty in selecting suitable carriers & tracking shipment",
+    "traditional": "Traditional SaaS system do not support multi-platform operation",
+    "cost": "Cost significant time & money to build e-commerce storefront",
+    "limit": "Limit to set up multi-channel on multi-market"
+  },
+  "howdo": {
+    "title": "How do our solutions empower your sales on multi-channel?",
+    "api": {
+      "title": "API connection across stores",
+      "content": "Enable seamless communication between stores, allowing businesses to centralize operations, manage inventory, track sales, and provide a consistent customer experience across multiple channels."
+    },
+    "streamline": {
+      "title": "Streamlined operations",
+      "content": "Manage all sales channels from a single dashboard, and automate routine tasks to reduce manual errors and free up time for high-value activities."
+    },
+    "enhanced": {
+      "title": "Enhanced customer experience",
+      "content": "Collect and centralize customer data from multi-channels to ensure a smooth, personalized shopping experience. "
+    },
+    "order": {
+      "title": "Order allocation management",
+      "content": "Automate order distribution from multiple warehouses based on real-time factors (inventory availability, demand fluctuations, and fulfillment capabilities) for fast shipping and cost savings."
+    },
+    "merge": {
+      "title": "Merge online & offline sale",
+      "content": "Automatically sync and transform sales, inventory, and orders on both online and offline stores to your back-end."
+    }
+  },
+  "omnichannel": {
+    "title": "Omnichannel selling strategy implementation",
+    "subtitle": "5 main steps to implement successful omni-channel selling",
+    "items": [
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_4b65b09969.png",
+        "title": "Integrate multiple sales channels",
+        "content": "Connect various sales channels, including traditional stores, websites, mobile apps, and social media, to create a seamless shopping experience for customers.",
+        "bio": "Enhance customer interaction capabilities, creating a diverse and flexible sales system.",
+        "img": "https://cms-strapi.ichiba.net/uploads/6493f6a0a7bebb1951bd858a_Asset_with_updated_logos_1_6e7e96eba5.svg"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_4_0f9b7092b4.png",
+        "title": "Data analysis and customer insight",
+        "content": "Utilize CDXP to gain a deeper understanding of customer shopping behavior and craft personalized sales strategies.",
+        "bio": "Increase the ability to cater to specific customer need and improves the effectiveness of the sales strategy.",
+        "img": "https://cms-strapi.ichiba.net/uploads/freepik_Device_inject_7_de646eb180.svg"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_3_5b7edb841e.png",
+        "title": "Blend online and offline shopping experience",
+        "content": "Merge online and offline shopping experiences to create a cohesive customer journey.",
+        "bio": "Enhance comfort and convenience for customers, creating a comprehensive shopping experience.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Image_2_1_4f946f97a8.svg"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_2_62dfce63ac.png",
+        "title": "Continuous customer support",
+        "content": "Provide continuous customer support across various channels, from automated messages to direct interactions.",
+        "bio": "Establish a flexible support environment, efficiently resolving customer issues.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Group_91b41814c9.svg"
+      },
+      {
+        "number": "https://cms-strapi.ichiba.net/uploads/Frame_1171276161_1_973352d1a0.png",
+        "title": "Build customer attraction strategy",
+        "content": "Provide continuous customer support across various channels, from automated messages to direct interactions.",
+        "bio": "Develop a marketing strategy to attract customers from various sources, including online advertising and community events.",
+        "img": "https://cms-strapi.ichiba.net/uploads/Image_3_1_5fa29a0852.svg"
+      }
+    ]
+  },
+  "intergration": {
+    "title": "Integration capability",
+    "sale": "Sale channels",
+    "carriers": "Carriers",
+    "party": "3rd party systems"
+  },
+  "whatOur": {
+    "title": "What our users say",
+    "items": [
+      {
+        "content": "We must say that we're lucky to have IChiba OnePlatform as the fulfillment service provider for our multi-market expansion plan. IChiba delivers a fully-equipped warehouse network, wonderful fulfilling ability, and reputable shipping services at all markets.",
+        "name": "Mrs.Hoai Thuong",
+        "bio": "Omnichannel Retailer"
+      }
+    ]
+  },
+  "goOmnichannel": {
+    "title": "Go omnichannel by cooperating with a trusted partner",
+    "content": "We'll collaborate closely with businesses to develop the roadmap, put the solution into practice & make sure the system runs without a hitch.",
+    "items": [
+      {
+        "title": "Consultation",
+        "content": "Find out what you need & want for your business."
+      },
+      {
+        "title": "Road map building",
+        "content": "Confirm project milestones to utilize your omnichannel retail solution."
+      },
+      {
+        "title": "Implementation",
+        "content": "Deploy the solution, & provide you an instant update on its development."
+      },
+      {
+        "title": "Confirmation",
+        "content": "Make sure the solution is practical & meets your needs."
+      },
+      {
+        "title": "Maintaining",
+        "content": "Run your omnichannel retail solutions & get assistance as needed."
+      }
+    ]
+  },
+  "product": {
+    "title": "Products match your needs",
+    "viewMore": "View More",
+    "items": [
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_2_811e33cd9a.svg",
+        "title": "Ship4P",
+        "content": "Shipping management platform that centralizes multiple carriers to manage, reducing costs, and simplifying shipment management.",
+        "link": "/products/ship4p/overview",
+        "viewMore": "Learn more"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/digital_Commerce_765a2861d7.svg",
+        "title": "Commerce Layer",
+        "content": "Sell across multiple channels and markets while managing all orders in one place. Real-time data updates.",
+        "link": "/products/commerce-layer/overview",
+        "viewMore": "Learn more"
+      },
+      {
+        "icons": "https://cms-strapi.ichiba.net/uploads/Logo_f243249567.svg",
+        "title": "Automation Engagement",
+        "content": "Unlock your brand’s potential and reach more customers with the marketing and automation engagement solution.",
+        "link": "#",
+        "viewMore": "Learn more"
+      }
+    ]
+  },
+  "insights": {
+    "title": "Insights",
+    "content": "Market trends, insights, and thought leadership helps omnichannel retailers throughout the world in achieving unprecedented success."
+  },
+  "grow": {
+    "title": "Grow your sales with the most extensive SaaS solutions for omnichannel",
+    "subtitle": "Contact us now to get free consultation about omnichannel selling management strategy.",
+    "contactSale": "Contact Sales"
+  },
+  "faqs": {
+    "label": "GET ANSWERS FOR",
+    "title": "Frequently asked questions",
+    "subtitle": "Explore our frequently asked questions to learn more about selling on omni-channel.",
+    "contents": [
+      {
+        "title": "What is the difference between omnichannel and multichannel?",
+        "content": "While omnichannel and multichannel are similar, they’re not the same thing. An omnichannel experience is where brick-and-mortar stores and a business' online operations work in tandem with one another. On the flip side, multichannel retail is where a business has both physical and online stores but their operations are siloed into separate channels instead of being integrated."
+      },
+      {
+        "title": "How does omnichannel software work?",
+        "content": "Omnichannel software coordinates all your selling channels so they work together seamlessly - whether that’s a website, mobile app, or in-store physical location. Using omnichannel software, retailers can access customer information from any channel and connect with these customers on any channel (via automation). On top of that, omnichannel software leverages CRM data to deliver personalized user experiences on any channel along the customer journey."
+      },
+      {
+        "title": "How can businesses ensure a consistent brand experience across channels?",
+        "content": "Ensuring a consistent brand experience involves maintaining uniform branding elements, messaging, and customer service standards across all channels. Businesses should integrate their marketing efforts, align product information, and train staff to deliver a cohesive experience irrespective of the channel."
+      }
+    ]
+  }
+}

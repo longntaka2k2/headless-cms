@@ -1,0 +1,19 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" rx="28" fill="url(#paint0_linear_55382_1415)"/>
+<path d="M36.9387 36.3946C37.764 37.22 37.764 38.5573 36.9387 39.3813C36.1133 40.2066 34.776 40.2066 33.952 39.3813C33.1267 38.556 33.1267 37.2186 33.952 36.3946C34.7773 35.5693 36.1147 35.5693 36.9387 36.3946" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.2719 36.3946C23.0972 37.22 23.0972 38.5573 22.2719 39.3813C21.4466 40.2066 20.1092 40.2066 19.2852 39.3813C18.4612 38.556 18.4599 37.2186 19.2852 36.3946C20.1106 35.5706 21.4466 35.5693 22.2719 36.3946" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25.3333 17.3333H30.6666C31.4026 17.3333 32 17.9306 32 18.6666V31.9999H14.6666" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M18.6666 37.8879H16C15.264 37.8879 14.6666 37.2906 14.6666 36.5546V29.3333" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 21.3333H37.764C38.3093 21.3333 38.8 21.6653 39.0013 22.1719L41.1427 27.5239C41.268 27.8386 41.3333 28.1746 41.3333 28.5133V36.4439C41.3333 37.1799 40.736 37.7773 40 37.7773H37.5587" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M33.3333 37.8934H22.8933" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M41.3333 30.6666H36V25.3333H40.2667" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.6666 17.3333H21.3333" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.6666 21.3333H18.6666" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M16 25.3333H14.6666" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="paint0_linear_55382_1415" x1="28" y1="56.367" x2="28" y2="0.285036" gradientUnits="userSpaceOnUse">
+<stop stop-color="#930EFC"/>
+<stop offset="1" stop-color="#FF52EE"/>
+</linearGradient>
+</defs>
+</svg>

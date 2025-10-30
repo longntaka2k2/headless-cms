@@ -1,0 +1,162 @@
+{
+  "crawler": "Crawler",
+  "menu": {
+    "overview": "Tổng quan",
+    "pricing": "Bảng phí"
+  },
+  "banner": {
+    "heading": [
+      "IChiba",
+      " Crawler",
+      " - Trình thu thập dữ liệu sản phẩm ecommerce"
+    ],
+    "subHeading": "Truy cập nguồn dữ liệu sản phẩm khổng lồ từ các nền tảng thương mại điện tử quốc tế và tích hợp vào website/ứng dụng bán hàng của doanh nghiệp.",
+    "textBtn": "Liên hệ ngay"
+  },
+  "yourOwn": {
+    "heading": "IChiba Crawler tiết kiệm đáng kể thời gian cho doanh nghiệp bán hàng xuyên biên giới",
+    "buildACrawler": {
+      "label": "Nhiều tháng",
+      "title": "Tự xây một trình thu thập dữ liệu sản phẩm",
+      "content": [
+        {
+          "title": "Mất nhiều giờ để xây dựng bộ code riêng."
+        },
+        {
+          "title": "Tự code các danh mục & bộ sưu tập sản phẩm."
+        },
+        {
+          "title": "Mất nhiều thời gian để tích hợp với từng sàn thương mại điện tử quốc tế."
+        },
+        {
+          "title": "Cần xây dựng lại bộ code nếu website bán hàng có thay đổi hoặc gặp vấn đề nào đó."
+        }
+      ]
+    },
+    "aFewMinutes": {
+      "label": "Vài phút",
+      "title": "Với trình thu thập dữ liệu sản phẩm của IChiba",
+      "content": [
+        {
+          "title": "Không cần code, tự động kéo dữ liệu sản phẩm về website bán hàng của doanh nghiệp."
+        },
+        {
+          "title": "Phân loại sản phẩm với dữ liệu thu thập được."
+        },
+        {
+          "title": "Tạo bộ sưu tập sản phẩm dựa trên hành vi người tiêu dùng."
+        },
+        {
+          "title": "Phần mềm đáp ứng linh hoạt với sự thay đổi của doanh nghiệp."
+        }
+      ]
+    }
+  },
+  "ecommerceSites": {
+    "heading": [
+      "Thu thập thông tin hàng triệu sản phẩm",
+      " từ các sàn thương mại điện tử quốc tế"
+    ],
+    "subHeading": "Tối ưu hóa quy trình thu thập thông tin sản phẩm giúp doanh nghiệp có thể kết nối với bất kỳ sàn thương mại điện tử nào từ nhiều thị trường khác nhau.",
+    "tabs": [
+      {
+        "title": "US",
+        "countryIcon": "https://cms-strapi.ichiba.net/uploads/English_flag_9046acf9b4.svg"
+      },
+      {
+        "title": "Japan",
+        "countryIcon": "https://cms-strapi.ichiba.net/uploads/Japan_flag_150fb3b0fe.svg"
+      },
+      {
+        "title": "Korea",
+        "countryIcon": "https://cms-strapi.ichiba.net/uploads/Korea_flag_76c6f636b2.svg"
+      },
+      {
+        "title": "China",
+        "countryIcon": "https://cms-strapi.ichiba.net/uploads/China_flag_425d90203e.svg"
+      }
+    ]
+  },
+  "empower": {
+    "heading": [
+      "Trình thu thập dữ liệu sản phẩm ecommerce",
+      " nâng cao hiệu quả mua sắm với giải pháp tích hợp và quản lý sản phẩm"
+    ],
+    "subscribed": {
+      "title": "Subscribed source",
+      "content": "Tích hợp liền mạch với các nền tảng thương mại điện tử quốc tế để kéo dữ liệu sản phẩm trực tiếp vào website bán hàng của doanh nghiệp."
+    },
+    "product": {
+      "title": "Product finder",
+      "content": "Sử dụng các bộ lọc tương ứng như trên sàn gốc để tìm thông tin sản phẩm và tạo ra các bộ sưu tập."
+    },
+    "sourcePage": {
+      "title": "Source page",
+      "content": "Cập nhật các khuyến mãi theo thời gian thực từ tất cả các trang TMĐT nguồn. Thêm mới/Sửa/Xoá/Ẩn/Hiện các bộ sưu tập trên website/ứng dụng bán hàng."
+    },
+    "catalog": {
+      "title": "Catalog hierarchy",
+      "content": "Dễ dàng phân loại, sắp xếp sản phẩm. Sử dụng các bộ danh mục ngành hàng theo như trên sàn gốc và cho phép ẩn danh mục tuỳ mục đích sử dụng."
+    },
+    "keywordList": {
+      "title": "Keyword list",
+      "content": "Nâng cao hiệu quả SEO và khả năng hiển thị sản phẩm với tính năng keyword list. Cho phép tạo các bộ sưu tập theo từ khóa nhất định, giúp khách hàng dễ dàng tìm kiếm sản phẩm, tăng tỷ lệ chuyển đổi."
+    },
+    "blackList": {
+      "title": "Black list",
+      "content": "Quản lý các ngành hàng, từ khoá mà doanh nghiệp cấm không cho khách hàng tìm kiếm/mua sản phẩm."
+    },
+    "sellerList": {
+      "title": "Seller list",
+      "content": "Xem danh sách người bán mà khách hàng đã xem trên website/ứng dụng bán hàng."
+    },
+    "bidding": {
+      "title": "Quản lý đấu giá",
+      "content": "Quản lý mọi thứ liên quan đến đấu giá trên các sàn quốc tế, từ tài khoản, thẻ ngân hàng/thẻ quốc tế đến việc phân bổ nick đấu,...Hạn chế tối đa các rủi ro như nick bị khóa, giúp tăng trải nghiệm khách hàng."
+    }
+  },
+  "iChibaStoreFront": {
+    "heading": "Tạo website bán hàng xuyên biên giới với StoreFront Layer",
+    "subHeading": "Trải nghiệm giải pháp xuyên biên giới toàn diện, từ việc xây dựng website bán hàng đến quản lý đơn hàng quốc tế một cách liền mạch. Liên hệ ngay với IChiba để được tư vấn về dịch vụ tạo website, landing page và ứng dụng chuẩn SEO.",
+    "textBtn": "Xem thêm"
+  },
+  "omnichannelSelling": {
+    "label": "IChiba Commerce Layer",
+    "heading": "Quản lý bán hàng đa kênh dễ dàng và hiệu quả",
+    "subHeading": "Vươn tầm quốc tế và phát triển kinh doanh mà không lo gánh nặng quản lý.",
+    "content": {
+      "title": "Những tính năng nổi bật:",
+      "list": [
+        "Tích hợp các sàn TMĐT quốc tế",
+        "Quản lý đơn hàng trading",
+        "Quản lý thông tin khách hàng"
+      ]
+    },
+    "textBtn": "Xem thêm"
+  },
+  "useCases": {
+    "label": "Trường hợp sử dụng",
+    "heading": "Khám phá những trường hợp sử dụng của IChiba Crawler",
+    "textBtn": "Xem thêm",
+    "contents": [
+      {
+        "title": "Dịch vụ mua hộ",
+        "des": "IChiba Crawler giúp những doanh nghiệp kinh doanh dịch vụ mua hộ kết nối với nguồn sản phẩm giá tốt quốc tế, tiết kiệm thời gian và công sức cập nhật thủ công thông tin sản phẩm và khuyến mãi."
+      },
+      {
+        "title": "Dropshipping",
+        "des": "Chúng tôi kết nối với các đối tác nhà sản xuất uy tín để cung cấp nguồn hàng dồi dào trên toàn thế giới, từ Trung Quốc, Nhật Bản, Mỹ, v.v. cho các doanh nghiệp dropshipping. Liên hệ ngay để được tư vấn về giải pháp!"
+      }
+    ]
+  },
+  "caseStudies": {
+    "label": "Case Studies",
+    "heading": "IChiba Crawler đã và đang hỗ trợ hàng trăm doanh nghiệp trên con đường vươn ra toàn cầu",
+    "textLink": "Xem thêm"
+  },
+  "contact": {
+    "label": "Liên hệ IChiba OnePlatform",
+    "heading": "Khơi nguồn thành công thương mại điện tử với IChiba Crawler",
+    "textBtn": "Liên hệ ngay"
+  }
+}

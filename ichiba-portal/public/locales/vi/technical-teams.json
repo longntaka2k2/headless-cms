@@ -1,0 +1,186 @@
+{
+  "implement": {
+    "label": "IChiba dành cho đội IT và kĩ thuật",
+    "heading": "Giải pháp thương mại điện tử cho kỹ thuật - nâng cao hiệu suất đội ngũ kỹ thuật",
+    "subHeading": "Triển khai nhanh hơn, tính linh hoạt cao và được cập nhật thường xuyên. Giảm áp lực cho đội ngũ công nghệ thông tin để tập trung vào phát triển các giải pháp kinh doanh sáng tạo.",
+    "contactSales": "Liên hệ ngay",
+    "seeSolution": "Xem giải pháp của chúng tôi",
+    "iChiba": "IChiba OnePlatform",
+    "byTheNumbers": "Đánh giá điểm mạnh giải pháp thương mại điện tử cho kỹ thuật qua những con số",
+    "items": [
+      {
+        "title": "3x",
+        "subTitle": "Thời gian triển khai"
+      },
+      {
+        "title": "0%",
+        "subTitle": "Hệ thống treo trong mùa cao điểm"
+      },
+      {
+        "title": "99.99%",
+        "subTitle": "Thời gian hoạt động tốt"
+      },
+      {
+        "title": "50%",
+        "subTitle": "Rút ngắn thời gian bảo trì"
+      }
+    ]
+  },
+  "powerUp": {
+    "title": "Nâng cao sức mạnh của đội kỹ thuật với hệ sinh thái phần mềm SaaS hỗ trợ TMĐT IChiba",
+    "content": "Nói lời tạm biệt với công nghệ lạc hậu. Nền tảng SaaS của IChiba được thiết kế trên công nghệ điện toán đám mây để nhanh chóng triển khai những ý tưởng vào thực tế. Dễ dàng thử nghiệm và đưa vào thực tế các tính năng mới, điều chỉnh phần mềm, nâng cao trải nghiệm cho nhóm DevOps và khách hàng."
+  },
+  "buildStorefront": {
+    "title": "Tạo cửa hàng online không cần kiến thức về code",
+    "subTitle": "Áp dụng công nghệ mới nhất giúp nhà bán hàng triển khai các tính năng mới nhanh hơn tới 8 lần.",
+    "items": [
+      {
+        "title": "Digital web",
+        "content": "Xây website bán hàng hoặc landing page quảng cáo với tốc độ load trang nhanh."
+      },
+      {
+        "title": "No more tech debt",
+        "content": "Giảm tải áp lực công việc cho đội IT. Các bản cập nhật và nâng cấp được quản lý bởi StoreFront Layer của IChiba."
+      },
+      {
+        "title": "Headless commerce",
+        "content": "Số hoá với kiến trúc headless, cho phép doanh nghiệp xây dựng trải nghiệm mua hàng đột phá."
+      }
+    ]
+  },
+  "machArchitecture": {
+    "title": "Kiến trúc MACH",
+    "content": "IChiba OnePlatform áp dụng kiến trúc MACH (Microservice-based, API-first, Cloud-native và Headless), cho phép doanh nghiệp tích hợp các component phù hợp với nhu cầu và triển khai bán hàng đa kênh."
+  },
+  "scalability": {
+    "title": "Khả năng mở rộng và hiệu suất",
+    "content": "IChiba cung cấp một nền tảng SaaS với cơ sở hạ tầng đầy đủ, server mạnh, cơ sở dữ liệu và kết nối ổn định. Đội ngũ kỹ thuật của bạn có thể tập trung vào phát triển và tối ưu hóa, việc bảo trì đã có IChiba lo."
+  },
+  "security": {
+    "title": "Bảo mật và tuân thủ",
+    "content": "Nền tảng SaaS IChiba luôn có biện pháp bảo mật an toàn nhất, tuân thủ theo các chính sách hiện hành. Đội ngũ kỹ thuật có thể giảm bớt gánh nặng trong việc xây dựng các giao thức bảo mật, tập trung vào phát triển các tác vụ khác.Nền tảng SaaS IChiba luôn có biện pháp bảo mật an toàn nhất, tuân thủ theo các chính sách hiện hành. Đội ngũ kỹ thuật có thể giảm bớt gánh nặng trong việc xây dựng các giao thức bảo mật, tập trung vào phát triển các tác vụ khác."
+  },
+  "dataCentralization": {
+    "title": "Quản lý dữ liệu tập trung",
+    "content": [
+      "Quản lý đa kênh bán trên một nền tảng duy nhất.",
+      "Tạo và tùy chỉnh thông tin sản phẩm (danh mục, giá cả,...) trên tất cả các kênh bán chỉ từ một nơi, thay vì cập nhật thủ công."
+    ]
+  },
+  "updateAndMaintenance": {
+    "title": "Cập nhật và bảo trì",
+    "content": "IChiba có đội ngũ bảo trì nền tảng SaaS riêng. Các phần mềm được cập nhật đều đặn với những tính năng và an ninh mới nhất."
+  },
+  "integrations": {
+    "title": "APIs và tích hợp",
+    "content": [
+      "Tích hợp và quản lý nhiều cửa hàng online, kênh bán, kho hàng cùng lúc.",
+      "Truy cập vào nền tảng mọi lúc mọi nơi, theo dõi các số liệu báo cáo theo thời gian thực thông qua kết nối API."
+    ]
+  },
+  "improveSystem": {
+    "title": "Nâng cao hiệu suất bán hàng với IChiba OnePlatform",
+    "subTitle": "Tự do mở rộng hệ sinh thái bán hàng với nền tảng SaaS IChiba.",
+    "items": [
+      {
+        "icon": "svg-chart-lines",
+        "content": "Truy cập không giới hạn vào các phần mềm SaaS trong hệ sinh thái IChiba."
+      },
+      {
+        "icon": "svg-chart-lines",
+        "content": "Khám phá các tiện ích do kết nối API mang lại."
+      },
+      {
+        "icon": "svg-chart-lines",
+        "content": "Quản lý tập trung dữ liệu và dùng chúng để nâng cao trải nghiệm mua sắm."
+      }
+    ]
+  },
+  "integrateAndUtilize": {
+    "heading": "Hướng dẫn cách tích hợp và sử dụng nền tảng IChiba",
+    "step": "Bước",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Tích hợp và onboard",
+        "content": [
+          "Đăng ký và tạo tài khoản.",
+          "Lựa chọn loại tích hợp (API, SDKs, plugins, v.v...)"
+        ]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Cài đặt và thiết lập cấu hình",
+        "content": [
+          "Làm quen với bảng điều khiển (dashboard)",
+          "Cài đặt workspace (market, ngôn ngữ, nhà kho,...)"
+        ]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Test và triển khai",
+        "content": [
+          "Thiết lập môi trường thử nghiệm sandbox.",
+          "Bắt đầu triển khai phần mềm theo các hướng dẫn của IChiba OnePlatform."
+        ]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Quản lý và tối ưu hoá",
+        "content": ["Theo dõi hiệu quả phần mềm.", "Tối ưu hoá các tuỳ chỉnh trong phần Configuration."]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Tiếp tục nhận hỗ trợ từ đội ngũ IChiba.",
+        "content": [""]
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/60772bcea6d9cc3f1c700520_Drag_drop_icon_1_3dbd7ac187.svg",
+        "title": "Hỗ trợ chuyên sâu",
+        "content": ["Chúng tôi sẽ tiếp tục cung cấp các nguồn lực hỗ trợ từ doanh nghiệp nếu cần thiết."]
+      }
+    ]
+  },
+  "iChiba": {
+    "title": "IChiba OnePlatform dành cho các đội nhóm",
+    "items": [
+      {
+        "title": "Dành cho chủ doanh nghiệp",
+        "content": "Nền tảng IChiba cung cấp các phần mềm SaaS giúp chủ doanh nghiệp, cửa hàng online và offline dễ dàng mở rộng quy mô kinh doanh và tiếp cận nhiều khách hàng hơn mà vẫn tiết kiệm được chi phí vận hành.",
+        "background": "linear-gradient(112deg,#E6F3FF_28.86%,rgba(235,_241,_254,_0.79)_64.16%)"
+      },
+      {
+        "title": "Dành cho đội Marketing",
+        "content": "Hỗ trợ các công cụ và dữ liệu cần thiết để tạo, thực hiện và tinh chỉnh các chiến dịch Marketing. Chúng tôi cũng cung cấp dịch vụ Marketing với đội ngũ chuyên gia uy tín, giúp thúc đẩy traffic, tăng cường tương tác và cải thiện tỷ lệ chuyển đổi.",
+        "background": "linear-gradient(276deg,_#F1F5FE_2.49%,_#D7D9FC_104.45%)"
+      },
+      {
+        "title": "Dành cho đội vận hành",
+        "content": "Tự động hoá 100% quy trình, cung cấp dữ liệu về sản phẩm, đơn hàng theo thời gian thực, tối ưu hoá quản lý tồn kho, quản lý bán hàng thương mại điện tử.",
+        "background": "linear-gradient(276deg,_#FEF8F1_2.49%,_#FAE7DD_104.45%)"
+      }
+    ]
+  },
+  "reimagineDigital": {
+    "title": "Chuyển đổi số thương mại điện tử với IChiba - Đơn giản và hiệu quả hơn bao giờ hết!",
+    "contactSales": "Liên hệ ngay"
+  },
+  "faqs": {
+    "label": "Câu trả lời cho",
+    "title": "Các câu hỏi thường gặp",
+    "contents": [
+      {
+        "title": "Nền tảng SaaS IChiba có dễ dàng tích hợp với các công cụ marketing và hệ thống CRM không?",
+        "content": "Nền tảng của chúng tôi có khả năng tích hợp liền mạch với các công cụ marketing phổ biến và hệ thống CRM thông qua APi, đảm bảo luồng dữ liệu thông suốt và sự kết hợp hài hoà giữa các bên."
+      },
+      {
+        "title": "Nền tảng xử lý lưu lượng đơn hàng tăng lên trong thời gian cao điểm hoặc trong các chiến dịch quảng cáo như thế nào?",
+        "content": "Nền tảng IChiba SaaS có khả năng xử lý lượng đơn hàng lớn trong thời gian cao điểm nhờ việc sử dụng công nghệ điện toán đám mây. Đội ngũ công nghệ giàu kinh nghiệm của chúng tôi có thể xử lý sự cố bất cứ khi nào, đảm bảo trải nghiệm suôn sẻ cho khách hàng."
+      },
+      {
+        "title": "Đội ngũ công nghệ có hỗ trợ 24/7 không?",
+        "content": "IChiba OnePlatform hỗ trợ khách hàng 24/7 và thường xuyên cập nhật nền tảng. Việc hỗ trợ và bảo trì này không yêu cầu khách hàng phải trả thêm phí."
+      }
+    ]
+  }
+}

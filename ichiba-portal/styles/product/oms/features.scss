@@ -1,0 +1,81 @@
+#oms-features{
+  .oms{
+    background-color: #E6F3FF;
+    padding: 40px 0;
+  }
+  .features {
+    padding: 40px 0;
+    .features-tab {
+      position: sticky;
+      top: 100px;
+      color: #666666;
+
+      .features-title {
+        padding-left: 20px;
+        border-left: 2px solid #e6e6e6;
+      }
+      .is-active {
+        color: #f57c00 !important;
+        border-left: 3px solid #f57c00;
+      }
+    }
+    .features-content-right {
+      position: relative;
+      left: 100px;
+    }
+  }
+  .committed {
+    background-color: #f2f2f2;
+    padding: 40px 0;
+  }
+  .get-stated{
+    margin: 40px 0;
+    padding: 40px 0;
+    border-radius: 12px;
+    .btn-getFree{
+      a{
+        padding: 16px 120px;
+      }
+      margin: 40px 0;
+    }
+  }
+  .FAQs {
+    position: relative;
+    padding: 40px 0;
+    .contentOpen {
+      display: block;
+      animation: slideDown 0.5s ease-in-out;
+    }
+
+    .contentClosed {
+      display: none;
+    }
+
+    @keyframes slideDown {
+      from {
+        opacity: 0;
+        transform: translateY(-20%);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+    .toggle {
+      .plus,
+      .minus {
+        display: inline-block;
+        transition: transform 0.3s;
+        font-size: 30px;
+      }
+
+      .plus {
+        transform: rotate(0deg);
+      }
+
+      .minus {
+        transform: rotate(180deg);
+      }
+    }
+  }
+}

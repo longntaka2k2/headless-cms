@@ -1,0 +1,115 @@
+{
+  "buildYourCustomer": {
+    "heading": "Xây dựng tệp khách hàng riêng & gia tăng chuyển đổi với Private Domain Traffic",
+    "subHeading": "Tạo hệ sinh thái bán hàng riêng của bạn – từ thu thập dữ liệu đến tự động hóa chăm sóc khách hàng, không phụ thuộc vào sàn TMĐT.",
+    "textBtn": "Liên hệ ngay"
+  },
+  "youAreLoosing": {
+    "heading": "Bạn đang mất khách hàng vào tay sàn TMĐT?",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_bbb0fc76e6.svg",
+        "title": "Sàn chỉ chia sẻ đơn, không chia sẻ dữ liệu khách"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_1_6181d9104d.svg",
+        "title": "Không thể chăm sóc lại khách đã mua"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_2_b36ac73e13.svg",
+        "title": "Khó xây dựng thương hiệu riêng"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_3_0cf7e28e83.svg",
+        "title": "Tỷ lệ chuyển đổi thấp, chi phí duy trì khách hàng cao"
+      }
+    ]
+  },
+  "doNot": [
+    "Đừng để khách hàng chỉ ghé qua",
+    "hãy biến họ thành tệp riêng bằng Private Traffic"
+  ],
+  "whatMakes": {
+    "heading": "Tại sao Private Domain Traffic là chiến lược không thể bỏ qua?",
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_4_b0e0fe6a76.svg",
+        "title": "Website/App bán hàng",
+        "subTitle": "Tạo website/App bán hàng mang thương hiệu riêng của bạn"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_5_3e6f79d06b.svg",
+        "title": "Thu thập dữ liệu khách hàng",
+        "subTitle": "Gửi voucher cùng đơn hàng khi đóng gói để thu thập dữ liệu khách hàng"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_6_c4ef480735.svg",
+        "title": "Lưu trữ và nuôi dưỡng tự động",
+        "subTitle": "Tự động hóa chăm sóc qua SMS, Zalo, Email, cá nhân hóa cho từng khách hàng"
+      }
+    ],
+    "results": [
+      "Tăng tỷ lệ quay lại mua hàng",
+      "Giảm chi phí ads nhờ tệp khách hàng riêng",
+      "Tăng giá trị vòng đời khách hàng (CLTV)",
+      "Xây dựng thương hiệu bền vững",
+      "Tăng thêm kênh bán hàng chủ động, không phụ thuộc"
+    ]
+  },
+  "privateDomain": {
+    "heading": [
+      "Giải pháp Private Domian Traffic",
+      "Chủ động sở hữu và chăm sóc khách hàng"
+    ],
+    "items": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_4_b0e0fe6a76.svg",
+        "title": "Tạo website/app bán hàng",
+        "subTitle": "Nơi để khách hàng quay lại mua hàng trực tiếp từ bạn!",
+        "contents": [
+          "Tạo Website/App mang thương hiệu riêng.",
+          "Hỗ trợ bán hàng đa ngôn ngữ, đa tiền tệ, thanh toán quốc tế.",
+          "Giao diện tối ưu trải nghiệm người dùng (UX)."
+        ],
+        "image": "https://cms-strapi.ichiba.net/uploads/image_902_7dbfb94aed.svg",
+        "textBtn": "Xem thêm",
+        "link": "/products/storefront-layer/overview"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_5_3e6f79d06b.svg",
+        "title": "Tạo động lực đổi lấy dữ liệu (Activate customers)",
+        "subTitle": "Biến khách vãng lai trên sàn TMĐT thành tệp khách hàng riêng của bạn.",
+        "contents": [
+          "Tặng voucher, mã giảm giá: Khách để lại số điện thoại/email để nhận mã độc quyền.",
+          "Mini game, khảo sát, vòng quay may mắn: Nhập thông tin để tham gia hoặc trúng thưởng.",
+          "Ưu đãi thành viên: Khách nhận ưu đãi nếu đăng ký tài khoản hoặc cài ứng dụng."
+        ],
+        "image": "https://cms-strapi.ichiba.net/uploads/image_4_ff77364168.svg",
+        "textBtn": "",
+        "link": "#"
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Frame_6_c4ef480735.svg",
+        "title": "Automation engagement - Nuôi dưỡng và chăm sóc tự động",
+        "subTitle": "Xây dựng mối quan hệ lâu dài với khách hàng mà không tốn nhiều nguồn lực và chi phí",
+        "contents": [
+          "Gửi tin nhắn SMS, Zalo, Email,... tự động theo kịch bản.",
+          "Thiết lập các phễu chăm sóc như onboarding, remarketing, upsell,...",
+          "Phân loại khách hàng linh hoạt theo độ tương tác, số lần mua, tần suất quay lại,... để cá nhân hóa nội dung."
+        ],
+        "image": "https://cms-strapi.ichiba.net/uploads/image_5_b210b9e87e.svg",
+        "textBtn": "Xem thêm",
+        "link": "#"
+      }
+    ]
+  },
+  "helpsSellers": {
+    "heading": "Cách IChiba giúp nhà bán tiết kiệm chi phí retension rate từ việc chăm sóc tệp khách hàng có sẵn",
+    "textBtn": "Xem thêm"
+  },
+  "contactSales": {
+    "heading": "Xây dựng tệp khách hàng trung thành riêng với giải pháp Private domain traffic",
+    "subHeading": "Liên hệ ngay để được chuyên gia IChiba tư vấn chi tiết về giải pháp và xây dựng lộ trình riêng cho kênh bán của bạn!",
+    "textBtn": "Liên hệ ngay"
+  }
+}

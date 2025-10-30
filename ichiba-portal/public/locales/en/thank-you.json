@@ -1,0 +1,24 @@
+{
+  "banner": {
+    "heading": "Thank you for requesting a quotation from IChiba!",
+    "subHeading": "Our experts have received your request for a quotation and will be in touch shortly.",
+    "textBtn": "Go to homepage"
+  },
+  "customerStories": {
+    "heading": "Customer success story",
+    "subHeading": "See how our customers start their business with IChiba?",
+    "textBtn": "Read more",
+    "items": [
+      {
+        "content": "IChiba Global đã giải quyết hoàn toàn được nỗi lo vận chuyển của tôi. Ngày trước tôi phải dành rất nhiều thời gian để kiểm tra trạng thái giao hàng của từng đơn trên website của các nhà vận chuyển khác nhau. Bây giờ thì tất cả được gom lại trong một màn hình quản lý của Ship4P. Nhờ đó mà tôi có thời gian tập trung vào các công việc quan trọng hơn như nghiên cứu và phát triển sản phẩm. Tôi hy vọng IChiba Global Ship4P kết nối được nhiều hơn nữa các đơn vị vận chuyển trên toàn thế giới trong tương lai.",
+        "author": "Mrs. Ngan Tran",
+        "carrer": "Head of Customer Service at Janbox"
+      },
+      {
+        "content": "IChiba Global đã giải quyết hoàn toàn được nỗi lo vận chuyển của tôi. Ngày trước tôi phải dành rất nhiều thời gian để kiểm tra trạng thái giao hàng của từng đơn trên website của các nhà vận chuyển khác nhau. Bây giờ thì tất cả được gom lại trong một màn hình quản lý của Ship4P. Nhờ đó mà tôi có thời gian tập trung vào các công việc quan trọng hơn như nghiên cứu và phát triển sản phẩm. Tôi hy vọng IChiba Global Ship4P kết nối được nhiều hơn nữa các đơn vị vận chuyển trên toàn thế giới trong tương lai.",
+        "author": "Mrs. Ngan Tran",
+        "carrer": "Head of Customer Service at Janbox"
+      }
+    ]
+  }
+}

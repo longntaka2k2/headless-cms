@@ -1,0 +1,158 @@
+{
+  "invoice": "Invoice & Billing",
+  "banner": {
+    "label": ["IChiba", " Invoice", " &", " Billing"],
+    "heading": "Manage invoices, transactions and pricing models",
+    "subHeading": "Streamline your financial workflows with Invoice & Billing management software, designed to automate invoicing, payment tracking, and financial reporting for improved business performance.",
+    "items": [
+      {
+        "title": "10+",
+        "subTitle": "Currencies supported"
+      },
+      {
+        "title": "20+",
+        "subTitle": "Integrated Payment Gateways"
+      },
+      {
+        "title": "Unlimited",
+        "subTitle": "sales channels integrated"
+      }
+    ]
+  },
+  "overview": {
+    "heading": ["IChiba", " Invoice & Billings", " overview"],
+    "subHeading": "See how IChiba helps businesses manage invoices, transactions, pricing to automate payment process."
+  },
+  "smartInvoicing": {
+    "heading": [
+      "Smart invoicing, instant payments,",
+      " complete financial control"
+    ],
+    "subHeading": "Sync invoices and transactions in one platform for central management of cash flow and debt.",
+    "items": [
+      {
+        "title": "Invoice and billing  management",
+        "content": [
+          "Generate invoices automatically when buyers make purchases. Gather billings from multiple sales channels into one single system.",
+          "Monitor the status of invoices (draft, posted, canceled) in real time.",
+          "Generate invoices in different currencies to cater to international clients."
+        ]
+      },
+      {
+        "title": "Transaction management",
+        "content": [
+          "Integrate with various payment gateways (e.g., e-wallet, credit card, bank credit, etc.) to facilitate seamless transactions.",
+          "Maintain a real-time detailed log of all transactions, including dates, amounts, payment methods, and statuses."
+        ]
+      },
+      {
+        "title": "Pricing model",
+        "content": [
+          "Define and organize different pricing types for products or services, including service fees, shipping fees, and other charges, catering to all pricing models of merchants."
+        ]
+      },
+      {
+        "title": "Payment provider setting",
+        "content": [
+          "Manage multiple payment providers so that merchants can keep track of all cash flow from several sources. ",
+          "Provide reports or charts to visualize revenue, and accounting activities with real-time insights."
+        ]
+      },
+      {
+        "title": "Income and outcome management",
+        "content": [
+          "Manage income and outcome of all payment providers. Offer real-time transaction history for transparency."
+        ]
+      }
+    ]
+  },
+  "flexible": {
+    "heading": [
+      "Flexible invoice & billing",
+      " solution",
+      " for every use case"
+    ],
+    "items": [
+      {
+        "brand": "https://cms-strapi.ichiba.net/uploads/Group_19762_fad766fc48.svg",
+        "title": "Warehouse management",
+        "content": [
+          "Automatically generate invoices when orders are fulfilled and shipped from the warehouse, ensuring timely billing and payment.",
+          "Link orders to invoices, allowing both warehouse and finance teams to track the status of orders and payments in real time."
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_1_9513671011.svg"
+      },
+      {
+        "brand": "https://cms-strapi.ichiba.net/uploads/Group_cf0e8ef23e.svg",
+        "title": "Omnichannel selling",
+        "content": [
+          "Centralize orders bills from multiple sales channels (e-commerce platforms, physical stores, marketplaces) into a single system, ensuring consistency and reducing the risk of errors.",
+          "Apply transaction fees, commissions, and service charges dynamically."
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_6833b5c364.svg"
+      },
+      {
+        "brand": "https://cms-strapi.ichiba.net/uploads/Group_1_4384db59c3.svg",
+        "title": "Purchase order",
+        "content": [
+          "Generate invoices directly from approved purchase orders.",
+          "Ensure invoices are verified before processing payments."
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_2_891fb8ac13.svg"
+      },
+      {
+        "brand": "https://cms-strapi.ichiba.net/uploads/Group_2_1438c86713.svg",
+        "title": "Cross-border shipping",
+        "content": [
+          "Sync shipping invoices from multiple carriers into one platform.",
+          "Handle transactions across different currencies with automatic exchange rate updates."
+        ],
+        "img": "https://cms-strapi.ichiba.net/uploads/image_3_5fa9f90ea6.svg"
+      }
+    ]
+  },
+  "customerStories": {
+    "heading": [
+      "Hear from our customers",
+      " who have experienced",
+      " IChiba Invoice & Billing"
+    ],
+    "subHeading": [
+      "Trusted by businesses across warehousing, logistics, and omnichannel retail. See how Invoice and",
+      "Billing has transformed financial management."
+    ],
+    "content": [
+      {
+        "company": "Bid4win proxy-shopping from Japan",
+        "label": "Janbox - Buy from Japan",
+        "name": "Nguyen Hoai Thuong",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/image_1_a4b181c10c.svg",
+        "image": "https://cms-strapi.ichiba.net/uploads/image_e58b728d9c.svg",
+        "bio": "CFO",
+        "content": "Managing international invoices used to be a nightmare. With Invoice and Billing, we now automate tax calculations and sync transactions across multiple payment providers, saving us hours of manual work!"
+      },
+      {
+        "company": "FromVietnam",
+        "label": "Seamless Omnichannel Billing Across Platforms",
+        "name": "Dang Tuan Huy",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/image_1_a4b181c10c.svg",
+        "image": "https://cms-strapi.ichiba.net/uploads/image_e58b728d9c.svg",
+        "bio": "E-commerce Manager",
+        "content": "We sell on multiple marketplaces, and tracking invoices from different sales channels was overwhelming. Invoice and Billing integrates seamlessly with our OMS, ensuring accurate invoicing and real-time payment tracking."
+      },
+      {
+        "company": "EFEX Hanoi warehouse",
+        "label": "Effortless Financial Management for Our Warehouse",
+        "name": "Nguyen Viet Loc",
+        "avatar": "https://cms-strapi.ichiba.net/uploads/image_1_a4b181c10c.svg",
+        "image": "https://cms-strapi.ichiba.net/uploads/image_e58b728d9c.svg",
+        "bio": "Operations Director",
+        "content": "We used to manually track storage and fulfillment fees for hundreds of clients. Now, all warehouse transactions sync automatically, and our cash flow visibility has improved dramatically!"
+      }
+    ],
+    "view": "View more"
+  },
+  "getStarted": {
+    "heading": ["Get started with IChiba", "Invoice & Billing"]
+  }
+}

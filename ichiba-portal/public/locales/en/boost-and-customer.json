@@ -1,0 +1,112 @@
+{
+  "banner": {
+    "heading": "Boost revenue with data-driven approach to customer loyalty",
+    "subHeading": "Unlock customer insights and drive repeat purchases with a unified Customer 360 view across all channels.",
+    "textBtn": "Contact Sales"
+  },
+  "leveraging": {
+    "label": "The real solution isn’t spending more on ads",
+    "heading": [
+      "It’s leveraging a complete ",
+      "Customer 360° ",
+      "and ",
+      "data-powered marketing."
+    ],
+    "title": "The challenges that omnichannel sellers face",
+    "items": [
+      "Don’t know who their truly loyal customers are.",
+      "Unable to personalize the customer experience due to fragmented data.",
+      "Lack clarity on which campaigns actually drive real orders.",
+      "Customer data is scattered across multiple channels (online, offline, social, marketplace)."
+    ]
+  },
+  "fromTo": {
+    "heading": [
+      "From Fragmented to Unified",
+      "The Journey to Value with Customer 360°"
+    ],
+    "contents": [
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_cd7aae84de.svg",
+        "value": "Centralize all customer data (behavior, purchase history, feedback, spending levels) on a single platform."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group1_3070ac1dd9.svg",
+        "value": "Use data-driven workflows to trigger marketing campaigns that reach the right person, at the right time, with the right message."
+      },
+      {
+        "icon": "https://cms-strapi.ichiba.net/uploads/Group_e4f153d215.svg",
+        "value": "Classify loyal customers based on actual purchasing behavior, not just loyalty points."
+      }
+    ]
+  },
+  "onePlatform": {
+    "heading": [
+      "One Platform, Three Powerful Impacts:",
+      "Revenue - Customer Insight - Retention"
+    ],
+    "items": [
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318825_f405c6f4c5.svg",
+        "title": "Customer 360º",
+        "content": "Store complete 360º customer data to easily uncover insights and launch personalized campaigns."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Group_1171276362_8deeae1080.svg",
+        "title": "Customer segmentation",
+        "content": "Group customers into segments to tailor targeted campaigns for each group and boost conversion rates."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318825_1_a812e9bbe2.svg",
+        "title": "Loyalty program management",
+        "content": "Build customer loyalty programs with points, vouchers, and personalized experiences based on real behavior and purchase history."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Main_Content_6682788266.svg",
+        "title": "Data-driven campaigns",
+        "content": "Analyze customer data to create marketing and promotion campaigns that align with actual customer needs."
+      },
+      {
+        "image": "https://cms-strapi.ichiba.net/uploads/Frame_427318825_2_e19cc72a39.svg",
+        "title": "Real-time reporting",
+        "content": "Track campaign performance and customer lifecycle in real time to support timely and strategic decision-making."
+      }
+    ]
+  },
+  "unlock": {
+    "heading": "Unlock growth potential from customer data",
+    "items": [
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52826_5f34b32bd3.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52826_2_7a9ef08775.svg",
+        "title": "Boost CLV (Customer Lifetime Value)."
+      },
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52826_1_77af033690.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52826_3_1ab6f8e296.svg",
+        "title": "Automate marketing workflows - save time and reduce errors."
+      },
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52827_b565ed2538.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52827_1_8e38f7b0ac.svg",
+        "title": "Improve repeat purchase rates and customer loyalty."
+      },
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52825_e82f978908.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52825_2_6ebe60ea0a.svg",
+        "title": "Increase revenue from existing customers through upselling and cross-selling."
+      },
+      {
+        "imagePC": "https://cms-strapi.ichiba.net/uploads/Rectangle_52825_1_4f54299b27.svg",
+        "imageMB": "https://cms-strapi.ichiba.net/uploads/Rectangle_52825_3_337d9708d0.svg",
+        "title": "Lower advertising costs by targeting the right customer segments."
+      }
+    ]
+  },
+  "contactSales": {
+    "label": "Contact IChiba Platform",
+    "heading": "Smart Selling Starts with Understanding Your Customers",
+    "subHeading": "Contact IChiba expert team today for a consultation on our revenue-boosting and customer insight solutions!",
+    "textBtn": "Contact Sales"
+  }
+}

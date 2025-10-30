@@ -1,0 +1,16 @@
+.root {
+  @apply tw-relative tw-flex tw-flex-col tw-flex-1;
+
+  .item {
+    @apply tw-rounded-[20px] tw-shadow-10 tw-px-6 tw-py-7 tw-flex tw-items-center tw-gap-4 md:tw-gap-16 tw-cursor-pointer tw-flex-col md:tw-flex-row;
+
+    .title {
+      @apply tw-font-bold tw-mb-0;
+    }
+
+    .content {
+      @apply tw-text-sm md:tw-text-base tw-mb-0;
+    }
+
+  }
+}
