@@ -1,0 +1,237 @@
+#discover {
+  h2 {
+    font-weight: 700;
+    font-size: 36px;
+  }
+  .discover-img {
+    max-height: 640px;
+    overflow: hidden;
+    .discover-banner {
+      width: 100%;
+      height: auto;
+    }
+  }
+
+  .we-are {
+    bottom: 140px;
+    padding-top: 50px;
+    background-image: linear-gradient(180deg, #00194f 55%, #fff 45%);
+    color: #ffffff;
+    .bio-number {
+      min-height: 85px;
+    }
+    .our {
+      .our-item {
+        img {
+          width: 100%;
+          height: auto;
+        }
+        .our-content {
+          box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.05);
+          color: #333333;
+          background-color: #ffffff;
+          padding: 24px 40px;
+        }
+        transition: transform 0.5s;
+      }
+      .our-item:hover {
+        transform: scale(1.03);
+      }
+    }
+  }
+  .our-history {
+    padding-top: 70px;
+    padding-bottom: 40px;
+    color: #333333;
+    @include respond(big-desktop) {
+      height: 890px;
+    }
+    img {
+      width: 100%;
+      height: auto;
+    }
+    .history-title {
+      margin-left: auto;
+      margin-right: auto;
+      max-width: 800px;
+    }
+  }
+  .core-value {
+    padding: 48px 0 100px 0;
+    background-color: #f2f2f2;
+    .values {
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+  }
+  .towards {
+    img {
+      width: 100%;
+      height: auto;
+    }
+    .content-towards {
+      padding: 48px 0 0 0;
+      display: -webkit-box;
+      -webkit-line-clamp: 7;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      height: 245px;
+    }
+    .btn-ichiba {
+      position: relative;
+      bottom: 25px;
+      color: #ffffff;
+      padding: 16px 12px;
+      background: #f57c00;
+      border-radius: 8px;
+    }
+  }
+  .our-networks {
+    padding: 60px 0;
+    background-color: #f2f2f2;
+    .our-content {
+      max-width: 800px;
+      margin: 0 auto;
+      padding-bottom: 24px;
+      text-align: center;
+      h2 {
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 56px;
+      }
+    }
+
+    .banner {
+      width: 100%;
+      height: auto;
+    }
+  }
+  .our-strengths {
+    padding: 64px 0;
+    .our-strengths-items {
+      width: 100%;
+      .item {
+        max-width: 532px;
+      }
+      .our-img {
+        max-width: 532px;
+        width: 100%;
+        height: auto;
+      }
+    }
+    .res-molbie {
+      display: none;
+    }
+  }
+  .openToWork {
+    background-color: #00194f;
+    padding: 64px 0 64px 0;
+    color: #ffffff;
+    .img {
+      @include respond(big-desktop) {
+        height: 344px;
+        img{
+          max-width: 660px;
+          position: relative;
+          bottom: 216px;
+          width: auto;
+        }
+      }
+      @include banner {
+        height: 344px;
+        img {
+          width: 100% !important;
+          height: auto;
+          position: relative;
+          bottom: 213px;
+        }
+      }
+      @include respond(tab-land) {
+        img {
+          
+          width: 100% !important;
+          height: auto;
+
+        }
+      }
+      
+      
+    }
+  }
+  .our-data {
+    padding: 64px 0;
+    .our-data-title {
+    }
+  }
+}
+
+@include respond(tab-port) {
+  .title-moibile {
+    font-size: 36px !important;
+  }
+  .we-are {
+    text-align: center;
+    .our {
+      .our-item {
+        margin-bottom: 40px;
+      }
+    }
+  }
+  .our-history {
+    
+    padding: 40px 0 !important;
+  }
+  .towards {
+    h2 {
+      font-size: 40px !important;
+    }
+    .content-towards {
+      height: 300px !important;
+    }
+  }
+  .core-value {
+    text-align: center;
+    padding: 40px 0 !important;
+  }
+  .our-strengths {
+    .res-molbie {
+      display: block !important;
+      .our-strengths-items {
+        padding-bottom: 40px;
+        text-align: center;
+        .item {
+          padding-bottom: 30px;
+          max-width: 100% !important;
+        }
+        .our-img {
+          width: 100% !important;
+        }
+      }
+    }
+    .res-pc {
+      display: none;
+    }
+  }
+
+  .title {
+    font-size: 30px;
+  }
+  .openToWork {
+    text-align: center;
+    .img {
+      margin-top: 30px;
+      img {
+        width: 100%;
+      }
+    }
+  }
+  .our-data {
+    text-align: center ;
+    
+  }
+}
+@include respond(phone) {
+}

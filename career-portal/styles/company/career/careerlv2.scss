@@ -1,0 +1,120 @@
+#carrerlv2 {
+  padding: 40px 0 0 0;
+  background-color: #F9F9F9;
+  .jobs {
+    .job-items {
+      padding: 12px;
+      border: 1px solid #cccccc;
+      border-radius: 12px;
+    }
+    .active {
+      border: 1px solid #f57c00;
+      background: #fff7e6;
+    }
+  }
+  .job-body {
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    .apply {
+      background: #f57c00;
+      color: #ffffff;
+      border-radius: 8px;
+      padding: 12px 27px;
+      min-width: 150px;
+      
+    }
+    .share {
+      background: #fff7e6;
+      color: #f57c00;
+      border-radius: 8px;
+      padding: 12px 27px;
+      min-width: 150px;
+      text-align: center;
+    }
+    .date-job {
+      border-top: 1px solid #cccccc;
+      border-bottom: 1px solid #cccccc;
+      padding: 12px 0;
+    }
+  }
+  .join-us {
+    padding: 64px 0 90px 0;
+    color: #ffffff;
+    .submit-form {
+      background: rgba(51, 51, 51, 0.8);
+      padding: 24px;
+      border-radius: 8px;
+      max-width: 700px;
+      margin: 0 auto;
+      width: 100%;
+      .upLoadFile{
+        max-width: 448px;
+        width: 100%;
+        input{
+          background-color: #ffffff;
+          opacity: 0;
+          pointer-events: none;
+          position: absolute;
+          width: 0;
+          height: 0;
+        }
+      }
+      .input-submit {
+        max-width: 448px;
+        width: 100%;
+        
+        input {
+          width: 100%;
+          border: 1px solid #ffffff;
+          color: #ffffff;
+          padding: 8px 12px;
+          border-radius: 8px;
+          background: rgba(51, 51, 51, 0.4);
+        }
+        input:focus-visible {
+          outline-offset: unset;
+          outline: unset;
+        }
+        .upload-file {
+          background: rgba(51, 51, 51, 0.4);
+          /* White/White6 */
+
+          border: 1px dashed #ffffff;
+          border-radius: 8px;
+        }
+      }
+      .button {
+        padding: 14px 0;
+        background-color: #f57c00;
+        width: 250px;
+        border-radius: 8px;
+      }
+    }
+  }
+  .our-office {
+    background-color: #ffffff;
+    padding: 50px 0;
+  }
+  
+  @include respond(tab-port) {
+    padding: 20px 0 0 0;
+    .job-body{
+      padding: 12px !important;
+      .apply{
+        padding: 5px 10px;
+      }
+    }
+  }
+}
+.loadding{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 20;
+  width: 100%;
+  height: 100%;
+  background-color: #00000085;
+}

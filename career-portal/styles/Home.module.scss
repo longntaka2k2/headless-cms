@@ -1,0 +1,137 @@
+@import "./mixins";
+.cursor{
+  cursor: pointer;
+}
+.fw-3{
+  font-weight: 300;
+}
+.fw-4{
+  font-weight: 400;
+}
+.fw-5{
+  font-weight: 500;
+}
+.fw-6{
+  font-weight: 600;
+}
+.fw-7{
+  font-weight: 700;
+}
+.fw-9{
+  font-weight: 900;
+}
+.fs-12{
+  font-size: 12px;
+}
+.fs-14{
+  font-size: 14px;
+}
+.fs-16{
+  font-size: 16px;
+}
+.fs-18{
+  font-size: 18px;
+}
+.fs-20{
+  font-size: 20px;
+}
+.fs-24{
+  font-size: 24px;
+}
+.fs-28{
+  font-size: 28px;
+}
+.fs-30{
+  font-size: 30px;
+}
+.fs-36{
+  font-size: 36px;
+}
+.fs-40{
+  font-size: 40px;
+}
+.fs-48{
+  font-size: 48px;
+}
+.fs-54{
+  font-size: 54px;
+}
+.fs-56{
+  font-size: 56px;
+}
+@include respond(tab-port){
+  .fs-md-12{
+    font-size: 12px !important;
+  }
+  .fs-md-14{
+    font-size: 14px !important;
+  }
+  .fs-md-18{
+    font-size: 16px !important;
+  }
+  .fs-md-16{
+    font-size: 16px !important;
+  }
+  .fs-md-20{
+    font-size: 20px !important;
+  }
+  .fs-md-28{
+    font-size: 28px !important;
+  }
+}
+
+
+
+
+.lh-7{
+  line-height: 72px;
+}
+.color-black{
+  color: #333333;
+}
+.color-white{
+  color: #FFFFFF;
+}
+.color-note{
+  color: #666666;
+}
+.color-header{
+  color: #333333;
+}
+.color-jb{
+  color: #F57C00;
+}
+.color-hl-tab{
+  color: #1D39C4 !important; 
+}
+.color-red{
+  color: #F5222D;
+}
+.container-child{
+  max-width: 792px !important;
+}
+.container-child-md{
+  max-width: 1000px !important;
+}
+.container {
+  max-width: 1200px !important;
+}
+
+.btn-janbox{
+  background-color: #F57C00;
+  color: #FFFFFF;
+  border-radius: 8px;
+}
+.btn-janbox:hover{
+  color: #FFFFFF !important;
+  opacity: 0.9;
+}
+.btn-outline-janbox:hover{
+  color: #F57C00 !important;
+}
+.btn-outline-janbox{
+  background:#FFFFFF;
+  border: 1px solid #F57C00;
+  border-radius: 8px;
+  color: #F57C00;
+}

@@ -1,0 +1,133 @@
+{
+  "ichiba": {
+    "title": "IChiba OnePlatform",
+    "item": [
+      {
+        "title": "Khám Phá IChiba OnePlatform",
+        "link": "https://careers.ichiba.net"
+      },
+      { "title": "Tin cậy & Bảo mật", "link": "/trust-security" },
+      { "title": "Tuyển Dụng", "link": "https://careers.ichiba.net/our-life" }
+    ]
+  },
+  "product": {
+    "title": "Sản phẩm",
+    "items": [
+      {
+        "label": "FOR SELLER",
+        "itemslv2": [
+          {
+            "title": "Commerce Layer",
+            "link": "/products/commerce-layer/overview"
+          },
+          {
+            "title": "Ship4P - Kết nối vận chuyển đa kênh", 
+            "link": "/products/ship4p/overview" 
+          },
+          { 
+            "title": "StoreFront Layer", 
+            "link": "/products/storefront-layer/overview" 
+          },
+          {
+            "title": "Automation Engagement",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "label": "FOR OPERATOR",
+        "itemslv2": [
+          {
+            "title": "Phần mềm quản lý kho vận (WMS)",
+            "link": "/products/wms"
+          },
+          {
+            "title": "Cross-Border Forwarding",
+            "link": "/products/smart-cross-border/overview"
+          }
+        ]
+      },
+      {
+        "label": "CAPABILITIES",
+        "itemslv2": [
+          {
+            "title": "Phần mềm quản lý hóa đơn và chứng từ",
+            "link": "#"
+          },
+          { 
+            "title": "Tích Hợp", 
+            "link": "/products/integrations" 
+          }
+        ]
+      }
+    ]
+  },
+  "solution": {
+    "title": "Đối tượng sử dụng",
+    "item": [
+      { "title": "Chủ doanh nghiệp", "link": "/solutions/business-owner" },
+      { "title": "Phòng marketing", "link": "/solutions/marketing-teams" },
+      { "title": "Phòng kỹ thuật", "link": "/solutions/technical-teams" },
+      { "title": "Phòng vận hành", "link": "/solutions/operation-teams" }
+    ]
+  },
+  "useCase": {
+    "title": "Trường hợp sử dụng",
+    "item": [
+      {
+        "title": "Bán hàng quốc tế đa kênh/đa thị trường",
+        "link": "/solutions/global-selling"
+      },
+      { "title": "Bán hàng đa kênh", "link": "/solutions/omnichannel-selling" },
+      {
+        "title": "Quản lý vận chuyển tập trung",
+        "link": "/solutions/all-in-one-shipping-management"
+      },
+      {
+        "title": "Fulfillment đa kênh",
+        "link": "/solutions/multichannel-fulfillment"
+      },
+      {
+        "title": "Mua hộ/Vận chuyển quốc tế",
+        "link": "/solutions/proxy-shopping"
+      },
+      {
+        "title": "Xử lý hàng bởi EFEX",
+        "link": "/solutions/order-fulfillment-by-efex"
+      },
+      { "title": "Tăng doanh thu, hiểu khách hàng (Coming soon)", "link": "" },
+      {
+        "title": "Giải pháp tăng trưởng và tiếp thị hiệu quả",
+        "link": "/solutions/performance-marketing-growth-solution"
+      }
+    ]
+  },
+  "industries": {
+    "title": "Ngành hàng phù hợp",
+    "item": [
+      { "title": "Bán lẻ", "link": "/solutions/retails" },
+      { "title": "Thiết bị điện tử", "link": "/solutions/electronics" },
+      { "title": "Thời trang & Làm đẹp", "link": "/solutions/fashion-beauty" },
+      { "title": "Công ty logistics", "link": "/solutions/logistics-company" },
+      { "title": "Dropshipping", "link": "/solutions/dropshipping" },
+      { "title": "Mẹ & Bé", "link": "/solutions/mother-baby" }
+    ]
+  },
+  "resources": {
+    "title": "Kho Tài Nguyên",
+    "item": [
+      { "title": "Trung tâm tài liệu", "link": "https://docs.ichiba.net/" },
+      { "title": "Blog", "link": "/blog" },
+      { "title": "Tài liệu kinh doanh", "link": "/resources" },
+      { "title": "Case Studies", "link": "/case-studies" },
+      {
+        "title": "Thư viện hình ảnh​",
+        "link": "https://www.youtube.com/@IChibaoms"
+      },
+      {
+        "title": "Hướng dẫn sử dụng",
+        "link": "https://help.ichiba.net/vi/"
+      }
+    ]
+  }
+}

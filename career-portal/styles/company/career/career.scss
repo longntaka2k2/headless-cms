@@ -1,0 +1,315 @@
+#career{
+  .banner{
+    padding: 132px 0;
+    .title{
+      max-width: 996px;
+      color: #FFFFFF;
+      margin: 0 auto;
+      .bio{
+        max-width: 588px;
+        margin: 0 auto;
+      }
+      .banner-search{
+        margin-top: 32px;
+        padding:8px 8px 8px 20px;
+        border-radius: 12px;
+        width: 100%;
+        background: #FFFFFF;
+        svg{
+          color: #333333;
+        }
+        input{
+          border: none;
+          width: 100%;
+          max-width: 500px;
+          color: #333333;
+        }
+        input:focus-visible {
+          outline-offset: none !important;
+          outline: none;
+        }
+        .searc-job{
+          min-width: max-content;
+          color: #F57C00;
+          background: #FFF7E6;
+          padding:12px 14px;
+          border-radius: 8px;
+        }
+        .view-all{
+          
+          padding: 12px 14px;
+          border-radius: 8px;
+           color: #FFFFFF;
+           background-color: #F57C00;
+          min-width: max-content;
+          img{
+            padding-bottom: 2px;
+          }
+        }
+      }
+    }
+  }
+  .culture{
+    padding: 64px 0;
+    
+    .culture-items{
+      padding: 24px;
+      border-radius: 12px;
+      background-color: #F2F2F2;
+      img{
+        width: 100%;
+        height: auto;
+      }
+      .title-item{
+        padding-bottom: 16px;
+        margin-bottom: 24px;
+        border-bottom: 4px solid #DDDDDD;
+      }
+      .content-item{
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        height: 100px;
+      }
+    }
+    .culture-item-mobile{
+      display: none;
+    }
+  }
+  .employee{
+    padding: 80px 0 160px 0;
+    background-color:#F2F2F2 ;
+
+    .employee-item-after{
+      background-color: #FFFFFF;
+      width: 100%;
+      height: 100%;
+      max-height: 390px;
+      border-radius: 12px;
+      padding: 24px;
+      transition: transform 0.3s ease;
+      img{
+        width: 30%;
+        height: auto; 
+        max-width:96px ;
+        padding: 30px 0;
+
+      }
+      .title-item{
+        padding-bottom: 123px;
+        font-size: 18px;
+      }
+    } 
+   .employee-item-after:hover{
+      color: #F57C00;
+      cursor: pointer;
+   }
+  }
+  .we-hire{
+    padding: 40px 0 0 0;
+    
+    .list-hire::-webkit-scrollbar {
+      height: 6px; /* Chiều cao của thanh cuộn */
+    }
+    
+    .list-hire::-webkit-scrollbar-track {
+      background-color: #f1f1f1; /* Màu nền của thanh cuộn */
+    }
+    
+    .list-hire::-webkit-scrollbar-thumb {
+      background-color: #cfcccc; /* Màu của thanh cuộn */
+      border-radius: 4px; /* Độ cong của thanh cuộn */
+    }
+    
+    .list-hire::-webkit-scrollbar-thumb:hover {
+      background-color: #acacac; /* Màu của thanh cuộn khi di chuột hover */
+    }
+  }
+  .glad-to-have{
+    padding: 64px 0;
+    
+    .button{
+      color: #FFFFFF;
+      margin: 20px auto 0 auto;
+      padding: 16px 20px;
+      background-color: #F57C00;
+      border-radius: 8px;
+    }
+  }
+  .save-every{
+   
+    .carosel{
+      height: 0px;
+      float: right;
+      width: 60%;
+      position: relative;
+      bottom: 325px;
+      z-index: 1;
+      padding-right: 30px;
+      .every-img{
+        max-width: 250px;
+        max-height: 250px;
+        width: auto;
+        height: 100%;
+        border-radius: 12px;
+
+      }
+      
+    }
+    .carosel::before {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: -5;
+      height: 300px;
+      width: 20%;
+      background: linear-gradient(to right, #fffffff7, rgb(252 252 252 / 0%));
+      z-index: 1;
+      .slick-list{
+        width: 100vw;
+      }
+    }
+    .save-every-main{
+      padding: 120px 0 180px 0;
+      width: 100%;
+      position: relative;
+      z-index: 2;
+      .button{
+        padding: 16px;
+        border-radius: 8px;
+        color: #FFFFFF;
+        background-color: #F57C00;
+        max-width: 242px;
+      }
+      .button-linkedin{
+        color: #F57C00;
+        background-color: #FFF7E6;
+        border-radius: 8px;
+        padding: 16px;
+        max-width: 242px;
+      }
+    }
+  }
+  @include respond(tab-land){
+    .culture{
+      .culture-title{
+        font-size: 36px;
+      }
+      .culture-item-pc{
+        display: none;
+      }
+      .culture-item-mobile{
+        display: block !important;
+      }
+    }
+    .list-hire{
+      overflow: hidden;
+      overflow-x: auto; /* ẩn thanh scroll ngang */
+      overflow-y: hidden;
+        .hire-items{
+          width: max-content;
+        }
+    }
+    .save-every{
+      .carosel{
+        bottom: 0px !important;
+        .slick-slide{
+          margin: 0 20px;      
+        }
+      }
+     
+    }
+    .employee{
+      padding-bottom: 60px !important;
+      
+      .employee-item-after{
+        height: auto !important;
+        padding-bottom: 40px;
+      }
+    }
+  }
+  @include respond(tab-port){
+    .culture{
+      text-align: center;
+    }
+    .banner{
+      .title{
+        .title-banner{
+          font-size: 28px !important;
+        }
+        .bio{
+          font-size: 16px;
+        }
+      }
+      .banner-search{
+        input{
+          font-size: 14px !important;
+        }
+        .searc-job{display: none;}
+        .view-all{display: none;}
+        max-height: 65px;
+      }
+      .res-mobile{
+        display: block !important;
+        .searc-job{
+          margin: 12px 0;
+          color: #F57C00;
+          background: #FFF7E6;
+          padding:12px;
+          border-radius: 8px;
+        }
+        .view-all{
+          align-self: center;
+          padding: 12px;
+          border-radius: 8px;
+           color: #FFFFFF;
+           background-color: #F57C00;
+        }
+      }
+    }
+    .save-every{
+      margin-bottom: 150px;
+      .save-every-main{
+       padding-top: 60px !important;
+        text-align: center;
+        padding-bottom: 50px !important; 
+        h2{
+          font-size: 40px !important;
+        }
+        .button{
+          align-items: center;
+          margin: 0 auto;
+          margin-top: 10px;
+        }
+        .button-linkedin{
+          margin: 0 auto;
+        }
+      }
+      .carosel{
+        width: 100%;
+        bottom: 300px;
+        .slick-slide{
+          margin: 0 10px;
+        }
+      }
+      .carosel::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 20%;
+        background: none !important;
+        z-index: 1;
+      }
+     
+    }
+    .glad-to-have{
+      .title-glad{
+        font-size: 36px;
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+@import "../mixins";
+
+#topbar{
+    color:#333333;
+    .topbar-text{
+        font-size: 14px;
+    }
+
+    .items-dropdown{
+        .text-drop:hover{
+            color: #F57C00;
+        }
+    }
+    @include respond(phone){
+        .topbar-text{
+            display: none;
+        }
+    }
+    @include respond(tab-port){
+        .topbar-text{
+            display: none;
+        }
+    }
+    @include respond(tab-land){
+        
+    }
+
+    
+
+    @include respond(big-desktop){
+        
+    }
+}
