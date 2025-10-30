@@ -1,0 +1,7 @@
+.scroll {
+  @apply mt-8 overflow-auto xl:overflow-hidden;
+
+  &::-webkit-scrollbar {
+    @apply hidden;
+  }
+}

@@ -1,0 +1,33 @@
+pipeline {
+    agent none
+    stages {
+        stage('build-push-image'){
+                agent any
+            when {
+                branch("master")
+            }
+            steps{
+                script{
+                    docker.withRegistry( 'http://docker-hub.ichiba.net', 'harbor-cred' ) {
+                       def image = docker.build("docker-hub.ichiba.net/ichiba-product/ezbuy-portal:${env.BUILD_ID}", "-f ezbuy-portal/Dockerfile ezbuy-portal")
+                       image.push()
+                    }
+                }
+            }
+        }
+
+        stage('deploy'){
+            agent any
+            when {
+                branch("master")
+            }
+            steps{
+                sshagent(credentials:['Login_10.29.38.20_buyforme']){
+                    sh "ssh -o StrictHostKeyChecking=no icb-adm@10.29.38.20 'cd /home/icb-adm/docker/ezbuy-portal && ./deploy.sh ${env.BUILD_ID}'"
+                }
+                   echo "success deploy"
+            }
+        }
+
+    }
+}

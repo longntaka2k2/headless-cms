@@ -1,0 +1,24 @@
+@keyframes horizontal-scroll {
+  from {
+    transform: translateX(calc(100vw));
+  }
+  to {
+    transform: translateX(calc(-100%));
+  }
+}
+
+.scroll__root {
+  @apply mt-10 flex flex-col gap-10 overflow-auto;
+  transform: translateX(calc(100vw));
+  overflow: visible;
+  animation: horizontal-scroll 10s linear forwards infinite;
+  animation-play-state: paused;
+}
+
+.scroll {
+  @apply mt-10 flex flex-col gap-5 overflow-auto;
+
+  &::-webkit-scrollbar {
+    @apply hidden;
+  }
+}

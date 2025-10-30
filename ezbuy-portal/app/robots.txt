@@ -1,0 +1,3 @@
+User-agent: *
+allow: /
+Sitemap: https://ezbuy.jp/sitemap.xml

@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "swiper.scss";
+@import "ckEditor.scss";
+@import "infSlider.scss";
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+*:focus {
+  outline: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+.text_gradient {
+  background: -webkit-linear-gradient(left, #00194f, #af0000);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gradient-text {
+  background: -webkit-linear-gradient(0deg, #00194F 0%, #ce0202 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

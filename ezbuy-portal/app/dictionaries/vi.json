@@ -1,0 +1,2165 @@
+{
+  "meta": {
+    "common": {
+      "title": "Ezbuy Japan - Mua sắm và vận chuyển hàng xuyên biên giới",
+      "desciption": "Tối ưu hóa E2E eCommerce với EZBuy Japan: Giải pháp toàn diện, tối ưu hóa hiệu suất kinh doanh của bạn. Khám phá ngay!"
+    },
+    "home": {
+      "title": "Ezbuy Japan - Mua sắm và vận chuyển hàng xuyên biên giới",
+      "desciption": "Tối ưu hóa E2E eCommerce với EZBuy Japan: Giải pháp toàn diện, tối ưu hóa hiệu suất kinh doanh của bạn. Khám phá ngay!"
+    },
+    "sio": {
+      "title": "Bán hàng ra nước ngoài - Mở rộng doanh thu toàn cầu",
+      "description": "Chỉ bằng việc gắn thẻ Javascript của chúng tôi lên trang web bán hàng của bạn, khách hàng quốc tế đã có thể tiếp cận và mua hàng trực tiếp từ website. Ngoài ra, Ezbuy Japan sẽ tiếp nhận yêu cầu từ khách nước ngoài để xử lý thanh toán và vận chuyển quốc tế."
+    },
+    "b2b": {
+      "title": "Mua Sỉ Hàng Nhật | Ezbuy Japan",
+      "description": "Ezbuy Japan kết nối chặt chẽ với hơn 100 thương hiệu nội địa Nhật và trở thành đại lý phân phối toàn cầu. Dịch vụ bán buôn B2B giúp đặt mua hàng sỉ và thương lượng giá, rút ngắn thời gian nhập hàng từ Nhật."
+    },
+    "dropshipping": {
+      "title": "Giải pháp Dropshipping toàn diện tại Nhật",
+      "description": "Đàm phán và mua hàng Nhật trực tiếp từ người bán tại Nhật Bản với giá phải chăng. Lưu trữ hàng tồn kho an toàn 24/7. Xử lý và vận chuyển đơn hàng ngay trong ngày."
+    },
+    "xBorderEcommerce": {
+      "title": "TMĐT Xuyên Biên Giới | Ezbuy Japan",
+      "description": "Dịch vụ TMĐT xuyên biên giới từ Ezbuy, cung cấp trải nghiệm mua sắm hàng Nhật dễ dàng, tiện lợi thông qua sàn Janbox, đảm bảo mua hàng chính hãng, giá tốt và rút ngắn thời gian vận chuyển."
+    },
+    "xBorderShipping": {
+      "title": "Vận Chuyển Xuyên Biên Giới | Ezbuy Japan",
+      "description": "Dịch vụ chuyển phát quốc tế từ Nhật Bản đến hơn 220 quốc gia bằng đường biển và đường hàng không. Đóng gói an toàn, hỗ trợ xử lý thủ tục hải quan, tracking hàng hóa mọi lúc."
+    },
+    "warehouseFulfillment": {
+      "title": "Dịch Vụ Warehouse Fulfillment Nhật Bản",
+      "description": "Xử lý đơn hàng nhanh chóng, đóng gói và vận chuyển tức thì, giúp doanh nghiệp kiểm soát và giảm thiểu hàng tồn kho thông qua OMS."
+    },
+    "airFreight": {
+      "title": "Vận Tải Hàng Không & Thủ Tục Hải Quan | Ezbuy Japan",
+      "description": "Ezbuy Japan cung cấp dịch vụ vận chuyển hàng không giúp tiết kiệm tối đa thời gian vận chuyển mà vẫn đảm bảo chi phí hợp lý, theo dõi vận chuyển 24/7."
+    },
+    "sellInVietNam": {
+      "title": "Bán hàng tại Việt Nam",
+      "description": "Với dịch vụ bán hàng tại Việt Nam, Ezbuy Japan hỗ trợ các doanh nghiệp Nhật đăng ký kinh doanh, mở cửa hàng trực tuyến tại Việt Nam, tích hợp với các sàn TMĐT lớn nhất. Mạng lưới kho bãi fulfillment quản lý lưu kho và kinh doanh dễ dàng hơn."
+    },
+    "sellInJapan": {
+      "title": "Bán hàng tại Nhật",
+      "description": "Ezbuy Japan hỗ trợ người nước ngoài muốn bán hàng tại Nhật, hỗ trợ giải quyết các thủ tục pháp lý, cung cấp dịch vụ warehouse fulfillment và hợp tác với các hãng vận chuyển uy tín hàng đầu, giúp bạn yên tâm kinh doanh tại Nhật."
+    },
+    "category": {
+      "title": " - Blog Ezbuy",
+      "desciption": " - Blog Ezbuy"
+    },
+    "caseStudies": {
+      "title": "Câu chuyện khách hàng kinh doanh thành công cùng Ezbuy",
+      "des": "Khám phá những kinh nghiệm thực tiễn và bài học quý giá từ các doanh nhân thành công nhờ với sự đồng hành của Ezbuy"
+    }
+  },
+  "header": {
+    "forBuyer": "Người mua",
+    "forSeller": "Nhà bán hàng",
+    "sio": "Bán hàng ra nước ngoài (For Japan Sellers)",
+    "sioDetail": "Bán hàng ra nước ngoài từ Nhật Bản chỉ với một thẻ Javascript",
+    "company": "Công ty",
+    "aboutUs": "Về chúng tôi",
+    "aboutUsDetail": "Sứ mệnh, tầm nhìn và văn hóa của chúng tôi.",
+    "ourCulture": "Văn hóa",
+    "ourCultureDetail": "Thống nhất trong đa dạng: nuôi dưỡng sự đổi mới và hợp tác.",
+    "services": "Dịch vụ",
+    "cbe": "Thương mại điện tử xuyên biên giới",
+    "cbeDetail": "Khám phá hàng triệu sản phẩm Nhật Bản chính hãng trên một nền tảng và vận chuyển chúng trên toàn cầu.",
+    "WarehouseFullfilment": "Dịch vụ warehouse fulfillment",
+    "WarehouseFullfilmentDetail": "Tháo gỡ gánh nặng fulfillment, giúp doanh nghiệp tập trung phát triển doanh thu.",
+    "sij": "Bán hàng tại Nhật (For Foreign Sellers)",
+    "sijDetail": "Thâm nhập và phát triển mạnh tại thị trường Nhật Bản với sự hỗ trợ toàn diện.",
+    "b2bTrading": "Bán buôn B2B",
+    "b2bTradingDetail": "Cung cấp nguồn hàng Nhật chính ngạch dồi dào và phong phú.",
+    "oneStop": "Ứng dụng mua hàng từ Nhật Bản",
+    "oneStopDetail": "Janbox giúp bạn mua hàng tỷ sản phẩm Nhật dễ dàng, nhanh chóng, tiện lợi và tiết kiệm chi phí tối đa.",
+    "linkOneStop": "https://vn.janbox.com",
+    "airFreight": "Vận tải hàng không & thủ tục hải quan",
+    "airFreightDetail": "Xử lý các đơn hàng yêu cầu cao về thời gian với các hãng hàng không hàng đầu và quy trình thông quan nhanh chóng.",
+    "partnerNetwork": "Đối tác  & Mạng lưới",
+    "partnerNetworkDetail": "Mở rộng kinh doanh của bạn với mạng lưới đối tác của Ezbuy Japan.",
+    "trackTrace": "Theo dõi đơn hàng",
+    "b2bCatalog": "B2B Catalog",
+    "resources": "Tài nguyên",
+    "blog": "Blog",
+    "blogDetail": "Bài báo, tin tức, mẹo và nhiều nội dung khác về thương mại điện tử và hậu cần.",
+    "faq": "Câu hỏi thường gặp",
+    "faqDetail": "Giải đáp mọi thắc mắc về Ezbuy Japan.",
+    "userGuide": "Hướng dẫn sử dụng",
+    "userGuideDetail": "Xem hướng dẫn chi tiết của chúng tôi để đạt tới các mục tiêu thành công của bạn.",
+    "videoLibrary": "Thư viện video",
+    "videoLibraryDetail": "Hướng dẫn, review, case studies,  v.v.",
+    "caseStudies": "Câu chuyện khách hàng",
+    "caseStudiesDetail": "Đằng sau mỗi câu chuyện thành công đều có một trợ thủ tận tình.",
+    "support": "Hỗ trợ",
+    "login": "Đăng nhập",
+    "logout": "Đăng Xuất",
+    "language": "Ngôn ngữ",
+    "sbs": "Vận chuyển xuyên biên giới",
+    "sbsDetail": "Ezbuy Japan cung cấp dịch vụ giao hàng quốc tế bằng đường hàng không và đường biển từ Nhật Bản đến hơn 220 quốc gia.",
+    "sellInVie": "Bán hàng tại Việt Nam (For Japan Sellers)",
+    "sellInVieDetail": "Hỗ trợ các nhà bán hàng người Nhật bán hàng, đóng gói, vận chuyển tại thị trường Việt Nam qua dịch vụ phần mềm quản lý OMS",
+    "download": "Tải xuống",
+    "contactSales": "Liên hệ",
+    "dropshipping": "One-stop solutions for Dropshipping",
+    "dropshippingDetail": "Cung cấp giải pháp dropshipping trọn gói từ mua hàng, lưu kho, xử lý và vận chuyển đơn hàng.",
+    "listLogin": ["Portal Ezbuy Express", "B2B Warehouse Fulfillment"]
+  },
+  "footer": {
+    "siv": "Bán hàng tại Việt Nam",
+    "sio": "Bán hàng tại nước ngoài",
+    "title": "Chúng tôi cam kết xóa bỏ các rào cản về thương mại điện tử xuyên biên giới.",
+    "address": "Địa chỉ",
+    "addressDetail": "〒136-0075 Tokyo, Koto, Shinsuna, 3 Chome−10−8, 1F Warehouse 3",
+    "email": "Email",
+    "company": "Công ty",
+    "aboutUs": "Về chúng tôi",
+    "partnerNetwork": "Đối tác  & Mạng lưới",
+    "resourceCenter": "Tài nguyên",
+    "blog": "Blog",
+    "faq": "Câu hỏi thường gặp",
+    "userGuide": "Hướng dẫn sử dụng",
+    "videoLibrary": "Thư viện video",
+    "caseStudies": "Câu chuyện khách hàng",
+    "solutions": "Giải pháp",
+    "policy": "Chính sách",
+    "cbe": "Thương mại điện tử xuyên biên giới",
+    "cbs": "Vận chuyển xuyên biên giới",
+    "wf": "Dịch vụ warehouse fulfillment",
+    "b2bte": "Bán buôn B2B",
+    "sij": "Bán hàng tại Nhật",
+    "afcc": "Vận tải hàng không & Thủ tục hải quan",
+    "shipping": "Vận chuyển",
+    "createShipment": "Khởi tạo vận đơn",
+    "trackTrace": "Theo dõi đơn hàng",
+    "rateTransitTime": "Giá cước & Thời gian",
+    "connectUs": "Kết nối với chúng tôi",
+    "connectUsDetail": "Kết nối với chúng tôi qua các mạng xã hội",
+    "subscribe": "Đăng ký",
+    "subscribeDetail": "Không bỏ lỡ thông tin cập nhật từ chúng tôi!",
+    "placeholderSubscribe": "Ví dụ: Youremail@gmail.com",
+    "premiumEcommerce": "Ezbuy Japan 2023 - Giải pháp thương mại điện tử hàng đầu",
+    "b2bCatalog": "B2B Catalog",
+    "services": "Dịch vụ",
+    "downloadJanbox": {
+      "heading": "Tải xuống ứng dụng Ezbuy Japan",
+      "downloadIt": "Tải xuống từ"
+    },
+    "dropshipping": "Giải pháp Dropshipping",
+    "direct": "Liên hệ trực tiếp CTO",
+    "support": "Hỗ trợ",
+    "oneStop": "Ứng dụng mua hàng từ Nhật Bản"
+  },
+  "needSupport": {
+    "title": "Cần hỗ trợ? ",
+    "title2": "Chúng tôi luôn sẵn sàng trợ giúp!",
+    "description": "Hãy đặt lịch gọi điện hoặc gặp gỡ với các chuyên gia giàu kinh nghiệm của chúng tôi trong nhiều lĩnh vực để được hỗ trợ sớm nhất.",
+    "contactSales": "Liên hệ bán hàng"
+  },
+  "home": {
+    "banner": {
+      "heading": {
+        "h1": "Giải pháp End-to-end",
+        "h2": "cho nhà bán hàng hàng Thương mại điện tử xuyên biên giới"
+      },
+      "subHeading": [
+        "Với tầm nhìn trở thành đơn vị eCommerce Enabler hàng đầu cho cả người mua và người bán, Ezbuy Japan nỗ lực mang đến dịch vụ one-stop solutions để hỗ trợ Thương mại điện tử xuyên biên giới toàn trình, toàn diện. Giải pháp của chúng tôi được xây dựng trên nền tảng công nghệ vững chắc, với kiến thức logistics chuyên sâu và niềm đam mê phụng sự khách hàng, nhằm giúp doanh nghiệp khai thác tối đa tiềm năng tăng trưởng",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "newUsers": "Người dùng mới",
+      "orders": "Đơn đặt hàng",
+      "customerOrders": "Khách hàng đã đặt",
+      "tonOfGood": "Tấn sản phẩm",
+      "contactSales": "Khám phá ngay"
+    },
+    "workWithEzbuy": {
+      "heading": "Tại sao bạn nên hợp tác với Ezbuy Japan?",
+      "subHeading": "Khách hàng thường hỏi chúng tôi “Tại sao tôi nên chọn Ezbuy Japan thay vì bên khác?”. ",
+      "subHeading1": "",
+      "article": [
+        {
+          "title": "Mua sắm & vận chuyển không biên giới",
+          "description": "Mua và đấu giá cả nước Nhật thông qua các sàn thương mại điện tử bất kể bạn ở đâu."
+        },
+        {
+          "title": "Thực hiện kho hàng tự động",
+          "description": "Không gian lưu trữ linh hoạt, đáp ứng yêu cầu về tốc độ xử lý. Cho phép thanh toán trọn gói theo tháng tiện lợi."
+        },
+        {
+          "title": "Mua sắm thỏa thích với dịch vụ bán buôn",
+          "description": "Mặc cả và mua sắm hàng Nhật số lượng lớn với giá rẻ nhất thị trường nhờ quan hệ đối tác lâu dài của Ezbuy Japan với các thương hiệu."
+        },
+        {
+          "title": "Theo dõi đơn hàng theo thời gian thực",
+          "description": "Theo dõi, cập nhật và xử lý các đơn hàng của bạn thông qua phần mềm công nghệ cao."
+        },
+        {
+          "title": "Tăng tốc thâm nhập thị trường Nhật Bản",
+          "description": "Dễ dàng tham gia vào thị trường thương mại điện tử Nhật Bản và phát triển kinh doanh với sự hỗ trợ từ A đến Z."
+        },
+        {
+          "title": "Giao hàng ngay ngày hôm sau",
+          "description": "Giao hàng đến hơn 220 quốc gia và vùng lãnh thổ một cách dễ dàng, sử dụng các tùy chọn vận chuyển tiêu chuẩn và vận chuyển nhanh."
+        },
+        {
+          "title": "Thông quan nhanh chóng & an toàn",
+          "description": "Số hóa thủ tục hải quan để tránh sai sót và làm cho toàn bộ quy trình hải quan trở nên an toàn, minh bạch và rõ ràng hơn ở tất cả các bước."
+        },
+        {
+          "title": "Vận chuyển hàng không tận nơi",
+          "description": "Đảm bảo dịch vụ chất lượng cao với chi phí phải chăng nhờ vào mối quan hệ lâu năm với các hãng hàng không nổi tiếng."
+        }
+      ]
+    },
+    "services": {
+      "services": "DỊCH VỤ",
+      "heading": "Thương mại điện tử & Vận chuyển xuyên biên giới",
+      "subHeading": "Không cần biết tiếng Nhật, không cần tạo nhiều tài khoản mua hàng và không cần sử dụng phương thức thanh toán phức tạp khi mua sắm trên các trang thương mại điện tử ở Nhật. Thoát khỏi các rào cản địa lý và mở ra một thế giới thị trường tiềm năng thông qua giải pháp giao hàng quốc tế toàn diện của chúng tôi."
+    },
+    "warehouseFulfillment": {
+      "heading": "Dịch vụ warehouse fulfillment",
+      "subHeading": "Quy trình xử lý hàng hóa chuyên nghiệp là điều cần thiết cho bất kỳ doanh nghiệp nào. Ezbuy Japan mở ra con đường thành công đơn giản nhất cho tất cả các doanh nghiệp bằng cách xử lý nhanh gọn khâu hoàn thiện đơn hàng, từ lưu trữ hàng tồn kho an toàn đến đóng gói và gửi đơn đặt hàng."
+    },
+    "sellInJapan": {
+      "heading": "Bán hàng tại Nhật",
+      "subHeading": "Thương nhân nước ngoài có thể dễ dàng bán hàng trên các trang thương mại điện tử nổi tiếng nhất ở Nhật Bản mà không gặp rào cản ngôn ngữ, quy trình đăng ký tài khoản hay thiết lập gian hàng phức tạp."
+    },
+    "b2bTrading": {
+      "heading": "Bán buôn B2B",
+      "subHeading": "Ezbuy Japan đóng vai trò là cầu nối giữa các doanh nghiệp và thương nhân với các nhà cung ứng tại Nhật Bản, giúp họ tiếp cận nguồn hàng chính thống đa dạng với giá cả cạnh tranh nhất."
+    },
+    "airFreight": {
+      "heading": "Vận tải hàng không & Thủ tục hải quan",
+      "subHeading": "Hưởng lợi từ các mối quan hệ đối tác hàng không của chúng tôi đối với các lô hàng có giá trị cao và yêu cầu gấp về thời gian. Hợp lý hóa các thủ tục hải quan, tránh chậm trễ và nâng cao trải nghiệm vận chuyển toàn cầu với các dịch vụ khai báo hải quan chuyên nghiệp của chúng tôi.."
+    },
+    "crossBorder": {
+      "heading": "Vận chuyển xuyên biên giới",
+      "subHeading": "Ezbuy Japan cung cấp dịch vụ chuyển phát quốc tế bằng đường hàng không và đường biển từ Nhật Bản đến hơn 220 quốc gia. Chúng tôi có sẵn nhiều phương thức vận chuyển khác nhau và các dịch vụ tùy chọn để đảm bảo giao hàng nhanh chóng, an toàn với chi phí rẻ nhất. Với các giải pháp vận chuyển toàn tiện, Ezbuy Japan tự tin có thể đáp ứng mọi nhu cầu vận chuyển của khách hàng"
+    },
+    "sellOverseas": {
+      "heading": "Bán hàng ra nước ngoài",
+      "subHeading": "Cho phép doanh nghiệp Nhật Bản mở rộng cơ hội bán hàng cho người mua ở nước khác  thông qua thẻ Javascript. Ezbuy Japan sẽ nhận yêu cầu từ khách hàng ngoại quốc, hỗ trợ thanh toán quốc tế, thực hiện mua hàng hộ từ Nhật Bản, xử lý vận chuyển xuyên biên giới và giao hàng chặng cuối ở nước ngoài."
+    },
+    "ourPartner": {
+      "heading": "Đối tác của chúng tôi",
+      "tabs": [
+        {
+          "title": "Đối tác vận chuyển",
+          "description": "Ezbuy Japan giữ quan hệ đối tác chiến lược bền vững với các hãng vận chuyển nổi tiếng ở Nhật Bản."
+        },
+        {
+          "title": "Đối tác thương hiệu",
+          "description": "Chúng tôi hợp tác với nhiều thương hiệu nổi tiếng Nhật Bản để giúp khách hàng tiếp cận nguồn hàng chính ngạch đáng tin cậy với giá cả phải chăng."
+        }
+      ]
+    },
+    "customerStories": {
+      "heading": "Câu chuyện khách hàng",
+      "subHeading": "Cùng nghe xem khách hàng nói gì về Ezbuy Japan",
+      "stories": [
+        {
+          "heading": "Treasure Box",
+          "subHeading": "Cơ hội vàng cho người biết nắm bắt thị trường",
+          "description": "Ezbuy Japan đã giúp sản phẩm của chúng tôi luôn xuất hiện trên trang đầu của các website Thương mại điện tử hàng đầu Nhật Bản như Yahoo Shopping, Amazon Japan, Rakuten. Doanh số bán hàng của chúng tôi tăng trưởng đều đặn trong hơn 1 năm qua, một số sản phẩm thường xuyên trong tình trạng “cháy hàng”."
+        },
+        {
+          "heading": "SmarkLabs",
+          "subHeading": "ký hàng hóa  thông minh hơn, phát triển nhanh hơn",
+          "description": "Với sự đồng hành nhiệt tình của Ezbuy Japan trong quá trình lưu kho, lấy hàng, đóng gói và vận chuyển, hoạt động kinh doanh bán lẻ mới của chúng tôi đã để lại ấn tượng mạnh với khách hàng về việc đóng gói cẩn thận và thời gian vận chuyển nhanh chóng, giúp chúng tôi tiến gần hơn đến mục tiêu thành công đã đặt ra ban đầu."
+        },
+        {
+          "heading": "Mr Nicolas ",
+          "subHeading": "Tăng tỷ lệ đấu giá thành công hơn 45%",
+          "description": "Tôi đã mua hàng Nhật qua sàn Janbox của Ezbuy Japan được một thời gian. Cá nhân tôi đánh giá nguồn hàng đa dạng và chính hãng. Tôi cũng đã ủy quyền Ezbuy Japan thương lượng với nhà cung cấp để lấy hàng số lượng lớn, nhờ vậy tôi có thể mua hàng sỉ với mức giá hợp lý."
+        }
+      ]
+    },
+    "news": {
+      "heading": "Tin tức mới nhất",
+      "subHeading": "Truy cập blog của chúng tôi để xem các bài viết mới nhất về thương mại điện tử và logistics cho mọi mô hình kinh doanh."
+    },
+    "common": {
+      "airFreight": "Hàng không",
+      "seaFreight": "Hàng hải",
+      "surfaceFreight": "Đường bộ",
+      "express": "Hoả tốc",
+      "crossBorder": "Xuyên biên giới",
+      "lastMile": "Last mile"
+    }
+  },
+  "aboutUs": {
+    "aboutUs": "Về chúng tôi",
+    "home": "Trang chủ",
+    "whoWeAre": "Chúng tôi là ai?",
+    "contentWhoWeAre1": [
+      "Công ty Cổ phần Ezbuy Japan (Ezbuy Japan JSC)",
+      " được thành lập vào năm 2020 tại Tokyo, Nhật Bản."
+    ],
+    "contentWhoWeAre2": "Với tầm nhìn dài hạn hướng đến sự phát triển bền vững, chúng tôi tập trung xây dựng các giải pháp trọn gói (one-stop solutions) nhằm thúc đẩy ngành thương mại điện tử toàn cầu.",
+    "contentWhoWeAre3": "Chúng tôi mong muốn trở thành chiếc cầu nối đưa tinh hoa Nhật Bản đến với các quốc gia trên thế giới, đồng hành cùng các doanh nghiệp phát triển mạnh mẽ tại xứ sở mặt trời mọc.",
+    "contentWhoWeAre4": "Với công nghệ tiên tiến, năng lực chuyên môn về thương mại xuyên biên giới và hiểu biết sâu sắc thị trường nội địa, Ezbuy Japan tự hào là chiếc cầu kết nối Nhật Bản với thế giới”",
+    "generalInformation": "Thông Tin Chung",
+    "tradingName": "Tên giao dịch",
+    "contentTradingName": "Công ty Cổ phần Ezbuy Japan (Ezbuy Japan ., Jsc)",
+    "address": "Địa chỉ",
+    "contentAddress": "〒136-0075 TOKYO, KOTO, SHINSUNA, 3 CHOME−10−8, 1F WAREHOUSE 3",
+    "certificateOfBusinessRegistrationNo": "Giấy chứng nhận đăng ký doanh nghiệp số",
+    "officeInVietnam": "Văn phòng",
+    "contentOfficeInVietnam": " Số 8, Lê Quang Đạo, Nam Từ Liêm, Hà Nội",
+    "ownersCharterCapital": "Vốn điều lệ của chủ sở hữu",
+    "contentOwnersCharterCapital": "60.000.000¥",
+    "postcode": "Postcode",
+    "contentPostcode": "〒136-0075",
+    "website": "Website",
+
+    "mission": "Sứ mệnh",
+    "contentMission": "Với tầm nhìn trở thành nhà hỗ trợ thương mại điện tử xuyên biên giới hàng đầu cho cả người mua và người bán, Ezbuy Japan nỗ lực mang đến các giải pháp thương mại điện tử xuyên biên giới toàn diện. Giải pháp của chúng tôi được xây dựng trên nền tảng công nghệ dẫn đầu, với kiến thức chuyên sâu và niềm đam mê phụng sự khách hàng, nhằm giúp doanh nghiệp khai thác tối đa tiềm năng tăng trưởng.",
+    "vision": "Tầm nhìn",
+    "contentVision": "Với tầm nhìn trở thành người dẫn đầu trong lĩnh vực hỗ trợ thương mại điện tử cho cả người mua và người bán, Ezbuy Japan mang đến các giải pháp thương mại điện tử xuyên biên giới toàn diện nhất. Giải pháp của chúng tôi được xây dựng trên nền tảng công nghệ hàng đầu, với kiến thức chuyên sâu và sự đam mê trong việc phục vụ khách hàng, nhằm giúp doanh nghiệp khai thác tiềm năng tăng trưởng.",
+
+    "ceoStatement": "Thông điệp CEO",
+    "statementContent1": "Ezbuy Japan sở hữu thế mạnh về nền tảng công nghệ cùng đội ngũ chuyên gia nhiều năm kinh nghiệm. Công ty đã mở rộng mô hình kinh doanh, từ sàn thương mại điện tử xuyên biên giới thành một công ty hỗ trợ thương mại điện tử từ đến đến cuối cho người nước ngoài tại Nhật Bản. Chúng tôi tập trung phát triển mạnh ở các dịch vụ fulfillment, mua sắm xuyên biên giới và bán hàng tại Nhật. Với phương châm “Khách hàng là trung tâm”, chúng tôi không ngừng nỗ lực nâng cao chất lượng dịch vụ để đáp ứng nhu cầu của khách hàng tốt hơn mỗi ngày.",
+    "statementContent2": "Tuy vậy, không có con đường nào dẫn tới thành công lại trải đầy hoa hồng. Để đạt được những thành tựu trên, Ezbuy Japan đã vượt qua nhiều thời điểm khó khăn mà năm 2021 là một ví dụ điển hình khi các biến chủng Covid-19 gây tác động nghiêm trọng đến kinh tế và giao thương toàn cầu. Thu nhập bị ảnh hưởng dẫn đến sức mua của người dân thu hẹp. Tuy nhiên, ở một góc nhìn khác, nhu cầu tiêu dùng thường thay đổi tỷ lệ thuận với thu nhập của người dân, vì vậy hoàn toàn có thể kỳ vọng khi thu nhập tăng lên trong “điều kiện bình thường mới”, mức tiêu thụ cũng sẽ cải thiện mạnh mẽ.",
+    "statementContent3": "Năm 2023, với tinh thần 5K: Kiên định mục tiêu – Kiểm soát rủi ro – Không ngại thay đổi – Khai thác cơ hội – Kết nối bền vững, tập thể Ezbuy Japan đang nỗ lực để tạo ra đột phá, tạo bước đà phát triển cho giai đoạn chiến lược 5 năm tiếp theo 2023-2028. Trên cơ sở tiếp tục phát huy những thành tựu của giai đoạn trước, đồng thời khai thác những tiềm năng chưa khai phá, Ezbuy Japan đặt mục tiêu đưa tên tuổi và quy mô của mình ngày càng lớn mạnh hơn nữa, tiến tới trở thành nhà top 5 nhà hỗ trợ thương mại điện tử hàng đầu Nhật Bản.",
+    "managingDirector": "Giám đốc điều hành",
+
+    "ourStrengths": "Thế mạnh của chúng tôi",
+    "contentOurStrengths": "Cùng tìm hiểu xem điều gì khiến Ezbuy Japan trở thành một trong những nhà hỗ trợ thương mại điện tử hàng đầu cho các doanh nghiệp nước ngoài tại Nhật Bản.",
+    "fastCrossBorderForwarding": "Vận chuyển xuyên biên giới nhanh chóng",
+    "highDensityLogisticsNetwork": "Mạng lưới kho vận dày đặc",
+    "realTimeOrderTracking": "Theo dõi đơn hàng theo thời gian thực",
+    "flexibleWholesaleECommerce": "Mua sỉ hàng hóa từ Nhật",
+    "smoothFastCustomsClearance": "Thông quan nhanh chóng & an toàn",
+    "sameDayOrderFulfillment": "Xử lý đơn hàng ngay trong ngày",
+    "sellInJapan": "Bán hàng tại Nhật",
+    "slider": {
+      "fastCrossBorderForwarding": "Vận chuyển xuyên biên giới nhanh chóng",
+      "contentFastCrossBorderForwarding": "Hệ thống vận tải tiên tiến và hiện đại của Ezbuy Japan đáp ứng được mọi nhu cầu vận chuyển.  Các chuyến bay đi đều, trung bình 5 chuyến/tuần, đảm bảo vận chuyển hàng hóa đến mọi nơi trên toàn thế giới  trong thời gian sớm nhất có thể.",
+      "highDensityLogisticsNetwork": "Mạng lưới kho vận dày đặc",
+      "contentHighDensityLogisticsNetwork": "Ngoài việc sở hữu hệ thống cross-docking và kho ngoại quan lớn tại Nhật Bản, Mỹ và Việt Nam. Ezbuy Japan cũng liên kết và mở rộng mạng lưới kho vận khổng lồ từ các đối tác trên toàn cầu để đảm bảo lưu trữ hàng hóa an toàn và giảm chi phí vận chuyển trong thời gian dài.",
+      "realTimeOrderTracking": "Theo dõi đơn hàng theo thời gian thực",
+      "contentRealTimeOrderTracking": "Ezbuy Japan đẩy thông tin vận chuyển từ nhiều hãng vận chuyển vào bảng điều khiển hợp nhất thông qua API, cho phép người dùng dễ dàng theo dõi hành trình đơn hàng từ khi xác nhận vận chuyển đến khi giao hàng thành công.",
+      "flexibleWholesaleECommerce": "Mua sỉ hàng hóa từ Nhật",
+      "contentFlexibleWholesaleECommerce": " Các doanh nghiệp sử dụng dịch vụ mua hàng sỉ của Ezbuy Japan đều sẽ được các chính sách ưu đãi nhất để tối ưu hóa chi phí kinh doanh. Chúng tôi có khả năng đàm phán và thỏa thuận với các nhà cung cấp tại Nhật để áp dụng các mức giá khác nhau, đặc biệt là giá ưu đãi cho các đơn đặt hàng số lượng lớn.",
+      "smoothFastCustomsClearance": "Thông quan nhanh chóng & an toàn",
+      "contentSmoothFastCustomsClearance": "Ezbuy Japan cung cấp các giấy tờ khai báo hải quan có thể điền trực tiếp trên website, đi kèm các tài liệu bổ sung để sẵn sàng tải xuống khi có yêu cầu. Điều này góp phần tránh sai sót và làm cho toàn bộ quy trình thông quan trở nên an toàn, minh bạch và rõ ràng ở tất các các bước.",
+      "sameDayOrderFulfillment": "Xử lý đơn hàng ngay trong ngày",
+      "contentSameDayOrderFulfillment": "Ezbuy Japan tích hợp hệ thống quản lý đơn hàng hiện đại bậc nhất với các trang thương mại điện tử hàng đầu Nhật Bản. Thông qua dữ liệu chi tiết từ hệ thống, các đơn hàng đều được xử lý chính xác, chuyên nghiệp và nhanh chóng ngay sau khi có khách đặt hàng.",
+      "sellInJapan": "Bán hàng tại Nhật",
+      "contentSellInJapan": "Hỗ trợ từ A đến Z các thương nhân thâm nhập, bán hàng và phát triển mạnh tại thị trường Nhật Bản từ việc tạo tài khoản bán hàng, lưu trữ hàng tồn kho và xử lý đơn đặt hàng đến vận chuyển tận tay khách hàng ngay trong ngày hôm sau."
+    },
+
+    "ourCulture": "Văn hóa",
+    "contentOurCulture": "Bước vào nền văn hóa sôi động của công ty chúng tôi - nơi sự sáng tạo, tình bạn, lòng dũng cảm, niềm đam mê và văn hóa Nhật Bản đan xen để tạo nên trải nghiệm nơi làm việc đặc biệt.",
+    "innovationCreativity": "Đổi mới & sáng tạo",
+    "contentInnovationCreativity": "Chúng tôi không ngừng học hỏi từ khách hàng, đối tác và đồng nghiệp của mình để có tư duy vượt trội, nỗ lực đi đầu trong công nghệ mới, sản phẩm mới và phương pháp quản lý mới.",
+    "sharing": "Chia sẻ",
+    "contentSharing": "Tại Ezbuy Japan, chúng tôi đề cao văn hóa chia sẻ. Chúng tôi tin rằng ý thức mạnh mẽ về giá trị của văn hóa chia sẻ cho phép Ezbuy Japan duy trì và phát triển một cộng đồng chung và văn hóa doanh nghiệp.",
+    "dareToThinkDareToAct": "Dám nghĩ, dám làm",
+    "contentDareToThinkDareToAct": "Xoay quanh giá trị này, đội ngũ Ezbuy Japan luôn thiết lập mục tiêu và các bước hành động cụ thể. Tinh thần dám nghĩ giúp phát huy năng lực của từng thành viên Ezbuy Japan đến mức tối đa. Hành động chính là sức mạnh, chỉ có hành động mới có thể hoàn thành sứ mệnh và tạo ra những giá trị tốt đẹp. Chúng tôi luôn nỗ lực theo đuổi mục tiêu đến cùng và can đảm đối mặt với mọi thách thức.",
+    "upholdPromoteJapaneseTradition": "Duy trì & phát huy truyền thống Nhật Bản",
+    "contentUpholdPromoteJapaneseTradition": "Ezbuy Japan luôn đề cao tinh thần làm việc tích cực và hiệu quả của Nhật Bản. Chúng tôi luôn nỗ lực học hỏi và khuyến khích nhân viên phát huy những giá trị truyền thống tốt đẹp của dân tộc mình.",
+    "teamwork": "Đồng đội",
+    "contentTeamwork": "Ở Ezbuy Japan, mọi thành viên đều được quan tâm, giúp đỡ và cùng đồng tâm, đồng sức hướng đến một mục tiêu chung “vì sự hài lòng của khách hàng và sự phát triển trường tồn của công ty”.",
+
+    "trustSecurity": "An toàn & Bảo mật",
+    "contentTrustSecurity": "Cam kết của chúng tôi trong việc bảo vệ quyền riêng tư và bảo mật dữ liệu của khách hàng.",
+    "dataProtection": "Bảo vệ dữ liệu",
+    "contentDataProtection": "Thực hiện các biện pháp mạnh mẽ để bảo vệ dữ liệu của khách hàng và nâng cao tính bảo mật của nó.",
+    "secureTransactions": "Giao dịch an toàn",
+    "contentSecureTransactions": "Sử dụng các giao thức mã hóa tiêu chuẩn để bảo vệ thông tin khách hàng trong các giao dịch trực tuyến.",
+    "limitedAccess": "Hạn chế truy cập",
+    "contentLimitedAccess": "Hạn chế quyền truy cập vào dữ liệu khách hàng trừ khi khách ủy quyền, đảm bảo tính bảo mật và ngăn chặn việc sử dụng trái phép.",
+    "complianceWithRegulations": "Tuân thủ các quy định",
+    "contentComplianceWithRegulations": "Tuân thủ tất cả các điều luật và quy định về quyền riêng tư có liên quan tại Nhật Bản để đảm bảo bảo vệ quyền lợi của khách hàng.",
+    "transparency": "Minh bạch",
+    "contentTransparency": "Cung cấp thông tin rõ ràng và minh bạch về các hoạt động thu thập và sử dụng dữ liệu của chúng tôi, trao quyền cho khách hàng trong việc đưa ra lựa chọn.",
+    "secureInfrastructure": "Hạ tầng thông tin an toàn",
+    "contentSecureInfrastructure": "Sử dụng cơ sở hạ tầng công nghệ mạnh mẽ và triển khai các giao thức bảo mật nghiêm ngặt để ngăn chặn truy cập trái phép và vi phạm dữ liệu."
+  },
+  "common": {
+    "learnMore": "Tìm hiểu thêm",
+    "viewMore": "Xem thêm",
+    "getStarted": "Bắt đầu với Ezbuy Japan"
+  },
+  "blog": {
+    "heading": "Bài đăng mới nhất",
+    "all": "Tất cả",
+    "relatedBlogs": "Bài viết liên quan",
+    "toc": "Nội dung chính"
+  },
+  "services": {
+    "header": {
+      "homePage": "Trang chủ",
+      "warehouseFulfillment": "Warehouse Fulfillment",
+      "xBorderEcommerce": "TMĐT xuyên biên giới",
+      "xBorderShipping": "Vận chuyển xuyên biên giới",
+      "sellInJapan": "Bán hàng tại Nhật",
+      "airFreight": "Vận tải hàng không & Thủ tục hải quan",
+      "sellOverseas": "Sell Overseas",
+      "siv": "Bán hàng tại Việt Nam",
+      "dropshipping": "Giải pháp Dropshipping"
+    },
+    "warehouseFulfillment": {
+      "banner": {
+        "heading": ["Dịch vụ", "warehouse fulfillment"],
+        "subHeading": [
+          "Với hệ thống quản lý kho hàng tiên tiến và đội ngũ giàu kinh nghiệm, chúng tôi đảm bảo xử lý đơn hàng, đóng gói và vận chuyển nhanh chóng. Bạn chỉ việc tập trung phát triển hoạt động kinh doanh.",
+          "Hãy nói lời tạm biệt với những vấn đề đau đầu về quản lý tồn kho và xử lý hàng hóa, Ezbuy Japan sẽ lo tất cho bạn."
+        ],
+        "contents": [
+          "Bạn sở hữu một cửa hàng trực tuyến với đa dạng sản phẩm, nhưng lại ngại rắc rối trong việc xử lý đơn hàng tại kho?",
+          "Bạn muốn vận chuyển nhanh trong 2 ngày cho các đơn hàng của mình?",
+          "Hay đơn giải là muốn giải phóng kho bãi và chuyển khâu đóng gói và vận chuyển sang cho cho bên khác?"
+        ]
+      },
+      "whyChooseEzbuy": {
+        "heading": "Tại sao bạn nên chọn dịch vụ fulfillment của Ezbuy",
+        "subHeading": "Với giải pháp thực hiện đơn hàng đặc biệt của Ezbuy, bạn có thể dễ dàng quản lý tất cả các đơn đặt hàng của mình trong khi bán hàng tại Nhật Bản.",
+        "solutions": [
+          "Xử lý đơn hàng hiệu quả",
+          "Tiết kiệm về chi phí",
+          "Đóng gói chuyên nghiệp",
+          "Tích hợp với sàn TMĐT",
+          "Mạng lưới trung tâm xử lý đơn hàng rộng khắp",
+          "Quản lý hoàn hàng hiệu quả"
+        ],
+        "solutionContents": [
+          "Các trung tâm hoàn thiện đơn hàng của Ezbuy Japan được trang bị công nghệ tiên tiến và quy trình hiệu quả để xử lý đơn hàng một cách nhanh chóng và chính xác. Điều này đảm bảo rằng các đơn đặt hàng của khách hàng được nhặt, đóng gói và vận chuyển kịp thời.",
+          "Với mạng lưới rộng khắp và quan hệ đối tác lâu năm với nhiều hãng vận chuyển khác nhau, Ezbuy Japan có thể thương lượng để đem về mức giá vận chuyển cạnh tranh, giúp doanh nghiệp tiết kiệm chi phí.",
+          "Các trung tâm hoàn thiện đơn hàng của Ezbuy Japan đảm bảo rằng các sản phẩm được đóng gói và bảo vệ chuyên nghiệp trong quá trình vận chuyển, giảm thiểu rủi ro hư hỏng và cải thiện trải nghiệm tổng thể của khách hàng.",
+          "Chúng tôi tích hợp với nhiều nền tảng thương mại điện tử khác nhau, giúp các doanh nghiệp đồng bộ hóa các cửa hàng trực tuyến của họ với hệ thống thực hiện của Ezbuy Japan một cách liền mạch. Sự tích hợp này giúp đơn giản hóa việc quản lý hàng tồn kho và theo dõi đơn hàng.",
+          "Với nhiều trung tâm hoàn thiện đơn hàng có vị trí chiến lược, Ezbuy Japan có thể phân phối hiệu quả các sản phẩm trên nhiều khu vực khác nhau. Điều này cho phép doanh nghiệp tiếp cận khách hàng nhanh hơn và giảm chi phí vận chuyển.",
+          "Ezbuy Japan xử lý quy trình trả lại hàng trong kho một cách hiệu quả, giúp doanh nghiệp xử lý hàng trả lại và hoàn tiền dễ dàng hơn. Điều này rất quan trọng để duy trì sự hài lòng và tạo dựng niềm tin cho khách hàng."
+        ]
+      },
+      "process": {
+        "heading": "Quy trình xử lý đơn hàng trong kho",
+        "contents": [
+          {
+            "title": "Nhận hàng",
+            "des": "Hàng hoá được nhập vào kho."
+          },
+          {
+            "title": "Chuyển hàng vào kho",
+            "des": "Chuyển hàng hoá từ khu vực nhận hàng vào trong kho và phân loại vị trí hàng hoá để lấy hàng nhanh chóng và chính xác."
+          },
+          {
+            "title": "Nhặt và đóng gói",
+            "des": "Nhặt và đóng gói hàng hoá, chuẩn bị sẵn sàng gửi cho khách."
+          },
+          {
+            "title": "Vận chuyển",
+            "des": "Gửi đơn hàng cho khách và đảm bảo đơn hàng đến nơi an toàn và đúng hẹn."
+          },
+          {
+            "title": "Hoàn trả",
+            "des": "Các đơn đặt hàng bị trả quay trở lại kho của chúng tôi để xử lý."
+          }
+        ]
+      },
+      "storage": {
+        "heading": "Năng lực lưu kho",
+        "subHeading": "Xem cách mà chúng tôi tối ưu hóa kho hàng để đáp ứng các  yêu cầu lưu trữ của bạn.",
+        "contents": [
+          {
+            "title": "Diện tích",
+            "subTitle": "Cơ sở lưu trữ rộng rãi",
+            "des": "Dịch vụ thực hiện kho hàng của Ezbuy Japan cung cấp không gian lưu trữ rộng rãi và an toàn để chứa hàng hóa tồn kho của bạn. Với không gian được sắp xếp hợp lý, chúng tôi đảm bảo việc tiếp cận và truy xuất sản phẩm dễ dàng, giúp toàn bộ quá trình thực hiện đơn hàng trở nên suôn sẻ."
+          },
+          {
+            "title": "Giá cả",
+            "subTitle": "Giải pháp lưu kho tiết kiệm chi phí",
+            "des": "Với dịch vụ lưu kho và xử lý hàng hóa của Ezbuy Japan, doanh nghiệp có thể tiết kiệm một khoản lớn chi phí vận hành. Chúng tôi cho phép  dùng đến đâu trả đến đấy, bạn chỉ cần trả tiền cho diện tích cũng như số đơn hàng mà bạn cần "
+          },
+          {
+            "title": "Độ an toàn",
+            "subTitle": "Kho hàng bảo mật cao",
+            "des": "Hàng hóa của bạn luôn sẽ luôn được đảm bảo an toàn. Kho của chúng tôi được trang bị các biện pháp an ninh hiện đại, bao gồm camera giám sát, hệ thống kiểm soát ra vào và giám sát tại chỗ 24/7, đảm bảo môi trường an toàn để lưu trữ hàng hóa giá trị."
+          },
+          {
+            "title": "Nhiệt độ",
+            "subTitle": "Kho hàng kiểm soát nhiệt độ",
+            "des": "Bảo vệ hàng hóa nhạy cảm hoặc dễ hư hỏng của bạn với các kho lạnh tiêu chuẩn của Ezbuy Japan. Chúng tôi duy trì mức nhiệt độ và độ ẩm tối ưu để bảo vệ chất lượng sản phẩm của bạn, đảm bảo hàng hóa không bị hư hại bởi các tác nhân xấu từ môi trường."
+          },
+          {
+            "title": "Cá nhân hóa",
+            "subTitle": "Customized storage solutions",
+            "des": "Chúng tôi hiểu rằng mỗi doanh nghiệp là bản thể riêng biệt. Dịch vụ thực hiện kho hàng của Ezbuy Japan cung cấp các giải pháp lưu trữ có thể tùy chỉnh để đáp ứng nhu cầu cụ thể của từng doanh nghiệp. Các yếu tố như lượng hàng, giá đỡ, pallet, thiết bị,... đều có thể điều chỉnh chỉnh theo từng yêu cầu của khách hàng."
+          }
+        ]
+      },
+      "inventory": {
+        "heading": "Quản lý hàng tồn kho thông qua OMS",
+        "subHeading": "Xem cách chúng tôi áp dụng hệ thống quản lý hàng tồn kho tiên tiến để theo dõi hàng hóa được lưu trữ trong kho.",
+        "contents": [
+          {
+            "title": "Quản lý đa kho",
+            "des": "Nếu bạn có nhiều kho hàng hoặc trung tâm thực hiện đơn hàng, phần mềm OMS của chúng tôi có thể quản lý hiệu quả hàng tồn kho trên tất cả các địa điểm. Điều này giúp giảm chi phí vận chuyển và nâng cao hiệu quả thực hiện đơn hàng."
+          },
+          {
+            "title": "Theo dõi hàng tồn kho theo thời gian thực",
+            "des": "OMS của Ezbuy Japan cung cấp thông tin cập nhật theo thời gian thực về mức tồn kho của bạn. Bạn có thể dễ dàng theo dõi số lượng hàng tồn kho, đảm bảo bạn thông tin kho hàng chính xác để quy trình xử lý đơn hàng diễn ra suôn sẻ. "
+          },
+          {
+            "title": "Báo động mức tồn kho",
+            "des": "Với OMS của chúng tôi, bạn có thể thiết lập các mốc tự động đặt hàng lại cho các sản phẩm. Khi hàng tồn kho xuống đến một ngưỡng nhất định, hệ thống sẽ tự tạo đơn đặt hàng mới hoặc gửi cảnh báo bổ sung, ngăn chặn tình trạng hết hàng và tối ưu hóa mức hàng tồn kho."
+          },
+          {
+            "title": "Tự động đồng bộ kho hàng",
+            "des": "OMS đóng vai trò là bảng điều khiển tập trung để quản lý hàng tồn kho trên nhiều kênh bán hàng. Cho dù bạn bán thông qua trang web, mạng xã hội hay cửa hàng vật lý, bạn có thể theo dõi tất cả biến động của kho hàng từ một nền tảng duy nhất."
+          },
+          {
+            "title": "Nhập trước xuất trước (FIFO)",
+            "des": "Đối với các sản phẩm có thời hạn sử dụng hạn chế, chúng tôi triển khai hệ thống FIFO (First-In-First-Out) để đảm bảo các mặt hàng cũ được gửi trước, giảm nguy cơ để hàng hết hạn, gây lãng phí và tốn kém."
+          }
+        ]
+      },
+      "facilities": {
+        "heading": "Cơ sở vật chất kho bãi",
+        "subHeading": "Khám phá nhà kho có cơ sở vật chất hiện đại bậc nhất - nơi chúng tôi làm tất cả để bảo vệ hàng hóa của bạn."
+      },
+      "valueAdded": {
+        "heading": "Dịch vụ giá trị gia tăng",
+        "subHeading": "Ezbuy Japan cung cấp các dịch vụ giá trị gia tăng để nâng tầm sản phẩm cho doanh nghiệp, đảm bảo hoạt động hiệu quả và làm hài lòng khách hàng.",
+        "contents": [
+          {
+            "title": "Đóng gói tùy chỉnh",
+            "des": "Chúng tôi cung cấp các tùy chọn đóng gói được cá nhân hóa, chẳng hạn như gói quà và bao bì có thương hiệu, giúp nâng cao trải nghiệm của khách hàng và thêm nét độc quyền cho sản phẩm."
+          },
+          {
+            "title": "Dán nhãn và in mã vạch sản phẩm",
+            "des": "Ghi nhãn và mã vạch sản phẩm chính xác là yếu tố rất quan trọng để đảm bảo theo dõi hàng tồn kho suôn sẻ và xử lý đơn hàng nhanh chóng. "
+          },
+          {
+            "title": "Đóng gói lại sản phẩm",
+            "des": "Một số sản phẩm có thể cần đóng gói lại để tuân thủ các quy định của địa phương hoặc chuyển sang phương thức đóng gói hiệu quả hơn cho việc vận chuyển. Chúng tôi cung cấp dịch vụ này để hỗ trợ khách hàng trong mọi trường hợp."
+          },
+          {
+            "title": "Xử lý tân trang hàng trả lại",
+            "des": "Ezbuy Japan xử lý các đơn hàng bị trả lại một cách hiệu quả. Chúng tôi cung cấp các dịch vụ kiểm tra, nghiệm thu và tân trang, giúp cho các sản phẩm bị trả lại đạt tiêu chuẩn để tiếp tục bán."
+          }
+        ]
+      },
+      "partner": {
+        "heading": "Đối tác & Mạng lưới",
+        "subHeading": "Dịch vụ warehouse fulfillment của Ezbuy Japan tại Nhật Bản tận dụng mạng lưới đối tác mạnh mẽ, đảm bảo hoàn tất đơn hàng chuyên nghiệp, giao hàng nhanh chóng và mang lại sự hài lòng vượt trội cho khách hàng.",
+        "discover": "Khám phá"
+      }
+    },
+    "xBorderEcom": {
+      "banner": {
+        "heading": "Thương mại điện tử xuyên biên giới",
+        "subHeading": "Thông qua sàn Janbox, Ezbuy Japan cho phép khách hàng quốc tế tiếp cận hơn 7 triệu sản phẩm từ Nhật Bản, tối ưu trải nghiệm mua sắm với các tính năng độc đáo như trả giá, đấu giá trực tuyến và săn hàng phút chót.",
+        "items": ["Nhà kho", "Quốc gia", "Khách hàng", "Đơn đặt hàng"]
+      },
+      "whyChooseEzbuy": {
+        "heading": "Tại sao nên chọn Ezbuy Japan?",
+        "subHeading": "Đến với Ezbuy Japan để trải nghiệm mua sắm trực tuyến xuyên biên giới không giới hạn Chúng tôi giúp bạn mua hàng từ Nhật một cách dễ dàng dù bạn ở nơi đâu.",
+        "solutions": [
+          "Đa dạng lựa chọn sản phẩm",
+          "Đảm bảo nguồn hàng chính hãng",
+          "Giá cả cạnh tranh",
+          "Vận chuyển quốc tế dễ dàng",
+          "Hỗ trợ khách hàng đa ngôn ngữ",
+          "Thanh toán linh hoạt và an toàn",
+          "Tinh giản thủ tục hải quan",
+          "Hỗ trợ mua sắm cá nhân"
+        ],
+        "solutionContents": [
+          "Nền tảng của chúng tôi cho phép khách hàng tiếp cận với hàng triệu mặt sản phẩm chính hãng từ Nhật Bản, đáp ứng được mọi nhu cầu sở thích của khách hàng.",
+          "Ezbuy Japan thiết lập mối quan hệ đối tác trực tiếp với các sàn thương mại điện tử uy tín của Nhật Bản để đảm bảo các sản phẩm đều có nguồn gốc rõ ràng, mang đến cho khách hàng sự an tâm và tin tưởng khi trải nghiệm mua sắm xuyên biên giới.",
+          "Chúng tôi nỗ lực để duy trì mức phí dịch vụ cạnh tranh, cho phép khách hàng tận hưởng những ưu đãi tốt nhất của Nhật Bản với mức giá phải chăng, biến việc mua sắm xuyên biên giới trở thành một lựa chọn đáng đồng tiền.",
+          "Ezbuy Japan đã thiết lập các mạng lưới vận chuyển rộng khắp, đảm bảo quá trình giao hàng từ Nhật Bản về tay khách hàng diễn ra suôn sẻ và nhanh chóng, giải quyết trọn vẹn các phức tạp của việc vận chuyển xuyên biên giới.",
+          "Ezbuy Japan sở hữu đội ngũ chăm sóc khách hàng hàng tận tụy và thông thạo nhiều ngôn ngữ, cung cấp cho khách hàng sự hỗ trợ và hướng dẫn nhiệt tình trong suốt hành trình mua sắm.",
+          "Ezbuy Japan đề cao bảo mật và quyền riêng tư của khách hàng. Do đó chúng tôi cung cấp các tùy chọn thanh toán an toàn cho mọi giao dịch mua hàng xuyên biên giới, bảo mật tuyệt đối thông tin tài chính cá nhân của từng khách hàng.",
+          "Đội ngũ giàu kinh nghiệm của chúng tôi xử lý tốt tất cả các thủ tục và hồ sơ hải quan, hạn chế các rủi ro có thể xảy ra và đảm bảo quy trình thông quan nhanh chóng cho các đơn hàng của bạn.",
+          "Bạn đang muốn tìm một món hàng nào đó đặc biệt ở Nhật? Dịch vụ hỗ trợ mua sắm được cá nhân hóa của chúng tôi giúp bạn tìm và mua những mặt hàng hiếm hoặc độc đáo, biến giấc mơ mua sắm xuyên biên giới của bạn thành hiện thực."
+        ]
+      },
+      "features": {
+        "heading": "Tính năng nổi bật",
+        "subHeading": "Khám phá các tính năng nổi trội khiến Ezbuy Japan trở nên khác biệt ",
+        "contents": [
+          {
+            "title": "Đấu giá trực tuyến",
+            "items": [
+              "Cho phép khách hàng quốc tế tham gia đấu giá trên các sàn lớn của Nhật Bản như Yahoo Auction, Mercari,...",
+              "Cho phép người dùng theo dõi trạng thái đặt giá thầu trong thời gian thực và điều chỉnh số tiền giá thầu của họ nếu cần.",
+              "Chức năng đấu giá VIP cho phép đấu giá sản phẩm trước người khác và thanh toán sau khi thắng đấu giá."
+            ]
+          },
+          {
+            "title": "Săn phút chót",
+            "items": [
+              "Giúp khách hàng đặt giá thầu tự động, tiết kiệm thời gian và đảm bảo giá thầu cao nhất mà không vượt quá ngân sách.",
+              "Đặt giá thầu một cách tự tin với các ưu đãi được tính toán bởi Ezbuy, tránh bị \"hớ\" giá và tối đa hóa hiệu quả chi phí."
+            ]
+          },
+          {
+            "title": "Đặt hàng nhanh",
+            "items": [
+              "Sao chép URL sản phẩm vào ô \"Đặt hàng nhanh\" và tăng tốc quá trình mua hàng thay vì nhập thông tin sản phẩm một cách thủ công",
+              "Giảm thiểu sai sót trong đặt hàng, đảm bảo khách hàng nhận đúng mặt hàng mong muốn từ trang web Nhật."
+            ]
+          },
+          {
+            "title": "Tích hợp nhiều phương thức thanh toán",
+            "items": [
+              "Chấp nhận thanh toán bằng nhiều phương thức và đơn vị tiền tệ khác nhau, hỗ trợ ở mọi vị trí địa lý.",
+              "Thường xuyên cập nhật các hướng thanh toán mới, theo dõi phản hồi của khách hàng để tối ưu hóa trải nghiệm thanh toán cho khách hàng."
+            ]
+          },
+          {
+            "title": "Trả hàng và hoàn tiền dễ dàng",
+            "items": [
+              "Cung cấp các chính sách hoàn trả và hoàn tiền dễ dàng và đơn giản cho khách hàng",
+              "Tạo quy trình trả lại đơn giản và rõ ràng với hướng dẫn từng bước và tùy chọn theo dõi để nâng cao trải nghiệm mua sắm.",
+              "Xử lý hoàn tiền nhanh chóng và luôn cập nhật tình trạng cho khách hàng, đảm bảo sự tin tưởng và hài lòng."
+            ]
+          },
+          {
+            "title": "Hỗ trợ khách hàng ở mọi múi giờ",
+            "items": [
+              "Cung cấp dịch vụ chăm sóc khách hàng 24/7 để phục vụ khách hàng ở các múi giờ khác nhau,  đảm bảo luôn sẵn sàng hỗ trợ khi khách hàng cần",
+              "Hỗ trợ khách hàng bằng nhiều ngôn ngữ để thu hẹp khoảng cách giao tiếp và hỗ trợ khách hàng quốc tế một cách hiệu quả"
+            ]
+          },
+          {
+            "title": "Ước tính các loại thuế, phí",
+            "items": [
+              "Giúp khách hàng ước tính trước thuế nhập khẩu và các chi phí có thể phải chịu khi mua hàng từ Nhật Bản",
+              "Phân loại sản phẩm để tính thuế chính xác dựa trên quy định hải quan và thuế suất tương ứng cho từng mặt hàng.",
+              "Cung cấp tính năng chuyển đổi tiền tệ theo thời gian thực để hiển thị các khoản thuế ước tính bằng loại đơn vị tiền tệ của khách hàng."
+            ]
+          }
+        ]
+      },
+      "services": {
+        "heading": "Quy trình dịch vụ",
+        "subHeading": "Quy trình dịch vụ có thể được tùy chỉnh để phù hợp với yêu cầu cụ thể của từng khách hàng.",
+        "contents": [
+          {
+            "title": "Tiếp nhận yêu cầu và đăng ký",
+            "des": "Khách hàng liên hệ với đội ngũ của Ezbuy Japan để được tư vấn, sau đó đăng ký và kích hoạt tài khoản."
+          },
+          {
+            "title": "Cung cấp hỗ trợ và hướng dẫn",
+            "des": "Tư vấn chi tiết cho khách hàng có yêu cầu, giúp họ nắm rõ các quy trình, quy định khi mua hàng từ Nhật Bản"
+          },
+          {
+            "title": "Xác minh thông tin và tài khoản",
+            "des": "Chúng tôi sẽ nhanh chóng xác minh thông tin của khách hàng và xác nhận tài khoản để tăng cường tính xác thực và bảo mật."
+          },
+          {
+            "title": "Chọn mua sản phẩm",
+            "des": "Khách hàng tự do chọn mua sản phẩm trên các trang sàn thương mại điện tử nổi tiếng ở Nhật Bản thông qua Janbox."
+          },
+          {
+            "title": "Xử lý thanh toán",
+            "des": "Khách hàng có thể thanh toán bằng nhiều đơn vị tiền tệ và phương thức thanh toán khác nhau, chúng tôi đảm bảo giao dịch diễn ra suôn sẻ và đáng tin cậy."
+          },
+          {
+            "title": "Xử lý vận chuyển",
+            "des": "Chúng tôi hợp tác với hơn 50 đơn vị vận chuyển trên toàn thế giới để đảm bảo vận chuyển suôn sẻ từ Nhật về tay khách hàng ở bất kỳ quốc gia nào."
+          },
+          {
+            "title": "Chăm sóc hậu mãi",
+            "des": "Chúng tôi cung cấp dịch vụ hỗ trợ hậu mãi, bao gồm xử lý việc đổi trả, hoàn tiền và giải quyết mọi vấn đề phát sinh."
+          }
+        ]
+      },
+      "site": {
+        "heading": "Mạng lưới vận chuyển",
+        "subHeading": "Khám phá thế giới thương mại điện tử diệu kỳ của Nhật Bản: Mua sắm toàn cầu trở nên dễ dàng với mạng lưới vận chuyển rộng khắp của chúng tôi!",
+        "contents": [
+          {
+            "title": "Rakuten",
+            "des": "Khám phá nền tảng thương mại điện tử có hàng hóa đa dạng bậc nhất"
+          },
+          {
+            "title": "Yahoo Shopping",
+            "des": "Trải nghiệm đấu giá và mua sắm thú vị ở Nhật bản"
+          },
+          {
+            "title": "Yahoo Auction",
+            "des": "Tham gia các phiên đấu giá để săn những món hàng độc đáo"
+          },
+          { "title": "Mercari", "des": "Thiên đường mua bán đồ cũ" },
+          {
+            "title": "Zozotown",
+            "des": "Khám phá thế giới thời trang và phụ kiện sành điệu"
+          },
+          {
+            "title": "Suruga-ya",
+            "des": "Thích hợp với fan hâm mộ văn hóa Nhật (anime, manga. video game, đồ chơi,...)"
+          },
+          {
+            "title": "eBay",
+            "des": "Trả giá, đấu giá và mua sắm  cả hàng mới lẫn hàng cũ"
+          },
+          { "title": "Jomashop", "des": "Đồng hồ, phụ kiện, trang sức cao cấp" }
+        ]
+      },
+      "buyingFlow": {
+        "heading": "Dành cho người dùng mới",
+        "subHeading": "Chào mừng bạn đến với Dịch vụ Thương mại điện tử xuyên biên giới từ Ezbuy. Chúng tôi lấy làm hân hạnh khi bạn chọn giải pháp của Ezbuy, được thiết kế để giúp trải nghiệm mua hàng từ Nhật của bạn trở nên dễ dàng."
+      },
+      "shipping": {
+        "heading": "Mạng lưới vận chuyển",
+        "subHeading": "Với mạng lưới vận chuyển rộng lớn, chúng tôi tự tin mang đến giải pháp vận chuyển xuyên biên giới tốt nhất cho khách hàng quốc tế. Hãy cùng khám phá những điểm đến mà chúng tôi hỗ trợ vận chuyển đến.",
+        "fulfillmentCapacity": "Năng lực xử lý đơn hàng",
+        "orderAccuracy": "Tỉ lệ chính xác của đơn hàng",
+        "shippingPartner": "Đối tác vận chuyển",
+        "totalWarehouseSpace": "Tổng diện tích kho bãi",
+        "items": [
+          "Dịch vụ đóng gói và dán nhãn",
+          "Linh hoạt và dễ mở rộng",
+          "Quản lý đổi trả hiệu quả",
+          "Xử lý đơn hàng ngay trong ngày",
+          "Phần mềm OMS & WMS",
+          "Quy trình xử lý đơn hàng chuyên nghiệp"
+        ]
+      }
+    },
+    "xBorderShip": {
+      "banner": {
+        "heading": "Vận chuyển xuyên biên giới",
+        "subHeading": "Ezbuy Japan cung cấp dịch vụ chuyển phát quốc tế bằng đường hàng không và đường biển từ Nhật Bản đến hơn 220 quốc gia. Chúng tôi có sẵn nhiều phương thức vận chuyển khác nhau và các dịch vụ tùy chọn để đảm bảo giao hàng nhanh chóng, an toàn với chi phí rẻ nhất. Với các giải pháp vận chuyển toàn tiện, Ezbuy Japan tự tin có thể đáp ứng mọi nhu cầu vận chuyển của khách hàng"
+      },
+      "whyChooseEzbuy": {
+        "heading": "Tại sao nên chọn chúng tôi?",
+        "subHeading": "Trải nghiệm sự tiện lợi của mua sắm toàn cầu từ Nhật với dịch vụ vận chuyển xuyên biên giới của Ezbuy Japan.",
+        "solutions": [
+          "Phạm vi vận chuyển toàn cầu",
+          "Đa dạng lựa chọn vận chuyển",
+          "Hỗ trợ thủ tục hải quan",
+          "Cho phép theo dõi hàng hóa",
+          "Tiết kiệm chi phí",
+          "Giao hàng nhanh chóng",
+          "Đóng gói hàng hóa an toàn",
+          "Chăm sóc khách hàng 24/7",
+          "Giàu chuyên môn và kinh nghiệm"
+        ],
+        "solutionContents": [
+          "Dịch vụ vận chuyển xuyên biên giới của chúng tôi cho phép bạn tiếp cận khách hàng và đối tác trên toàn thế giới. Ezbuy Japan có mạng lưới các tuyến vận chuyển quốc tế rộng lớn, đảm bảo lô hàng của bạn có thể đến hầu như mọi điểm đến trên toàn cầu..",
+          "Ezbuy Japan hiểu rằng mỗi loại hàng hóa có một yêu cầu vận chuyển riêng. Do đó, chúng tôi cung cấp nhiều hình thức vận chuyển cho khách hàng tùy chọn, bao gồm giao hàng nhanh, tiêu chuẩn và tiết kiệm. Khách hàng có thể linh hoạt lựa chọn hình thức phù hợp nhất với nhu cầu và ngân sách của mình.",
+          "Điều hướng các quy định và thủ tục hải quan có thể phức tạp và tốn thời gian. Ezbuy Japan cung cấp hỗ trợ thủ tục hải quan chuyên dụng, đảm bảo tất cả các thủ tục giấy tờ cần thiết được chuẩn bị và xử lý chính xác, giúp tránh các vấn đề tiềm ẩn liên quan đến hải quan.",
+          "Chúng tôi cung cấp các hệ thống theo dõi và giám sát đơn hàng hiện đại, cho phép bạn theo dõi sát sao tình trạng lô hàng của mình trong thời gian thực. Sự minh bạch này giúp bạn yên tâm và cho phép bạn cung cấp thông tin cập nhật chính xác cho khách hàng hoặc người nhận của mình.",
+          "Dịch vụ vận chuyển xuyên biên giới của chúng tôi là giải pháp tiết kiệm chi phí nhưng vẫn đảm bảo chất lượng. Chúng tôi tối ưu hóa các tuyến vận chuyển, hợp nhất các lô hàng nếu có thể và đàm phán mức giá cạnh tranh với các hãng vận tải. Tất cả để đem đến cước phí tốt nhất cho khách hàng.",
+          "Các mặt hàng yêu cầu cao về mặt thời gian đòi hỏi phải tìm được nhà cung cấp dịch vụ tin cậy và nhanh chóng. Ezbuy Japan luôn đặt tiêu chí giao hàng đúng hẹn lên hàng đầu và tìm cách hợp tác chặt chẽ với các hãng vận chuyển đáng tin cậy để đảm bảo hàng hóa của bạn đến đích nhanh chóng và hiệu quả.",
+          "Các lô hàng quốc tế cần phải tuân theo các điều kiện xử lý khác nhau trong quá trình vận chuyển. Chúng tôi cẩn thận tối đa trong việc đóng gói và xử lý hàng hóa của bạn để giảm thiểu rủi ro hư hỏng hoặc mất mát trong quá trình vận chuyển.",
+          "Đội ngũ chăm sóc khách hàng của chúng tôi sẵn sàng hỗ trợ bạn ở mọi bước trong suốt quá trình vận chuyển. Cho dù bạn có thắc mắc giấy tờ, thủ tục hải quan hay theo dõi đơn hàng, chúng tôi luôn túc trực để hỗ trợ nhanh chóng và kịp thời.",
+          "Với nhiều năm kinh nghiệm trong lĩnh vực fulfillment và vận chuyển xuyên biên giới, Ezbuy Japan đã có sự hiểu biết sâu sắc về các quy định vận chuyển quốc tế, thủ tục hải quan và các yêu cầu về chứng từ. Chuyên môn của chúng tôi đảm bảo vận chuyển suôn sẻ, giảm nguy cơ chậm trễ và sai sót."
+        ]
+      },
+      "valueAdded": {
+        "heading": "Các dịch vụ đi kèm",
+        "subHeading": "Trải nghiệm dịch vụ vận chuyển xuyên biên giới khác biệt của Ezbuy Japan với các dịch vụ giá trị gia tăng.",
+        "contents": [
+          {
+            "title": "Hợp nhất gói hàng",
+            "des": "Gom hàng trọn gói mang đến cho khách hàng giải pháp tiết kiệm chi phí vận chuyển quốc tế. Hơn nữa, việc gom kiện giúp khâu nhận hàng thuận tiện và dễ dàng hơn. Bạn có thể nhận chúng cùng một lúc thay vì nhiều lần"
+          },
+          {
+            "title": "Hỗ trợ  ngôn ngữ và dịch thuật giấy tờ",
+            "des": "Sử dụng đa ngôn ngữ để giao tiếp với khách hàng, giúp họ hiểu và tuân thủ các luật định dễ dàng hơn. Hỗ trợ dịch thuật giấy tờ và tài liệu cần thiết cho vận chuyển quốc tế. "
+          },
+          {
+            "title": "Đóng gói bảo vệ",
+            "des": "Để đảm bảo rằng hàng hóa không bị hư hỏng trong quá trình vận chuyển quốc tế, chúng tôi khuyên bạn nên sử dụng dịch vụ đóng gói bảo vệ để giảm thiểu rủi ro không mong muốn có thể xảy ra với gói hàng."
+          },
+          {
+            "title": "Thực hiện đơn hàng toàn cầu",
+            "des": "Hỗ trợ doanh nghiệp từ đầu đến cuối trong việc quản lý hoạt động thương mại điện tử xuyên biên giới. Các dịch vụ trọn gói bao gồm: kho bãi, thực hiện đơn hàng và giao hàng đến điểm đích."
+          },
+          {
+            "title": "Bảo hiểm hàng hóa",
+            "des": "Chúng tôi cung cấp các gpos bảo hiểm vận chuyển, bảo vệ khách hàng trước những tổn thất hoặc thiệt hại hàng hóa có thể xảy ra trong quá trình vận chuyển."
+          }
+        ]
+      },
+      "newUser": {
+        "heading": "Dành cho người dùng mới",
+        "subHeading": "Nếu bạn là người dùng mới, hãy xem các hướng dẫn và mẹo hữu ích dưới đây để đảm bảo trải nghiệm suôn sẻ dịch vụ vận chuyển xuyên biên giới của chúng tôi.",
+        "contents": [
+          {
+            "title": "Tìm hiểu quy định hải quan",
+            "des": "Tìm hiểu các quy định và yêu cầu hải quan của cả Nhật Bản lẫn nước xuất khẩu/ nhập khẩu. Đảm bảo các lô hàng của bạn tuân thủ tất cả các luật định bắt buộc."
+          },
+          {
+            "title": "Đóng gói phù hợp",
+            "des": "Đầu tư vào việc đóng gói an toàn và phù hợp để bảo vệ hàng hóa của bạn trong quá trình vận chuyển quốc tế. Chú ý các yêu cầu đóng gói cụ thể  đối với các mặt hàng dễ vỡ hoặc nhạy cảm."
+          },
+          {
+            "title": "Đảm bảo giấy tờ tài liệu chính xác",
+            "des": "Kiểm tra kỹ tất cả các chứng từ vận chuyển, bao gồm hóa đơn thương mại và danh sách hàng hóa, để đảm bảo tính chính xác và tránh chậm trễ trong quá trình thông quan."
+          },
+          {
+            "title": "Lựa chọn vận chuyển",
+            "des": "Cân nhắc các tùy chọn vận chuyển khác nhau có sẵn, xem xét các yếu tố như tốc độ, chi phí và khả năng theo dõi. Chọn phương pháp phù hợp nhất với nhu cầu của bạn."
+          },
+          {
+            "title": "Mua bảo hiểm hàng hóa",
+            "des": "Cân nhắc mua bảo hiểm cho các lô hàng của bạn để tránh rủi ro mất mát hoặc hư hỏng trong quá trình vận chuyển. Hiểu về phạm vi bảo hiểm và quy trình yêu cầu bồi thường."
+          },
+          {
+            "title": "Đảm bảo địa chỉ chính xác",
+            "des": "Cung cấp địa chỉ người nhận đầy đủ và chính xác để tránh giao hàng chậm trễ hoặc thất lạc"
+          },
+          {
+            "title": "Theo dõi đơn hàng",
+            "des": "Sử dụng các tính năng theo dõi đơn hàng để cập nhật tiến độ lô hàng của bạn trong thời gian thực. Cập nhật thông tin và duy trì liên lạc với đội ngũ chăm sóc khách hàng để được hỗ trợ kịp thời."
+          }
+        ]
+      },
+      "shipment": {
+        "heading": "Tạo lô hàng vận chuyển xuyên biên giới",
+        "subHeading": "Khởi tạo một lô hàng để vận chuyển xuyên biên giới là một quá trình nhiều bước, liên quan đến nhiều khâu và nhiều thủ tục phải chuẩn bị.",
+        "content": {
+          "solutions": [
+            "Đặt lệnh giao hàng",
+            "Tuân thủ hải quan",
+            "Đóng gói và dán nhãn",
+            "Chứng từ vận chuyển",
+            "Lựa chọn phương thức và hãng vận chuyển",
+            "Thanh toán và bảo hiểm",
+            "Theo dõi đơn hàng",
+            "Thông quan",
+            "Giao hàng đến điểm đích"
+          ],
+          "solutionContents": [
+            "Người gửi đặt lệnh gửi hàng cho người nhận ở một quốc gia khác. Người gửi cung cấp các chi tiết cần thiết như địa chỉ giao hàng, mô tả sản phẩm, số lượng và giá trị hàng hóa. ",
+            "Vận chuyển xuyên biên giới liên quan đến việc tuân thủ các quy định và yêu cầu hải quan của cả nước xuất khẩu và nước nhập khẩu. Người gửi hàng phải đảm bảo rằng hàng hóa tuân thủ tất cả các luật hải quan, thuế quan và các quy định có liên quan.",
+            "Đóng gói và dán nhãn phù hợp là điều kiện cần thiết để vận chuyển an toàn. Người gửi hàng đóng gói cẩn thận các mặt hàng, đảm bảo chúng được bảo vệ đầy đủ và dán nhãn với tất cả các thông tin cần thiết, bao gồm nhãn vận chuyển và chứng từ hải quan.",
+            "Để vận chuyển lô hàng qua biên giới, người gửi hàng phải hoàn thành các chứng từ vận chuyển khác nhau. Bộ chứng từ này bao gồm hóa đơn thương mại, danh sách đóng gói, giấy chứng nhận xuất xứ và bất kỳ tài liệu cụ thể nào khác theo yêu cầu của quốc gia đến.",
+            "Người gửi hàng lựa chọn phương thức vận chuyển phù hợp dựa trên các yếu tố như chi phí, tốc độ và tính chất của hàng hóa. Họ cũng chọn một hãng vận chuyển đáng tin cậy có kinh nghiệm trong lĩnh vực hậu cần xuyên biên giới để xử lý việc vận chuyển",
+            "Người gửi hàng sắp xếp thanh toán phí vận chuyển, thuế và các chi phí liên quan. Họ cũng có thể lựa chọn mua bảo hiểm hàng hóa để tránh khỏi rủi ro thất lạc, hỏng hóc trong quá trình vận chuyển.",
+            "Chúng tôi cung cấp khả năng theo dõi, cho phép cả người gửi và người nhận theo dõi tiến trình của lô hàng trong thời gian thực. Khả năng hiển thị này đảm bảo tính minh bạch và thông báo cho cả hai bên về ngày giao hàng ước tính.",
+            "Sau khi lô hàng được vận đến quốc gia đích, nó sẽ được thông quan. Quá trình này bao gồm kiểm tra hàng hóa, xác minh chứng tủ và thanh toán mọi thuế phí hiện hành nếu có.",
+            "Sau khi làm thủ tục, lô hàng được thông quan để giao đến địa chỉ cuối cùng của người nhận. Người vận chuyển xử lý việc giao hàng chặng cuối để đảm bảo hàng hóa đến tay người nhận một cách an toàn và đúng thời gian."
+          ]
+        }
+      }
+    },
+    "sellInJapan": {
+      "banner": {
+        "heading": "Hỗ trợ từ đầu đến cuối bán hàng TMĐT tại Nhật",
+        "subHeading": "Bạn là người bán tại nước ngoài đang tìm cách bán hàng tại Nhật? Doanh nghiệp của bạn đang muốn thâm nhập vào thị trường thương mại điện tử sôi động của Nhật Bản?",
+        "description": "Ezbuy Japan hỗ trợ từ đầu đến cuối trong việc thiết lập sự hiện diện của bạn trên các nền tảng TMĐT hàng đầu Nhật Bản. Chúng tôi giúp người bán nước ngoài tiếp cận hàng triệu khách hàng Nhật Bản, tối ưu hóa chiến lược bán hàng cũng như tuân thủ các quy định thương mại tại xứ sở mặt trời mọc."
+      },
+      "sellingAccount": {
+        "heading": "Tạo tài khoản bán hàng",
+        "subHeading": "Chúng tôi cung cấp cho bạn hướng dẫn tổng quan và chi tiết từng bước tạo tài khoản bán hàng trên các nền tảng Thương mại điện tử của Nhật Bản. Hãy xem Ezbuy Japan giúp bạn như thế nào nhé!",
+        "step": "Bước ",
+        "contents": [
+          {
+            "title": "Nghiên cứu thị trường và chọn nền tảng",
+            "des": "Ezbuy Japan giúp bạn tiến hành nghiên cứu thị trường toàn diện để hiểu khách hàng mục tiêu, đối thủ cạnh tranh và nhu cầu sản phẩm tại Nhật Bản. Sau đó, bạn chọn các nền tảng Thương mại điện tử phù hợp nhất dựa trên loại sản phẩm và thị trường mục tiêu của mình. Chúng tôi gợi ý một số nền tảng nổi tiếng như Rakuten, Amazon Japan hay Yahoo! Shopping."
+          },
+          {
+            "title": "Hỗ trợ doanh nghiệp đăng ký bán hàng tại Nhật Bản",
+            "des": "Chúng tôi hỗ trợ các doanh nghiệp nước ngoài đăng ký hoạt động tại Nhật Bản dưới pháp nhân Ezbuy. Hơn nữa, chúng tôi còn giúp doanh nghiệp xin giấy phép bán hàng cho các sản phẩm cụ thể nếu có. Ezbuy Japan cũng giúp bạn nắm chắc luật thuế Nhật Bản và các quy định về thương mại điện tử."
+          },
+          {
+            "title": "Dịch thông tin sản phẩm",
+            "des": "Chúng tôi kết nối với các bên dịch thuật để giúp bạn dịch danh mục sản phẩm, mô tả sản phẩm và tài liệu hỗ trợ khách hàng sang tiếng Nhật nhằm, giao tiếp hiệu quả với khách hàng địa phương. Đảm bảo các dịch chính xác và phù hợp với văn hóa để tạo niềm tin và nâng cao trải nghiệm mua sắm."
+          },
+          {
+            "title": "Tạo tài khoản",
+            "des": "Truy cập trang web chính thức của nền tảng thương mại điện tử đã chọn và điều hướng đến phần đăng ký tài khoản người bán. Bạn cần cung cấp thông tin doanh nghiệp chính xác, bao gồm tên công ty, thông tin liên hệ và mã số thuế."
+          },
+          {
+            "title": "Lên danh mục sản phẩm",
+            "des": "Tạo danh mục sản phẩm của bạn thật hấp dẫn bằng hình ảnh rõ nét, mô tả chi tiết và đính kèm từ khóa liên quan. Bạn có thể đưa ra giá cạnh tranh phù hợp với thị trường địa phương và xem xét chạy các chương trình khuyến mãi để thu hút khách hàng ban đầu."
+          }
+        ]
+      },
+      "fulfillment": {
+        "heading": "Dịch vụ warehouse fulfillment",
+        "subHeading": "Không đơn thuần là tạo tài khoản bán hàng, chúng tôi còn cung cấp dịch vụ hoàn hiện đơn hàng trọn gói tại kho Nhật.",
+        "contents": [
+          {
+            "title": "Kho hàng có vị trí chiến lược",
+            "des": "Các kho hàng của chúng tôi được đặt ở vị trí chiến lược trên khắp Nhật Bản, đảm bảo phạm vi bao phủ tối ưu và khả năng tiếp cận nhanh chóng đến các thành phố lớn, đảm bảo giao hàng kịp thời và giảm chi phí vận chuyển."
+          },
+          {
+            "title": "Hệ thống quản lý kho hàng tiên tiến",
+            "des": "Hệ thống quản lý hàng tồn kho tiên tiến của chúng tôi cho phép theo dõi sản phẩm của bạn theo thời gian thực. Cập nhật thông tin về mức tồn kho, trạng thái đơn hàng và chi tiết giao hàng đều nằm trong tầm kiểm soát của bạn."
+          },
+          {
+            "title": "Xử lý đơn hàng nhanh chóng",
+            "des": "Từ việc tiếp nhận đơn đến việc nhặt hàng và đóng gói, đội ngũ tận tâm của chúng tôi đảm bảo xử lý đơn hàng chính xác và hiệu quả, giảm thiểu sai sót và gửi hàng đi nhanh chóng."
+          },
+          {
+            "title": "Vận chuyển quốc tế chuyên nghiệp",
+            "des": "Tận dụng kinh nghiệm vận chuyển quốc tế tích lũy nhiều năm, chúng tôi tối ưu hóa các tuyến đường và phương thức vận chuyển để đảm bảo giao hàng an toàn và nhanh chóng đến khách hàng của bạn."
+          }
+        ]
+      },
+      "howTo": {
+        "heading": "Làm thế nào để nhập khẩu hàng hóa vào Nhật Bản",
+        "subHeading": "Nếu bạn vẫn cảm thấy lúng túng với các thủ tục nhập khẩu hàng hóa vào Nhật Bản, hãy giao lô hàng của bạn cho dịch vụ hải quan chuyên nghiệp của Ezbuy!",
+        "contents": [
+          "Nghiên cứu quy định nhập khẩu",
+          "Xác định điều kiện nhập khẩu",
+          "Chọn một bên môi giới hải quan",
+          "Tính  toán chi phí nhập khẩu",
+          "Chuẩn bị chứng từ, tài liệu",
+          "Khai báo hải quan",
+          "Nộp thuế và phí hải quan",
+          "Kiểm định và thông quan",
+          "Vận chuyển và giao hàng"
+        ],
+        "cta": "Khám phá"
+      },
+      "shipping": {
+        "heading": "Đối tác vận chuyển",
+        "subHeading": "Chúng tôi đã hợp tác với những gã khổng lồ trong giới vận chuyển quốc tế tại Nhật, đảm bảo doanh nghiệp của bạn được hỗ trợ tốt nhất khi chinh phục thị trường Nhật Bản.",
+        "contents": [
+          {
+            "title": "Japan Post",
+            "des": "Nhà cung cấp dịch vụ bưu chính và vận chuyển hàng hóa tại Nhật Bản."
+          },
+          {
+            "title": "Yamato Transport",
+            "des": "Một trong những công ty chuyển phát nhanh lớn nhất và phổ biến nhất tại Nhật Bản."
+          },
+          {
+            "title": "Sagawa Express",
+            "des": "Công ty chuyển phát nhanh hàng đầu Nhật Bản, nổi tiếng về độ nhanh chóng và an toàn."
+          },
+          {
+            "title": "Nippon Express",
+            "des": "Công ty vận tải và hậu cần hàng đầu Nhật Bản."
+          }
+        ]
+      },
+      "selling": {
+        "heading": "Đối tác bán hàng",
+        "subHeading": "Bước vào thế giới thương mại điện tử với các đối tác của chúng tôi và xem những gì họ cung cấp."
+      }
+    },
+    "airFreight": {
+      "efficient": "Giải pháp vận chuyển hàng không hiệu quả",
+      "elevate": "Nâng cao trải nghiệm mua bán xuyên biên giới của bạn với dịch vụ vận chuyển hàng không chuyên nghiệp của Ezbuy Japan.",
+      "whyChoose": "Tại sao bạn nên chọn dịch vụ vận chuyển hàng không của Ezbuy?",
+      "cost": {
+        "title": "Hiệu quả về chi phí",
+        "content": "Lựa chọn dịch vụ vận tải hàng không của Ezbuy Japan có sẽ giúp bạn cân đối được chi phí mà vẫn đảm bảo chất lượng. Chúng tôi cung cấp các tùy chọn giá cước cạnh tranh phù hợp với ngân sách của bạn, đảm bảo rằng lô hàng của bạn vận chuyển nhanh chóng mà không bị vượt quá chi phí."
+      },
+      "timely": {
+        "title": "Giao hàng kịp thời",
+        "content": "Trải nghiệm lợi thế của việc giao hàng nhanh với dịch vụ vận chuyển hàng không của Ezbuy. Hàng hóa của bạn sẽ đến đích nhanh chóng, đáp ứng các yêu cầu giao hàng gấp về mặt thời gian và nâng cao trải nghiệm mua bán xuyên biên giới."
+      },
+      "trackAnd": {
+        "title": "Khả năng theo dõi và hiển thị",
+        "content": "Khách hàng có thể yên tâm với tính năng theo dõi toàn diện của chúng tôi. Ezbuy Japan cho phép bạn giám sát các lô hàng của mình trong thời gian thực, đảm bảo minh bạch ở mọi giai đoạn. Khách hàng sẽ được liên tục cập nhật thông tin đơn hàng, đảm bảo quy trình vận chuyển diễn ra liền mạch từ điểm xuất phát đến điểm đến."
+      },
+      "value": {
+        "heading": "Dịch vụ giá trị gia tăng",
+        "subHeading": "Nâng cao trải nghiệm vận chuyển hàng không của bạn với dịch vụ giá trị gia tăng của Ezbuy: nhanh chóng, hiệu quả và cá nhân hóa.",
+        "special": {
+          "title": "Xử lý hàng hóa đặc biệt",
+          "content": "Dịch vụ vận tải hàng không của Ezbuy Japan có thể xử lý được mọi loại hàng hóa, từ hàng hóa quá khổ, hàng hạng nặng, hàng hóa nguy hiểm đến các mặt hàng có giá trị cần được chăm sóc đặc biệt. Đội ngũ của chúng tôi có giải pháp xử lý từ điểm xuất phát đến điểm đến, bao gồm các tùy chọn được cá nhân hóa để có một hành trình vận chuyển xuyên suốt."
+        },
+        "temperature": {
+          "title": "Kiểm soát nhiệt độ",
+          "content": "Hàng hóa nhạy cảm của bạn sẽ được lưu trữ an toàn với Ezbuy. Các dịch vụ kiểm soát nhiệt độ của chúng tôi cung cấp nhiều phạm vi nhiệt độ khác nhau, kèm theo các biện pháp bảo vệ và đóng gói phù hợp. Với việc tuân thủ GDP khi cần thiết, hãy yên tâm rằng hàng hóa của bạn được bảo quản nguyên vẹn trong suốt hành trình."
+        },
+        "efficient": {
+          "title": "Hợp nhất đơn hàng",
+          "content": "Đơn giản hóa hoạt động hậu cần của bạn với dịch vụ hợp nhất người mua của chúng tôi. Chúng tôi quản lý hiệu quả nhiều lô hàng đến, hợp nhất chúng thông qua mạng lưới kho hàng toàn cầu. Nhờ vậy mà quy trình xử lý cũng được đơn giản hóa, nâng cao sự tiện lợi cho khách hàng."
+        },
+        "onboard": {
+          "title": "Chuyển phát hỏa tốc",
+          "content": "Chúng tôi hiểu rằng các mặt hàng nhạy cảm thường yêu cầu cao về mặt thời gian, đó là lý do tại sao Ezbuy Japan cung cấp dịch vụ chuyển phát nhanh chuyên dụng cho từng lô hàng. Lô hàng của bạn sẽ được chuyển đến chuyến bay gần nhất, thông quan nhanh chóng và giao hàng tận nơi, đảm bảo đơn hàng cần gấp đến đích nhanh chóng và an toàn."
+        }
+      },
+      "custom": {
+        "heading": "Dịch vụ thông quan",
+        "subHeading": "Nói lời tạm biệt với thủ tục chứng từ rắc rối, sự chậm trễ và không chắc chắn với dịch vụ hải quan của Ezbuy Japan."
+      },
+      "whyChooseCustoms": {
+        "heading": "Tại sao bạn nên chọn dịch vụ thông quan của Ezbuy Japan?",
+        "subHeading": "Trải nghiệm vận chuyển quốc tế thuận tiện với dịch vụ hải quan của Ezbuy Japan",
+        "solutions": [
+          "Giàu chuyên môn và kinh nghiệm",
+          "Tiết kiệm thời gian và nguồn lực",
+          "Mạng lưới rộng rãi trên toàn cầu",
+          "Giải pháp được thiết kế riêng",
+          "Hỗ trợ đa ngôn ngữ"
+        ],
+        "solutionContents": [
+          "Ezbuy Japan tự hào có đội ngũ chuyên viên khai thuê hải quan dày dặn kinh nghiệm và kiến thức chuyên sâu về các quy định hải quan. Chúng tôi thay mặt bạn xử lý các thủ tục hải quan phức tạp, đảm bảo thông quan suôn sẻ và nhanh chóng",
+          "Bằng cách ủy thác thủ tục hải quan của bạn cho Ezbuy, bạn tiết kiệm được thời gian và công sức quý báu để có thể tập trung vào các hoạt động kinh doanh cốt lõi. Sự phức tạp của giấy tờ và thủ tục sẽ được xử lý bởi các chuyên gia, cho phép bạn chỉ tập trung vào những gì quan trọng nhất.",
+          "Mạng lưới rộng khắp của Ezbuy Japan cùng các mối quan hệ được thiết lập với các cơ quan hải quan trên toàn thế giới tạo điều kiện thông quan thuận lợi trên nhiều quốc gia khác nhau. Cho dù bạn đang nhập khẩu vào Nhật Bản hay bất kỳ quốc gia nào khác, Ezbuy Japan sẽ có cách giúp bạn.",
+          "Ezbuy Japan hiểu rằng mỗi lô hàng xuất nhập khẩu là duy nhất. Các dịch vụ thông quan của chúng tôi được tùy chỉnh theo nhu cầu cụ thể của bạn, đảm bảo rằng bạn nhận được các giải pháp phù hợp nhất với yêu cầu kinh doanh của mình.",
+          "Rào cản ngôn ngữ có thể là một thách thức khi giải quyết các thủ tục hải quan. Ezbuy Japan hỗ trợ doanh nghiệp đa ngôn ngữ, đảm bảo giao tiếp hiệu quả với cơ quan hải quan và quy trình thông quan suôn sẻ."
+        ]
+      },
+      "discover": {
+        "heading": "Quẳng gánh lo đi! Hãy để Ezbuy Japan lo thủ tục hải quan và vận chuyển hàng không cho bạn.",
+        "button": "Khám phá"
+      }
+    },
+    "b2bTrading": {
+      "title": "Bán buôn B2B",
+      "subTitle": "Mua sỉ hàng Nhật",
+      "content": "Với khát vọng đưa các sản phẩm chất lượng cao của Nhật Bản đến gần hơn với khách hàng trên toàn thế giới, Ezbuy Japan đã thiết lập mối quan hệ đối tác với các thương hiệu nội địa Nhật và trở thành đại lý phân phối toàn cầu, giúp các doanh nghiệp quốc tế dễ dàng tiếp cận hàng Nhật chính ngạch.",
+      "btn": {
+        "discover": "Khám phá",
+        "contactUs": "Liên hệ với chúng  tôi"
+      },
+      "features": {
+        "title": "Các tính năng nổi bật",
+        "subTitle": "Khám phá những giá trị chúng tôi mang lại cho doanh nghiệp của bạn thông qua dịch vụ mua hàng sỉ từ Nhật Bản",
+        "items": [
+          {
+            "name": "Cá nhân hóa tài khoản doanh nghiệp",
+            "description": "Ezbuy Japan cung cấp các tài khoản kinh doanh có thể tùy chỉnh, cho phép người mua và người bán quản lý và theo dõi đơn hàng một cách linh hoạt, tối ưu hóa việc mua sắm cho các doanh nghiệp mua hàng từ Nhật Bản."
+          },
+          {
+            "name": "Nhà cung cấp được xác thực",
+            "description": "Chúng tôi kết nối với một mạng lưới các nhà cung cấp Nhật Bản đã được xác minh, đảm bảo tính xác thực, chất lượng và độ tin cậy của các sản phẩm mà bạn tìm kiếm."
+          },
+          {
+            "name": "Đặt hàng sỉ và thương lượng giá",
+            "description": "Nền tảng của chúng tôi cho phép người mua đặt các đơn đặt hàng số lượng lớn và thương lượng giá dựa trên số lượng đơn đặt hàng, thúc đẩy các giao dịch minh bạch và lợi nhuận tốt hơn."
+          },
+          {
+            "name": "Yêu cầu báo giá (RFQ)",
+            "description": "Người mua có thể gửi yêu cầu báo giá (RFQ) cho các sản phẩm hoặc số lượng cụ thể, người bán cung cấp báo giá tùy chỉnh dựa trên yêu cầu của người mua."
+          },
+          {
+            "name": "Phương thức thanh toán linh hoạt",
+            "description": "Chúng tôi cung cấp các tùy chọn thanh toán linh hoạt, cho phép các doanh nghiệp thiết lập các thỏa thuận tài chính và xây dựng niềm tin dễ dàng theo thời gian."
+          },
+          {
+            "name": "Quy trình nhập khẩu suôn sẻ",
+            "description": "Ezbuy Japan giúp doanh nghiệp đơn giản hóa quy trình nhập khẩu với hướng dẫn chi tiết từng bước, đảm bảo thông quan thuận lợi và tuân thủ quy định."
+          },
+          {
+            "name": "Tích hợp với hệ thống ERP",
+            "description": "Tích hợp với hệ thống hoạch định nguồn lực doanh nghiệp (ERP), cho phép đồng bộ hóa dữ liệu, quản lý hàng tồn kho và xử lý đơn đặt hàng."
+          }
+        ]
+      },
+      "keyFigures": {
+        "title": "Số liệu nổi bật",
+        "items": [
+          {
+            "value": 100,
+            "unit": "+",
+            "label": "Thương hiệu nổi tiếng thế giới của Nhật Bản"
+          },
+          {
+            "value": 5000000,
+            "unit": "+",
+            "label": "Khách hàng quốc tế <br /> đã tiếp cận"
+          },
+          {
+            "value": 220,
+            "unit": "+",
+            "label": "Có mặt ở hơn 220 quốc gia"
+          },
+          {
+            "value": 3,
+            "unit": "+",
+            "label": "Hỗ trợ nhiều ngôn ngữ"
+          }
+        ]
+      },
+      "partners": {
+        "title": "Đối tác",
+        "subTitle": "Chúng tôi hợp tác với các thương hiệu nổi tiếng của Nhật Bản để mang đến cho bạn những ưu đãi tốt nhất.",
+        "items": [
+          {
+            "name": "Amazon Japan"
+          },
+          {
+            "name": "Rakuten"
+          },
+          {
+            "name": "Mercari"
+          },
+          {
+            "name": "Locondo"
+          },
+          {
+            "name": "Muji"
+          },
+          {
+            "name": "Panpare Mall"
+          },
+          {
+            "name": "JMTY"
+          },
+          {
+            "name": "Plaza Style"
+          }
+        ]
+      },
+      "productCategories": {
+        "title": "Danh mục sản phẩm",
+        "subTitle": "Khám phá các danh mục sản phẩm đa dạng của chúng tôi, được thiết kế để hỗ trợ các doanh nghiệp tìm nguồn cung ứng hàng hóa bán buôn từ Nhật Bản, trải dài từ đồ điện tử đến mỹ phẩm và hơn thế nữa."
+      },
+      "whyChoose": {
+        "title": "Tại sao bạn nên chọn Ezbuy Japan",
+        "subTitle": "Chúng tôi thấu hiểu rằng sự phát triển của doanh nghiệp là dựa vào các quyết định chiến lược. Chính vì điều này, với tư cách là đối tác trên cùng hành trình kinh doanh, chúng tôi đã tỉ mỉ xây dựng dịch vụ bán buôn B2B của riêng mình, nhằm phục vụ đặc thù cho các doanh nghiệp như của bạn. Đây chính là lý do mà bạn có thể hoàn toàn tin tưởng lựa chọn chúng tôi.",
+        "items": [
+          {
+            "title": "Tiếp cận trực tiếp thị trường Nhật Bản",
+            "content": "Ezbuy Japan giúp doanh nghiệp tiếp cận trực tiếp với nguồn hàng hóa dồi dào từ Nhật Bản, hỗ trợ từ khâu tìm nguồn hàng, nhập khẩu đến khâu hoàn thiện và vận chuyển."
+          },
+          {
+            "title": "Mạng lưới đối tác rộng lớn",
+            "content": "Chúng tôi dày công xây dựng mạng lưới các nhà cung cấp uy tín tại Nhật Bản, giúp các doanh nghiệp mua được hàng sỉ với giá ưu đãi."
+          },
+          {
+            "title": "Hỗ trợ đa ngôn ngữ",
+            "content": "Không cần lo lắng nếu như bạn không biết tiếng Nhật, chúng tôi có đội ngũ hỗ trợ đa ngôn ngữ."
+          },
+          {
+            "title": "Đa dạng phương thức thanh toán",
+            "content": "Có hàng loạt phương thức thanh toán khác nhau như Paypal, Alipay, thẻ thanh toán quốc tế,... cho bạn lựa chọn."
+          }
+        ]
+      }
+    },
+    "siv": {
+      "banner": {
+        "heading": "Bắt đầu sự nghiệp kinh doanh của bạn tại Việt Nam!",
+        "subHeading": "Giải pháp thương mại điện tử toàn diện cho doanh nghiệp Nhật Bản khi bán hàng tại Việt Nam.",
+        "cta": "Liên hệ"
+      },
+      "trustBy": {
+        "trustByOver": "Được tin tưởng bởi",
+        "company": "hơn 20 doanh nghiệp Nhật"
+      },
+      "whyExpand": {
+        "heading": "Tại sao nên mở rộng kinh doanh ra thị trường Việt Nam",
+        "subHeading": "Quy mô thị trường thương mại điện tử Việt Nam như thế nào? Khám phá tiềm năng của thị trường hứa hẹn này!",
+        "b2cRevenue": "Doanh thu B2c",
+        "growthRate": "Tỉ lệ tăng trưởng",
+        "figure1": "Doanh thu TMĐT B2C tại Việt Nam từ 2018 đến 2023 (tỷ USD)",
+        "figure2": "Nguồn: VnEconomy"
+      },
+      "challenges": {
+        "heading": "Các thách thức khi bán hàng tại Việt Nam",
+        "subHeading": "Việt Nam là thị trường thương mại điện tử đầy tiềm năng Tuy nhiên, có rất nhiều trở ngại mà người bán Nhật Bản phải đương đầu.",
+        "contents": [
+          "Rào cản ngôn ngữ",
+          "Khác biệt văn hóa",
+          "Quy định và pháp lý phức tạp",
+          "Xử lý đơn hàng và lưu kho",
+          "Giao hàng và xử lý hàng trả lại",
+          "Chăm sóc khách hàng"
+        ]
+      },
+      "whatDoes": {
+        "heading": "Ezbuy Japan giúp gì cho doanh nghiệp Nhật khi tiến vào thị trường Việt Nam?",
+        "subHeading": "Chúng tôi hỗ trợ doanh nghiệp Nhật từng bước một trong suốt quá trình kinh doanh tại Việt Nam",
+        "contents": [
+          {
+            "title": "Đăng ký kinh doanh tại Việt Nam",
+            "des": "Chúng tôi giúp người bán nước ngoài đăng ký kinh doanh tại Việt Nam nhờ vào mối quan hệ đối tác với Sở Kế hoạch và Đầu tư tại các thành phố lớn như Hà Nội, Đà Nẵng và Thành phố Hồ Chí Minh."
+          },
+          {
+            "title": "Mở cửa hàng trực tuyến đa nền tảng tại Việt Nam",
+            "des": "Chúng tôi hỗ trợ thương nhân nước ngoài thiết lập cửa hàng trực tuyến trên nhiều nền tảng và kênh khác nhau, bao gồm trang web riêng, mạng xã hội, Shopee, Lazada,...Phương pháp tiếp cận đa kênh này giúp gia tăng độ phủ của nhãn hàng tại thị trường Việt Nam."
+          },
+          {
+            "title": "Cung cấp dịch vụ lưu kho và xử lý hàng hóa",
+            "des": "Ezbuy Japan đáp ứng tốt mọi yêu cầu của bạn về lưu kho và thực hiện đơn hàng tại Việt Nam. Cung cấp hệ thống OMS giúp người bán quản lý tồn kho và xử lý việc nhập/xuất hàng hóa."
+          },
+          {
+            "title": "Hỗ trợ marketing tại thị trường Việt",
+            "des": "Ezbuy cung cấp các dịch vụ marketing phù hợp cho người bán nước ngoài như chạy quảng cáo, quản lý fanpage, livestream bán hàng, lên chiến lược SEO,... nhằm nâng cao khả năng hiển thị sản phẩm và tăng doanh số bán hàng."
+          },
+          {
+            "title": "Chăm sóc khách hàng sau bán",
+            "des": "Hãy yên tâm rằng dù bạn có ở Việt Nam hay không, đội ngũ Ezbuy Japan luôn sẵn sàng thay mặt bạn chăm sóc khách hàng, đảm bảo các “thượng đế” nhận được sự hỗ trợ 24/7"
+          },
+          {
+            "title": "Hỗ trợ quản lý thu chi/ đối soát",
+            "des": "Ezbuy Japan đơn giản hóa việc theo dõi và đối chiếu chi phí cho các doanh nghiệp nước ngoài, giúp việc quản lý các giao dịch tài chính trở nên minh bạch và dễ dàng hơn."
+          }
+        ]
+      },
+      "aNew": {
+        "heading": "Cuộc cách mạng cho hoạt động bán hàng xuyên biên giới tại Việt Nam",
+        "subHeading": "Bán hàng xuyên biên giới theo cách truyền thống",
+        "subHeading1": "Bán hàng tại Việt Nam với sự hậu thuẫn của Ezbuy Japan",
+        "items": [
+          {
+            "title": "Nhà sản xuất/ cung ứng",
+            "content": ""
+          },
+          {
+            "title": "Nhà xuất khẩu",
+            "content": "Nhận hàng và chuẩn bị thủ tục thông quan"
+          },
+          {
+            "title": "Nhà nhập khẩu",
+            "content": "Khai báo nhập cảnh và nhận hàng hóa ở quốc gia mà bạn muốn kinh doanh"
+          },
+          {
+            "title": "Nhà phân phối",
+            "content": "Nhận hàng nhập về và tiếp tục phân phối đến các đại lý bán lẻ"
+          },
+          {
+            "title": "Nhà bán lẻ",
+            "content": "Bắt đầu bán và vận chuyển đến người tiêu dùng cuối cùng"
+          },
+          {
+            "title": "Khách hàng",
+            "content": ""
+          }
+        ]
+      },
+      "ecom": {
+        "heading": "なぜベトナムで売るべきなのか？",
+        "subHeading": "ベトナム人の70％が少なくとも月に1回はオンラインで買い物。さらに多くの必需品をオンラインで購入し続けています。ベトナムのeコマース市場規模は2025年までに390億米ドルに達し、東南アジアではインドネシアに次いで第2位になると予測されています。"
+      },
+      "countless": {
+        "heading": "数え切れない特典Ezbuy Japanとの提携で",
+        "free": "無料",
+        "items": [
+          {
+            "title": "ベトナムの1億人の潜在顧客に容易にアクセス可能",
+            "label": "市場拡大",
+            "content": "どのようなビジネスモデルであっても、当社のサービスを活用することで、収益性の高いベトナム市場に迅速に参入することができます。ベトナムの数多くのホリデーシーズンや販売ピーク期は、希望する商品への出費を惜しまない熱心な顧客によって、多大な収益機会を提供します。"
+          },
+          {
+            "title": "ベトナム語を知らなくても売上を伸ばし、多様化させることができます",
+            "label": "収益の向上",
+            "content": "ベトナム語のアルファベット、文法、語彙の複雑さを忘れてください。翻訳ツールは必要ありません。 ベトナム語と英語を母国語とするスタッフが、お客様とのコミュニケーションをサポートします。"
+          },
+          {
+            "title": "Ezbuy japanは、AからZまでの詳細を処理します",
+            "label": "物流の最適化",
+            "content": "事業登録から物流、配送に至るまで、あらゆる面をカバーする当社の豊富な専門知識をご活用ください。国際販売のあらゆるステップを合理化することで、お客様はビジネスの発展、円滑な運営、最大限の利益を得ることに集中することができます。"
+          },
+          {
+            "title": "マルチチャンネル受注管理システム",
+            "label": "オムニチャネル販売の拡大",
+            "content": "当社のビルトイン受注管理システムの完全な高度な機能を無料でご利用いただけます。システムは自動的に主要なマーケットプレイスと統合し、注文を同期します。"
+          }
+        ]
+      },
+      "integration": {
+        "heading": "TÍCH HỢP",
+        "contents": [
+          {
+            "title": "Tích hợp các sàn TMĐT",
+            "des": "Chúng tôi hợp tác với các sàn TMĐT nổi tiếng Việt Nam như Shopee, Lazada, Tiki, TikTok Shop, Sendo, v.v. để hỗ trợ người bán Nhật bản mở rộng tối đa cơ hội bán hàng.."
+          },
+          {
+            "title": "Tích hợp các đơn vị vận chuyển",
+            "des": "Ezbuy Japan tích hợp với các công ty vận chuyển nội địa uy tín tại Việt Nam, nâng cao trải nghiệm của khách hàng bằng cách đảm bảo dịch vụ giao hàng nhanh chóng và tin cậy."
+          }
+        ]
+      },
+      "ourWarehouse": {
+        "heading": "Mạng lưới kho bãi và trung tâm fulfillment tại Việt Nam",
+        "subHeading": "Chúng tôi hợp tác với EZBUY để cung cấp mạng lưới kho hàng rộng khắp và các dịch vụ xử lý đơn hàng phù hợp với nhu cầu kinh doanh của bạn tại Việt Nam."
+      },
+      "whatWeDoHeading": "ベトナムで収益向上のために",
+      "whatWeDo": [
+        {
+          "title": "開業",
+          "items": {
+            "number": "#1",
+            "title": "事業登録サービス",
+            "content": [
+              {
+                "title": "デジタル文書",
+                "content": "書類を提出し、ライセンス、証明書、許可証をデジタルで取得します。"
+              },
+              {
+                "title": "ミスや遅延がない",
+                "content": "長年の専門知識を活用し、5～7日以内に正確かつタイムリーに申請を完了させることで、費用のかかる遅延を防ぎ、ビジネスの迅速なスタートをお約束します。"
+              },
+              {
+                "title": "費用対効果と時間の節約",
+                "content": "より効率的かつ円滑に登録手続きを完了し、コストのかかるミスを防ぎ、ベトナム政府による様々な手数料の削減を享受できます。"
+              },
+              {
+                "title": "透明で多様な支払い方法",
+                "content": "すべての掲載料金を行ごとに確認し、多くの支払い方法オプションを使ってオンラインで瞬時に支払うことができます。お支払いは簡単です！"
+              }
+            ]
+          }
+        },
+        {
+          "title": "輸出入",
+          "items": {
+            "number": "#2",
+            "title": "輸出入サービス",
+            "content": [
+              {
+                "title": "プロフェッショナルで迅速な通関",
+                "content": "暗号化された安全なデジタル文書により、より迅速かつシンプルな通関手続きを提供し、すべての貨物を1～3日以内に国境を越えて輸送します。"
+              },
+              {
+                "title": "通関コストを大幅に最適化",
+                "content": "出荷時に予期せぬコストが発生しないよう、商品の通関価格を正確に計算するお手伝いをします。"
+              },
+              {
+                "title": "あらゆるステップで貨物を100%可視化",
+                "content": "輸出入の全過程において貨物の状況を1つのプラットフォームで追跡できるため安心です。"
+              }
+            ]
+          }
+        },
+        {
+          "title": "ビジネス開発",
+          "items": {
+            "number": "#3",
+            "title": "複数のマーケットプレイスにオンラインストアを開設",
+            "content": [
+              {
+                "title": "オンラインストアをプロフェッショナルに作成",
+                "content": "Tiktok、Shopee、Facebook、Lazadaなど複数のプラットフォームにオンラインストアを数分で開設できます。"
+              },
+              {
+                "title": "SEO最適化",
+                "content": "SEO戦略を強化することで、新たなオーディエンスへの認知度を拡大し、あらゆる販売チャネルでバイヤーとつながる言語とメッセージングスタイルを採用します。"
+              },
+              {
+                "title": "ブランドの信頼を高める",
+                "content": "店舗の指標であるカスタマーレビュー、フォロワー、チャット応答率を最適化することで、顧客の信頼につながり、コンバージョン率を高め、ビジネス全体の成長に貢献します。"
+              },
+              {
+                "title": "マルチチャネル注文の統合と同期",
+                "content": "すべての販売チャネルからの注文データを単一のダッシュボードに統合・同期し、当社独自のソフトウェア上で簡単にリアルタイムで販売を管理・制御できます（無料）。"
+              }
+            ]
+          }
+        },
+        {
+          "title": "ブランド認知の促進",
+          "items": {
+            "number": "#4",
+            "title": "マーケティングサービス",
+            "content": [
+              {
+                "title": "販売チャネルの構築（Tiktok、Facebook、Instagramなど）",
+                "content": "既成概念にとらわれないコンテンツクリエイターのチームと共に、顧客インサイトやブランドメッセージに基づいたマルチチャンネルコンテンツを制作。"
+              },
+              {
+                "title": "キャンペーン及び広告の円滑な設定と実行",
+                "content": "顧客体験を向上させるために、消費者の真の感情、洞察、本質的な指標の推奨を活用し、効果的な戦略を作成します。"
+              },
+              {
+                "title": "ライブストリームソリューション",
+                "content": "世界中のフォロワーや顧客を、デバイスを問わず最高の品質で、どこでも視聴させることができます。"
+              }
+            ]
+          }
+        },
+        {
+          "title": "サプライチェーンの管理",
+          "items": {
+            "number": "#5",
+            "title": "オーダーフルフィルメントサービス（FBE）",
+            "content": [
+              {
+                "title": "在庫を24時間365日安全に保管",
+                "content": "EzBuy Japanのフルフィルメントセンターに商品を送るだけで、あとはEzBuy Japanが24時間365日、在庫の受け取りから保管まで安全に行います。在庫レベルを継続的に更新し、お客様の商品量を正確に倉庫に保管します。"
+              },
+              {
+                "title": "ピッキング、梱包、出荷を最速で",
+                "content": "新しい注文の通知を受け取った後、すぐに注文を処理します。必要に応じて、バウチャーや付加価値サービスを追加するなど、注文を正確に処理します。"
+              },
+              {
+                "title": "ラストマイル配送 ",
+                "content": "最短で当日または2日以内に、ドアからドアまでの配達時間を短縮し、顧客の全体的なショッピング体験と満足度を向上させます。"
+              },
+              {
+                "title": "返品管理",
+                "content": "返品された商品のテスト、評価、仕分けを効果的に行い、販売可能な商品を有効在庫に再統合します。常に合理的で費用対効果の高い返品プロセスを確保し、最高の顧客体験を高めます。"
+              }
+            ]
+          }
+        },
+        {
+          "title": "販売後の管理",
+          "items": {
+            "number": "#6",
+            "title": "販売後サポート",
+            "content": [
+              {
+                "title": "年中無休のリアルタイム・オンライン・サポート",
+                "content": "電子メール、チャット、フォーラム、ソーシャルメディア・インターフェイス（モニタリング機能付き）など、さまざまなチャネルを通じた即時のオンライン支援により、顧客からの苦情やフィードバックへの対応を支援します。"
+              },
+              {
+                "title": "適切なカスタマーケアの設計",
+                "content": "ユーザーの販売後の行動を調査し、セルフサービス・ソリューションを設計して、顧客の再来店を促し、ブランドへの忠誠心を高めます。"
+              }
+            ]
+          }
+        },
+        {
+          "title": "代引きのサポートと照合",
+          "items": {
+            "number": "#7",
+            "title": "",
+            "content": [
+              {
+                "title": "代金引換のサポート",
+                "content": "特にカードを使わない人が多い郊外や地方にお住まいのお客様のために、商品お届け時に代金をお支払いいただくことで、購入プロセスを簡素化します。"
+              },
+              {
+                "title": "代金引換の照合と販売者への返金は即日対応",
+                "content": "当社の代金引換（COD）照合と販売者への返金は同日に行われるため、販売者は迅速に資金にアクセスすることができ、スムーズな財務プロセスと効果的なビジネスが保証されます。"
+              }
+            ]
+          }
+        }
+      ],
+      "integ": {
+        "heading": "統合とパートナー",
+        "tpl": "第三者物流",
+        "market": " マーケットプレイス",
+        "social": " ソーシャルコマース",
+        "viewAll": "すべての統合とパートナーを見る"
+      },
+      "resource": {
+        "heading": "販売者向け資料",
+        "subHeading": "ベトナムの最新の売買動向を更新します。",
+        "cta": "ブログを見る"
+      },
+      "quote": {
+        "heading": ["MIỄN PHÍ", "phần mềm OMS"],
+        "subHeading": "khi sử dụng dịch vụ của Ezbuy Japan",
+        "cta": "Khám Phá Ngay"
+      }
+    },
+    "sellOverseas": {
+      "goglobal": {
+        "title": "VƯƠN RA TOÀN CẦU VỚI DỊCH VỤ BÁN HÀNG RA NƯỚC NGOÀI CỦA EZBUY JAPAN BẰNG CÁCH TRIỂN KHAI THẺ JAVASCRIPT LÊN TRANG WEB BÁN HÀNG CỦA BẠN",
+        "content1": "Tiện ích mở rộng hỗ trợ thương mại điện tử được thiết kế cho các thương hiệu Nhật Bản mong muốn bán sản phẩm ra nước ngoài",
+        "content2": "* Để đáp ứng quyền truy cập ngoại địa, một giỏ hàng dành riêng cho người dùng ở nước ngoài sẽ xuất hiện. Khi truy cập từ Nhật Bản, giỏ hàng này sẽ không được hiển thị.",
+        "button": "Dùng thử miễn phí"
+      },
+      "whyJapan": {
+        "title": ["Tại sao nhà bán Nhật Bản", "nên bán hàng ra nước ngoài?"],
+        "subtitle": "Các doanh nghiệp Nhật Bản có nhiều lợi thế cạnh tranh, và do đó, họ sẽ thu về nhiều lợi ích khi mở rộng doanh bán hàng ra các quốc gia khác.",
+        "items": [
+          {
+            "title": "Hàng Nhật chất lượng cao",
+            "subtitle": "Các sản phẩm xuất xứ từ Nhật Bản thường được biến đến với chất lượng tốt và sự tinh xảo. Đây là yếu tố đặc biệt thể thu hút người tiêu dùng quốc tế đang tìm kiếm những mặt hàng độc đáo, có độ hoàn thiện cao.",
+            "img": "/uploads/Rectangle_13_831368fc4c.png"
+          },
+          {
+            "title": "Nền văn hóa Nhật Bản hấp dẫn",
+            "subtitle": "Các sản phẩm văn hóa Nhật Bản như anime, đồ thủ công và ẩm thực luôn thu hút một lượng fan quốc tế đông đảo, tạo ra một thị trường chuyên biệt cho sản phẩm Nhật Bản.",
+            "img": "/uploads/Rectangle_13_1_27ee151ca5.png"
+          },
+          {
+            "title": "Mở rộng tệp khách hàng",
+            "subtitle": "Bán hàng xuyên biên giới cho phép nhà bán Nhật tiếp cận thị trường toàn cầu, mở ra cơ hội để tiếp cận khách hàng từ nhiều quốc gia khác nhau, tăng doanh thu tiềm năng.",
+            "img": "/uploads/Rectangle_13_2_dfb771072b.png"
+          },
+          {
+            "title": "Tăng nhận diện toàn cầu",
+            "subtitle": "Bán hàng cho khách hàng quốc tế có thể nâng cao uy tín và sự nhận diện toàn cầu của thương hiệu, điều này có thể tạo ra nhiều hiệu quả tích cực về lâu dài.",
+            "img": "/uploads/Rectangle_13_3_e365d6d058.png"
+          }
+        ]
+      },
+      "challenges": {
+        "title": "Những thách thức khi bán hàng xuyên biên giới",
+        "subtitle": "Có rất nhiều rắc rối mà doanh nghiệp Nhật Bản phải đối mặt khi bán hàng ra nước ngoài.",
+        "content": [
+          "Sự khác biệt về ngôn ngữ và tiền tệ",
+          "Xuất hiện nhiều khoản thanh toán gian lận",
+          "Thiếu nguồn lực để xử lý đơn hàng quốc tế",
+          "Khó gửi hàng ra nước ngoài",
+          "Nhiều đơn hàng bị hủy và hoàn trả ",
+          "Không biết cách thu hút khách hàng",
+          "Phát sinh thuế phí phức tạp khi bán xuyên biên giới"
+        ]
+      },
+      "howWe": {
+        "title": "Chúng tôi giúp nhà bán Nhật bán ra nước ngoài như thế nào chỉ với một dòng thẻ?",
+        "items": [
+          "Tất cả những gì bạn cần làm là chèn thẻ Javascript của chúng tôi vào trang web bán hàng. Không cần phải thay đổi hệ thống vận hành.",
+          "Bạn có thể yên tâm để các khâu còn lại Ezbuy Japan lo, từ việc tiếp nhận yêu cầu đặt hàng đến xử lý thanh toán quốc tế và giao hàng ra nước ngoài."
+        ]
+      },
+      "serve": {
+        "brand": "Brand",
+        "title": "Serve customers living outside Japan",
+        "shipping": "Shipping to 200 Countries and Regions available",
+        "howto": "How to use International Shipping",
+        "ezbuy": "Ezbuy Japan purchases product for the customer and delivers it globally.",
+        "for": "For those who want international shipping, please use the Ezbuy Japan cart."
+      },
+      "operation": {
+        "title": "Cách chúng tôi vận hành",
+        "subtitle": "Bằng cách gắn thẻ JavaScript của chúng tôi vào trang web Nhật Bản, khách hàng quốc tế khi tiếp cận sản phẩm có thể mua chúng ngay lập tức ngay trên trang web đó. Ezbuy Japan sẽ tiếp nhận yêu cầu từ khách hàng nước ngoài, xử lý thanh toán và vận chuyển ra quốc tế.",
+        "over": "Khách hàng ở nước ngoài",
+        "place": "1. Đặt hàng và thanh toán",
+        "overseas": "4. Vận chuyển quốc tế",
+        "ezbuy": ["Dịch vụ ‘Bán hàng ra nước ngoài của Ezbuy Japan’"],
+        "purchase": "2. Mua hộ sản phẩm đã đặt",
+        "domestics": "3. Vận chuyển nội địa",
+        "japaneses": "Người bán ở Nhật Bản"
+      },
+      "ourTotal": {
+        "title": "Ezbuy Japan sẽ hỗ trợ những gì?",
+        "subtitle": "Chúng tôi giải quyết 3 rào cản mà người bán Nhật Bản có thể gặp phải khi bán hàng ra nước ngoài: ngôn ngữ, thanh toán và vận chuyển ra nước ngoài.",
+        "items": [
+          {
+            "title": "Hỗ trợ đa ngôn ngữ",
+            "content": "Tự động dịch thẻ Javascript và pop-up lên sang tiếng Anh và 5 ngôn ngữ phổ biến khác tùy theo quốc gia của người truy cập. Nhận yêu cầu đặt hàng đa ngôn ngữ."
+          },
+          {
+            "title": "Thanh toán quốc tế",
+            "content": "Hỗ trợ nhiều phương thức thanh toán quốc tế và ngăn chặn các tài khoản thanh toán gian lận."
+          },
+          {
+            "title": "Vận chuyển ra nước ngoài",
+            "content": "Chuẩn bị hồ sơ hải quan, đóng gói lô hàng, vận chuyển quốc tế và giao hàng chặng cuối ở nước ngoài."
+          }
+        ]
+      },
+      "whyChoose": {
+        "title": "Tại sao chọn Ezbuy Japan?",
+        "subTitle": "Chỉ với một thẻ javascript, chúng tôi mang đến sự tiện lợi cho cả người bán Nhật Bản và người mua quốc tế.",
+        "whydo": "Tại sao doanh nghiệp Nhật Bản chọn chúng tôi?",
+        "contact": "Liên hệ",
+        "items": [
+          {
+            "title": "Dễ cài đặt",
+            "content": [
+              "Chèn một dòng code vào trang web của bạn trong vòng vài phút.",
+              "Nhẹ và chạy mượt, không ảnh hưởng đến tốc độ tải trang của bạn.",
+              "Không ảnh hưởng đến hệ thống vận hành sẵn có."
+            ],
+            "img": "/uploads/Image_232807700a.png"
+          },
+          {
+            "title": "Thanh toán an toàn và bảo mật",
+            "content": [
+              "Cung cấp một loạt các phương thức thanh toán quốc tế.",
+              "Chúng tôi nhận thanh toán từ người dùng ở nước ngoài và trả lại tiền cho người bán.",
+              "Ngăn chặn được các khoản thanh toán gian lận."
+            ],
+            "img": "/uploads/Image_1_33b631f6af.png"
+          },
+          {
+            "title": "Giá cả cạnh tranh",
+            "content": [
+              "Phí ban đầu: 15.000 yên.",
+              "Phí hàng tháng: 3000 yên.",
+              "Không lấy hoa hồng bán hàng từ người bán."
+            ],
+            "img": "/uploads/Image_2_657cbdf43f.png"
+          }
+        ]
+      },
+      "whydo": {
+        "title": "Tại sao người mua ở nước ngoài tin tưởng chúng tôi?",
+        "items": [
+          {
+            "title": "Hỗ trợ nhiều phương thức thanh toán quốc tế",
+            "subtitle": "Chúng tôi cung cấp nhiều tùy chọn thanh toán để hạn chế rào cản thanh toán cho bất kỳ khách hàng nước ngoài nào."
+          },
+          {
+            "title": "Phí mua hộ và vận chuyển quốc tế hợp lý",
+            "subtitle": [
+              "Chúng tôi cung cấp phí mua hàng hợp lý cho người dùng nước ngoài, chỉ ",
+              "300 yên",
+              "cho mỗi đơn hàng. Phí vận chuyển ra nước ngoài cũng cạnh tranh so với các bên vận chuyển khác."
+            ]
+          }
+        ]
+      },
+      "usage": {
+        "title": "Phí sử dụng",
+        "subtitle": "Ezbuy Japan nỗ lực tối ưu hóa chi phí để mang lại mức phí sử dụng cạnh tranh nhất trên thị trường.",
+        "forJapan": "Dành cho người bán Nhật Bản",
+        "forOverseas": "Dành cho người mua ở nước ngoài",
+        "initial": {
+          "title": "Chi phí ban đầu:",
+          "value": "15.000 yên (đã bao gồm thuế)"
+        },
+        "monthy": {
+          "title": "Chi phí hàng tháng:",
+          "value": "3.000 yên"
+        },
+        "sale": {
+          "title": "Hoa hồng đơn hàng:",
+          "value": "MIỄN PHÍ"
+        },
+        "purchase": {
+          "title": "300 yên",
+          "value": "(phí mua hộ) + phí vận chuyển ra nước ngoài"
+        },
+        "ezbuy": "* Ezuy Nhật Bản không hỗ trợ hủy đơn hàng.",
+        "custom": "Khách hàng muốn hủy đơn hàng phải xác nhận với người bán và đợi người bạn chấp nhận.",
+        "incase": "* Trường hợp khách hàng hủy đơn hàng sẽ phải thanh toán phí vận chuyển 2 chiều"
+      }
+    },
+    "dropshipping": {
+      "banner": {
+        "heading": "One-stop solutions for Dropshipping",
+        "subHeading": "Doanh nghiệp bán. Chúng tôi lưu trữ, đóng gói và vận chuyển. Doanh nghiệp phát triển.",
+        "textBtn": "LIÊN HỆ",
+        "items": [
+          {
+            "icon": "/uploads/Frame_427318852_46683ade9f.svg",
+            "title": "Kiểm tra hàng hoá"
+          },
+          {
+            "icon": "/uploads/Frame_427318852_1dc71983bf.svg",
+            "title": "Dịch vụ kho Fulfillment"
+          },
+          {
+            "icon": "/uploads/Frame_427318852_1_ca0b3b1253.svg",
+            "title": "Đóng gói lại"
+          },
+          {
+            "icon": "/uploads/Frame_427318852_2_efbe37d285.svg",
+            "title": "Vận chuyển xuyên biên giới"
+          }
+        ]
+      },
+      "benefits": {
+        "heading": "LỢI ÍCH KHI KINH DOANH DROPSHIPPPING VỚI EZBUY JAPAN",
+        "items": [
+          {
+            "icon": "/uploads/image_864_ce6aa25ba8.svg",
+            "title": "Chi phí bắt đầu thấp",
+            "content": "Doanh nghiệp không cần đầu tư vốn lớn để lưu trữ hàng trước. Chỉ cần mua sản phẩm từ nhà cung cấp sau khi nhận được đơn hàng từ khách hàng."
+          },
+          {
+            "icon": "/uploads/image_866_2894c93823.svg",
+            "title": "Dễ mở rộng kinh doanh",
+            "content": "Doanh nghiệp dễ dàng mở rộng quy mô kinh doanh bằng cách thêm sản phẩm mới hoặc mở rộng sang các thị trường mới mà không cần quá nhiều vốn sẵn."
+          },
+          {
+            "icon": "/uploads/image_866_1_1cbbcec372.svg",
+            "title": "Giảm thiểu việc lưu trữ hàng tồn kho",
+            "content": "Doanh nghiệp không phải lo lắng về việc quản lý lượng hàng tồn kho hoặc xử lý hàng tồn kho chưa bán được. Điều này đơn giản hoá hoạt động và giảm chất thải."
+          },
+          {
+            "icon": "/uploads/image_866_2_cb73d7921d.svg",
+            "title": "Dễ dàng test thị trường",
+            "content": "Doanh nghiệp có thể test thử thị trường mà không cần nguồn tài chính ban đầu quá nhiều, giúp doanh nghiệp nhanh chóng xác định và tận dụng các mặt hàng thành công."
+          },
+          {
+            "icon": "/uploads/image_867_c271b6ca16.svg",
+            "title": "Tiếp cận được nguồn hàng Nhật chính ngạch, giá phải chăng",
+            "content": "Doanh nghiệp dễ dàng tiếp cận lượng hàng Nhật chính ngạch, uy tín với mức giá ưu đãi nhất nhờ cầu nối giao thương Ezbuy Japan và các nhà bán hàng, thương hiệu hàng đầu Nhật Bản."
+          }
+        ]
+      },
+      "process": {
+        "heading": "QUY TRÌNH DROPSHIPPING TẠI EZBUY JAPAN",
+        "subHeading": "Giải pháp All-in-One cho người làm dropship ở mọi quy mô",
+        "contents": [
+          {
+            "content": [
+              "Khách hàng đặt hàng trên website/cửa hàng online của doanh nghiệp",
+              ""
+            ]
+          },
+          {
+            "content": ["Dữ liệu đơn hàng được gửi đến Ezbuy Japan", ""]
+          },
+          {
+            "content": [
+              "Ezbuy Jpan tiến hành mua hàng trên nền tảng thương mại điện tử tại Nhật Bản",
+              "(nếu cần)"
+            ]
+          },
+          {
+            "content": [
+              "Ezbuy xử lý và vận chuyển đơn đặt hàng đến khách hàng cuối cùng của bạn",
+              ""
+            ]
+          },
+          {
+            "content": ["Khách hàng nhận hàng và rất hài lòng", ""]
+          }
+        ]
+      },
+      "whyChooseUs": {
+        "heading": "TẠI SAO CHỌN CHÚNG TÔI?",
+        "subHeading": "Chúng tôi mang đến trải nghiệm dịch vụ mượt mà và khác biệt, chỉ có tại Ezbuy Japan",
+        "title": "Thương mại điện tử B2B",
+        "subTitle": "Trao đổi, thương lượng với các thương hiệu, nhà bán hàng trên các sàn thương mại điện tử Nhật Bản để mua đơn hàng số lượng lớn với mức giá cạnh tranh nhất. Đảm bảo doanh nghiệp nhận được hàng Nhật chính ngạch, đồng thời giúp tối đa hóa lợi nhuận và lợi thế cạnh tranh của doanh nghiệp bạn."
+      },
+      "customized": {
+        "heading": "Cá nhân hoá dịch vụ Order Fulfilment",
+        "items": [
+          {
+            "image": "/uploads/Rectangle_6511_25f08dfb0d.svg",
+            "icon": "/uploads/Rectangle_7205_d6a47129c0.svg",
+            "title": "Kiểm tra hàng hoá",
+            "subTitle": "Kiểm tra cẩn thận từng mặt hàng về tình trạng hàng hóa (bao bì, số lượng,...) để đảm bảo mọi thứ đều hoàn hảo trước khi lưu kho hoặc vận chuyển."
+          },
+          {
+            "image": "/uploads/Rectangle_6511_1_245a726482.svg",
+            "icon": "/uploads/Rectangle_7205_1_2f73548c77.svg",
+            "title": "Quản lý hàng tồn kho",
+            "subTitle": "Rút ngắn thời gian giao hàng và gia tăng sự hài lòng khách hàng bằng cách đặt trước và lưu trữ hàng sẵn tại kho Ezbuy. Khi bạn có đơn hàng, chúng tôi sẽ nhanh chóng xử lý và vận chuyển hàng ngay trong ngày."
+          },
+          {
+            "image": "/uploads/Rectangle_6511_2_40262d2fc0.svg",
+            "icon": "/uploads/Rectangle_7205_2_834bbac0e1.svg",
+            "title": "Hoàn tất đơn hàng",
+            "subTitle": "Bất cứ khi nào bạn có đơn đặt hàng mới, chúng tôi sẽ hành động ngay lập tức. Ezbuy Japan sẽ  nhanh chóng lấy hàng, đóng gói và gửi hàng đến đơn vị vận chuyển ngay trong ngày, đảm bảo khách hàng của bạn nhận được sản phẩm nhanh nhất có thể."
+          },
+          {
+            "image": "/uploads/Rectangle_6511_3_4fa045225c.svg",
+            "icon": "/uploads/Rectangle_7205_3_d1e9ed6044.svg",
+            "title": "Xây dựng thương hiệu tuỳ chỉnh",
+            "subTitle": "Nâng tầm cửa hàng trực tuyến của bạn thành một thương hiệu ấn tượng trong tâm trí khách hàng với dịch vụ gia tăng của chúng tôi. Ezbuy Japan hỗ trợ in logo bao bì thương hiệu, thêm sample, thiệp cảm ơn,.. được cá nhân hóa vào mỗi đơn hàng."
+          }
+        ]
+      },
+      "crossBorder": {
+        "heading": "Vận chuyển xuyên biên giới",
+        "subHeading": "Tiến hành phát hàng tới tận tay khách hàng khắp thế giới và đảm bảo gói hàng được trao đúng người, đúng nơi với 100% sự hài lòng.",
+        "contents": [
+          "Là đối tác của các hãng vận chuyển nội địa và quốc tế hàng đầu tại Nhật.",
+          "Thời gian giao đến tay khách chỉ mất từ 7-10 ngày, tuỳ khu vực.",
+          "Phần mềm theo dõi vận đơn, labeling rõ ràng, cho phép tra cứu bất cứ lúc nào, bất cứ nơi đâu."
+        ]
+      },
+      "simpleSteps": {
+        "heading": "Đơn giản từng bước, mở ra ngàn cơ hội",
+        "items": [
+          {
+            "icon": "/uploads/s_fd3eff9408.svg",
+            "title": "Tầm nhìn hợp tác",
+            "subTitle": "Hợp tác chặt chẽ với bạn để hiểu rõ tình trạng và mục tiêu kinh doanh."
+          },
+          {
+            "icon": "/uploads/Frame_1171276472_8f31717e88.svg",
+            "title": "Triển khai giải pháp",
+            "subTitle": "Các chuyên gia Dropshipping giàu kinh nghiệm của Ezbuy sẽ biến tầm nhìn, mục tiêu kinh doanh của bạn thành hiện thực, đảm bảo sự hoàn hảo đến từng chi tiết."
+          },
+          {
+            "icon": "/uploads/Frame_1171276472_1_660f1255cd.svg",
+            "title": "Kinh doanh hiệu quả",
+            "subTitle": "Doanh nghiệp bắt đầu gặt hái những thành quả đầu tiên, đạt được mục tiêu và tầm nhìn đã đề ra."
+          }
+        ]
+      }
+    }
+  },
+  "downloadJanboxEcom": {
+    "heading": "Tải xuống ứng dụng Janbox",
+    "subHeading": "Kết nối với các sàn thương mại điện tử ở Nhật Bản & Mỹ: Mua sắm Hàng triệu sản phẩm chỉ trong 1 ứng dụng",
+    "scan": "Quét để tải xuống",
+    "device": ["Thiết bị Android", "Thiết bị iOS"],
+    "downloadIt": "Tải xuống từ"
+  },
+  "downloadJanboxShip": {
+    "heading": "Tải xuống ứng dụng Ezbuy Japan",
+    "subHeading": "Gửi hàng từ Nhật về Việt Nam dễ dàng chỉ với vài cú chạm",
+    "scan": "Quét để tải xuống",
+    "device": ["Thiết bị Android", "Thiết bị iOS"],
+    "downloadIt": "Tải xuống từ"
+  },
+  "partnerNetwork": {
+    "title": "Đối tác & Mạng lưới",
+    "partners": {
+      "title": "Đối tác",
+      "subtitle": "Ezbuy Japan cho ra đời sàn Janbox và tích hợp với các trang thương mại điện tử nổi tiếng tại Nhật Bản. Tất cả  nhằm mang đến trải nghiệm mua sắm và  bán hàng tiện lợi nhất cho cả người mua và người bán."
+    },
+    "official": [
+      {
+        "title": "Chính thức trở thành đối tác với Mercari - một trong ba sàn thương mại điện tử lớp nhất Nhật Bản",
+        "subtitle": "Ezbuy Japan chính thức trở thành đối tác chiến lược bán hàng xuyên biên giới của Mercari kể từ tháng 10 năm 2023.",
+        "link": "https://ezbuy.jp/vi/blog/Mercari-hop-tac-Ezbuy-Japan-ban-hang-xuyen-bien-gioi",
+        "image": "/uploads/Rectangle_6532_60c9f64648.png"
+      },
+      {
+        "title": "Đối tác chính thức với Yahoo Shopping - một trong những chợ trực tuyến hàng đầu Nhật Bản",
+        "subtitle": "Tự hào là đối tác chiến lược chính thức của Yahoo Shopping từ tháng 4 năm 2025, Ezbuy Japan giúp người bán phát triển nhanh hơn với các giải pháp fulfillment đáng tin cậy.",
+        "link": "https://ezbuy.jp/vi/blog/ezbuy-hop-tac-voi-yahoo-shopping-japan",
+        "image": "/uploads/3_50ccef5ce6.png"
+      }
+    ],
+    "explore": "Khám phá ngay",
+    "networks": {
+      "title": "Mạng lưới",
+      "shipping": {
+        "title": "Mạng lưới vận chuyển",
+        "subtitle": "Ezbuy Japan sở hữu mạng lưới đối tác vận chuyển và xử lý đơn hàng rộng lớn ở cả Nhật Bản và Việt Nam, hỗ trợ tối đa người mua và người bán trong việc giao thương xuyên biên giới giữa hai quốc gia.",
+        "japan": "Nhật Bản",
+        "vietnam": "Việt Nam"
+      },
+      "warehouse": {
+        "title": "Mạng lưới kho vận",
+        "subtitle": "Tại Nhật Bản, Ezbuy Japan đang vận hành hệ thống kho hàng hiện đại ở các tỉnh thành. Tại Việt Nam, chúng tôi hợp tác với EZBUY để cung cấp mạng lưới kho bãi có sẵn có trên toàn quốc.",
+        "japan": "Ở Nhật Bản",
+        "vietnam": "Ở Việt Nam",
+        "address": {
+          "hanoi": "Hà nội, Việt Nam",
+          "detailHanoi": "8 Lê Quang Đạo, Phường Phú Đô, Q. Nam Từ Liêm, Tp. Hà Nội.",
+          "hcm": "TP.HCM, Viêt Nam",
+          "detailHcm": "55 Sầm Sơn, Phường 4, Q. Tân Bình, Tp. Hồ Chí Minh, Vietnam 72517."
+        }
+      }
+    },
+    "tech": {
+      "title": "TÍCH HỢP CÔNG NGHỆ",
+      "subtitle": "Chúng tôi cũng hợp tác với Ichiba SaaS để cung cấp sự hỗ trợ về mặt công nghệ cho các doanh khi thâm nhập thị trường TMĐT Nhật Bản và Việt Nam.",
+      "with": "Với các đối tác và mạng lưới đáng tin cậy, Ezbuy Japan không chỉ mở ra chân trời mua sắm không biên giới cho khách hàng quốc tế mà còn cung cấp cầu nối thương mại điện tử cho người bán tại Nhật Bản và Việt Nam",
+      "ex": "Trải nghiệm"
+    }
+  },
+  "contactSale": {
+    "title": "Liên hệ",
+    "direction": "Trang chủ / Liên hệ",
+    "content": "Ezbuy Japan tạo ra cầu nối thương mại điện tử giữa Nhật Bản và các quốc gia khác trên toàn thế giới bằng việc cung cấp các giải pháp hỗ trợ toàn diện, bao gồm: thương mại điện tử xuyên biên giới, vận chuyển quốc tế, xử lý đơn hàng tại kho và bán hàng ra các nước. ",
+    "offer": "Cung cấp giải pháp toàn diện với mức giá phải chăng ",
+    "multilingualSupport": "Hỗ trợ đa ngôn ngữ 24/7 với khách hàng quốc tế",
+    "looking": "Bạn muốn tìm kiếm sản phẩm hay cần được hỗ trợ?",
+    "visit": {
+      "visit": "Truy cập ",
+      "help": "Trung tâm hỗ trợ ",
+      "or": "hoặc liên hệ qua email: ",
+      "email": "ceo@ezbuy.jp",
+      "contact": ""
+    },
+    "linkHelp": "https://ezbuyjapan.gitbook.io/help-center/",
+    "ezbuySupport": "Trung tâm hỗ trợ của Ezbuy Japan",
+    "requiredInfomation": "Thông tin bắt buộc",
+    "talk": "Trò chuyện với đội ngũ của chúng tôi",
+    "let": "Vui lòng điền đầy đủ thông tin vào bảng và đội ngũ của chúng tôi sẽ liên hệ với bạn trong vài giờ.",
+    "contactInformation": "Thông tin liên hệ",
+    "fullName": "Họ tên",
+    "exFullName": "Ví dụ: Huyền Phương",
+    "email": "Email",
+    "exEmail": "Ví dụ: huyenphuong@gmail.com",
+    "phoneNumber": "SĐT",
+    "businessTitle": "Vị trí công việc",
+    "inputBusinessTitle": "Nhập vị trí công việc của bạn",
+    "businessInformation": "Thông tin công việc",
+    "companyWebsite": "Tên website công ty",
+    "inputCompanyWebsite": "Nhập tên website công ty",
+    "serviceInterested": "Dịch vụ bạn quan tâm",
+    "choose": "Chọn vai trò của bạn",
+    "buyers": "Người mua",
+    "sellers": "Người bán",
+    "serviceType": "Các dịch vụ",
+    "crossEcommerce": "TMĐT xuyên biên giới",
+    "crossShipping": "Vận chuyển xuyên biên giới",
+    "tradingEcommerce": "Thương mại điện tử B2B",
+    "warehouse": "Dịch vụ Warehouse Fulfillment",
+    "airFreight": "Vận tải hàng không & Thủ tục hải quan",
+    "sellOverseas": "Bán hàng ra nước ngoài",
+    "sellInVietNam": "Bán hàng tại Việt Nam",
+    "sellInJapan": "Bán hàng tại Nhật",
+    "industry": "Ngành nghề kinh doanh",
+    "selectIndustry": "Chọn ngành nghề kinh doanh",
+    "dataIndustry": [
+      { "label": "Technology/IT", "value": "Technology/IT" },
+      { "label": "Healthcare/Medical", "value": "Healthcare/Medical" },
+      { "label": "Finance/ECommerce", "value": "Finance/ECommerce" },
+      {
+        "label": "Manufacturing/Logistics",
+        "value": "Manufacturing/Logistics"
+      },
+      { "label": "Others", "value": "Others" }
+    ],
+    "numberOrders": "Lượng đơn hàng ngày",
+    "selectNumber": "Chọn số lượng đơn hàng",
+    "description": "Mô tả",
+    "inputDescription": "Nhập thông tin mô tả về doanh nghiệp của bạn",
+    "bySubmit": "Bằng cách gửi biểu mẫu này, tôi xác nhận chấp nhận",
+    "privacy": " Chính sách bảo mật",
+    "ofEzbuy": " của Ezbuy Japan",
+    "submit": "Gửi",
+    "fieldRequired": "Trường bắt buộc nhập",
+    "collaborate": "Hợp tác với các công ty lớn từ hơn 100 quốc gia",
+    "viewAllIntegration": "Xem tất cả các đối tác và mạng lưới",
+    "linkIntegration": "https://ezbuy.jp/vi/partners-network",
+    "success": "Thành công",
+    "false": "Đã có lỗi sảy ra"
+  },
+  "proxyPayment": {
+    "title": "Thanh toán ủy quyền",
+    "direction": "Trang chủ  /  Vận chuyển xuyên biên giới  /  Thanh toán ủy quyền",
+    "authorizedPayment": {
+      "title": "Thanh toán ủy quyền là gì? ",
+      "servicePay": "Dịch vụ thanh toán ủy nhiệm của Ezbuy Japan  ",
+      "meaningServicePay": "là dịch vụ cho phép khách hàng quốc tế mua hàng từ các gian hàng đủ điều kiện bằng phương thức “Thu tiền khi giao hàng“. Khi đặt hàng, vui lòng chọn “Thanh toán khi nhận hàng“ (代金引換  trong tiếng Nhật) làm phương thức thanh toán, đồng thời cung cấp địa chỉ nhận hàng của bạn.",
+      "charges": "Mức phí cho mỗi đơn hàng thanh toán hộ là 3% giá trị hàng (tối thiểu 300 yên).",
+      "note": {
+        "title": "Lưu ý:",
+        "client": "* Khách hàng cần đăng ký với",
+        "ezbuyJapan": " Ezbuy Japan ",
+        "complete": "và hoàn tất xác minh danh tính để sử dụng dịch vụ này.",
+        "service": "* Dịch vụ chỉ áp dụng tại các gian hàng đủ điều kiện. "
+      }
+    },
+    "contact": "Liên hệ",
+    "procedure": "Quy trình sử dụng dịch vụ thanh toán ủy quyền",
+    "procedureStep": {
+      "stepOne": {
+        "title": "Đăng ký",
+        "description": "Khách hàng đăng ký dịch vụ Thanh toán ủy quyền với Ezbuy Japan."
+      },
+      "stepTwo": {
+        "title": "Mua sắm",
+        "description": "Khi mua sắm tại một cửa hàng đủ điều kiện, vui lòng chọn “Thanh toán khi nhận hàng” làm phương thức thanh toán và cung cấp địa chỉ giao hàng của bạn."
+      },
+      "stepThree": {
+        "title": "Thanh toán thay bạn",
+        "description": "Khi đơn hàng của bạn đến kho của Ezbuy Japan, chúng tôi sẽ thay mặt bạn thanh toán tiền hàng và phí vận chuyển nội địa cho công ty chuyển phát."
+      },
+      "stepFour": {
+        "title": "Chờ đợi nhận hàng",
+        "description": "Chúng tôi sẽ tính giá sản phẩm và phí thanh toán ủy quyền vào thẻ tín dụng của bạn. Sau khi thanh toán xong, sản phẩm sẽ được chuyển đến tận nhà cho bạn."
+      }
+    },
+    "registerService": "Đăng ký dịch vụ",
+    "listStore": "Danh sách các gian hàng được hỗ trợ",
+    "listStoreSub": "Dịch vụ thanh toán ủy quyền này chỉ có sẵn tịa các gian hàng đủ điều kiện",
+    "questionTitle": "Các câu hỏi thường gặp",
+    "questions": {
+      "questionOne": {
+        "question": "Thẻ tín dụng của tôi sẽ được tính bằng đơn vị tiền tệ nào?",
+        "answer": "Thẻ tín dụng của bạn sẽ được tính bằng yên Nhật"
+      },
+      "questionTwo": {
+        "question": "Có hạn mức tối đa khi sử dụng dịch vụ này không?",
+        "answer": "Có. Số tiền tối đa cho mỗi đơn hàng là 30.000 yên."
+      },
+      "questionThree": {
+        "question": "Tôi có phải trả thêm phí khi sử dụng dịch vụ này không?",
+        "answer": "Có. Phí sử dụng dịch vụ này là 3% giá trị hàng (tối thiểu 300 yên cho mỗi đơn hàng)."
+      },
+      "questionFour": {
+        "question": "Tôi có thể sử dụng dịch vụ này ở tất cả các cửa hàng không?",
+        "answer": "Không. Dịch vụ này chỉ được áp dụng ở các cửa hàng được đánh dấu là đủ điều kiện."
+      },
+      "questionFive": {
+        "question": "Ezbuy Japan chấp nhận những loại thẻ tín dụng nào?",
+        "answer": "Chúng tôi chấp nhận Visa, Mastercard,..."
+      },
+      "questionSix": {
+        "question": "Dịch vụ này áp dụng ở những khu vực nào?",
+        "answer": "Dịch vụ này khả thi ở tất cả các khu vực mà Ezbuy Japan nhận vận chuyển xuyên biên giới."
+      }
+    },
+    "buttonQuestionsText": "Uớc tính giá cuối"
+  },
+  "crossBorderShipping": {
+    "heading": "Nâng cao trải nghiệm vận chuyển quốc tế từ Nhật với dịch vụ Proxy Payment",
+    "subHeading": "Đắm mình vào thiên đường mua sắm với  hàng nghìn cửa hàng trực tuyến t Nhật Bản, để việc vận chuyển quốc tế cho Ezbuy Japan lo.",
+    "globalShippng": "Dịch vụ vận chuyển xuyên biên giới hỗ trợ thanh toán ủy quyền",
+    "globalShippngSub": " của Ezbuy Japan được thiết kế dành cho khách hàng sinh sống bên ngoài Nhật Bản muốn mua hàng từ gian hàng không hỗ trợ vận chuyển quốc tế.",
+    "receiveYourItems": "Ezbuy Japan sẽ nhận đơn hàng của bạn tại kho Nhật, thanh toán tiền hàng cho công ty vận chuyển nội địa và lo liệu việc vận chuyển ra nước ngoài đến địa chỉ mà bạn cung cấp.",
+    "buttonText": "Bấm để xem chi tiết dịch vụ"
+  },
+  "thankYou": {
+    "heading": "Cảm ơn quý khách đã để lại thông tin!",
+    "subHeading": "Đội ngũ Ezbuy sẽ liên hệ với quý khách trong thời gian sớm nhất.",
+    "textBtn": "Trở về trang chủ",
+    "customerStory": {
+      "heading": "Câu chuyện khách hàng",
+      "subHeading": "Khám phá hàng trăm nhà bán hàng đã bắt đầu hành trình kinh doanh với Ezbuy như thế nào?",
+      "content": [
+        {
+          "avatar": "/uploads/Avatar_a6c125f294.svg",
+          "subtitle": "EZBUY đã giúp việc kinh doanh của chúng tôi dễ dàng hơn ở mọi mặt",
+          "name": "Bà Ngân Trần",
+          "bio": "Phó phòng kinh doanh tại Janbox",
+          "content": "Chúng tôi đã chọn EZBUY làm đối tác fulfillment của mình và không thể hạnh phúc hơn với quyết định này. Họ không chỉ giúp chúng tôi giảm chi phí vận chuyển mà còn cung cấp một quy trình quản lý kho hiệu quả và đáng tin cậy. Đội ngũ của EZBUY luôn sẵn sàng hỗ trợ và giải quyết mọi vấn đề một cách nhanh chóng."
+        },
+        {
+          "avatar": "/uploads/Avatar_a6c125f294.svg",
+          "subtitle": "Vô cùng chu đáo là điều mà tôi muốn nói về EZBUY, tôi đã rất hài lòng với chất lượng dịch vụ fulfillment mà họ mang đến",
+          "name": "Ông Đặng Minh",
+          "bio": "Trưởng phòng kinh doanh Ship60",
+          "content": "EZBUY còn mang đến cho tôi phần mềm quản lý đơn hàng đa kênh EZBUY OMS miễn phí giúp tôi quản lý và theo dõi công việc kinh doanh một cách dễ dàng. EZBUY thực sự biết cách giữ chân khách hàng của họ."
+        },
+        {
+          "avatar": "/uploads/Avatar_a6c125f294.svg",
+          "subtitle": "Vị cứu tinh về giải pháp fulfillment mang tên EZBUY",
+          "name": "Ông Akira Napap",
+          "bio": "Deputy Sales Manager at RRS VIETNAM",
+          "content": "Chúng tôi đã từng gặp những vấn đề khá đau đầu về tồn kho. Nhưng điều đó đã chấm dứt khi chung tôi gặp được EZBUY. Khả năng quản lý và phân bổ hàng tồn kho thật thông minh với độ chính xác cao của EZBUY là điều mà chúng tôi tìm kiếm bấy lâu nay."
+        }
+      ],
+      "textBtn": "Xem thêm"
+    }
+  },
+  "caseStudies": {
+    "heading": ["Câu chuyện ", "khách hàng"],
+    "subHeading": "Khám phá những câu chuyện khách hàng truyền cảm hứng và hành trình chạm đến những cột mốc ấn tượng khi đồng hành cùng dịch vụ Fulfillment & Express của EFEX.",
+    "contentSider": "Hơn 300+ đối tác hàng đầu đồng hành cùng chúng tôi trên hành trình đưa doanh nghiệp lên đỉnh vinh quang",
+    "caseStudies": "Ngành hàng",
+    "products": "Mô hình kinh doanh",
+    "tag": "Giải pháp",
+    "readStory": "Xem câu chuyện",
+    "listSearchs": [
+      {
+        "title": "Ngành hàng",
+        "items": [
+          {
+            "label": "Bán lẻ",
+            "value": "Bán lẻ"
+          },
+          {
+            "label": "Thiết bị điện tử",
+            "value": "Thiết bị điện tử"
+          },
+          {
+            "label": "Thời trang & làm đẹp",
+            "value": "Thời trang & làm đẹp"
+          },
+          {
+            "label": "Đồ gia dụng & nội thất",
+            "value": "Đồ gia dụng & nội thất"
+          },
+          {
+            "label": "Mẹ & bé",
+            "value": "Mẹ & bé"
+          },
+          {
+            "label": "Văn phòng phẩm",
+            "value": "Văn phòng phẩm"
+          },
+          {
+            "label": "Thủ công mỹ nghệ",
+            "value": "Thủ công mỹ nghệ"
+          }
+        ]
+      },
+      {
+        "title": "Mô hình kinh doanh",
+        "items": [
+          {
+            "label": "Thương mại điện tử xuyên biên giới",
+            "value": "Thương mại điện tử xuyên biên giới"
+          },
+          {
+            "label": "Bán lẻ đa kênh (Omnichannel)",
+            "value": "Bán lẻ đa kênh (Omnichannel)"
+          },
+          {
+            "label": "Giao hàng chặng cuối",
+            "value": "Giao hàng chặng cuối"
+          },
+          {
+            "label": "Vận chuyển xuyên biên giới",
+            "value": "Vận chuyển xuyên biên giới"
+          },
+          {
+            "label": "3PL (Dịch vụ logistics bên thứ ba)",
+            "value": "3PL (Dịch vụ logistics bên thứ ba)"
+          },
+          {
+            "label": "Sản xuất",
+            "value": "Sản xuất"
+          },
+          {
+            "label": "Bán buôn & phân phối",
+            "value": "Bán buôn & phân phối"
+          },
+          {
+            "label": "Nhà cung cấp dropshipping",
+            "value": "Nhà cung cấp dropshipping"
+          },
+          {
+            "label": "Dịch vụ hoàn tất đơn hàng (Warehouse Fulfillment)",
+            "value": "Dịch vụ hoàn tất đơn hàng (Warehouse Fulfillment)"
+          }
+        ]
+      },
+      {
+        "title": "Giải pháp",
+        "items": [
+          {
+            "label": "Hoàn tất đơn hàng thương mại điện tử",
+            "value": "Hoàn tất đơn hàng thương mại điện tử"
+          },
+          {
+            "label": "Vận chuyển xuyên biên giới",
+            "value": "Vận chuyển xuyên biên giới"
+          },
+          {
+            "label": "Cho thuê kho ngoại quan",
+            "value": "Cho thuê kho ngoại quan"
+          },
+          {
+            "label": "Khai báo hải quan",
+            "value": "Khai báo hải quan"
+          },
+          {
+            "label": "Bán hàng xuyên biên giới",
+            "value": "Bán hàng xuyên biên giới"
+          },
+          {
+            "label": "Giải pháp Fulfillment B2B",
+            "value": "Giải pháp Fulfillment B2B"
+          },
+          {
+            "label": "Quản lý & vận hành sàn thương mại điện tử",
+            "value": "Quản lý & vận hành sàn thương mại điện tử"
+          },
+          {
+            "label": "Bán hàng tại Việt Nam",
+            "value": "Bán hàng tại Việt Nam"
+          },
+          {
+            "label": "Bán hàng trên Amazon",
+            "value": "Bán hàng trên Amazon"
+          },
+          {
+            "label": "Bán hàng trên TikTok Shop Mỹ",
+            "value": "Bán hàng trên TikTok Shop Mỹ"
+          },
+          {
+            "label": "Bán hàng trên Walmart",
+            "value": "Bán hàng trên Walmart"
+          }
+        ]
+      }
+    ],
+    "contact": {
+      "title": "Phá vỡ mọi giới hạn và mở rộng kinh doanh dễ dàng với giải pháp thương mại điện tử xuyên biên giới toàn diện cùng Ezbuy!",
+      "btnText": "Liên hệ ngay"
+    },
+    "discover": {
+      "heading": "Khám phá thêm",
+      "list": [
+        {
+          "title": "Khám phá tiềm năng dành cho",
+          "textLink": "Nhà bán hàng Việt Nam"
+        },
+        {
+          "title": "Khám phá tiềm năng dành cho",
+          "textLink": "Nhà bán hàng quốc tế"
+        },
+        {
+          "title": "Khám phá tiềm năng dành cho",
+          "textLink": "Fulfillment thương mại điện tử"
+        },
+        {
+          "title": "Khám phá tiềm năng dành cho",
+          "textLink": "Fulfillment B2B & bán lẻ"
+        }
+      ]
+    },
+    "relatedStories": "Những câu chuyện liên quan"
+  }
+}

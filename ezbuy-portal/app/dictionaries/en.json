@@ -1,0 +1,2020 @@
+{
+  "meta": {
+    "common": {
+      "title": "Ezbuy Japan - Borderless shopping and shipping",
+      "description": "Optimize E2E eCommerce with EZBuy Japan: Comprehensive solution, enhancing your business performance. Explore now!"
+    },
+    "home": {
+      "title": "Ezbuy Japan - Borderless shopping and shipping",
+      "description": "Optimize E2E eCommerce with EZBuy Japan: Comprehensive solution, enhancing your business performance. Explore now!"
+    },
+    "sio": {
+      "title": "Sell Overseas - Expand your sales globally",
+      "description": "By inserting our JavaScript tag on your own e-commerce site, foreign customers can approach your products and buy them immediately from your platform. Ezbuy Japan will receive inquiries from overseas customers and handle international payment & shipping."
+    },
+    "b2b": {
+      "title": "B2B Wholesale eCommerce Service",
+      "description": "Ezbuy Japan has strong connections with over 100 domestic Japanese brands and acts as a global distributor. Our B2B wholesale service helps place bulk orders, negotiate prices, and shorten the lead time for importing goods from Japan."
+    },
+    "dropshipping": {
+      "title": "End-to-End Dropshipping Solution",
+      "description": "Negotiate & purchase products directly from sellers in Japan at lower prices. Safe storage of inventory 24/7. Rapid processing and shipping of your order on the same day."
+    },
+    "xBorderEcommerce": {
+      "title": "Cross-border eCommerce",
+      "description": "Ezbuy's cross-border eCommerce service offers a seamless and convenient Japanese shopping experience via the Janbox eCommerce platform, ensuring authentic products, competitive prices, and reduced shipping times"
+    },
+    "xBorderShipping": {
+      "title": "Cross-border Shipping",
+      "description": "International shipping service from Japan to over 220 countries by air and sea. Secure packaging, customs clearance support, and real-time shipment tracking."
+    },
+    "warehouseFulfillment": {
+      "title": "Japan Warehouse Fulfillment",
+      "description": "Fast order processing, immediate packing and shipping, helping businesses control and minimize inventory through OMS."
+    },
+    "airFreight": {
+      "title": "Air freight & Customs clearance",
+      "description": "Ezbuy Japan offers air freight services that maximize shipping speed while ensuring reasonable costs, with 24/7 tracking available."
+    },
+    "sellInVietNam": {
+      "title": "Sell in Viet Nam",
+      "description": "With sell in Vietnam service, Ezbuy Japan helps Japanese businesses register their operations, open online stores in Vietnam, and integrate with the largest e-commerce platforms. The fulfillment network manages inventory and business operations more efficiently."
+    },
+    "sellInJapan": {
+      "title": "Sell in Japan",
+      "description": "Ezbuy Japan supports foreigners who wish to sell in Japan by assisting with legal procedures, providing warehouse fulfillment services, and partnering with top reputable shipping companies, ensuring you can operate your business in Japan with peace of mind."
+    },
+    "category": {
+      "title": " Archives - Blog Ezbuy",
+      "desciption": " Archives - Blog Ezbuy"
+    },
+    "caseStudies": {
+      "title": "Ezbuy Customer Success Stories: Cross-Border Ecommerce Fulfillment Made Easy",
+      "des": "Explore inspiring stories from Ezbuy customers who have achieved seamless international shipping and business growth with our fulfillment solutions."
+    }
+  },
+  "header": {
+    "forBuyer": "for buyer",
+    "forSeller": "for seller",
+    "sio": "Sell Overseas (For Japan Sellers)",
+    "sioDetail": "Selling cross-border from Japan with only a JavaScript tag.",
+    "company": "Company",
+    "aboutUs": "About us",
+    "aboutUsDetail": "Premier eCommerce enabler in Japan",
+    "ourCulture": "Our Culture",
+    "ourCultureDetail": "Unity in diversity: nurturing innovation and collaboration",
+    "services": "Services",
+    "cbe": "Cross-border eCommerce",
+    "cbeDetail": "Discover millions of authentic Japanese products on one platform and ship them globally.",
+    "WarehouseFullfilment": "Warehouse Fulfillment",
+    "WarehouseFullfilmentDetail": "Take the burden off logistics and grant sellers free spaces to focus on selling.",
+    "sij": "Sell in Japan (For Foreign Sellers)",
+    "sijDetail": "Penetrate and thrive in the Japanese market with one-stop support.",
+    "b2bTrading": "B2B Wholesale eCommerce",
+    "b2bTradingDetail": "Offer an abundant and official source of Japanese goods with rich options.",
+    "oneStop": "One-Stop Shopping",
+    "oneStopDetail": "Janbox helps customers buy billions of products from Japan quickly, conveniently, and optimize shipping costs.",
+    "linkOneStop": "https://us.janbox.com",
+    "airFreight": "Air Freight & Customs Clearance",
+    "airFreightDetail": "Handle time-sensitive shipments with top airlines and seamless customs processing.",
+    "partnerNetwork": "Partners & networks",
+    "partnerNetworkDetail": "Expand your business with Ezbuy Japan.",
+    "trackTrace": "Track & Trace",
+    "b2bCatalog": "B2B Catalog",
+    "resources": "Resources",
+    "blog": "Blog",
+    "blogDetail": "Articles, tips, news and more on eCommerce and logistics.",
+    "faq": "FAQs",
+    "faqDetail": "Resolve all questions about Ezbuy Japan.",
+    "userGuide": "User Guide",
+    "userGuideDetail": "View detailed instruction manual to reach your success goal closer.",
+    "videoLibrary": "Video Library",
+    "videoLibraryDetail": "Take the burden off logistics and grant sellers free spaces to focus on selling",
+    "caseStudies": "Customer success studies",
+    "caseStudiesDetail": "Behind every success story, lies a dedicated supporter",
+    "support": "Support",
+    "login": "Login Portal",
+    "logout": "logout",
+    "language": "Language",
+    "sbs": "Cross-border Shipping",
+    "sbsDetail": "Ezbuy Japan offers international delivery by air and sea from Japan to over 220 countries.",
+    "sellInVie": "Sell in Viet Nam (For Japan Sellers)",
+    "sellInVieDetail": "Support Japanese sellers in selling, fulfillment and shipping in the Vietnamese market through OMS management software service.",
+    "download": "Download",
+    "contactSales": "Contact Sales",
+    "dropshipping": "One-stop solutions for Dropshipping",
+    "dropshippingDetail": "Offer A-to-Z dropshipping solution that helps overseas sellers from inventory management, order fulfillment to worldwide shipping.",
+    "listLogin": ["Portal Ezbuy Express", "B2B Warehouse Fulfillment"]
+  },
+  "footer": {
+    "siv": "Sell in Viet Nam",
+    "sio": "Sell Overseas",
+    "title": "We are committed to removing barriers of cross-border e-commerce",
+    "address": "Address",
+    "addressDetail": "〒136-0075 Tokyo, Koto, Shinsuna, 3 Chome−10−8, 1F Warehouse 3",
+    "email": "Email",
+    "company": "Company",
+    "aboutUs": "About us",
+    "partnerNetwork": "Partners & networks",
+    "resourceCenter": "Resource center",
+    "blog": "Blog",
+    "faq": "FAQs",
+    "userGuide": "User guide",
+    "videoLibrary": "Video Library",
+    "caseStudies": "Customer success studies",
+    "solutions": "Solutions",
+    "cbe": "Cross-border eCommerce",
+    "cbs": "Cross-border Shipping",
+    "wf": "Warehouse Fulfillment",
+    "b2bte": "B2B Wholesale Ecommerce",
+    "sij": "Sell in Japan",
+    "afcc": "Air Freight & Customs Clearance",
+    "shipping": "Shipping",
+    "createShipment": "Create a Shipment",
+    "trackTrace": "Track & Trace",
+    "rateTransitTime": "Rates and Transit times",
+    "connectUs": "Connect us",
+    "connectUsDetail": "Connect with us across social networks",
+    "subscribe": "Subscribe",
+    "subscribeDetail": "Don’t miss updates from us!",
+    "placeholderSubscribe": "Ex: Youremail@gmail.com",
+    "premiumEcommerce": "Ezbuy Japan 2023 - Premium eCommerce Solutions",
+    "b2bCatalog": "B2B Catalog",
+    "services": "services",
+    "policy": "Policy",
+    "downloadJanbox": {
+      "heading": "Download Ezbuy Japan app",
+      "downloadIt": "Download it from"
+    },
+    "dropshipping": "Dropshipping Solution",
+    "direct": "Direct to CTO",
+    "support": "Support",
+    "oneStop": "One-Stop Shopping"
+  },
+  "needSupport": {
+    "title": "Need support? ",
+    "title2": "We’re always ready to help!",
+    "description": "Let’s schedule a call or meeting with our high-experienced experts in multiple fields for the earliest support.",
+    "contactSales": "Contact Sales"
+  },
+  "home": {
+    "banner": {
+      "heading": {
+        "h1": "End-to-end Cross Border eCommerce Solution",
+        "h2": ""
+      },
+      "subHeading": [
+        "With the vision of becoming the leading cross-border eCommerce enabler for both sellers and buyers, Ezbuy Japan strives to provide comprehensive one-stop solutions powered by world-class technology, outstanding expertise, and a deep passion for client service — helping businesses unlock their full growth potential",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "newUsers": "New Users",
+      "orders": "Orders",
+      "customerOrders": "Customers order",
+      "tonOfGood": "Tons of goods",
+      "contactSales": "Contact Sales"
+    },
+    "workWithEzbuy": {
+      "heading": "Why work with EZBUY Japan",
+      "subHeading": "Customers often ask us, \"Why should I choose Ezbuy Japan instead of a similar service?\". ",
+      "subHeading1": "Here are some reasons to choose us:",
+      "article": [
+        {
+          "title": "Borderless shopping & shipping",
+          "description": "Buy and auction the whole of Japan on an online shopping platform no matter where you are"
+        },
+        {
+          "title": "Automated warehouse fulfillment",
+          "description": "Flexible space & speedy fulfillment with one convenient, all-inclusive monthly and payment 24/7 security."
+        },
+        {
+          "title": "Adaptable purchase in wholesale e-commerce",
+          "description": "Bargain and meet the demand for bulk Japanese products at the most low-market price thanks to long-term partnerships with brands"
+        },
+        {
+          "title": "Real-time order tracking",
+          "description": "View, track and process your orders and stay up-to-date on high-tech software at all times"
+        },
+        {
+          "title": "Risk-freely expedite Japanese market entry",
+          "description": "Easily enter into Japanese eCommerce market and boost business with A-to-Z support."
+        },
+        {
+          "title": "Next-day delivery with global presence",
+          "description": "Ship to over 220 countries and territories with ease, using standard and expedited shipping options."
+        },
+        {
+          "title": "Smooth & safe customs clearance",
+          "description": "Digitalize customs clearance to avoid errors and make the entire customs process more secure, transparent and visible at all steps."
+        },
+        {
+          "title": "Door-to-door Air freight",
+          "description": "Guarantee attractive prices and consistently high-service standards with long-standing partnerships & many well-known airlines"
+        }
+      ]
+    },
+    "services": {
+      "services": "Services",
+      "heading": "Cross-border eCommerce",
+      "subHeading": "Say goodbye to the need for Japanese language skills, multiple buying accounts or complex payment methods when shopping from various Japanese eCommerce websites. Break free from geographical barriers and unlock a world of potential markets through our comprehensive international delivery solution"
+    },
+    "warehouseFulfillment": {
+      "heading": "Warehouse Fulfillment",
+      "subHeading": "Professional fulfillment procedures are essential for any business. Ezbuy Japan paves the simplest path to success for all businesses by handling all the hassle-free fulfillment tasks, from secure inventory storage to packaging and dispatching orders."
+    },
+    "sellInJapan": {
+      "heading": "Sell in Japan",
+      "subHeading": "Foreign merchants can easily sell products on Japan's most well-known eCommerce sites without language barriers, creating various accounts or doing mandatory steps when selling products."
+    },
+    "b2bTrading": {
+      "heading": "B2B Wholesale Ecommerce",
+      "subHeading": "Ezbuy Japan serves as a bridge between Japanese businesses and merchants, enabling them to get access to a broad range of imported Japanese goods at the most competitive prices."
+    },
+    "airFreight": {
+      "heading": "Air Freight & Customs Clearance",
+      "subHeading": "Benefit from our strong airline partnerships for time-sensitive and high-value shipments. Streamline customs procedures, avoid delays, and enhance the global shipping experience with our expert customs declaration services."
+    },
+    "crossBorder": {
+      "heading": "Cross-border Shipping",
+      "subHeading": "Ezbuy Japan offers international delivery by air and sea from Japan to over 220 countries. We provide various shipping methods and optional services to ensure your goods' timely delivery, cost-effectiveness, and package safety. With our comprehensive shipping and tracking solutions, we can perfectly meet all your needs"
+    },
+    "sellOverseas": {
+      "heading": "Sell Overseas",
+      "subHeading": "Enable Japanese sellers to expand their sales opportunities to foreign customers through a Javascript tag. Ezbuy Japan will receive inquiries from overseas users, support international payments, implement domestic purchases within Japan, handle cross-border shipping and last-mile delivery in overseas countries."
+    },
+    "ourPartner": {
+      "heading": "Our partner",
+      "tabs": [
+        {
+          "title": "Shipping Partners",
+          "description": "Ezbuy Japan is always investing in long-term sustainable partnerships and extending our partner network"
+        },
+        {
+          "title": "Brand Partners",
+          "description": "We cooperate with many Japanese brands to help customers reach reliable sources of official products at affordable prices."
+        }
+      ]
+    },
+    "customerStories": {
+      "heading": "Customer Stories",
+      "subHeading": "Explore what our customers talk of us.",
+      "stories": [
+        {
+          "heading": "Treasure Box",
+          "subHeading": "Golden opportunity for people knowing to capture the market",
+          "description": "Ezbuy Japan has helped our products always to appear at the top page of the leading eCommerce websites in Japan such as Yahoo Shopping, Amazon Japan, and Rakuten. Our sales have grown steadily over the past 1 year, even some of our products are often \"out of stock\"."
+        },
+        {
+          "heading": "SmarkLabs",
+          "subHeading": "Fulfill smarter, grow faster",
+          "description": "With Ezbuy Japan's enthusiastic support in the process of storing, picking, packing and shipping, our new retail business has left a strong impression on customers about careful packing and transit time, which helps us be closer to our success target we set at the beginning."
+        },
+        {
+          "heading": "Mr Nicolas",
+          "subHeading": "Increase auction success rate by over 45%",
+          "description": "I have been buying goods at Ezbuy Japan for a while now. I see sources of goods are various and genuine. I asked Ezbuy Japan for bargaining with sellers for bulk items, which helped me get relatively reasonable prices and kept me away from all the stress of running out of my products by fast delivery time."
+        }
+      ]
+    },
+    "news": {
+      "heading": "Latest News",
+      "subHeading": "Visit our blog to discover the latest articles on ecommerce and logistics for any business scale"
+    },
+    "common": {
+      "airFreight": "Air Freight",
+      "seaFreight": "Sea Freight",
+      "surfaceFreight": "Surface Freight",
+      "express": "express",
+      "crossBorder": "Cross-border",
+      "lastMile": "Last mile"
+    }
+  },
+  "aboutUs": {
+    "aboutUs": "About Us",
+    "home": "Homepage",
+    "whoWeAre": "Who we are?",
+    "contentWhoWeAre1": [
+      "Ezbuy Japan Joint Stock Company (Ezbuy Japan JSC)",
+      " was founded in 2020 in Tokyo, Japan."
+    ],
+    "contentWhoWeAre2": "With a long-term vision for sustainable growth, we focus on building one-stop solutions that empower the global e-commerce industry.",
+    "contentWhoWeAre3": "We desire to become a bridge bringing the quintessence of Japan to countries all over the world and a companion of business thriving in the land of the rising sun.",
+    "contentWhoWeAre4": "With world-class technology, cross-border expertise, and deep local insight, we’re proud to be the bridge between Japan and the world.”",
+    "generalInformation": "General information",
+    "tradingName": "Trading name",
+    "contentTradingName": "Ezbuy Japan Joint Stock Company (Ezbuy Japan ., Jsc)",
+    "address": "Address",
+    "contentAddress": "〒136-0075 TOKYO, KOTO, SHINSUNA, 3 CHOME−10−8, 1F WAREHOUSE 3",
+    "certificateOfBusinessRegistrationNo": "Certificate of Business Registration No.",
+    "officeInVietnam": "Office in Vietnam",
+    "contentOfficeInVietnam": "No. 8, Le Quang Dao, Nam Tu Liem, Hanoi",
+    "ownersCharterCapital": "Owner's Charter Capital",
+    "contentOwnersCharterCapital": "¥60.000.000",
+    "postcode": "Postcode",
+    "contentPostcode": "〒136-0075",
+    "website": "Website",
+
+    "mission": "Mission",
+    "contentMission": "Our mission is to become a reliable partner in the world of e-commerce, connecting Japan with nations across the globe. We pave the shortest and smoothest path for businesses to achieve success by offering comprehensive e-commerce services driven by cutting-edge technology.",
+    "vision": "Vision",
+    "contentVision": "With the vision of becoming the leading cross-border eCommerce enabler for both sellers and buyers, Ezbuy Japan strives to provide comprehensive Cross-border eCommerce solutions, powered by world-class technology, outstanding expertise, and a passion for serving clients to help businesses unlock growth potential.",
+
+    "ceoStatement": "CEO statement",
+    "statementContent1": "Ezbuy Japan owns the advantages of great technology and a team of experts with years of experience. The company has transformed from a cross-border e-commerce platform to an end-to-end e-commerce enabler for foreigners in Japan. We have strongly developed in the fields of fulfillment, warehouse and selling in Japan. With the motto 'Customer at the center', we always strive to improve service quality to be better every day.",
+    "statementContent2": "However, there is no road of flowers leading to glory. To gain the above achievements, Ezbuy Japan has overcome difficult times, of which 2021 is a prime example when the COVID-19 strains seriously impact the global economy and trade. The lower income leads to a narrowing of people's purchasing numbers. However, from another perspective, demand is often proportional to people's income, so it can be expected that when income increases in the 'new normal', the level of consumption will increase sharply.",
+    "statementContent3": "In 2023, with the motto of 5B: Be consistent in goals - Be good at risk control - Be not afraid of change - Be alert for opportunities - Be sustainable in connection, Ezbuy Japan team will strive to make breakthroughs, create momentum for the next five-year strategic period of 2023-2028. On the basis of promoting the achievements of the previous period, as long as exploiting the potential to bring the brand and scale of Ezbuy Japan growing stronger towards the goal of Top 5 leading e-commerce enabler companies in Japan.",
+    "managingDirector": "Managing director",
+
+    "ourStrengths": "Our strengths",
+    "contentOurStrengths": "Discover what makes Ezbuy Japan become one of the premier eCommerce enablers for foreign businesses in Japan.",
+    "fastCrossBorderForwarding": "Fast cross border forwarding",
+    "highDensityLogisticsNetwork": "High-density logistics network",
+    "realTimeOrderTracking": "Real-time order tracking",
+    "flexibleWholesaleECommerce": "Flexible wholesale eCommerce",
+    "smoothFastCustomsClearance": "Smooth & fast customs clearance",
+    "sameDayOrderFulfillment": "Same day order fulfillment",
+    "sellInJapan": "Sell in Japan",
+    "slider": {
+      "fastCrossBorderForwarding": "Fast cross border forwarding",
+      "contentFastCrossBorderForwarding": "Ezbuy Japan advanced and modern transportation system is able to meet transportation needs. Averaging 5 flights/week ensures the delivery of goods to every destination around the world on time.",
+      "highDensityLogisticsNetwork": "High-density logistics network",
+      "contentHighDensityLogisticsNetwork": "In addition to owning a system of large Cross-Docking and Bonded warehouses in Japan, the US, and Vietnam. Ezbuy Japan also links and expands a huge logistics network from partners globally to ensure the secure storage of goods and driving down shipping costs in the long run.",
+      "realTimeOrderTracking": "Real-time order tracking",
+      "contentRealTimeOrderTracking": "We push shipping information from multi-carriers into our united dashboard via API, enabling customers to easily view and track orders from initial acceptance to the shipment of the finished goods in real-time.",
+      "flexibleWholesaleECommerce": "Flexible wholesale eCommerce",
+      "contentFlexibleWholesaleECommerce": "Spend less when businesses buy wholesale products with Ezbuy Japan. We can bargain and negotiate with Japanese sellers to offer different pricing tiers, with lower prices for your larger orders.",
+      "smoothFastCustomsClearance": "Smooth & secure customs clearance",
+      "contentSmoothFastCustomsClearance": "Offer digital customs declaration documents that can be filled in on the website, with additional documents available to download on demand. This contributes to avoiding errors and making the entire customs process more secure, transparent and visible at all steps.",
+      "sameDayOrderFulfillment": "Same day order fulfillment",
+      "contentSameDayOrderFulfillment": "Accurately and fast handle orders on the same day as soon as your customers place orders, based on detailed data from our word-class order management system integrating with the top Japanese e-commerce sites.",
+      "sellInJapan": "Sell in Japan",
+      "contentSellInJapan": "A-to-Z supports merchants in penetrating, selling, and thriving in the Japanese market from creating selling accounts, storing inventory, and processing orders to delivering to customers in the next day."
+    },
+
+    "ourCulture": "Our culture",
+    "contentOurCulture": "Step into our company's vibrant culture - where creativity, camaraderie, brave, passion and Japanese culture intertwine to create an extraordinary workplace experience.",
+    "innovationCreativity": "Innovation & creativity",
+    "contentInnovationCreativity": "We are learning incessantly from customers, partners, and our own colleagues to think outside the box, striving to lead in new technologies, new products, and new management methods.",
+    "sharing": "Sharing",
+    "contentSharing": "At Ezbuy Japan, we give prominence to the culture of sharing. We believe that a strong sense of the sharing culture’s value allows Ezbuy Japan to maintain and develop a common community and corporate culture.",
+    "dareToThinkDareToAct": "Dare to think, dare to act",
+    "contentDareToThinkDareToAct": "We set a goal and take steps to achieve that goal at the same time. It’s the “dare to think” spirit that maximizes the working capacity of each member & the “dare to act” that gives us the endless energy to fulfill the mission & create valuable beauty. Satisfying customers is all that matters.",
+    "upholdPromoteJapaneseTradition": "Uphold & promote Japanese tradition",
+    "contentUpholdPromoteJapaneseTradition": "Ezbuy Japan always upholds the positive and effective working spirit of the Japanese. We always strive to learn and encourage our employees to promote the good traditional values of the nation.",
+    "teamwork": "Teamwork",
+    "contentTeamwork": "At Ezbuy Japan, all members are cared for. We give each other support & work as a team towards a common goal “the satisfaction of customers & the company’s long-lasting growth”.",
+
+    "trustSecurity": "Trust & Security",
+    "contentTrustSecurity": "Our commitment to safeguarding customer privacy and data security.",
+    "dataProtection": "Data protection",
+    "contentDataProtection": "Implementing robust measures to safeguard customer data and ensure its confidentiality.",
+    "secureTransactions": "Secure transactions",
+    "contentSecureTransactions": "Utilizing industry-standard encryption protocols to protect customer information during online transactions.",
+    "limitedAccess": "Limited access",
+    "contentLimitedAccess": "Restricting access to customer data only to authorized personnel, ensuring confidentiality and preventing unauthorized use.",
+    "complianceWithRegulations": "Compliance with regulations",
+    "contentComplianceWithRegulations": "Adhering to all relevant privacy laws and regulations in Japan to ensure the protection of customer rights.",
+    "transparency": "Transparency",
+    "contentTransparency": "Providing clear and concise information about our data collection and usage practices, empowering customers to make informed choices.",
+    "secureInfrastructure": "Secure Infrastructure",
+    "contentSecureInfrastructure": "Employing robust technological infrastructure and implementing stringent security protocols to prevent unauthorized access and data breaches."
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "viewMore": "View more",
+    "getStarted": "Get started"
+  },
+  "blog": {
+    "heading": "Latest news",
+    "all": "All",
+    "relatedBlogs": "Related blogs",
+    "toc": "Table of contents"
+  },
+  "services": {
+    "header": {
+      "homePage": "Home page",
+      "warehouseFulfillment": "Warehouse Fulfillment",
+      "xBorderShipping": "Cross-border Shipping",
+      "xBorderEcommerce": "Cross-border eCommerce",
+      "sellInJapan": "Sell in Japan",
+      "siv": "Sell in Viet Nam",
+      "airFreight": "Air freight & Customs clearance",
+      "sellOverseas": "Sell Overseas",
+      "dropshipping": "Dropshipping"
+    },
+    "warehouseFulfillment": {
+      "banner": {
+        "heading": ["Automated", "warehouse fulfillment "],
+        "subHeading": [
+          "With our cutting-edge warehouse management system and experienced team, we guarantee seamless order processing, packing, and shipping, so you can focus on what matters most - growing your business!",
+          "Say goodbye to the headaches of inventory management and logistics, as we take care of it all for you."
+        ],
+        "contents": [
+          "Do you own <span className='font-bold'>an online store</span> with a growing range of products, but don&apos;t want the hassle of handling <span className='font-bold'>warehouse fulfillment?</span>",
+          "Do you wish to offer <span className='font-bold'> 2-day fast shipping</span> for your orders?",
+          "Or maybe you want to free up some space and leave the hassle of packing and shipping products to someone else?"
+        ]
+      },
+      "whyChooseEzbuy": {
+        "heading": "Why choose Ezbuy Japan’s fulfillment",
+        "subHeading": "With our exceptional fulfillment solution, you can effortlessly manage all your orders while selling goods in Japan.",
+        "solutions": [
+          "Efficient order fulfillment",
+          "Cost-effective fulfillment solutions",
+          "Professional packaging",
+          "Integrated eCommerce platforms",
+          "Wide network of fulfillment centers",
+          "Effective returns management"
+        ],
+        "solutionContents": [
+          "Ezbuy Japan's fulfillment centers are equipped with advanced technology and efficient processes to handle order processing quickly and accurately. This ensures that customer orders are picked, packed and shipped promptly.",
+          "With an extensive network and partnerships with various shipping carriers, Ezbuy Japan can negotiate competitive shipping rates, saving businesses money on shipping costs.",
+          "Ezbuy Japan's fulfillment centers ensure that products are professionally packed and protected during transit, reducing the likelihood of damage during shipping and improving overall customer experience.",
+          "We integrate with various eCommerce platforms, making it seamless for businesses to sync their online stores with Ezbuy Japan's fulfillment system.This integration simplifies inventory management and order tracking.",
+          "With multiple fulfillment centers strategically located, Ezbuy Japan can efficiently distribute products across various regions. This allows businesses to reach customers faster and reduce shipping costs.",
+          "Ezbuy Japan handles the returns process in the warehouse efficiently, making it easier for businesses to process returns and refunds, which is crucial for maintaining customer satisfaction and building trust."
+        ]
+      },
+      "process": {
+        "heading": "Warehouse fulfillment process",
+        "contents": [
+          {
+            "title": "Receiving",
+            "des": "Send your inventory to one of our warehouse."
+          },
+          {
+            "title": "Put-away",
+            "des": "Move items from the receiving dock and classify the placement of goods to enable fast and accurate picking."
+          },
+          {
+            "title": "Picking and packing",
+            "des": "We pick, pack orders and get them ready to send customers."
+          },
+          {
+            "title": "Shipping",
+            "des": "Send goods to the customers and ensure that they are delivered safely and on time."
+          },
+          {
+            "title": "Returns",
+            "des": "Returned orders come back to our fulfilment centres for processing"
+          }
+        ]
+      },
+      "storage": {
+        "heading": "Storage",
+        "subHeading": "Observe how we proactively optimize our warehouse for your storage requirements",
+        "contents": [
+          {
+            "title": "Area",
+            "subTitle": "Spacious storage facilities",
+            "des": "Our warehouse Fulfillment service offers ample and secure storage space to accommodate your growing inventory. With a well-organized layout, we ensure easy access and retrieval of products, making order fulfillment a breeze."
+          },
+          {
+            "title": "Price",
+            "subTitle": "Cost-effective storage solutions",
+            "des": "With our Warehouse Fulfillment service, you can save on overhead costs associated with maintaining your storage facility. Our flexible pricing options allow you to pay only for the space and services you require."
+          },
+          {
+            "title": "Safety",
+            "subTitle": "High-security storage",
+            "des": "Your products are in safe hands. Our warehouse is equipped with state-of-the-art security measures, including surveillance cameras, access control systems and 24/7 on-site monitoring, providing a secure environment for your valuable merchandise."
+          },
+          {
+            "title": "Temperature",
+            "subTitle": "Climate-controlled storage",
+            "des": "Protect your sensitive or perishable goods with our climate-controlled storage options. We maintain optimal temperature and humidity levels to preserve the quality of your products, giving you peace of mind."
+          },
+          {
+            "title": "Personalization",
+            "subTitle": "Customized storage solutions",
+            "des": "We understand that each business is unique. Our Warehouse Fulfillment service offers customizable storage solutions to meet your specific needs. Whether it's bulk storage, pallet racking, or shelving, we tailor our services to align with your requirements."
+          }
+        ]
+      },
+      "inventory": {
+        "heading": "Inventory Management (on OMS)",
+        "subHeading": "See how we apply an advanced inventory management system to keep track of every item stored in the warehouse.",
+        "contents": [
+          {
+            "title": "Multi-warehouse management",
+            "des": "If you have multiple warehouses or fulfillment centers, our OMS can efficiently manage inventory across all locations. This helps reduce shipping costs and improves order fulfillment efficiency."
+          },
+          {
+            "title": "Real-time inventory tracking",
+            "des": "Ezbuy Japan's OMS provides real-time updates on your inventory levels. You can effortlessly monitor stock quantities, ensuring you have accurate information for smooth warehouse fulfillment."
+          },
+          {
+            "title": "Automated stock reordering",
+            "des": "With our OMS, you can set up automatic reorder points for products. When inventory reaches a specified threshold, the system generates purchase orders or restocking alerts, preventing stockouts and optimizing inventory levels."
+          },
+          {
+            "title": "Centralized inventory control",
+            "des": "OMS serves as a centralized hub for managing inventory across multiple sales channels. Whether you sell through your website, marketplaces, or physical stores, you can keep track of all stock movements from a single platform."
+          },
+          {
+            "title": "FIFO (First-In-First-Out) System",
+            "des": "For products with expiration dates or limited shelf life, we implement a FIFO system to ensure older items are dispatched first, reducing the risk of product obsolescence and wastage."
+          }
+        ]
+      },
+      "facilities": {
+        "heading": "Warehouse Facilities",
+        "subHeading": "Explore our top-notch warehouse facilities, where efficiency meets excellence to safeguard and optimize your valuable inventory"
+      },
+      "valueAdded": {
+        "heading": "Value-added services",
+        "subHeading": "Ezbuy Japan provides extra services to elevate your business, ensuring efficient operation and delighted customers.",
+        "contents": [
+          {
+            "title": "Customized packaging",
+            "des": "We provide personalized packaging options, such as gift wrapping and branded packaging, which elevate the customer experience and add a touch of exclusivity to the products."
+          },
+          {
+            "title": "Product labeling and barcoding",
+            "des": "Accurate and efficient product labeling and barcoding are critical to ensure smooth inventory tracking and quick order processing"
+          },
+          {
+            "title": "Product repackaging",
+            "des": "Some products might need repackaging to comply with local regulations or to create more efficient packaging for shipping. We offer this service to streamline the process for their customers."
+          },
+          {
+            "title": "Returns processing & refurbishment",
+            "des": "Ezbuy Japan handles product returns efficiently. We offer inspection, testing and refurbishment services, making the returned items suitable for resale while minimizing waste."
+          }
+        ]
+      },
+      "partner": {
+        "heading": "Partners & Networks",
+        "subHeading": "Our warehouse fulfillment service in Japan leverages a robust network of partners, ensuring streamlined operations, faster delivery and superior customer satisfaction.",
+        "discover": "Discover"
+      }
+    },
+    "xBorderEcom": {
+      "banner": {
+        "heading": "Cross-border eCommerce",
+        "subHeading": "Via the Janbox eCommerce platform, Ezbuy Japan enables international customers to shop over 7 million products in Japan with superior solutions, offering unique features like online auctions, last-minute hunting, and bargain buying. It's more than just a 'Click to buy' experience.",
+        "items": ["Warehouses", "Countries", "Customers", "Orders"]
+      },
+      "whyChooseEzbuy": {
+        "heading": "Why choose us?",
+        "subHeading": "Choose us for a seamless cross-border eCommerce experience - where shopping from Japan becomes a breeze no matter where you are. We bring an eCommerce world of convenience, unbeatable variety and hassle-free delivery to your doorstep",
+        "solutions": [
+          "Extensive product selection",
+          "Authenticity guarantee",
+          "Competitive pricing",
+          "Seamless international shipping",
+          "Multilingual customer support",
+          "Secure payment options",
+          "Streamlined customs clearance",
+          "Personal shopping assistance"
+        ],
+        "solutionContents": [
+          "Our platform offers an extensive range of products directly sourced from Japan, providing you access to a diverse and authentic selection that caters to your unique preferences and needs.",
+          "We have direct partnerships with reputable Japanese eCommerce platforms to ensure the authenticity of the products, providing you with peace of mind and confidence in your cross-border shopping experience.",
+          "We strive to offer competitive service charges on all eCommerce sites, allowing you to enjoy the best of Japan's offerings at affordable rates, making cross-border shopping an economical and rewarding choice.",
+          "Ezbuy Japan has established reliable shipping networks to ensure hassle-free and timely delivery of your orders from Japan to your doorstep, eliminating the worries of complex cross-border logistics.",
+          "Our dedicated customer support team is fluent in multiple languages, providing you with assistance and guidance throughout your shopping journey, ensuring a smooth and enjoyable experience.",
+          "We prioritize your security and privacy, offering a range of secure payment options for your cross-border purchases, safeguarding your financial information and transactions.",
+          "Our experienced team manages all customs procedures and documentation, minimizing potential delays and ensuring a swift customs clearance process for your orders.",
+          "Looking for a specific product from Japan? Our personalized shopping assistance service helps you find and acquire rare or unique items, turning your cross-border shopping dreams into reality."
+        ]
+      },
+      "features": {
+        "heading": "Features of service",
+        "subHeading": "Explore distinctive and standout features that make Ezbuy Japan different apart from others",
+        "contents": [
+          {
+            "title": "Online bidding",
+            "items": [
+              "Enable worldwide customers to participate in auctions on major Japanese websites like Yahoo Auction, Mercari,...",
+              "Allow users to monitor the bidding status in real time and adjust their bid amounts as needed",
+              "VIP auction function offers the opportunity to bid on products before others and pay later when winning the auction."
+            ]
+          },
+          {
+            "title": "Sniper Bid",
+            "items": [
+              "Help customers place bids automatically, saving time and ensuring the highest bid without exceeding your budget.",
+              "Bid confidently with Ezbuy's calculated offers, avoiding overbidding and maximizing cost efficiency."
+            ]
+          },
+          {
+            "title": "Quick order",
+            "items": [
+              "Copying the product URL into the \"Quick order\" speeds up the purchasing process by avoiding manual product details entry.",
+              "Using the URL reduces the risk of incorrect product information, ensuring customers get the intended items from the Japanese website."
+            ]
+          },
+          {
+            "title": "Integrate multiple payment methods",
+            "items": [
+              "Accept payments across any gateway, geography or currency without any additional integration effort.",
+              "Regularly monitor payment trends, customer feedback, and industry developments to update and  optimize the payment experience for customers."
+            ]
+          },
+          {
+            "title": "Return and refund easily",
+            "items": [
+              "Offer easy and straightforward return and refund policies for customers",
+              "Create clear and simple return procedures with step-by-step instructions and tracking options to enhance the shopping experience.",
+              "Process refunds promptly and keep customers updated on the status, ensuring trust and satisfaction."
+            ]
+          },
+          {
+            "title": "Customer support for different time zones",
+            "items": [
+              "Offer 24/7 customer support to cater to customers in different time zones and ensure assistance is available when you need us.",
+              "Provide customer support in multiple languages to bridge the communication gap and effectively assist international customers."
+            ]
+          },
+          {
+            "title": "Duties and taxes calculator",
+            "items": [
+              "Help customers estimate the import duties and taxes they may incur when buying from Japan",
+              "Categorize products to calculate duties and taxes accurately based on the respective customs classifications and rates for each item.",
+              "Provide real-time currency conversion to display estimated duties and taxes in the customer's preferred currency."
+            ]
+          }
+        ]
+      },
+      "services": {
+        "heading": "Service flow",
+        "subHeading": "The service flow can be customized to align with the specific requirements of each customer",
+        "contents": [
+          {
+            "title": "Receiving requests and registration",
+            "des": "Customers contact with our customer success team to register and create their accounts."
+          },
+          {
+            "title": "Providing support and guidance",
+            "des": "Discuss with foreign customers, helping them understand the processes and regulations when buying from Japan."
+          },
+          {
+            "title": "Verifying information and accounts",
+            "des": "We will verify the customer's information and confirms your accounts for authenticity and security."
+          },
+          {
+            "title": "Selecting product",
+            "des": "Customers shop around eCommerce sites in Japan, select the products they want to buy & add them to their shopping carts."
+          },
+          {
+            "title": "Processing payment",
+            "des": "Customers can securely process payments in various currencies and payment methods, ensuring a smooth and reliable transaction."
+          },
+          {
+            "title": "Delivery",
+            "des": "Collaborate with famous shipping partners to ensure safe and efficient shipping from Japan to more than 220 countries and religion."
+          },
+          {
+            "title": "Post-sales support",
+            "des": "The service provides post-sales support, including handling product exchanges/returns and resolving any arising issues."
+          }
+        ]
+      },
+      "site": {
+        "heading": "Shopping sites",
+        "subHeading": "Explore a captivating array of Japanese e-commerce websites, where you can find everything you desire. Notably, Ezbuy Japan seamlessly amalgamates these platforms within Janbox, granting you the convenience of a unified shopping haven.",
+        "contents": [
+          {
+            "title": "Rakuten",
+            "des": "Experience a marketplace for various goods"
+          },
+          {
+            "title": "Yahoo Shopping",
+            "des": "Explore auctions and shopping from Japan"
+          },
+          {
+            "title": "Yahoo Auction",
+            "des": "Join auctions for unique finds"
+          },
+          {
+            "title": "Mercari",
+            "des": "Buy and sell used items easily"
+          },
+          {
+            "title": "Zozotown",
+            "des": "Discover trendy fashion and accessories"
+          },
+          {
+            "title": "Suruga-ya",
+            "des": "Suitable for Japanese culture fans (anime, manga. video games, toys,...)"
+          },
+          {
+            "title": "eBay",
+            "des": "Bid on auctions or purchase new and used items"
+          },
+          {
+            "title": "Jomashop",
+            "des": "Luxury watches, accessories, and jewelry"
+          },
+          {
+            "title": "Ashford",
+            "des": "Explore a curated selection of prestigious watches"
+          },
+          {
+            "title": "Amazon Japan",
+            "des": "Discover a diverse range of Japanese products"
+          },
+          { "title": "Amazon US", "des": "Shop a global selection of products" }
+        ]
+      },
+      "buyingFlow": {
+        "heading": "For new users",
+        "subHeading": "Welcome to Cross-Border eCommerce Service from Ezbuy. We are thrilled when you choose our solutions, designed to make your international buying experience in Japan seamless and convenient. Here are some tips to help you get started."
+      },
+      "shipping": {
+        "heading": "Shipping & Networks",
+        "subHeading": "With a strong network, we're confident to bring the best shipping cross border solution for international customer. Let's discover the destinations that we support shipping to",
+        "fulfillmentCapacity": "Fulfillment capacity",
+        "orderAccuracy": "Order accuracy",
+        "shippingPartner": "Shipping partner",
+        "totalWarehouseSpace": "Total warehouse space",
+        "items": [
+          "Packaging and labeling service",
+          "Flexibility & Scalability",
+          "Effective return management",
+          "Same day order processing",
+          "OMS & WMS software",
+          "Professional order processing system"
+        ]
+      }
+    },
+    "xBorderShip": {
+      "banner": {
+        "heading": "Fast & Reliable Cross-border Shipping",
+        "subHeading": "Ezbuy Japan offers international delivery by air and sea from Japan to over 220 countries. We provide various shipping methods and optional services to ensure your goods' timely delivery, cost-effectiveness, and package safety. With our comprehensive shipping and tracking solutions, we can perfectly meet all your needs"
+      },
+      "whyChooseEzbuy": {
+        "heading": "Why choose us?",
+        "subHeading": "Experience the convenience of global shopping from Japan with Ezbuy Japan's Cross-border shipping service.",
+        "solutions": [
+          "Global reach",
+          "Flexible shipping options",
+          "Customs clearance assistance",
+          "Reliable tracking and monitoring",
+          "Cost-effective",
+          "Speedy deliveries",
+          "Secure packaging and handling",
+          "Customer support",
+          "Expertise and experience"
+        ],
+        "solutionContents": [
+          "Our cross-border shipping service enables you to reach customers and partners worldwide. Ezbuy Japan has an extensive network of international shipping routes, ensuring your shipments can reach virtually any destination across the globe.",
+          "We understand that different shipments have unique requirements. Therefore, we offer a range of shipping options, including express, standard and economy services, allowing you to choose the one that best suits your needs and budget.",
+          "Navigating customs regulations and procedures can be complex and time-consuming. Ezbuy Japan provides dedicated customs clearance assistance, ensuring all necessary paperwork is accurately prepared and processed, helping to avoid potential customs-related issues.",
+          "We offer advanced tracking and monitoring systems, allowing you to keep a close eye on your shipments status in real-time. This transparency gives you peace of mind and allows you to provide accurate updates to your customers or recipients.",
+          "Our cross-border shipping service is designed to be cost-effective without compromising on quality. We optimize shipping routes, consolidate shipments where possible and negotiate competitive rates with carriers, passing on the cost savings to our customers.",
+          "Time-sensitive shipments need reliable and swift service. We prioritize on-time deliveries and work closely with trusted carriers to ensure your goods reach their destination promptly and efficiently.",
+          "International shipments are subjected to various handling conditions during transit. We take utmost care in packaging and handling your goods to minimize the risk of damage or loss during transportation.",
+          "Our customer support team is available to assist you at every step of the shipping process. Whether you have questions about documentation, customs or tracking, we are here to provide prompt and helpful assistance.",
+          "With years of experience in cross-border logistics, Ezbuy Japan has developed a deep understanding of international shipping regulations, customs procedures, and documentation requirements. Our expertise ensures smooth and hassle-free shipping, reducing the risk of delays and errors."
+        ]
+      },
+      "valueAdded": {
+        "heading": "Value-added services",
+        "subHeading": "Experience the difference with value-added services in cross-border shipping, ensuring smooth and rewarding international deliveries",
+        "contents": [
+          {
+            "title": "Package consolidation",
+            "des": "Package consolidation offers customers a cost-saving solution on international shipping. Moreover, consolidating packages helps the receiving stage more convenient and easier. You can receive them at once instead of multiple times."
+          },
+          {
+            "title": "Language support and documentation translation",
+            "des": "Offer multilingual support to assist customers with communication, paperwork, and documentation needed for international shipping, making it easier for them to understand and comply with regulations."
+          },
+          {
+            "title": "Protective packaging service",
+            "des": "To ensure that the items are not damaged during international shipping, we suggest you use a protective packaging service to minimize unwanted package risks."
+          },
+          {
+            "title": "Global fulfillment solution",
+            "des": "Help businesses manage cross-border e-commerce operations by offering warehousing, order fulfillment, and last-mile delivery services in Japan and other target markets."
+          },
+          {
+            "title": "Insurance services",
+            "des": "We partner with insurance providers to offer shipping insurance options, protecting customers against potential loss or damage during transit."
+          }
+        ]
+      },
+      "newUser": {
+        "heading": "For new users",
+        "subHeading": "Discover essential tips and helpful guidelines tailored for new users to ensure a smooth and seamless experience with our cross-border shipping service.",
+        "contents": [
+          {
+            "title": "Check customs regulations",
+            "des": "Familiarize yourself with the customs regulations and requirements of both the exporting and importing countries. Ensure your shipments comply with all necessary documentation and restrictions."
+          },
+          {
+            "title": "Proper packaging",
+            "des": "Invest in secure and appropriate packaging to protect your goods during international transit. Consider any specific packaging requirements for fragile or sensitive items."
+          },
+          {
+            "title": "Accurate documentation",
+            "des": "Double-check all shipping documents, including commercial invoices and packing lists, to ensure accuracy and avoid delays during customs clearance."
+          },
+          {
+            "title": "Shipping options",
+            "des": "Explore the various shipping options available, considering factors such as speed, cost, and tracking capabilities. Choose the method that best suits your needs."
+          },
+          {
+            "title": "Insurance coverage",
+            "des": "Consider insuring your shipments to safeguard against potential loss or damage during transit. Understand the insurance coverage and claims process."
+          },
+          {
+            "title": "Address accuracy",
+            "des": "Provide complete and accurate recipient addresses to prevent delivery delays or misplacements."
+          }
+        ]
+      },
+      "shipment": {
+        "heading": "Create a shipment",
+        "subHeading": "Creating a cross-border shipment is a pivotal process that initiates sending goods between countries. It involves crucial actions and documentation for smooth and efficient delivery. Here's an overview.",
+        "content": {
+          "solutions": [
+            "Order placement",
+            "Customs compliance",
+            "Packing and labeling",
+            "Shipping documentation",
+            "Shipping method & carrier selection",
+            "Payment and insurance",
+            "Tracking and visibility",
+            "Customs clearance",
+            "Final delivery"
+          ],
+          "solutionContents": [
+            "The sender (shipper) placing an order to send goods to a recipient (consignee) in another country. The shipper provides essential details such as the destination address, item description, quantity, and value.",
+            "Cross-border shipping involves adherence to customs regulations and requirements of both the exporting and importing countries. The shipper must ensure that the goods comply with all relevant customs laws, tariffs, and restrictions.",
+            "Proper packing and labeling are essential for secure transportation. The shipper carefully packages the items, ensuring they are adequately protected and labeled with all necessary information, including shipping labels and customs documentation.",
+            "To move the shipment through customs and across international borders, the shipper must complete various shipping documents. This paperwork includes the commercial invoice, packing list, certificate of origin, and any other specific documentation required by the destination country",
+            "The shipper chooses the appropriate shipping method based on factors such as cost, speed, and the nature of the goods. They also select a reliable carrier experienced in cross-border logistics to handle the transportation.",
+            "The shipper arranges for payment of shipping charges, taxes, and any applicable duties. They may also opt for cargo insurance to protect against potential loss or damage during transit.",
+            "We offer tracking capabilities, allowing both the shipper and recipient to monitor the shipment's progress in real-time. This visibility ensures transparency and keeps both parties informed about the estimated delivery date.",
+            "Once the shipment reaches the destination country, it undergoes customs clearance. This process involves inspection, verification of documentation, and payment of any applicable duties or taxes.",
+            "After customs clearance, the shipment is released for final delivery to the recipient's address. The carrier handles the last-mile delivery to ensure the goods reach the consignee safely and on time."
+          ]
+        }
+      }
+    },
+    "sellInJapan": {
+      "banner": {
+        "heading": "End-to-end Japan eCommerce Selling",
+        "subHeading": "Are you a foreign seller looking to tap into Japan's bustling eCommerce landscape?",
+        "description": "Our \"Sell in Japan\" service offers you a seamless gateway to establish your presence on Japan's top online platforms. Reach millions of Japanese customers, navigate local regulations effortlessly, and optimize your sales strategy with our expert guidance."
+      },
+      "sellingAccount": {
+        "heading": "Create a selling account",
+        "subHeading": "We provide you with comprehensive, step-by-step guidance to create selling accounts on various eCommerce platforms in Japan. Let’s see how Ezbuy Japan helps you!",
+        "step": "Step ",
+        "contents": [
+          {
+            "title": "Research market and choose platform",
+            "des": "Ezbuy Japan helps you conduct comprehensive market research to understand your target audience, competitors, and product demand in Japan. Then you choose the most suitable eCommerce platform(s) based on your product type and target market. We suggest some well-known platforms like Rakuten, Amazon Japan or Yahoo! Shopping."
+          },
+          {
+            "title": "Assist businesses in Japanese sales registration",
+            "des": "We assist foreign businesses in registering their operations in Japan under Ezbuy Japan's legal entity. Furthermore, we provide aid in acquiring essential licenses and permits for the sale of specific products. Our services also encompass helping you grasp the intricacies of Japanese tax laws and e-commerce regulations."
+          },
+          {
+            "title": "Translate product information",
+            "des": "We connect with translation services to help you translate your product listings, descriptions, and customer support materials into Japanese for effective communication with local customers. We ensure accurate and culturally relevant translations to build trust and enhance the shopping experience."
+          },
+          {
+            "title": "Create an account ",
+            "des": "Visit the chosen e-commerce platform's official website and navigate to the seller account registration section. You need to provide accurate business information, including company details, contact information, and tax identification numbers."
+          },
+          {
+            "title": "Product listing",
+            "des": "Create compelling and detailed product listings with high-quality images, accurate descriptions, and relevant keywords. You can set competitive pricing that aligns with the local market and consider offering promotions to attract initial customers."
+          }
+        ]
+      },
+      "fulfillment": {
+        "heading": "Warehouse fulfillment",
+        "subHeading": "We go beyond merely creating a selling account – we also provide comprehensive assistance in fulfillment.",
+        "contents": [
+          {
+            "title": "Strategic location",
+            "des": "Our strategically positioned warehouses across Japan ensure optimal coverage and quick access to major cities, ensuring timely deliveries and reduced shipping costs."
+          },
+          {
+            "title": "Advanced inventory management",
+            "des": "Our cutting-edge inventory management system enables real-time tracking of your products. Stay informed about stock levels, order status, and shipping details at your fingertips."
+          },
+          {
+            "title": "Order processing",
+            "des": "From order receipt to pick-and-pack operations, our dedicated team ensures accurate and efficient order processing, minimizing errors and ensuring swift dispatch."
+          },
+          {
+            "title": "International shipping expertise",
+            "des": "Leveraging our experience in international shipping, we optimize shipping routes and methods to guarantee cost-effective and reliable delivery to your customers."
+          }
+        ]
+      },
+      "howTo": {
+        "heading": "How to import to Japan",
+        "subHeading": "Should you find the intricacies of importing goods into Japan daunting, entrust your package to Ezbuy's expert customs service!",
+        "contents": [
+          "Research import regulations",
+          "Determine import eligibility",
+          "Choose a customs broker",
+          "Calculate import costs",
+          "Prepare documentation",
+          "Declare goods to customs",
+          "Pay customs duties and taxes",
+          "Customs inspection and clearance",
+          "Transportation and delivery"
+        ],
+        "cta": "Discover"
+      },
+      "shipping": {
+        "heading": "Shipping partners",
+        "subHeading": "We've teamed up with renowned global shipping giants in Japan, ensuring your business thrives while conquering the Japanese market.",
+        "contents": [
+          {
+            "title": "Japan Post",
+            "des": "Postal and freight service provider in Japan."
+          },
+          {
+            "title": "Yamato Transport",
+            "des": "One of the largest and most popular courier companies in Japan."
+          },
+          {
+            "title": "Sagawa Express",
+            "des": "A leading Japanese courier company, specializing in fast and secure delivery."
+          },
+          {
+            "title": "Nippon Express",
+            "des": "A leading Japanese logistics and transportation company."
+          }
+        ]
+      },
+      "selling": {
+        "heading": "Selling partners",
+        "subHeading": "Step into the world of our reputable partners and what they offer."
+      }
+    },
+    "airFreight": {
+      "efficient": "Efficient air freight solution",
+      "elevate": "Elevate your logistics experience with Ezbuy's premium air freight service from Japan – Where swift transport meets global excellence.",
+      "whyChoose": "Why choose Ezbuy’s Air freight?",
+      "cost": {
+        "title": "Cost-effectiveness",
+        "content": "Opting for Ezbuy's air freight service means making a cost-conscious choice without compromising on quality. We offer competitive pricing options that align with your budget, ensuring that your shipments travel efficiently without inflating your expenses."
+      },
+      "timely": {
+        "title": "Timely deliveries",
+        "content": "Experience the advantage of swift deliveries with Ezbuy's air freight service. Our commitment to timely transportation means your cargo reaches its destination in no time, meeting crucial deadlines and enhancing your supply chain efficiency."
+      },
+      "trackAnd": {
+        "title": "Track and trace visibility",
+        "content": "Gain peace of mind with our comprehensive track and trace visibility feature. Ezbuy Japan empowers you to monitor your shipments in real-time, providing transparency at every stage of the journey. Stay informed and in control, ensuring a seamless logistics process from origin to destination."
+      },
+      "value": {
+        "heading": "Value-added services",
+        "subHeading": "Elevate your air freight experience with Ezbuy's value-added service: swift, efficient and personalized.",
+        "special": {
+          "title": "Special handling expertise",
+          "content": "No matter the challenge, Ezbuy's air freight service is equipped to handle it all. From oversized cargo to heavy lifts, dangerous goods to valuable items requiring special care, our team is skilled in providing origin-to-destination handling solutions, including personalized trucking options for a seamless journey."
+        },
+        "temperature": {
+          "title": "Temperature-controlled precision",
+          "content": "Your sensitive cargo is in safe hands with Ezbuy. Our temperature-controlled services offer a variety of temperature ranges, accompanied by passive packaging and protection measures. With GDP compliance where necessary, rest assured that your cargo maintains its integrity throughout its journey."
+        },
+        "efficient": {
+          "title": "Efficient buyers consolidation",
+          "content": "Simplify your logistics with our Buyers Consolidation service. We efficiently manage multiple incoming shipments, consolidating them through our global network of warehouses. This results in a single consolidated shipment, streamlining your processes and enhancing convenience."
+        },
+        "onboard": {
+          "title": "Onboard courier for urgency",
+          "content": "When time is of the essence, Ezbuy's Onboard Courier service steps in. We understand the significance of time-critical and sensitive goods, which is why we offer a dedicated personal courier. Your shipment will travel on the next available flight, complete with customs services and door-to-door delivery, ensuring your urgent cargo reaches its destination promptly and securely."
+        }
+      },
+      "custom": {
+        "heading": "Customs clearance",
+        "subHeading": "Say goodbye to complex paperwork, delays and uncertainty as Ezbuy Japan handle the intricate customs process for your business."
+      },
+      "whyChooseCustoms": {
+        "heading": "Why choose Ezbuy Japan customs clearance",
+        "subHeading": "Say goodbye to complex paperwork, delays and uncertainty as Ezbuy Japan handle the intricate customs process for your business.",
+        "solutions": [
+          "Expertise and experience",
+          "Time and effort savings",
+          "Global network",
+          "Tailored solutions",
+          "Multilingual support"
+        ],
+        "solutionContents": [
+          "Ezbuy Japan boasts a team of customs clearance professionals with extensive experience and in-depth knowledge of customs regulations. We navigate the complexities of customs procedures on your behalf, ensuring accurate and efficient clearance.",
+          "By entrusting your customs clearance to Ezbuy Japan, you save valuable time and effort that you can redirect toward core business activities. The intricacies of paperwork and procedures are handled by experts, allowing you to focus on what matters most.",
+          "Ezbuy's wide network and established relationships with customs authorities worldwide facilitate smooth clearances across various countries. Whether you're importing from Japan or any other country, Ezbuy's expertise extends globally.",
+          "Ezbuy Japan understands that each import situation is unique. Our customs clearance services are customized to your specific needs, ensuring that you receive solutions that align with your business requirements.",
+          "Language barriers can be a challenge when dealing with customs procedures. Ezbuy Japan provides multilingual support, ensuring effective communication with customs authorities and a smooth clearance process"
+        ]
+      },
+      "discover": {
+        "heading": "Smooth sailing awaits! Let Ezbuy Japan handle customs and air freight for you.",
+        "button": "Discover"
+      }
+    },
+    "b2bTrading": {
+      "title": "B2B Wholesale Ecommerce",
+      "subTitle": "Purchasing service",
+      "content": "With the desire to bring high-quality Japanese products closer to customers around the globe, Ezbuy Japan creates partnerships with domestic Japanese brands and becomes a worldwide distribution agent, helping them reach potential customers globally.",
+      "btn": {
+        "discover": "Discover",
+        "contactUs": "Contact us"
+      },
+      "features": {
+        "title": "Features of service",
+        "subTitle": "Unveil the value we bring to your business through wholesale purchase service from Japan.",
+        "items": [
+          {
+            "name": "Personalized business accounts",
+            "description": "Ezbuy Japan provides customizable business accounts that allow buyers and sellers to manage their preferences and track orders, optimizing procurement for businesses buying from Japan."
+          },
+          {
+            "name": "Verified suppliers",
+            "description": "We connect with a network of verified Japanese suppliers, ensuring the authenticity, quality, and reliability of the products you source."
+          },
+          {
+            "name": "Bulk ordering and pricing",
+            "description": "Our platforms enable buyers to place large bulk orders and negotiate pricing based on order quantity, fostering more transparent and profitable transactions."
+          },
+          {
+            "name": "RFQ (Request for Quotation)",
+            "description": "Buyers can submit RFQs for specific products or quantities, inviting sellers to provide customized quotes based on the buyer's requirements."
+          },
+          {
+            "name": "Flexible payment methods",
+            "description": "We offer flexible payment options, including credit terms, allowing businesses to establish financial agreements and build trust over time."
+          },
+          {
+            "name": "Efficient import processes",
+            "description": "Ezbuy Japan helps businesses simplify the import process with expert guidance, ensuring seamless customs clearance and compliance with regulations."
+          },
+          {
+            "name": "Integration with ERP systems",
+            "description": "Integration with Enterprise Resource Planning (ERP) systems allows for seamless data synchronization, inventory management, and order processing."
+          }
+        ]
+      },
+      "keyFigures": {
+        "title": "Key figures",
+        "items": [
+          {
+            "value": 100,
+            "unit": "+",
+            "label": "Japanese internationally known brands"
+          },
+          {
+            "value": 5000000,
+            "unit": "+",
+            "label": "Reaching international customers"
+          },
+          {
+            "value": 220,
+            "unit": "+",
+            "label": "Available in 220+ countries"
+          },
+          {
+            "value": 3,
+            "unit": "+",
+            "label": "Support multiple languages"
+          }
+        ]
+      },
+      "partners": {
+        "title": "Partners",
+        "subTitle": "We collaborate with renowned Japanese brands to present you with the finest deals.",
+        "items": [
+          {
+            "name": "Amazon Japan"
+          },
+          {
+            "name": "Mercari"
+          },
+          {
+            "name": "Locondo"
+          },
+          {
+            "name": "Muji"
+          },
+          {
+            "name": "Panpare Mall"
+          },
+          {
+            "name": "JMTY"
+          },
+          {
+            "name": "Plaza Style"
+          }
+        ]
+      },
+      "productCategories": {
+        "title": "Product Categories",
+        "subTitle": "Explore a diverse range of product categories with our categories, designed to assist businesses in sourcing wholesale goods from Japan, spanning from electronics to cosmetics and beyond."
+      },
+      "whyChoose": {
+        "title": "Why choose Ezbuy Japan",
+        "subTitle": "At Ezbuy Japan, we understand that businesses thrive on strategic decisions. That's why, as a fellow business entity, we've meticulously crafted our B2B Wholesale Ecommerce service to cater exclusively to enterprises like yours. Here's why you should confidently choose us",
+        "items": [
+          {
+            "title": "Direct access to Japanese markets",
+            "content": "Ezbuy Japan gives businesses direct access to an abundant source of goods from Japan, supporting from sourcing and import to fulfillment and shipping."
+          },
+          {
+            "title": "Vast network of partners",
+            "content": "We've painstakingly built a network of reputable suppliers in Japan, helping businesses to buy wholesale goods at favorable prices."
+          },
+          {
+            "title": "Multiple-language support",
+            "content": "No need to worry about not understanding Japanese as we support multiple languages"
+          },
+          {
+            "title": "Flexible paying methods",
+            "content": "Various paying methods including Paypal, credit cards or Alipay are acceptable"
+          }
+        ]
+      }
+    },
+    "siv": {
+      "banner": {
+        "heading": "Start your eCommerce business in Vietnam",
+        "subHeading": "Comprehensive eCommerce solution for Japanese businesses when selling in Vietnam.",
+        "cta": "Contact Sales"
+      },
+      "trustBy": {
+        "trustByOver": "Trusted by over",
+        "company": "20+ Japanese companies"
+      },
+      "whyExpand": {
+        "heading": "Why expand to the Vietnam market?",
+        "subHeading": "What is the size of Vietnam's e-commerce market? Explore the potential of this lucrative market!",
+        "b2cRevenue": "B2C revenue",
+        "growthRate": "Growth rate",
+        "figure1": "B2C E-commerce revenue in Vietnam from 2018 to 2023 (in billion USD)",
+        "figure2": "Source: VnEconomy."
+      },
+      "aNew": {
+        "heading": "A New Way of Selling with EzBuy Japan",
+        "subHeading": "Sell cross-border in your traditional way",
+        "subHeading1": "Sell in Vietnam without hassle with EzBuy Japan",
+        "items": [
+          {
+            "title": "Manufacturer",
+            "content": ""
+          },
+          {
+            "title": "Exporter",
+            "content": "Get the goods and prepare document procedures for customs clearance"
+          },
+          {
+            "title": "Importer",
+            "content": "Declare entry once goods arrive in the country sellers intend to scale business"
+          },
+          {
+            "title": "Distributor",
+            "content": "Receive goods being imported and continue distribute to the retailers"
+          },
+          {
+            "title": "Retailer",
+            "content": "Proceed to sell and send goods to the end consumers"
+          },
+          {
+            "title": "Customer",
+            "content": ""
+          }
+        ]
+      },
+      "ecom": {
+        "heading": "Why should Sell in Vietnam?",
+        "subHeading": "70% of Vietnamese shop online at least once a month, and continue to buy more essentials online. Vietnam is e-commerce market value was forecast to reach 32 billion U.S. dollars by 2025, ranking second only after Indonesia in Southeast Asia."
+      },
+      "whatWeDoHeading": "What we do to boost your revenues in Vietnam?",
+      "challenges": {
+        "heading": "Challenges when starting a business in Vietnam",
+        "subHeading": "Vietnam is a potential ecommerce market. However, there are many obstacles that Japanese merchants need to overcome.",
+        "contents": [
+          "Language barrier",
+          "Fulfillment & warehouse",
+          "Cultural difference",
+          "Delivery & return",
+          "Legal & regulatory complexities",
+          "Customer serviceite"
+        ]
+      },
+      "whatDoes": {
+        "heading": "What does Ezbuy Japan do for Japanese businesses when entering the Vietnam market?",
+        "subHeading": "We assist Japanese merchants at every stage of their business operations in the Vietnamese market.",
+        "contents": [
+          {
+            "title": "Register business in Viet Nam",
+            "des": "We help foreign sellers register their business in Vietnam through our partnership with the Department of Planning and Investment in major cities such as Hanoi, Da Nang, and Ho Chi Minh City."
+          },
+          {
+            "title": "Open multi-platform online stores in Vietnam",
+            "des": "We assist overseas merchants in setting up online stores on various platforms and channels, including their own websites, social media, Shopee, Lazada,...This multi-channel approach helps to enhance the brand’s visibility in the Vietnam market."
+          },
+          {
+            "title": "Provide warehouse  fulfillment service ",
+            "des": "Ezbuy Japan takes care of all your business fulfillment needs in Vietnam. Our efficient OMS system manages your inventory,  and handles the import/export of goods for sellers."
+          },
+          {
+            "title": "Offer marketing service in Vietnam",
+            "des": "Ezbuy provides tailored marketing services to foreign sellers such as targeted advertising campaigns, social media management, and SEO strategies to enhance product visibility and boost sales."
+          },
+          {
+            "title": "Support customer after sale",
+            "des": "Rest assured that whether you are in Vietnam or not, the Ezbuy Japan team takes care of your customers, ensuring they receive top-notch support and satisfaction."
+          },
+          {
+            "title": "Support revenue and expenditure/reconciliation",
+            "des": "Ezbuy Japan simplifies expense tracking and reconciliation for foreign businesses, making managing financial transactions easier and ensuring accurate accounting."
+          }
+        ]
+      },
+      "countless": {
+        "heading": "And Countless Exclusive Perks when cooperating with Ezbuy Japan",
+        "free": "FREE",
+        "items": [
+          {
+            "title": "Easily access to 100+ million potential customers in Vietnam",
+            "label": "Expand Market",
+            "content": "No matter your business model, you can swiftly tap into the lucrative Vietnamese market by leveraging our service. Vietnam's numerous holiday seasons and peak sales periods offer tremendous profit opportunities, with eager customers willing to spend on their desired items."
+          },
+          {
+            "title": "Grow and diversify your sales without knowing Vietnamese",
+            "label": "Boost Revenue",
+            "content": "Forget the complexity of the alphabet, grammar, and vocabulary in Vietnamese. No need for translating tools that may cause various mistakes you can't control.  Our native Vietnamese and English staff help you be assured there will not be any communication issues for you or your customers."
+          },
+          {
+            "title": "EzBuy Japan handles the details from A to Z",
+            "label": "Optimize Logistics",
+            "content": "Take advantage of our extensive expertise in the field, covering every aspect from business registration to logistics and delivery. Streamline every step of international selling, allowing you to focus on developing, running the business smoothly, and getting profits at the maximum."
+          },
+          {
+            "title": "Multichannel Order Management System",
+            "label": "Grow Omni-channel Selling",
+            "content": "Access to the full advanced features of our built-in Order Management System without any fee. The system automatically integrate with the leading marketplaces and sync orders,which enables seamless selling across multiple platforms, managing in one place. "
+          }
+        ]
+      },
+      "integration": {
+        "heading": "INTEGRATION",
+        "contents": [
+          {
+            "title": "Marketplace integration",
+            "des": "We collaborate with renowned Vietnamese marketplaces such as Shopee, Lazada, Tiki, TikTok Shop, Sendo, and more, to assist you in expanding your sales opportunities."
+          },
+          {
+            "title": "Shipping carrier integration",
+            "des": "Ezbuy Japan also integrates with famous domestic shipping companies in Vietnam,  enhancing your customer's experience by ensuring swift and reliable delivery services."
+          }
+        ]
+      },
+      "ourWarehouse": {
+        "heading": "Our Warehouse & Fulfillment network in Vietnam",
+        "subHeading": "We collaborate with EZBUY to offer an extensive warehouse network and fulfillment services tailored to your business needs in Vietnam."
+      },
+      "integ": {
+        "heading": "Integration & Partners",
+        "tpl": "Third party logistics",
+        "market": "Marketplaces",
+        "social": "Social Commerce",
+        "viewAll": "View all Integration & Partners"
+      },
+      "resource": {
+        "heading": "Resource for sellers",
+        "subHeading": "Update latest buying & selling trends in Vietnam some hours ago.",
+        "cta": "Read our blog"
+      },
+      "quote": {
+        "heading": ["Receive", "FREE", "OMS software"],
+        "subHeading": "Ready to conquer the lucrative Vietnamese market? EzBuy Japan got your back!",
+        "cta": "Start free today"
+      }
+    },
+    "sellOverseas": {
+      "goglobal": {
+        "title": "Go global with  Ezbuy Japan‘s Sell Overseas service by Implementing JavaScript on your shopping site",
+        "content1": "Ecommerce enablement extension designed for Japanese brands who aspire to sell products abroad",
+        "content2": "* In response to overseas access, a cart exclusively for overseas users will appear. When accessed from within Japan, the overseas user cart will not be displayed.",
+        "button": "Start free trial"
+      },
+      "whyJapan": {
+        "title": ["Why Japanese sellers", "should sell overseas?"],
+        "subtitle": "Japanese businesses have numerous competitive advantages, and therefore, they will gain various benefits when expanding their sales into other countries.",
+        "items": [
+          {
+            "title": "High-quality Japanese products",
+            "subtitle": "Japanese products are often associated with quality and craftsmanship, which can attract international consumers looking for unique and well-made items.",
+            "img": "/uploads/Rectangle_13_831368fc4c.png"
+          },
+          {
+            "title": "Cultural appeal",
+            "subtitle": "Japanese culture, such as anime, traditional crafts, and cuisine, has a strong international following, creating a niche market for Japanese products.",
+            "img": "/uploads/Rectangle_13_1_27ee151ca5.png"
+          },
+          {
+            "title": "Expanded customer base",
+            "subtitle": "Selling cross-border allows access to a global market, opening up opportunities to reach customers from various countries, increasing potential sales.",
+            "img": "/uploads/Rectangle_13_2_dfb771072b.png"
+          },
+          {
+            "title": "Global brand recognition",
+            "subtitle": "Selling to international customers can enhance the brand's global recognition and prestige, which can have positive ripple effects.",
+            "img": "/uploads/Rectangle_13_3_e365d6d058.png"
+          }
+        ]
+      },
+      "challenges": {
+        "title": "Challenges when selling overseas",
+        "subtitle": "There are many troubles that Japanese businesses need to deal with when selling for foreign customers.",
+        "content": [
+          "Languages and currencies differences",
+          "Increase in fraudulent payments",
+          "Lack of resources to handle fulfillment",
+          "Difficult to ship overseas",
+          "Many times returns and cancellations",
+          "Don’t know how to attract customers",
+          "Duties and fees complexity"
+        ]
+      },
+      "howWe": {
+        "title": "How we assist Japan merchants selling overseas with only a tag?",
+        "items": [
+          "All you have to do is inserting our Javascript tag. No need to change your operations.",
+          "You can rest assured that you can leave everything to Ezbuy Japan, from receiving orders to payment process and delivering goods abroad."
+        ]
+      },
+      "serve": {
+        "brand": "Brand",
+        "title": "Serve customers living outside Japan",
+        "shipping": "Shipping to 200 Countries and Regions available",
+        "howto": "How to use International Shipping",
+        "ezbuy": "Ezbuy Japan purchases product for the customer and delivers it globally.",
+        "for": "For those who want international shipping, please use the Ezbuy Japan cart."
+      },
+      "operation": {
+        "title": "Our operation",
+        "subtitle": "By inserting our JavaScript tag on your own e-commerce site, foreign customers can approach your products and buy them immediately from your platform. Ezbuy Japan will receive inquiries from overseas customers and handle international payment & shipping.",
+        "over": "Overseas customers",
+        "place": "1. Place an order & payment",
+        "overseas": "4. Overseas delivery",
+        "ezbuy": ["Ezbuy Japan’s", "Sell Overseas service"],
+        "purchase": "2. Purchase the ordered products",
+        "domestics": "3. Domestics delivery",
+        "japaneses": "Japanese businesses"
+      },
+      "ourTotal": {
+        "title": "Our total supports",
+        "subtitle": "We attack 3 barriers that Japanese sellers can suffer when selling overseas: language, payment and overseas shipping.",
+        "items": [
+          {
+            "title": "Language support",
+            "content": "Automate translate the tagline and pop-up into English and 5 other popular languages. Receive the orders from multiple languages."
+          },
+          {
+            "title": "International payment",
+            "content": "Support for overseas payments and limit the risk of fraudulent payments."
+          },
+          {
+            "title": "Overseas shipping",
+            "content": "Prepare customs documents, pack shipments and handle last-mile shipping in foreign countries.."
+          }
+        ]
+      },
+      "whyChoose": {
+        "title": "Why choose us?",
+        "subTitle": "With only a script tag, we bring the convenience for both Japanese sellers and international buyers.",
+        "whydo": "Why do Japanese businesses choose us?",
+        "contact": "Contact Sales",
+        "items": [
+          {
+            "title": "Easy to install",
+            "content": [
+              "Insert a line of code into your site within minutes.",
+              "Lightweight and smooth, not affect your site's loading speed.",
+              "No need to change the systems or operations."
+            ],
+            "img": "/uploads/Image_232807700a.png"
+          },
+          {
+            "title": "Safe and security payment",
+            "content": [
+              "Offer a wide range of international payment methods.",
+              "We receive payments from overseas users and back money to sellers.",
+              "Prevent the fraudulent payments."
+            ],
+            "img": "/uploads/Image_1_33b631f6af.png"
+          },
+          {
+            "title": "Competitive fees",
+            "content": [
+              "Initial fee: 15,000 yen.",
+              "Monthly fee: 3000 yen.",
+              "No sales commission."
+            ],
+            "img": "/uploads/Image_2_657cbdf43f.png"
+          }
+        ]
+      },
+      "whydo": {
+        "title": "Why do overseas buyers trust us?",
+        "items": [
+          {
+            "title": "Available a wide variety of payment methods",
+            "subtitle": "We offer numerous payment options, so we do not miss any payment opportunities for any overseas customers."
+          },
+          {
+            "title": "Reasonable purchasing & shipping fees",
+            "subtitle": [
+              "We offer a reasonable purchasing fee for overseas users, only ",
+              "300 yen",
+              " per order. Shipping fee is also competitive."
+            ]
+          }
+        ]
+      },
+      "usage": {
+        "title": "Usage fee",
+        "subtitle": "Ezbuy Japan strives to optimize costs to provide the most competitive usage fees in the market.",
+        "forJapan": "For Japanese Merchants",
+        "forOverseas": "For Overseas Buyers",
+        "initial": {
+          "title": "Initial cost:",
+          "value": "15,000 yen (tax included)"
+        },
+        "monthy": {
+          "title": "Monthly cost:",
+          "value": "3,000 yen"
+        },
+        "sale": {
+          "title": "Sale commission:",
+          "value": "Free"
+        },
+        "purchase": {
+          "title": "300 yen",
+          "value": "(purchase fee) + overseas shipping fees"
+        },
+        "ezbuy": "* Ezuy Japan does not support order cancellation.",
+        "custom": "Customers who want to cancel an order must confirm with the shop and wait for the agreement from the sellers.",
+        "incase": "* In case the customer cancels the order, they must pay two-way shipping fees"
+      }
+    },
+    "dropshipping": {
+      "banner": {
+        "heading": "One-stop solutions for Dropshipping",
+        "subHeading": "You sell. We receive, store, pack & ship. You grow.",
+        "textBtn": "CONTACT SALES",
+        "items": [
+          {
+            "icon": "/uploads/Frame_427318852_46683ade9f.svg",
+            "title": "Goods inspection"
+          },
+          {
+            "icon": "/uploads/Frame_427318852_1dc71983bf.svg",
+            "title": "Warehouse fulfillment"
+          },
+          {
+            "icon": "/uploads/Frame_427318852_1_ca0b3b1253.svg",
+            "title": "Repackaging"
+          },
+          {
+            "icon": "/uploads/Frame_427318852_2_efbe37d285.svg",
+            "title": "Cross-border shipping"
+          }
+        ]
+      },
+      "benefits": {
+        "heading": "BENEFITS OF DOING DROPSHIPPING WITH EZBUY JAPAN",
+        "items": [
+          {
+            "icon": "/uploads/image_864_ce6aa25ba8.svg",
+            "title": "Low startup cost",
+            "content": "Business does not need to invest heavily in inventory upfront. This reduces the financial risk and lowers the barrier to entry for starting an online business."
+          },
+          {
+            "icon": "/uploads/image_866_2894c93823.svg",
+            "title": "Flexibility and scalability",
+            "content": "Businesses can easily scale business by adding new products or expanding into new markets without significant additional investment."
+          },
+          {
+            "icon": "/uploads/image_866_1_1cbbcec372.svg",
+            "title": "Eliminate inventory management",
+            "content": "Business does not have to worry about managing stock levels, or dealing with unsold inventory. This simplifies operations and reduces waste."
+          },
+          {
+            "icon": "/uploads/image_866_2_cb73d7921d.svg",
+            "title": "Easy market testing",
+            "content": "Business  can experiment with new products or niches without significant financial commitment, allowing quickly identifying and capitalizing on successful items."
+          },
+          {
+            "icon": "/uploads/image_867_c271b6ca16.svg",
+            "title": "Access a large high-quality Japanese products at favourable prices",
+            "content": "Businesses can easily access official, reputable Japanese goods at the best prices through the Ezbuy Japan trade bridge, connecting them with top Japanese sellers and brands."
+          }
+        ]
+      },
+      "process": {
+        "heading": "EZBUY JAPAN'S DROPSHIPPING PROCESS",
+        "subHeading": "All-in-one solution for dropshippers of every size",
+        "contents": [
+          {
+            "content": ["Customer places an eCommerce order on your stores", ""]
+          },
+          {
+            "content": ["The order data is sent to Ezbuy ", ""]
+          },
+          {
+            "content": [
+              "Ezbuy Japan purchases orders on eCommerce platforms in Japan",
+              "(if required)"
+            ]
+          },
+          {
+            "content": [
+              "Ezbuy handles and ships orders to your end customer",
+              ""
+            ]
+          },
+          {
+            "content": [
+              "Customer receives the order with high satisfaction",
+              ""
+            ]
+          }
+        ]
+      },
+      "whyChooseUs": {
+        "heading": "WHY CHOOSE US?",
+        "subHeading": "We bring a smooth and unique experience, only at Ezbuy Japan",
+        "title": "B2B wholesale eCommerce",
+        "subTitle": "Partner with Japan's most renowned brands or sellers on eCommerce platforms to purchase bulk orders at unbeatable prices. This ensures business receives high-quality products while maximizing your business's profitability and competitive edge."
+      },
+      "customized": {
+        "heading": "Customized order fulfillment",
+        "items": [
+          {
+            "image": "/uploads/Rectangle_6511_25f08dfb0d.svg",
+            "icon": "/uploads/Rectangle_7205_d6a47129c0.svg",
+            "title": "Goods inspection",
+            "subTitle": "Carefully check each item regarding the condition of the goods (packaging, quantity,...) to make sure everything is perfect before storage or shipping."
+          },
+          {
+            "image": "/uploads/Rectangle_6511_1_245a726482.svg",
+            "icon": "/uploads/Rectangle_7205_1_2f73548c77.svg",
+            "title": "Inventory management",
+            "subTitle": "Streamline your shipping process by bulk-ordering your inventory to our warehouses in Japan, reducing delivery times to and delighting your customers with the faster shipping they’ll love!"
+          },
+          {
+            "image": "/uploads/Rectangle_6511_2_40262d2fc0.svg",
+            "icon": "/uploads/Rectangle_7205_2_834bbac0e1.svg",
+            "title": "Fulfill orders",
+            "subTitle": "Whenever you receive a new order, we spring into action immediately. Our team swiftly picks, packs, and dispatches your orders to carriers on the same day, ensuring your customers receive their products as quickly as possible."
+          },
+          {
+            "image": "/uploads/Rectangle_6511_3_4fa045225c.svg",
+            "icon": "/uploads/Rectangle_7205_3_d1e9ed6044.svg",
+            "title": "Custom Branding",
+            "subTitle": "Elevate your online store into a standout brand with our value added service. Add a personalized Thank You card, voucher, sample,.. to every order and make a lasting impression on your customers."
+          }
+        ]
+      },
+      "crossBorder": {
+        "heading": "CROSS-BORDER SHIPPING",
+        "subHeading": "Your package embarks on its exciting journey from our hands to your customer’s doorstep, ensuring a delightful end to their online shopping adventure!",
+        "contents": [
+          "Being one of the partners of leading domestic & international shipping companies to provide various options for business.",
+          "Fast delivery time to customers only takes 7 - 10 days.",
+          "Easily track order status anytime, anywhere on the shipping system with a few clicks."
+        ]
+      },
+      "simpleSteps": {
+        "heading": "Simple steps, unlimited possibilities",
+        "items": [
+          {
+            "icon": "/uploads/s_fd3eff9408.svg",
+            "title": "Collaborate vision",
+            "subTitle": "Work closely with you to clearly understand your business status and goals."
+          },
+          {
+            "icon": "/uploads/Frame_1171276472_8f31717e88.svg",
+            "title": "Project execution",
+            "subTitle": "Our proficient specialists transform your vision into reality, guaranteeing flawless attention to every detail."
+          },
+          {
+            "icon": "/uploads/Frame_1171276472_1_660f1255cd.svg",
+            "title": "Achievements gained",
+            "subTitle": "Your business began to reap the first achievements, meeting the goals and vision set."
+          }
+        ]
+      }
+    }
+  },
+  "downloadJanboxEcom": {
+    "heading": "Download Janbox App",
+    "subHeading": "Connecting with Japan & USA Ecommerce : Shopping millions of Items in One App",
+    "scan": "Scan to download",
+    "device": ["android device", "ios device"],
+    "downloadIt": "Download it from"
+  },
+  "downloadJanboxShip": {
+    "heading": "Download Ezbuy Japan app",
+    "subHeading": "Send goods internationally from Japan with only a few simple steps.",
+    "scan": "Scan to download",
+    "device": ["android device", "ios device"],
+    "downloadIt": "Download it from"
+  },
+  "partnerNetwork": {
+    "title": "Partners & Networks",
+    "partners": {
+      "title": "Partners",
+      "subtitle": "We integrate with famous e-commerce sites in Japan to bring convenient and diverse experience shopping and selling with all-in-one platform - Janbox"
+    },
+    "official": [
+      {
+        "title": "Official partner with Mercari, which is one of the top 3 largest eCommerce malls in Japan",
+        "subtitle": "Ezbuy Japan has officially become a strategic partner of Mercari since September 2023",
+        "link": "https://ezbuy.jp/en/blog/Mercari-collaborates-with-Ezbuy-Japan-for-cross-border-ecommerce",
+        "image": "/uploads/Rectangle_6532_60c9f64648.png"
+      },
+      {
+        "title": "Official Partner with Yahoo Shopping, One of Japan’s Leading Online Marketplaces",
+        "subtitle": "Proud to be an official strategic partner of Yahoo Shopping since April 2025, Ezbuy Japan helps sellers grow faster with trusted fulfillment solutions.",
+        "link": "https://ezbuy.jp/en/blog/ezbuy-partners-with-yahoo-shopping-japan",
+        "image": "/uploads/3_50ccef5ce6.png"
+      }
+    ],
+    "explore": "Explore now",
+    "networks": {
+      "title": "Networks",
+      "shipping": {
+        "title": "Shipping ",
+        "subtitle": "Ezbuy Japan has a close network of shipping and fulfillment partners in both Japan and Vietnam, supporting customers & merchant in purchasing or selling between 2 countries.",
+        "japan": "Japan",
+        "vietnam": "Vietnam"
+      },
+      "warehouse": {
+        "title": "Warehouse ",
+        "subtitle": "In Japan, Ezbuy Japan operates a modern warehouse system across various provinces. In Viet Nam, we collaborate with EZBUY to provide available warehouses across the country.",
+        "japan": "In Japan",
+        "vietnam": "In Vietnam",
+        "address": {
+          "hanoi": "Hanoi, Vietnam",
+          "detailHanoi": "8 Le Quang Đao, Phu Đo, Nam Tu Liem, Ha Noi.",
+          "hcm": "Ho Chi Minh, Vietnam",
+          "detailHcm": "55 Sam Son, Phuong 4, Tan Bnih, Ho Chi Minh city, Vietnam 72517."
+        }
+      }
+    },
+    "tech": {
+      "title": "TECHNOLOGY",
+      "subtitle": "We also cooperate with Ichiba’s SaaS to provide technological support for your business when entering the Japanese and Vietnamese markets.",
+      "with": "With reliable partners and networks, Japan not only opens up a borderless shopping horizon for international customers but also provides an e-commerce bridge for sellers in Japan and Vietnam. ",
+      "ex": "Experience with us today!"
+    }
+  },
+  "contactSale": {
+    "title": "Contact Sales",
+    "direction": "Homepage / Contact Sales",
+    "content": "We build a seamless e-commerce connection between Japan and the global market, offering comprehensive solutions that span cross-border e-commerce, international shipping, warehouse fulfillment, and multi-country sales.",
+    "offer": "Offer end-to-end services at a reasonable price",
+    "multilingualSupport": "24/7 and multilingual support for international customers",
+    "looking": "Looking for product or customer support?",
+    "visit": {
+      "visit": "Visit ",
+      "help": "Help Center ",
+      "or": "or contact us via email: ",
+      "email": "ceo@ezbuy.jp",
+      "contact": ""
+    },
+    "linkHelp": "https://ezbuyjapan.gitbook.io/help-center/",
+    "ezbuySupport": "Ezbuy Japan Support",
+    "requiredInfomation": "Required information",
+    "talk": "Talk to our Sales team",
+    "let": "Let's fill out the information in the form and our experts will back to you in some hours",
+    "contactInformation": "Contact Information",
+    "fullName": "Full name",
+    "exFullName": "Ex: Huyen Phuong",
+    "email": "Email",
+    "exEmail": "Ex: huyenphuong@gmail.com",
+    "phoneNumber": "Phone number",
+    "businessTitle": "Your business Title",
+    "inputBusinessTitle": "Input your title at your comp",
+    "businessInformation": "Business Information",
+    "companyWebsite": "Company Website",
+    "inputCompanyWebsite": "Enter your website",
+    "serviceInterested": "Service You’re Interested In",
+    "choose": "Choose your business role",
+    "buyers": "I'm a Buyers",
+    "sellers": "I'm a Sellers",
+    "serviceType": "Service type",
+    "crossEcommerce": "Cross-border Ecommerce",
+    "crossShipping": "Cross-border Shipping",
+    "tradingEcommerce": "B2B Wholesale Ecommerce",
+    "warehouse": "Warehouse Fulfillment",
+    "airFreight": "Air freight & Customs Clearance",
+    "sellOverseas": "Sell overseas (For Japan Sellers)",
+    "sellInVietNam": "Sell in VietNam (For Japan Sellers)",
+    "sellInJapan": "Sell in Japan (For Foreign Sellers)",
+    "industry": "Industry",
+    "selectIndustry": "Select your industry",
+    "dataIndustry": [
+      { "label": "Technology/IT", "value": "Technology/IT" },
+      { "label": "Healthcare/Medical", "value": "Healthcare/Medical" },
+      { "label": "Finance/ECommerce", "value": "Finance/ECommerce" },
+      {
+        "label": "Manufacturing/Logistics",
+        "value": "Manufacturing/Logistics"
+      },
+      { "label": "Others", "value": "Others" }
+    ],
+    "numberOrders": "Number orders per day",
+    "selectNumber": "Select number orders",
+    "description": "Description",
+    "inputDescription": "Input more information about your business",
+    "bySubmit": "By submitting this form, I acknowledge receipt of the Ezbuy Japan ",
+    "privacy": "Privacy Policy",
+    "ofEzbuy": "",
+    "submit": "Submit",
+    "fieldRequired": "This field is required.",
+    "collaborate": "Collaborate with fast-growing companies from 100+ countries",
+    "viewAllIntegration": "View all Integration & Partners",
+    "linkIntegration": "https://ezbuy.jp/en/partners-network",
+    "success": "Success",
+    "false": "False"
+  },
+  "proxyPayment": {
+    "title": "Proxy Payment",
+    "direction": "Homepage / Cross-border Shipping / Proxy Payment",
+    "authorizedPayment": {
+      "title": "What is Proxy Payment service? ",
+      "servicePay": "Ezbuy Japan’s Proxy Payment service",
+      "meaningServicePay": " is a service that allows international customers to make purchases from eligible merchants using the “Cash on Delivery“ method. When placing an order, please select “Cash on delivery“ (代金引換 in Japanese) as the payment method, and provide your delivery address.",
+      "charges": "The fee for each proxy payment order is 3% of the product price (minimum 300 yen).",
+      "note": {
+        "title": "Note:",
+        "client": "* Customers must register with",
+        "ezbuyJapan": " Ezbuy Japan ",
+        "complete": "and complete identity verification to use this service.",
+        "service": "* Service only applies to eligible stores."
+      }
+    },
+    "contact": "Contact Sale",
+    "procedure": "Procedure for using our Proxy Payment service",
+    "procedureStep": {
+      "stepOne": {
+        "title": "Register",
+        "description": "Customers register to use the Proxy Payment service with Ezbuy Japan."
+      },
+      "stepTwo": {
+        "title": "Purchase",
+        "description": "When shopping at an eligible store, please select “Cash on Delivery” as your payment method and provide your delivery address."
+      },
+      "stepThree": {
+        "title": "Pay on behalf",
+        "description": "When your order arrives at Ezbuy Japan warehouse, we will pay the delivery company for the goods and domestic shipping fees on your behalf."
+      },
+      "stepFour": {
+        "title": "Wait for delivery",
+        "description": "We will charge the Product price and Proxy Payment fee to your credit card. After payment is completed, the product will be delivered to your address."
+      }
+    },
+    "registerService": "Register to use",
+    "listStore": "List of eligible stores",
+    "listStoreSub": "Our Proxy Payment service is only available to eligible shops.",
+    "questionTitle": "Frequently asked questions",
+    "questions": {
+      "questionOne": {
+        "question": "In what currency will my credit card be charged?",
+        "answer": "Your credit card will be charged in Japanese yen."
+      },
+      "questionTwo": {
+        "question": "Is there a maximum limit for using this service?",
+        "answer": "Yes. The maximum amount per order is 30,000 yen."
+      },
+      "questionThree": {
+        "question": "Do I have to pay additional fees to use this service?",
+        "answer": "Yes. The fee to use this service is 3% of the product price (minimum 300 yen)."
+      },
+      "questionFour": {
+        "question": "Can I use this service at all stores?",
+        "answer": "No. This service is only available at stores marked as eligible."
+      },
+      "questionFive": {
+        "question": "What credit cards does Ezbuy Japan’s accept?",
+        "answer": "We accept Visa, Mastercard,..."
+      },
+      "questionSix": {
+        "question": "In which areas does this service apply?",
+        "answer": "This service is available in all regions where Ezbuy Japan’s accepts cross-border shipping."
+      }
+    },
+    "buttonQuestionsText": "Final price estimate"
+  },
+  "crossBorderShipping": {
+    "heading": "Elevate your international shipping experience from Japan with Proxy Payment support",
+    "subHeading": "Dive into the shopping heaven from thousands of Japanese online stores and leave the cross-border shipping to us",
+    "globalShippng": "Global shipping with proxy payment service",
+    "globalShippngSub": " by Ezbuy Japan is designed for customers living outside Japan who want to purchase items from a shop (or store) that does not support shipping worldwide.",
+    "receiveYourItems": "Ezbuy Japan will receive your items, pay for the domestic shipping company, keep them in our warehouse, and then we will handle the overseas shipping to your address.",
+    "buttonText": "Click here for detailed service"
+  },
+  "thankYou": {
+    "heading": "Thank you for requesting a quotation from Ezbuy!",
+    "subHeading": "Our Fulfillment & Express experts have received your request for a quotation and will be in touch shortly.",
+    "textBtn": "Go to homepage",
+    "customerStory": {
+      "heading": "Customer success story",
+      "subHeading": "See how our customers start their business with Fulfillment by Ezbuy?",
+      "content": [
+        {
+          "avatar": "/uploads/Avatar_a6c125f294.svg",
+          "subtitle": "EZBUY brings us great business time from all aspects",
+          "name": "Mrs. Ngan Tran",
+          "bio": "Deputy Head of Operations at Janbox",
+          "content": "We have chosen EZBUY as our fulfillment partner and couldn't be happier with this decision. They not only help us reduce shipping costs but also provide an efficient and reliable warehouse management process. EZBUY team is always ready to support and solve any issue quickly."
+        },
+        {
+          "avatar": "/uploads/Avatar_a6c125f294.svg",
+          "subtitle": "EZBUY is one of the most thoughtful partner that we've ever cooperated",
+          "name": "Mr. Dang Minh",
+          "bio": "Head of Business Department at Ship60",
+          "content": "EZBUY is one of the most thoughtful partner that we've ever cooperated"
+        },
+        {
+          "avatar": "/uploads/Avatar_a6c125f294.svg",
+          "subtitle": "The fulfillment savior named EZBUY",
+          "name": "Mr. Akira Napap",
+          "bio": "Business Manager at RRS VIETNAM",
+          "content": "We had big issues with inventory. But that ended when we found EZBUY. The ability to effectively manage and allocate inventory at high accuracy is what we have been looking for for a long time."
+        }
+      ],
+      "textBtn": "Read more"
+    }
+  },
+  "caseStudies": {
+    "heading": ["Customer ", "stories"],
+    "subHeading": "Explore inspiring customer stories and witness their remarkable journeys and achievements by using IChiba SaaS e-commerce enablement platform.",
+    "contentSider": "Leverage our solid network of 300+ strategic partners to scale beyond borders!",
+    "caseStudies": "Industries",
+    "products": "Businesses Types",
+    "tag": "Solutions",
+    "readStory": "Read story",
+    "listSearchs": [
+      {
+        "title": "Industries",
+        "items": [
+          {
+            "label": "Retail",
+            "value": "Retail"
+          },
+          {
+            "label": "Electronic devices",
+            "value": "Electronic devices"
+          },
+          {
+            "label": "Fashion & beauty",
+            "value": "Fashion & beauty"
+          },
+          {
+            "label": "Household & furniture",
+            "value": "Household & furniture"
+          },
+          {
+            "label": "Mom & baby",
+            "value": "Mom & baby"
+          },
+          {
+            "label": "Office suppiles",
+            "value": "Office suppiles"
+          },
+          {
+            "label": "Handicrafts",
+            "value": "Handicrafts"
+          }
+        ]
+      },
+      {
+        "title": "Businesses Types",
+        "items": [
+          {
+            "label": "Cross-border eCommerce",
+            "value": "Cross-border eCommerce"
+          },
+          {
+            "label": "Omnichannel Retail",
+            "value": "Omnichannel Retail"
+          },
+          {
+            "label": "Last-mile Delivery",
+            "value": "Last-mile Delivery"
+          },
+          {
+            "label": "Cross-border Shipping",
+            "value": "Cross-border Shipping"
+          },
+          {
+            "label": "3PL (Third-Party Logistics)",
+            "value": "3PL (Third-Party Logistics)"
+          },
+          {
+            "label": "Manufacturing",
+            "value": "Manufacturing"
+          },
+          {
+            "label": "Wholesale & Distribution",
+            "value": "Wholesale & Distribution"
+          },
+          {
+            "label": "Dropshipping Supplier",
+            "value": "Dropshipping Supplier"
+          },
+          {
+            "label": "Warehouse Fulfillment Service",
+            "value": "Warehouse Fulfillment Service"
+          }
+        ]
+      },
+      {
+        "title": "Solutions",
+        "items": [
+          {
+            "label": "E-commerce order fulfillment",
+            "value": "E-commerce order fulfillment"
+          },
+          {
+            "label": "Cross-border shipping",
+            "value": "Cross-border shipping"
+          },
+          {
+            "label": "Bonded warehouse rental",
+            "value": "Bonded warehouse rental"
+          },
+          {
+            "label": "Customs tax declaration",
+            "value": "Customs tax declaration"
+          },
+          {
+            "label": "Cross-Border Selling Solutions",
+            "value": "Cross-Border Selling Solutions"
+          },
+          {
+            "label": "B2B Fulfillment Solutions",
+            "value": "B2B Fulfillment Solutions"
+          },
+          {
+            "label": "Marketplace Operations",
+            "value": "Marketplace Operations"
+          },
+          {
+            "label": "Selling in Vietnam",
+            "value": "Selling in Vietnam"
+          },
+          {
+            "label": "Sell on Amazon",
+            "value": "Sell on Amazon"
+          },
+          {
+            "label": "Sell on TiktokShop US",
+            "value": "Sell on TiktokShop US"
+          },
+          {
+            "label": "Sell on Walmart",
+            "value": "Sell on Walmart"
+          }
+        ]
+      }
+    ],
+    "contact": {
+      "title": "Unlock endless potential of your stores with end-to-end SaaS e-commerce enablement platform!",
+      "btnText": "Contact sales"
+    },
+    "discover": {
+      "heading": "Discover more",
+      "list": [
+        {
+          "title": "Discover our possibilities for",
+          "textLink": "Vietnamese sellers"
+        },
+        {
+          "title": "Discover our possibilities for",
+          "textLink": "Foreign sellers"
+        },
+        {
+          "title": "Discover our possibilities for",
+          "textLink": "eCommerce fulfillment"
+        },
+        {
+          "title": "Discover our possibilities for",
+          "textLink": "B2B & Retail Fulfillment"
+        }
+      ]
+    },
+    "relatedStories": "Related stories"
+  }
+}
