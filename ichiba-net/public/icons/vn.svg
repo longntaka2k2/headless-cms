@@ -1,0 +1,12 @@
+<svg width="24" height="18" viewBox="0 0 24 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="VN">
+<rect id="Mask" y="0.428467" width="24" height="17.1429" rx="4" fill="white"/>
+<mask id="mask0_1143_1689" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="24" height="18">
+<rect id="Mask_2" y="0.428467" width="24" height="17.1429" rx="4" fill="white"/>
+</mask>
+<g mask="url(#mask0_1143_1689)">
+<rect id="Mask Copy" y="0.428467" width="24" height="17.1429" fill="#EA403F"/>
+<path id="Star 8" fill-rule="evenodd" clip-rule="evenodd" d="M12 11.0055L8.97714 13.1604L10.0925 9.61959L7.10889 7.41056L10.8211 7.37713L12 3.85693L13.179 7.37713L16.8912 7.41056L13.9076 9.61959L15.0229 13.1604L12 11.0055Z" fill="#FFFE4E"/>
+</g>
+</g>
+</svg>

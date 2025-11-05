@@ -1,0 +1,24 @@
+
+<svg width="0" height="0" class="hidden" version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <symbol id="workspace-icon" viewBox="0 0 40 40" fill="none">
+    <rect width="40" height="40" rx="8" fill="#1D39C4"/>
+    <path d="M11 29V20C11 19.4477 11.4477 19 12 19H15" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M19 16.0001V12.5015C19 12.0095 19.2412 11.5488 19.6456 11.2686C20.05 10.9884 20.566 10.9242 21.0267 11.097L28.3511 13.8436C28.7414 13.99 29 14.3631 29 14.78V29.0001" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M15 29V17C15 16.4477 15.4477 16 16 16H23C23.5523 16 24 16.4477 24 17V29" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M30 29H10" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 25.5H21" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 22.5H21" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18 19.5H21" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+  <symbol fill="none" viewBox="0 0 32 32" id="package-box" xmlns="http://www.w3.org/2000/svg">
+    <path clip-rule="evenodd" d="M28.005 10.783v14.554a2.668 2.668 0 0 1-2.668 2.668H6.663a2.668 2.668 0 0 1-2.668-2.668V10.783c0-.361.073-.72.215-1.052l1.76-4.12a2.668 2.668 0 0 1 2.454-1.616h15.153c1.068 0 2.033.637 2.453 1.62l1.76 4.116c.142.332.215.69.215 1.052Z" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M3.995 10.665h23.997M18.668 3.995 20 10.665v4.301A1.095 1.095 0 0 1 18.854 16h-5.709a1.095 1.095 0 0 1-1.147-1.034v-4.301l1.334-6.67M7.996 24.003h2.668" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+
+  <symbol fill="none" viewBox="0 0 32 32" id="package-box-2" xmlns="http://www.w3.org/2000/svg">
+    <path clip-rule="evenodd" d="M14.4 3.995h3.2a1.6 1.6 0 0 1 1.601 1.6V12l-3.2-1.601-3.202 1.6V5.596a1.6 1.6 0 0 1 1.6-1.6v0Z" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" d="M9.33 18.668h6.669v4.002H9.33z"/>
+    <path d="M19.201 5.329h6.136a2.668 2.668 0 0 1 2.668 2.668v17.34a2.668 2.668 0 0 1-2.668 2.668H6.663a2.668 2.668 0 0 1-2.668-2.668V7.997a2.668 2.668 0 0 1 2.668-2.668h6.136" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </symbol>
+</svg>

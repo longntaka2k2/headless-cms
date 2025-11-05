@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "swiper.scss";
+@import "header.scss";
+@import "slide.scss";
+@import "blog.scss";
+@import "solutions.scss";
+@import "infSlider.scss";
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+}
+
+*:focus {
+  outline: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+@layer utilities {
+  .pause {
+    animation-play-state: paused;
+  }
+}
+
+@layer base {
+  h1 {
+    @apply font-bold text-3xl lg:text-5xl;
+  }
+  h2 {
+    @apply font-bold text-2xl lg:text-4xl lg:leading-[3rem];
+  }
+  h3 {
+    @apply font-bold text-lg lg:text-2xl leading-6 lg:leading-8;
+  }
+  p {
+    @apply text-sm lg:text-base;
+  }
+}
+
+.gradient-text {
+  background: -webkit-linear-gradient(90deg, #F57C00 0%, #F37820 30.29%, #4E28FA 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@layer utilities {
+  @keyframes marquee {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-50%);
+    }
+  }
+
+  .animate-marquee {
+    animation: marquee 25s linear infinite;
+  }
+
+  .animate-marquee:hover {
+    animation-play-state: paused;
+  }
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+/* ✅ Chỉ bật animation khi >= lg breakpoint */
+@media (min-width: 1024px) {
+  .animate-float-lg {
+    animation: float 3s ease-in-out infinite;
+  }
+}
+
+
+
