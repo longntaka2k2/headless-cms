@@ -1,0 +1,251 @@
+'use client';
+import { useEffect, useRef, useState } from "react";
+import clsx from "clsx";
+import ProductCard from "@/components/commons/card-product";
+import ImagePROD from "@/public/images/commons/image-prod.webp";
+import { faArrowLeft, faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import Image from "next/image";
+import Treding from "@/public/images/commons/icon-trending.svg";
+import TredingActive from "@/public/images/commons/icon-trending-active.svg";
+
+const listProducts = [
+    {
+        origin: "Made in JP",
+        thumnail: ImagePROD,
+        category: "Traditional goods",
+        productName: "Japanese Lucky Cat Yakushigama Seven Gods Fukusuke size 17cm",
+        price: "$28.04",
+        link: "#",
+    },
+    {
+        origin: "Made in JP",
+        thumnail: ImagePROD,
+        category: "Traditional goods",
+        productName: "Japanese Lucky Cat Yakushigama Seven Gods Fukusuke size 17cm",
+        price: "$28.04",
+        link: "#",
+    },
+    {
+        origin: "Made in US",
+        thumnail: ImagePROD,
+        category: "Traditional goods",
+        productName: "Japanese Lucky Cat Yakushigama Seven Gods Fukusuke size 17cm",
+        price: "$28.04",
+        link: "#",
+    },
+    {
+        origin: "Made in US",
+        thumnail: ImagePROD,
+        category: "Traditional goods",
+        productName: "Japanese Lucky Cat Yakushigama Seven Gods Fukusuke size 17cm",
+        price: "$28.04",
+        link: "#",
+    },
+    {
+        origin: "Made in JP",
+        thumnail: ImagePROD,
+        category: "Traditional goods",
+        productName: "Japanese Lucky Cat Yakushigama Seven Gods Fukusuke size 17cm",
+        price: "$28.04",
+        link: "#",
+    },
+    {
+        origin: "Made in US",
+        thumnail: ImagePROD,
+        category: "Traditional goods",
+        productName: "Japanese Lucky Cat Yakushigama Seven Gods Fukusuke size 17cm",
+        price: "$28.04",
+        link: "#",
+    },
+    {
+        origin: "Made in JP",
+        thumnail: ImagePROD,
+        category: "Traditional goods",
+        productName: "Japanese Lucky Cat Yakushigama Seven Gods Fukusuke size 17cm",
+        price: "$28.04",
+        link: "#",
+    },
+    {
+        origin: "Made in US",
+        thumnail: ImagePROD,
+        category: "Traditional goods",
+        productName: "Japanese Lucky Cat Yakushigama Seven Gods Fukusuke size 17cm",
+        price: "$28.04",
+        link: "#",
+    },
+]
+
+const categories = [
+    "Traditional goods",
+    "Fashion",
+    "Electronics",
+    "Homeware",
+    "Decoration",
+    "Souvenirs",
+    "Beauty & cosmetics",
+    "Handicrafts",
+]
+
+const Products = ({ lang, locale }: { lang: any; locale: string }) => {
+    const [isVisible, setVisible] = useState(false);
+    const sectionRef = useRef<HTMLDivElement | null>(null);
+    const [activeType, setType] = useState<string>("all");
+
+    useEffect(() => {
+        const el = sectionRef.current;
+        if (!el) return;
+
+        const observer = new IntersectionObserver(
+            ([entry]) => {
+                if (entry.isIntersecting) {
+                    setVisible(true);
+                    observer.unobserve(entry.target);
+                }
+            },
+            { threshold: 0.2 }
+        );
+
+        observer.observe(el);
+        return () => observer.disconnect();
+    }, []);
+
+    const scrollRef = useRef<HTMLDivElement>(null);
+
+    const scroll = (direction: "left" | "right") => {
+        if (!scrollRef.current) return;
+        const scrollAmount = scrollRef.current.clientWidth * 0.8;
+        scrollRef.current.scrollBy({
+            left: direction === "left" ? -scrollAmount : scrollAmount,
+            behavior: "smooth",
+        });
+    };
+
+    return (
+        <section
+            ref={sectionRef}
+            className={clsx(
+                "relative transition-all duration-700 ease-out px-4 py-10 lg:py-16 bg-[#F0F5FF]",
+                isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
+            )}
+        >
+            <div className="container mx-auto flex flex-col gap-3 lg:gap-6">
+                <div>
+                    <h2 className="text-center mb-4 lg:mb-2">
+                        Product sources
+                    </h2>
+                    <p className="lg:w-[70%] mx-auto text-center">
+                        Access high-quality product sources from Vietnam and Japan across multiple categories. Start online dropshipping to customers worldwide in just a few clicks.
+                    </p>
+                </div>
+
+                <div
+                    style={{
+                        background: "linear-gradient(91deg, #B1D1F6 24.67%, #C5C8FD 77.28%)",
+                    }}
+                    className={clsx(
+                        "flex flex-wrap gap-2 lg:gap-0 items-center lg:justify-center rounded-lg px-2 lg:px-3 py-3 lg:p-2 no-scrollbar",
+                        "transition-all duration-500 delay-300",
+                        isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-10"
+                    )}
+                >
+                    {/* Nút All */}
+                    <div
+                        onClick={() => setType("all")}
+                        className={clsx(
+                            "cursor-pointer whitespace-nowrap py-2 px-3 lg:p-3 transition-all text-white rounded-lg",
+                            activeType === "all"
+                                ? "bg-primary-6 lg:bg-white"
+                                : "border border-white lg:border-none"
+                        )}
+                    >
+                        <p className={clsx(
+                            "font-medium",
+                            activeType === "all" ? "lg:text-primary-7" : ""
+                        )}>All</p>
+                    </div>
+
+                    {/* Danh sách category */}
+                    {categories.map((value, index) => (
+                        <div
+                            key={index}
+                            onClick={() => setType(value)}
+                            className={clsx(
+                                "cursor-pointer whitespace-nowrap py-2 px-3 lg:p-3 transition-all text-white rounded-lg",
+                                activeType === value
+                                    ? "bg-primary-6 lg:bg-white"
+                                    : "border border-white lg:border-none"
+                            )}
+                        >
+                            <p className={clsx(
+                                "font-medium",
+                                activeType === value ? "lg:text-primary-7" : ""
+                            )}>{value}</p>
+                        </div>
+                    ))}
+
+                    {/* Nút Trending */}
+                    <div
+                        onClick={() => setType("trending")}
+                        className={clsx(
+                            "cursor-pointer whitespace-nowrap py-2 px-3 lg:p-3 transition-all text-white rounded-lg flex items-center gap-1",
+                            activeType === "trending"
+                                ? "bg-primary-6 lg:bg-white"
+                                : "border border-white lg:border-none"
+                        )}
+                    >
+                        <Image src={activeType === "trending" ? TredingActive : Treding} width={24} height={24} className="hidden lg:block" alt="icon-trending" />
+                        <p className={clsx(
+                            "font-medium",
+                            activeType === "trending" ? "lg:text-primary-7" : ""
+                        )}>Trending</p>
+                    </div>
+                </div>
+
+                <div className="relative">
+                    <div
+                        ref={scrollRef}
+                        className="flex gap-4 overflow-x-auto scroll-smooth no-scrollbar"
+                    >
+                        {listProducts.map((item, index) => (
+                            <div key={index} className="flex-shrink-0 w-[244px]">
+                                <ProductCard data={item} />
+                            </div>
+                        ))}
+
+                        <button
+                            onClick={() => scroll("left")}
+                            className={clsx(
+                                "absolute top-1/2 -translate-y-1/2 left-6",
+                                "w-10 h-10 rounded-full bg-[rgba(51,_51,_51,_0.20)] text-white flex items-center justify-center hover:opacity-80"
+                            )}
+                        >
+                            <FontAwesomeIcon icon={faArrowLeft} width={16} height={16} />
+                        </button>
+                        <button
+                            onClick={() => scroll("right")}
+                            className={clsx(
+                                "absolute top-1/2 -translate-y-1/2 right-6",
+                                "w-10 h-10 rounded-full bg-[rgba(51,_51,_51,_0.20)] text-white flex items-center justify-center hover:opacity-80"
+                            )}
+                        >
+                            <FontAwesomeIcon icon={faArrowRight} width={16} height={16} />
+                        </button>
+                    </div>
+                </div>
+
+                <button className="rounded-lg bg-brand-primary text-white flex items-center gap-2 py-[10px] lg:py-3 px-3 hover:opacity-80 mx-auto">
+                    Explore more
+                    <FontAwesomeIcon
+                        icon={faArrowRight}
+                        width={24}
+                        height={24}
+                        className="hidden lg:block"
+                    />
+                </button>
+            </div>
+        </section>
+    );
+};
+
+export default Products;

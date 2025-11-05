@@ -1,0 +1,373 @@
+{
+  "meta": {
+    "homepage": {
+      "title": "IChiba - One-Stop Marketplace for Dropshipping Solutions",
+      "des": "Tìm nguồn hàng chất lượng từ Nhật Bản và Việt Nam, quản lý đơn hàng và vận chuyển mà không lo về tồn kho hay vận hành phức tạp."
+    },
+    "startSelling": {
+      "title": "Bắt đầu dropshipping hôm nay | Chọn sản phẩm, đồng bộ đa kênh",
+      "des": "Học cách bắt đầu dropshipping, chọn sản phẩm bán chạy, đồng bộ đa kênh và xử lý đơn tự động. Dùng thử miễn phí trên IChiba."
+    },
+    "becomeASupplier": {
+      "title": "Nhà cung cấp dropshipping | Phần mềm dropshipping cho nhà cung cấp",
+      "des": "Tham gia mạng lưới nhà cung cấp dropshipping. Dùng phần mềm dành cho nhà cung cấp để tiếp cận nhà bán toàn cầu và tăng doanh số dễ dàng."
+    },
+    "blog": {
+      "title": "Bài viết",
+      "des": ""
+    },
+    "pricing": {
+      "title": "Bảng giá",
+      "des": ""
+    },
+    "reviews": {
+      "title": "Đánh giá",
+      "des": ""
+    },
+    "contactSale": {
+      "title": "Liên hệ",
+      "des": ""
+    },
+    "thankYou": {
+      "title": "Cảm ơn",
+      "des": ""
+    }
+  },
+  "header": {
+    "startSelling": "Bắt đầu bán hàng",
+    "becomeASupplier": "Trờ thành nhà cung cấp",
+    "reviews": "Đánh giá",
+    "ourSolution": {
+      "title": "Giải pháp",
+      "dropshipping": {
+        "label": "Giải pháp Dropshipping",
+        "des": "Mở rộng doanh nghiệp của bạn với nền tảng dropshipping B2B của chúng tôi, kết nối với các nhà cung cấp uy tín, tự động hóa đơn hàng và vận chuyển trên toàn thế giới."
+      },
+      "printOnDemand": {
+        "label": "Giải pháp Print-on-demand",
+        "des": "Giải pháp dropshipping POD toàn diện, từ khâu thiết kế sản phẩm, kết nối nhà sản xuất đến vận chuyển đến người mua cuối."
+      },
+      "fulfillment": {
+        "label": "Dịch vụ fulfillment",
+        "des": "Dịch vụ fulfillment và vận chuyển từ Nhật đến Mỹ."
+      },
+      "integration": {
+        "label": "Tích hợp",
+        "des": "Tích hợp các nhà cung cấp vào gian hàng của nhà bán, dễ dàng kéo sản phẩm lên sàn và quản lý đơn hàng."
+      }
+    },
+    "pricing": "Bảng giá",
+    "resources": {
+      "title": "Tài nguyên",
+      "blog": {
+        "label": "Blog",
+        "des": "Những chia sẻ, kiến thức và chiến lược để vận hành một doanh nghiệp dropshipping thành công."
+      },
+      "help": {
+        "label": "Câu hỏi thường gặp",
+        "des": "Nhận câu trả lời cho các câu hỏi thường gặp của bạn về nền tảng dropshipping IChiba."
+      },
+      "contactSales": {
+        "label": "Liên hệ",
+        "des": "Hãy kết nối với chúng tôi để nhận báo giá và tư vấn miễn phí về giải pháp hoàn thiện phù hợp."
+      },
+      "textBtn": "Liên hệ ngay"
+    },
+    "login": "Đăng nhập",
+    "commingSoon": "Sắp ra mắt",
+    "profile": "Hồ sơ",
+    "logout": "Đăng xuất"
+  },
+  "footer": {
+    "listMenu": [
+      {
+        "lablel": "Công ty",
+        "contents": [
+          {
+            "title": "Về chúng tôi",
+            "link": "#"
+          },
+          {
+            "title": "Chính sách bảo mật",
+            "link": "#"
+          },
+          {
+            "title": "Điều khoản sử dụng",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "lablel": "Hợp tác cùng IChiba",
+        "contents": [
+          {
+            "title": "Bắt đầu bán hàng",
+            "link": "#"
+          },
+          {
+            "title": "Trở thành nhà cung cấp",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "lablel": "Giải pháp của chúng tôi",
+        "contents": [
+          {
+            "title": "Giải pháp Dropshipping",
+            "link": "#"
+          },
+          {
+            "title": "Giải pháp Print-on-demand",
+            "link": "#"
+          },
+          {
+            "title": "Dịch vụ Fulfillment",
+            "link": "#"
+          },
+          {
+            "title": "Tích hợp",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "lablel": "Tài nguyên",
+        "contents": [
+          {
+            "title": "Bài viết",
+            "link": "#"
+          },
+          {
+            "title": "Ebook",
+            "link": "#"
+          },
+          {
+            "title": "Hỗ trợ",
+            "link": "#"
+          },
+          {
+            "title": "Đánh giá",
+            "link": "/reviews"
+          }
+        ]
+      }
+    ]
+  },
+  "homepage": {
+    "oneStop": {
+      "heading": "Giải pháp dropshipping tất cả trong một",
+      "subHeading": "Kết nối trực tiếp với các nhà cung cấp uy tín từ Nhật Bản và Việt Nam. Quản lý đơn hàng, vận chuyển và fulfillment - tất cả chỉ trên một nền tảng duy nhất.",
+      "textBtn": "Đăng ký miễn phí",
+      "or": "hoặc",
+      "signIn": "Đăng nhập với Google",
+      "items": [
+        {
+          "title": "1M+",
+          "subTitle": "sản phẩm"
+        },
+        {
+          "title": "MIỄN PHÍ",
+          "subTitle": "đăng ký"
+        },
+        {
+          "title": "2M+",
+          "subTitle": "đơn hàng đã hoàn tất"
+        }
+      ]
+    },
+    "growing": {
+      "heading": [
+        "1000+ nhà bán & 10+ nhà cung cấp",
+        "tin tưởng sử dụng ",
+        "IChiba"
+      ],
+      "items": [
+        {
+          "content": [
+            "Đã tiếp cận ",
+            "75.000+ ",
+            "người mua hàng tại Mỹ."
+          ]
+        },
+        {
+          "content": [
+            "Nền tảng giúp nhà bán dropshipping/POD tìm kiếm ",
+            "sản phẩm chất lượng cao từ Nhật Bản về Việt Nam."
+          ]
+        },
+        {
+          "content": [
+            "",
+            "Nền tảng SaaS ",
+            "tích hợp sẵn giúp quản lý đơn hàng và fulfillment dễ dàng, hiệu quả."
+          ]
+        }
+      ]
+    },
+    "iChibaDoesTheRest": {
+      "heading": [
+        "Nhà bán chỉ cần tập trung bán hàng, nhà cung cấp chỉ cần",
+        "",
+        "đăng sản phẩm - ",
+        "Phần còn lại hãy để IChiba lo"
+      ],
+      "dropshippingSolution": {
+        "label": "Giải pháp Dropshipping",
+        "items": [
+          {
+            "title": "Nền tảng giúp bạn quản lý toàn bộ quy trình dropshipping",
+            "subtitle": "Từ xử lý đơn hàng, nhập khẩu cho đến logistics - mọi khâu đều được tối ưu để vận hành dễ dàng và hiệu quả."
+          },
+          {
+            "title": "Hơn 1 triệu sản phẩm từ các nhà cung cấp uy tín tại Nhật Bản và Việt Nam",
+            "subtitle": "Truy cập kho sản phẩm đa dạng, chất lượng cao để xây dựng thương hiệu của bạn với nguồn hàng đáng tin cậy."
+          },
+          {
+            "title": "Quản lý đơn hàng đa kênh",
+            "subtitle": "Quản lý đơn hàng dropshipping từ nhiều kênh bán như Amazon, Etsy, Tiktokshop,..."
+          }
+        ],
+        "textBtn": "Tìm hiểu thêm"
+      },
+      "printOnDemandSolution": {
+        "label": "Giải pháp Print-on-demand",
+        "items": [
+          {
+            "title": "Tạo thương hiệu riêng của bạn dễ dàng hơn bao giờ hết",
+            "subtitle": "Nền tảng POD của IChiba tự động hóa toàn bộ quy trình - từ xử lý đơn đến giao hàng - để bạn tập trung vào thiết kế và marketing."
+          },
+          {
+            "title": "Hơn 100 sản phẩm POD có sẵn, kèm mockup minh họa",
+            "subtitle": "Chọn sẵn các thiết kế có sẵn, gửi mockup cho nhà sản xuất và quản lý trạng thái sản phẩm ngay trên phần mềm IChiba."
+          },
+          {
+            "title": "Quản lý đơn hàng đa kênh",
+            "subtitle": "Phần mềm tích hợp tính năng quản lý đơn hàng giúp nhà bán POD quản lý đơn hàng từ nhiều kênh bán, thuận tiện và đồng bộ."
+          }
+        ],
+        "textBtn": "Tìm hiểu thêm"
+      },
+      "fulfillment": {
+        "label": "Dịch vụ Fulfillment",
+        "items": [
+          {
+            "title": "6+ kho tại Mỹ, Nhật Bản và Việt Nam",
+            "subtitle": "Hệ thống kho hàng ngày càng mở rộng của chúng tôi giúp đảm bảo giao hàng nhanh chóng và đáng tin cậy đến khách hàng trên toàn thế giới."
+          },
+          {
+            "title": "Hơn 5 năm kinh nghiệm trong lĩnh vực logistics",
+            "subtitle": "Đội ngũ logistics giàu kinh nghiệm của chúng tôi đã hỗ trợ hàng nghìn đơn hàng quốc tế với tốc độ, độ chính xác và sự chuyên nghiệp cao."
+          }
+        ],
+        "textBtn": "Tìm hiểu thêm"
+      }
+    },
+    "whyChooseUs": {
+      "heading": "Tại sao chọn chúng tôi",
+      "subHeading": "Chúng tôi kết nối nhà bán hàng và nhà cung cấp thông qua nền tảng dropshipping thế hệ mới, giúp việc tìm nguồn hàng, fulfillment và mở rộng kinh doanh toàn cầu trở nên dễ dàng hơn bao giờ hết.",
+      "listType": [
+        {
+          "label": "Đối với nhà bán",
+          "items": [
+            {
+              "title": [
+                "Nguồn hàng uy tín, đa dạng"
+              ],
+              "content": [
+                "Truy cập ",
+                "1M+ sản phẩm ",
+                "từ các nhà cung cấp Nhật Bản, Việt Nam."
+              ]
+            },
+            {
+              "title": [
+                "Nền tảng quản lý toàn diện"
+              ],
+              "content": [
+                "Từ tìm nguồn hàng, in theo yêu cầu (POD) đến quản lý đơn hàng đa kênh và fulfillment - tất cả được theo dõi và vận hành trên cùng một nền tảng."
+              ]
+            },
+            {
+              "title": [
+                "Fulfillment nhanh chóng"
+              ],
+              "content": [
+                "Hệ thống 6+ kho hàng tại Mỹ, Nhật Bản và Việt Nam giúp đơn hàng của bạn được xử lý và giao đi nhanh chóng, chính xác, đáng tin cậy."
+              ]
+            },
+            {
+              "title": [
+                "Global expansion"
+              ],
+              "content": [
+                "Unique products from Japan & Vietnam help you stand out in crowded global marketplaces."
+              ]
+            }
+          ]
+        },
+        {
+          "label": "Đối với nhà cung cấp",
+          "items": [
+            {
+              "title": [
+                "Go global without ads"
+              ],
+              "content": [
+                "US/EU/JP reach via Amazon, TikTok Shop, Etsy, eBay & more."
+              ],
+              "note": [
+                "• Zero marketing spend",
+                "• No new store setup"
+              ]
+            },
+            {
+              "title": [
+                "No subscription"
+              ],
+              "content": [
+                "Pay as you grow. Pay % per fulfilled order & only for services you use."
+              ]
+            },
+            {
+              "title": [
+                "Direct access to ",
+                "1000+ ",
+                "sellers"
+              ],
+              "content": [
+                "Just list your products once - IChiba sellers will bring them to the world."
+              ]
+            },
+            {
+              "title": [
+                "Automated operations"
+              ],
+              "content": [
+                "IChiba handles order processing, fulfillment, and shipping so you can focus on your products."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "managementSoftware": {
+      "heading": "Bảo mật và an toàn dữ liệu",
+      "subHeading": "Chúng tôi áp dụng hệ thống bảo mật nhiều lớp để bảo vệ dữ liệu và giao dịch của bạn. Với giám sát 24/7 và kết nối được mã hóa, IChiba mang đến một môi trường an toàn và đáng tin cậy cho cả nhà bán hàng dropshipping/POD và nhà cung cấp.",
+      "contents": [
+        {
+          "title": "Bảo mật nhiều lớp",
+          "content": "Hệ thống bảo mật nhiều lớp giữ kín không tin khách hàng."
+        },
+        {
+          "title": "Giám sát 24/7",
+          "content": "Đội ngũ kỹ thuật của chúng tôi theo dõi và kiểm soát hệ thống liên tục, đảm bảo các giao dịch giữa nhà bán hàng và nhà cung cấp diễn ra minh bạch, an toàn."
+        },
+        {
+          "title": "Sao lưu và độ tin cậy cao",
+          "content": "Chúng tôi sử dụng cơ chế sao lưu phân tán và lưu trữ mã hóa nhằm đảm bảo phần mềm vận hành ổn định, không bị mất dữ liệu."
+        }
+      ]
+    }
+  }
+}

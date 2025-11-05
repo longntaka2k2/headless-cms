@@ -1,0 +1,372 @@
+{
+  "meta": {
+    "homepage": {
+      "title": "IChiba - One-Stop Marketplace for Dropshipping Solutions",
+      "des": "Grow your eCommerce business with IChiba’s one-stop dropshipping platform. Source products from Japan & Vietnam, fulfill orders in the US, and sell worldwide with ease."
+    },
+    "startSelling": {
+      "title": "Start a Dropshipping Business | Getting Started on Dropshipping",
+      "des": "Learn how to start a dropshipping business, find the best dropshipping products, and get step-by-step guidance for getting started on dropshipping today."
+    },
+    "becomeASupplier": {
+      "title": "Suppliers for Dropshipping | Dropshipping Software for Suppliers",
+      "des": "Join our network of trusted dropshipping suppliers. Use our dropshipping software for suppliers to reach global sellers and grow your business with ease."
+    },
+    "blog": {
+      "title": "Blog",
+      "des": ""
+    },
+    "pricing": {
+      "title": "Pricing",
+      "des": ""
+    },
+    "reviews": {
+      "title": "Reviews",
+      "des": ""
+    },
+    "contactSale": {
+      "title": "Contact Sales",
+      "des": ""
+    },
+    "thankYou": {
+      "title": "Thank you",
+      "des": ""
+    }
+  },
+  "header": {
+    "startSelling": "Start Selling",
+    "becomeASupplier": "Become a supplier",
+    "reviews": "Reviews",
+    "ourSolution": {
+      "title": "Our solution",
+      "dropshipping": {
+        "label": "Dropshipping solutions",
+        "des": "Scale your business with our B2B dropshipping platform, connect with reliable suppliers, automate orders, and ship worldwide."
+      },
+      "printOnDemand": {
+        "label": "Print-on-demand solutions",
+        "des": "Your all-in-one POD dropshipping solution to create, sell, and ship custom products worldwide."
+      },
+      "fulfillment": {
+        "label": "Fulfillment service",
+        "des": "Fast and reliable dropshipping order fulfillment, shipping from Japan and Vietnam to the US."
+      },
+      "integration": {
+        "label": "Integration",
+        "des": "Seamlessly connect our dropshipping marketplace with your store through powerful eCommerce integrations."
+      }
+    },
+    "pricing": "Pricing",
+    "resources": {
+      "title": "Resources",
+      "blog": {
+        "label": "Blog",
+        "des": "Insights, tips, and strategies for running a successful dropshipping business.."
+      },
+      "help": {
+        "label": "Help center",
+        "des": "Get the answers for your frequently-asked questions about IChiba dropshipping platform."
+      },
+      "contactSales": {
+        "label": "Contact Sales",
+        "des": "Connect us to get quotation and free consultant on suitable fulfillment solution."
+      },
+      "textBtn": "Contact us now"
+    },
+    "login": "Login",
+    "commingSoon": "Comming soon",
+    "profile": "Profile",
+    "logout": "Logout"
+  },
+  "footer": {
+    "listMenu": [
+      {
+        "lablel": "Company",
+        "contents": [
+          {
+            "title": "About us",
+            "link": "#"
+          },
+          {
+            "title": "Privacy policy",
+            "link": "#"
+          },
+          {
+            "title": "Terms of service",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "lablel": "Work with us",
+        "contents": [
+          {
+            "title": "Start selling",
+            "link": "#"
+          },
+          {
+            "title": "Become a supplier",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "lablel": "Our solutions",
+        "contents": [
+          {
+            "title": "Dropshipping solutions",
+            "link": "#"
+          },
+          {
+            "title": "Print-on-demand solutions",
+            "link": "#"
+          },
+          {
+            "title": "Fulfillment service",
+            "link": "#"
+          },
+          {
+            "title": "Integration",
+            "link": "#"
+          }
+        ]
+      },
+      {
+        "lablel": "Resources",
+        "contents": [
+          {
+            "title": "Blog",
+            "link": "#"
+          },
+          {
+            "title": "Ebook",
+            "link": "#"
+          },
+          {
+            "title": "Support",
+            "link": "#"
+          },
+          {
+            "title": "Reviews",
+            "link": "/reviews"
+          }
+        ]
+      }
+    ]
+  },
+  "homepage": {
+    "oneStop": {
+      "heading": "One-stop dropshipping solutions",
+      "subHeading": "Connect directly with trusted suppliers from Japan and Vietnam. Manage orders, shipping, and fulfillment - all in one platform.",
+      "textBtn": "Start now. It’s free",
+      "or": "or",
+      "signIn": "Sign in with Google",
+      "items": [
+        {
+          "title": "1M+",
+          "subTitle": "products"
+        },
+        {
+          "title": "FREE",
+          "subTitle": "subcription"
+        },
+        {
+          "title": "2M+",
+          "subTitle": "total orders completed"
+        }
+      ]
+    },
+    "growing": {
+      "heading": [
+        "1,000+ sellers & 10+ suppliers",
+        "growing on ",
+        "IChiba"
+      ],
+      "items": [
+        {
+          "content": [
+            "Have reached ",
+            "75.000+ ",
+            "end users from the US."
+          ]
+        },
+        {
+          "content": [
+            "A one-stop marketplace for dropshipping/POD sellers to seek high-quality ",
+            "products from Japan and Vietnam."
+          ]
+        },
+        {
+          "content": [
+            "Built-in ",
+            "SaaS platform ",
+            "to manage orders and fulfillment."
+          ]
+        }
+      ]
+    },
+    "iChibaDoesTheRest": {
+      "heading": [
+        "Sellers sell - Suppliers list",
+        "IChiba ",
+        "does the rest"
+      ],
+      "dropshippingSolution": {
+        "label": "Dropshipping solution",
+        "items": [
+          {
+            "title": "All-in-one platform to manage your entire dropshipping workflow",
+            "subtitle": "From order processing to imports and logistics, streamline your business with ease."
+          },
+          {
+            "title": "1M+ products from trusted Japanese and Vietnamese suppliers",
+            "subtitle": "Access a rich variety of high-quality products and build your brand with reliable sourcing."
+          },
+          {
+            "title": "Omnichannel order management",
+            "subtitle": "Manage your dropshipping orders from multiple sales channels like Amazon, Etsy, Tiktok Shop, etc."
+          }
+        ],
+        "textBtn": "Explore more"
+      },
+      "printOnDemandSolution": {
+        "label": "Print-on-demand solution",
+        "items": [
+          {
+            "title": "Launch your own branded products with ease",
+            "subtitle": "Our print-on-demand platform automates everything, from order handling to shipping, so you can focus on design and marketing."
+          },
+          {
+            "title": "100+ ready-to-sell POD products with mockups included",
+            "subtitle": "Never run out of ideas! Customize, publish, and start selling instantly with built-in mockup tools."
+          },
+          {
+            "title": "Omnichannel order management",
+            "subtitle": "Our built-in order management feature allows POD sellers to monitor their orders on multiple sales channels."
+          }
+        ],
+        "textBtn": "Explore more"
+      },
+      "fulfillment": {
+        "label": "Fulfillment service",
+        "items": [
+          {
+            "title": "6+ warehouse locations across the US, Japan, and Vietnam",
+            "subtitle": "Our growing network of fulfillment centers ensures fast, reliable shipping to your customers worldwide."
+          },
+          {
+            "title": "Over 5 years of logistics expertise",
+            "subtitle": "Our experienced logistics team has supported thousands of international shipments with speed, accuracy, and care."
+          }
+        ],
+        "textBtn": "Explore more"
+      }
+    },
+    "whyChooseUs": {
+      "heading": "Why choose us",
+      "subHeading": "We connect sellers and suppliers through a next-gen dropshipping platform, making sourcing, fulfillment, and global growth easier than ever.",
+      "listType": [
+        {
+          "label": "For sellers",
+          "items": [
+            {
+              "title": [
+                "Diverse, trusted sources"
+              ],
+              "content": [
+                "Access ",
+                "1M+ products ",
+                "directly from verified Japanese & Vietnamese suppliers."
+              ]
+            },
+            {
+              "title": [
+                "End-to-end platform"
+              ],
+              "content": [
+                "From product sourcing to POD to multi-channel order management and fulfillment - monitor everything in one place."
+              ]
+            },
+            {
+              "title": [
+                "Faster fulfillment"
+              ],
+              "content": [
+                "6+ warehouses across US, Japan, Vietnam ensure your orders ship quickly & reliably."
+              ]
+            },
+            {
+              "title": [
+                "Global expansion"
+              ],
+              "content": [
+                "Unique products from Japan & Vietnam help you stand out in crowded global marketplaces."
+              ]
+            }
+          ]
+        },
+        {
+          "label": "For suppliers",
+          "items": [
+            {
+              "title": [
+                "Go global without ads"
+              ],
+              "content": [
+                "US/EU/JP reach via Amazon, TikTok Shop, Etsy, eBay & more."
+              ],
+              "note": [
+                "• Zero marketing spend",
+                "• No new store setup"
+              ]
+            },
+            {
+              "title": [
+                "No subscription"
+              ],
+              "content": [
+                "Pay as you grow. Pay % per fulfilled order & only for services you use."
+              ]
+            },
+            {
+              "title": [
+                "Direct access to ",
+                "1000+ ",
+                "sellers"
+              ],
+              "content": [
+                "Just list your products once - IChiba sellers will bring them to the world."
+              ]
+            },
+            {
+              "title": [
+                "Automated operations"
+              ],
+              "content": [
+                "IChiba handles order processing, fulfillment, and shipping so you can focus on your products."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "managementSoftware": {
+      "heading": "Security & data protection",
+      "subHeading": "We apply multi-layered security to protect your data and transactions. With 24/7 monitoring and encrypted connections, Ichiba ensures a safe and trusted environment for both dropshipping/POD sellers and suppliers.",
+      "contents": [
+        {
+          "title": "Multi-layer Security",
+          "content": "Advanced multi-layer security protects your data and infrastructure worldwide."
+        },
+        {
+          "title": "24/7 Monitoring",
+          "content": "Our system is monitored round the clock to ensure safe transactions between sellers and suppliers."
+        },
+        {
+          "title": "Backup & Reliability",
+          "content": "We use distributed backup and encrypted storage to keep your business running smoothly without data loss."
+        }
+      ]
+    }
+  }
+}
